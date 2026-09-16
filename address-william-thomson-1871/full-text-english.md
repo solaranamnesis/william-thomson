@@ -2,34 +2,11 @@
 
 ## 1871.
 
-For tile third time of its forty years' history the British Association is 
-assembled in the metropolis of Scotland. The origin of the Association is 
-connected with Edinburgh in undying memory through the honoured names 
-of Eobison, Brewster, Forbes, and Johnston. 
+For the third time of its forty years' history the British Association is assembled in the metropolis of Scotland. The origin of the Association is connected with Edinburgh in undying memory through the honoured names of Robison, Brewster, Forbes, and Johnston.
 
-In this place, from this Chair, twenty-one years ago, Sir David Brewster 
-said : --- "On the return of the British Association to the metropolis of Scot- 
-"land I am naturally reminded of the small band of pilgrims who carried 
-"the seeds of this Institution into the more genial soil of our sister land."
+In this place, from this Chair, twenty-one years ago, Sir David Brewster said:--- "On the return of the British Association to the metropolis of Scotland I am naturally reminded of the small band of pilgrims who carried the seeds of this Institution into the more genial soil of our sister land." ... "Sir John Robison, Professor Johnston, and Professor J. D. Forbes were the earliest friends and promoters of the British Association. They went to York to assist in its establishment, and they found there the very men who were qualified to foster and organize it. The Rev. Mr. Vernon Harcourt, whose name cannot be mentioned here without gratitude, had provided laws for its government, and, along with Mr. Phillips, the oldest and most valuable of our office-bearers, had made all those arrangements by which its success was ensured. Headed by Sir Roderick Murchison, one of the very earliest and most active advocates of the Association, there assembled at York about 200 of the friends of science."
 
-"Sir John Eobison, Professor Johnston, and Professor J. D. 
-
-"Forbes were the earliest friends and promoters of the British Association. 
-"They went to York to assist in its establishment, and they found there the 
-"very men who were qualified to foster and organize it. The Eev. Mr. 
-"Vernon Harcourt, whose name cannot be mentioned here without grati- 
-"tude, had provided laws for its government, and, along with Mr. Phillips, 
-"the oldest and most valuable of our office-bearers, had made all those 
-"arrangements by which its success was ensured. Headed by Sir Eoderick 
-"Murchison, one of the very earliest and most active advocates of the 
-"Association, there assembled at York about 200 of the friends of science."
-
-The statement I have read contains no allusion to the real origin of the 
-British Association. This blank in my predecessor's historical sketch I am 
-able to fill in from words written by himself twenty years earlier. Through 
-the kindness of Professor Phillips I am enabled to read to you part of a 
-letter to him at York, written by David Brewster from Allerly by Melrose, 
-on the 23rd of February, 1831 : --- . 
+The statement I have read contains no allusion to the real origin of the British Association. This blank in my predecessor's historical sketch I am able to fill in from words written by himself twenty years earlier. Through the kindness of Professor Phillips I am enabled to read to you part of a letter to him at York, written by David Brewster from Allerly by Melrose, on the 23rd of February, 1831:---
 
 "Dear Sir, --- I have taken the liberty of writing you on a subject of con- 
 (l siderable importance. It is proposed to establish a British Association of 
