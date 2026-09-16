@@ -56,678 +56,93 @@ The whole of Andrews' splendid work in Queen's College, Belfast, has been done u
 
 Besides abstracts of papers read, and discussions held, before tho Sections, the annual Reports of the British Association contain a large mass of valuable matter of another class. It was an early practice of the Association, a practice that might well be further developed, to call occasionally for a special report on some particular branch of science from a man eminently qualified for the task. The reports received in compliance with these invitations have all done good service in their time, and they remain permanently useful as landmarks in the history of science. Some of them have led to vast practical results; others of a more abstract character are valuable to this day as powerful and instructive condensations and expositions of the branches of science to which they relate. I cannot better illustrate the two kinds of efficiency realized in this department of the Association's work than by referring to Cayley's Report on Abstract Dynamics* and Sabine's Report on Terrestrial Magnetism* (1838).
 
-To the great value of the former, personal experience of benefit received 
-enables me, and gratitude impels me, to testify. In a few pages full of 
-precious matter, the generalized dynamical equations of Lagrange, the 
-great principle evolved from Maupertuis' "least action "by Hamilton, and 
-the later developments and applications of the Hamiltonian principle by 
-other authors are described by Cayley so suggestively that the reading of 
-thousands of quarto pages of papers scattered through the Transactions of the 
-various learned Societies of Europe is rendered superfluous for any one who 
-desires only the essence of these investigations, with no more of detail than is 
-necessary for a thorough and practical understanding of the subject. 
-
-Sabine's Report of 1838 concludes with the following sentence : --- "Viewed 
-"in itself and its various relations, the magnetism of the earth cannot 
-"be counted less than one of the most important branches of the ph}Mcal 
-‘k history of the planet we inhabit; and we may feel quite assured that the 
-"completion of our knowledge of its distribution on the surface of the earth 
-
-would be regarded by our contemporaries and by posterity as a fitting 
-"enterprise of a maritime people, and a worthy achievement of a nation 
-
-which has ever sought to rank foremost in every arduous and honourable 
-"undertaking."An immediate result of this Report was that the enterprise 
-which it proposed was recommended to the Government by a joint Committee 
-of the British Association and the Royal Society with such success, that 
-Capt. James Ross was sent in command of the ‘Erebus' and ‘Terror' to 
-make a magnetic survey of the Antarctic regions, and to plant on his way 
-three Magnetical and Meteorological Observatories, at St. Helena, the Cape, 
-and V an Diemen's Land. A vast mass of precious observations, made 
-chiefly on board ship, were brought home from this expedition. To deduce 
-the desired results from them, it was necessary to eliminate the disturbance 
-produced by the ship's magnetism ; and Sabine asked his friend Archibald 
-Smith to work out from Poisson's mathematical theory, then the only avail¬ 
-able guide, the formulae required for the purpose. This voluntary task 
-Smith executed skilfully and successfully. It was the beginning of a series 
-of labours carried on with most remarkable practical tact, with thorough 
-analytical skill, and with a rare extreme of disinterestedness, in the intervals 
-of an arduous profession, for the purpose of perfecting and simplifying the 
-correction of the mariner's compass --- a problem which had become one of 
-
-* Report on the Recent Progress of Theoretical Dynamics, by A. Cayley (Report of the 
-British Association 1857, p. 1). 
-
-t Report on the Variations of the Magnetic Intensity observed at different points of the 
-Earth's Surface, by Major Sabine, E.R.S. (forming part of the 7tli Report of the British 
-Association). 
-vital importance for navigation, on account of the introduction of iron ships. 
-Edition after edition of the ‘ Admiralty Compass Manual ' has been pro¬ 
-duced by the able superintendent of the Compass Department, Captain 
-Evans, containing chapters of mathematical investigation and formula) by 
-Smith, on which depend wholly the practical analysis of compass-obser¬ 
-vations, and rules for the safe use of the compass in navigation. I firmly 
-believe that it is to the thoroughly scientific method thus adopted by the 
-Admiralty, that no iron ship of Her Majesty's Navy has ever been lost 
-through errors of the compass. The * British Admiralty Compass Manual 5 
-is adopted as a guide by all the navies of the world. It has been translated 
-into Eussian, German, and Portuguese; and it is at present being translated 
-into Erench. The British Association may be gratified to know that the 
-possibility of navigating ironclad war-ships with safety depends on applica¬ 
-tion of scientific principles given to the world by three mathematicians, 
-Poisson, Airy, and Archibald Smith. 
-
-Iteturning to the science of terrestrial magnetism, we find in the lteports 
-of early years of the British Association ample evidence of its diligent culti¬ 
-vation. Many of the chief scientific men of the day from England, Scotland, 
-and Ireland found a strong attraction to the Association in the facilities which 
-it afforded to them for cooperating in their work on this subject. Lloyd, Phillips, 
-Eox, Boss, and Sabine made magnetic observations all over Great Britain ; 
-and their results, collected by Sabine, gave for the first time an accurate and 
-complete survey of terrestrial magnetism over the area of this island. I am 
-informed by Professor Phillips that, in the beginning of the Association, Her- 
-schel, though a "sincere well-wisher,"felt doubts as to the general utility and 
-probable success of the plan and purpose proposed ; but his zeal for terrestrial 
-magnetism brought him from being merely a sincere well-wisher to join actively 
-and cordially in the work of the Association. "In 1838 he began to give cffcc- 
-"tual aid in the great question of magnetical Observatories, and was indeed 
-"foremost among the supporters of that which is really Sabine's great work. 
-"At intervals, until about 1858, Herschel continued to give effectual aid."
-Sabine has carried on his great work without intermission to the present 
-day ; thirty years ago he gave to Gauss a large part of the data required 
-for working out the spherical harmonic analysis of terrestrial magnetism over 
-the whole earth. A recalculation of the harmonic analysis for the altered 
-state of terrestrial magnetism of the present time has been undertaken by 
-Adams, lie writes to me that he has "already begun some of the introduc- 
-"tory work, so as to be ready when Sir Edward Sabine's Tables of the values 
-"of the Magnetic Elements deduced from observation are completed, at once 
-"to make use of them/' and that he intends to take into account terms of 
-at least one order beyond those included by Gauss. The form in which 
-the requisite data are to be presented to him is a magnetic Chart of the 
-
-whole surface of the globe. Materials from scientific travellers of all 
-nations, from our home magnetic observatories, from the magnetic obser¬ 
-vatories of St. Helena, the Cape, Yan Diemen's Land, and Toronto, and 
-from the scientific observatories of other countries have been brought to¬ 
-gether by Sabine. Silently, day after day, night after night, for a quarter 
-of a century he has toiled with one constant assistant always by his side 
-to reduce these observations and prepare for the great work. At this moment, 
-while we are here assembled, I believe that, in their quiet summer retirement 
-in Wales, Sir Edward and Lady Sabine are at work on the magnetic Chart 
-of the world. If two years of life and health are granted to them, science 
-will be provided with a key which must powerfully conduce to the ultimate 
-opening up of one of the most refractory enigmas of cosmical physics, the 
-cause of terrestrial magnetism. 
-
-To give any sketch, however slight, of scientific investigation performed 
-during the past year would, even if I were competent for the task, far ex¬ 
-ceed the limits within which I am confined on the present occasion. A 
-detailed account of work done and knowledge gained in science Britain 
-ought to have every year. The Journal of the Chemical Society and the 
-Zoological Eecord do excellent service by giving abstracts of all papers 
-published in their departments. The admirable example afforded by the 
-German "Eortschritte"and "Jahresbericht"is before us; but hitherto, so far 
-as I know, no attempt has been made to follow it in Britain. It is true that 
-several of the annual volumes of the Jahresbericht were translated ; but a 
-translation, published necessarily at a considerable interval of time after the 
-original, cannot supply the want. An independent British publication is for 
-many obvious reasons desirable. The two publications, in German and 
-English, would, both by their differences and by their agreements, illustrate 
-the progress of science more correctly and usefully than any single work 
-could do, even if appearing simultaneously in the two languages. It seems 
-to me that to promote the establishment of a British Year Book of Science is 
-an object to which the powerful action of the British Association would be 
-thoroughly appropriate. 
-
-In referring to recent advances in several branches of science, I simply 
-choose some of those which have struck me as most notable. 
-
-Accurate and minute measurement seems to the non-scientific imagination 
-a less lofty and dignified work than looking for something new. But nearly 
-all the grandest discoveries of science have been but the rewards of accurate 
-measurement and patient long- continued labour in the minute sifting of 
-numerical results'. The popular idea of Newton's grandest discovery is that 
-the theory of gravitation flashed into his mind, and so the discovery was 
-made. It was by a long train of mathematical calculation, founded on 
-results accumulated through prodigious toil of practical astronomers, that 
-
-
-Newton first demonstrated tho forces urging' the planets towards the Sun, 
-determined the magnitudes of those forces, and discovered that a force fol¬ 
-lowing the same law of variation with distance urges the Moon towards the 
-Earth. Then first, we may suppose, came to him the idea of the universality of 
-gravitation ; but when he attempted to compare the magnitude of the force on the 
-Moon with the magnitude of the force of gravitation of a heavy body of equal 
-mass at the earth's surface, he did not find the agreement which the law he 
-was discovering required. Not for years after would he publish his discovery 
-as made. It is recounted that, being present at a meeting of the Royal Society, 
-he heard a paper read, describing geodesic measurement by Picard which 
-led to a serious correction of tho previously accepted estimate of the Earth's 
-radius. This was what Newton required. He went home with the result, 
-and commenced his calculations, but felt so much agitated that he handed 
-over tho arithmetical work to a friend : then (and not when, sitting in a 
-garden, he saw an apple fall) did he ascertain that gravitation keeps the Moon 
-in her orbit. 
-
-Faraday's discovery of specific inductive capacity, which inaugurated the 
-new philosophy, tending to discard action at a distance, was the result of 
-minute and accurate measurement of electric forces. 
-
-Joule's discovery of thermo-dynamic law through the regions of electro¬ 
-chemistry, electro-magnetism, and elasticity of gases was based on a delicacy 
-of thermometry which seemed simply impossible to some of the most dis¬ 
-tinguished chemists of the day. 
-
-Andrews' discovery of the continuity between the gaseous and liquid states 
-was worked out by many years of laborious and minute measurement of phe¬ 
-nomena scarcely sensible to the naked eye. 
-
-Great service has been done to science by tho British Association in pro¬ 
-moting accurate measurement in various subjects. Tho origin of exact 
-science in terrestrial magnetism is traceable to Gauss's invention of methods 
-of finding the magnetic intensity in absolute measure. I have spoken of 5 
-the great work done by the British Association in carrying out the ap¬ 
-plication of this invention in all parts of the world. Gauss' colleague in 
-the German Magnetic Union, AVeber, extended the practice of absolute 
-measurement to electric currents, the resistance of an electric conductor, 
-and the electromotive force of a galvanic element. He showed the rela¬ 
-tion between electrostatic and electromagnetic units for absolute mea¬ 
-surement, and made the beautiful discovery that resistance, in absolute elec¬ 
-tromagnetic measure, and the reciprocal of resistance, or, as we call it, "con¬ 
-ducting power,"in electrostatic measure, are each of them a velocity. He 
-made an elaborate and difficult series of experiments to measure the velocity 
-which is equal to the conducting power, in electrostatic measure, and at the 
-same time to tho resistance in electromagnetic measure, in one and the same 
-
-conductor. Maxwell, in making the first advance along a road of which 
-Faraday was the pioneer, discovered that this velocity is physically related to 
-the velocity of light, and that, on a certain hypothesis regarding the elastic 
-medium concerned, it may be exactly equal to the velocity of light. Weber's 
-measurement verifies approximately this equality, and stands in science 
-monumentum cere perennius , celebrated as having suggested this most grand 
-theory, and as having afforded the first quantitative test of the recondite 
-properties of matter on which the relations between electricity and light 
-depend. A remeasurement of Weber's critical velocity on a new plan by Max¬ 
-well himself, and the important correction of the velocity of light by Fou¬ 
-cault's laboratory experiments, verified by astronomical observation, seem to 
-show a still closer agreement. The most accurate possible determination of 
-Weber's critical velocity is just now a primary object of the Association's 
-Committee on Electric Measurement ; and it is at present premature to specu¬ 
-late as to the closeness of the agreement between that velocity and the 
-velocity of light. This leads me to remark how much science, even in its 
-most lofty speculations, gains in return for benefits conferred by its applica¬ 
-tion to promote the social and material welfare of man. Those who perilled 
-and lost their money in the original Atlantic Telegraph were impelled and 
-supported by a sense of the grandeur of their enterprise, and of the world¬ 
-wide benefits which must flow from its success ; they were at the same time 
-not unmoved by the beauty of the scientific problem directly presented to 
-them ; but they little thought that it was to be immediately, through their 
-work, that the scientific world was to be instructed in a long-neglected and 
-discredited fundamental electric discovery of Faraday's, or that, again, when 
-the assistance of the British Association was invoked to supply their elec¬ 
-tricians with methods for absolute measurement (which they found necessary 
-to secure the best economical return for their exj)enditure, and to obviate 
-and detect those faults in their electric material which had led to disaster), 
-they were laying the foundation for accurate electric measurement in every 
-scientific laboratory in the world, and initiating a train of investigation which 
-now sends up branches into the loftiest regions and subtlest ether of natural 
-philosophy. Long may the British Association continue a bond of union, 
-and a medium for the interchange of good offices between science and the 
-world ! 
-
-The greatest achievement yet made in molecular theory of the proper¬ 
-ties of matter is the Kinetic theory of Gases, shadowed forth by Lucretius, 
-definitely stated by Daniel Bernoulli, largely developed by Herapath, made 
-a reality by Joule, and worked out to its present advanced state by Clausius 
-and Maxwell. Joule, from his dynamical equivalent of heat, and his expe¬ 
-riments upon the heat produced by the condensation of gas, was able to 
-estimate the average velocity of the ultimate molecules or atoms composing 
-
-it. His estimate for hydrogen was 6225 feet per second at temperature 60° 
-Fahr., and 6055 feet per second at the freezing-point. Clausius took fully 
-into account the impacts of molecules on one another, and the kinetic energy 
-of relative motions of the matter constituting an individual atom. He in¬ 
-vestigated the relation between their diameters, the number in a given 
-space, and the mean length of path from impact to impact, and so gave the 
-foundation for estimates of the absolute dimensions of atoms, to which I shall 
-refer later. He explained the slowness of gaseous diffusion by the mutual 
-impacts of the atoms, and laid a secure foundation for a complete theory of 
-the diffusion of fluids, previously a most refractory enigma. The deeply 
-penetrating genius of Maxwell brought in viscosity and thermal conductivity, 
-aud thus completed the dynamical explanation of all the known properties 
-of gases, except their electric resistance and brittleness to electric force. 
-
-No such comprehensive molecular theory had ever been even imagined 
-before the nineteenth century. Definite and complete in its area as it 
-is, it is but a well-drawn part of a great chart, in which all physical 
-science will be represented with every property of matter shown in dyna¬ 
-mical relation to the whole. The prospect we now have of an early 
-completion of this chart is based on the assumption of atoms. But there 
-can be no permanent satisfaction to the mind in explaining heat, light, elas¬ 
-ticity, diffusion, electricity and magnetism, in gases, liquids, and solids, and 
-describing precisely the relations of these different states of matter to one 
-another by statistics of great numbers of atoms, when the properties of the 
-atom itself are simply assumed. When the theory, of which we have the first 
-instalment in Clausius and Maxwell's work, is complete, we are but brought 
-face to face with a superlatively grand question, what is the inner me¬ 
-chanism of the atom ? 
-
-In the answer to this question we must find the explanation not only 
-of the atomic elasticity, by which the atom is a chronometric vibrator ac¬ 
-cording to Stokes's discovery, but of chemical affinity and of the differences 
-of quality of different chemical elements, at present a mere mystery in 
-science. Helmholtz's exquisite theory of vortex-motion in an incompressible 
-frictionless liquid has been suggested as a finger-post, pointing a way 
-which may possibly lead to a full understanding of the properties of atoms, 
-carrying out the grand conception of Lucretius, who "admits no subtle 
-"ethers, no variety of elements with fiery, or watery, or light, or heavy 
-"principles ; nor supposes light to be one thing, fire another, electricity a 
-"fluid, magnetism a vital principle, but treats all phenomena as mere pro- 
-"perties or accidents of simple matter."This statement I take from 
-an admirable paper on the atomic theory of Lucretius, which appeared in 
-the 1 North British Beview ' for March 1868, containing a most interesting 
-and instructive summary of ancient and modern doctrine regarding atoms. 
-Allow me to read from that article one other short passage finely describing 
-
-the present aspect of atomic theory : --- "The existence of the chemical 
-"atom, already quite a complex little world, seems very probable; and 
-"the description of the Lucretian atom is wonderfully applicable to it. We 
-"are not wholly without hope that the real weight of each such atom may 
-"some day be known--- not merely the relative weight of the several atoms, 
-
-but the number in a given volume of any material ; that the form and 
-<( motion of the parts of each atom and the distances by which they are 
-"separated may be calculated ; that the motions by which they produce heat, 
-"electricity, and light may be illustrated by exact geometrical diagrams ; and 
-"that the fundamental properties of the intermediate and possibly constituent 
-"medium may be arrived at. Then the motion of planets and music of the 
-"spheres will be neglected for a while in admiration of the maze in which 
-"the tiny atoms run."
-
-Even before this was written some of the anticipated results had been par¬ 
-tially attained. Loschmidt in Vienna had shown, and not much latter Stoney 
-independently in England showed, how to deduce from Clausius and Max¬ 
-well s kinetic theory of gases a superior limit to the number of atoms in a 
-given measurable space. I was unfortunately quite unaware of what Loschmidt 
-and Stoney had done when I made a similar estimate on the same founda¬ 
-tion, and communicated it to 4 Nature' in an article on 44 The Size of 
-Atoms."But questions of personal priority, however interesting they may be 
-to the persons concerned, sink into insignificance in the prospect of any gain 
-of deeper insight into the secrets of nature. The triple coincidence of inde¬ 
-pendent reasoning in this case is valuable as confirmation of a conclusion 
-violently contravening ideas and opinions which had been almost universally 
-held regarding the dimensions of the molecular structure of matter. Che¬ 
-mists and other naturalists had been in the habit of evading questions as to 
-the hardness or indivisibility of atoms bjr virtually assuming them to be in¬ 
-finitely small and infinitely numerous. We must now no longer look upon 
-the atom, with Boscovich, as a mystic point endowed with inertia and the 
-attribute of attracting or repelling other such centres with forces depending 
-upon the intervening distances (a supposition only tolerated with the tacit 
-assumption that the inertia and attraction of each atom is infinitely small and 
-the number of atoms infinitely great), nor can we agree with those who have 
-attributed to the atom occupation of space with infinite hardness and strength 
-(incredible in any finite body) ; but we must realize it as a piece of matter 
-of measurable dimensions, with shape, motion, and laws of action, intelligible 
-subjects of scientific investigation. 
-
-The prismatic analysis of light discovered by Newton was estimated by 
-himself as being 44 the oddest, if not the most considerable, detection which 
-44 hath hitherto been made in the operations of nature."
-
-Had he not been deflected from the subject, he could not have failed 
-
-to obtain a pure spectrum ; but this, with the inevitably consequent 
-discovery of the dark lines, was reserved for the nineteenth century. 
-Our fundamental knowledge of the dark lines is due solely to Fraun¬ 
-hofer. Wollaston saw them, but did not discover them. Brewster laboured 
-long and well to perfect the prismatic analysis of sunlight ; and his observa¬ 
-tions on the dark bands produced by the absorption of interposed gases and 
-vapours laid important foundations for the grand superstructure which he 
-scarcely lived to see. Piazzi Smyth, by spectroscopic observation performed 
-on the Peak of Teneriffe, added greatly to our knowledge of the dark lines 
-produced in the solar spectrum by the absorption of our own atmosphere. 
-The prism became an instrument for chemical qualitative analysis in the 
-hands of Fox Talbot and Herschel, who first showed how, through it, the 
-old "blowpipe test"or generally the estimation of substances from the 
-colours which they give to flames, can be prosecuted with an accuracy 
-and a discriminating power not to be attained when the colour is judged 
-by the unaided eye. But the application of this test to solar and stellar 
-chemistry had never, I believe, been suggested, either directly or indirectly, 
-by any other naturalist, when Stokes taught it to me in Cambridge at some 
-time prior to the summer of 1852. The observational and experimental 
-foundations on which he built were : --- 
-
-(1 ) The discovery by Fraunhofer of a coincidence between his double dark 
-line D of the solar spectrum and a double bright line which he observed in 
-the spectra of ordinary artificial flames. 
-
-(2) A very rigorous experimental test of this coincidence by Prof. W. H. 
-Miller, which showed it to be accurate to an astonishing degree of minuteness. 
-
-(3) The fact that the yellow light given out when salt is thrown on burning 
-spirit consists almost solely of the two nearly identical qualities which con¬ 
-stitute that double bright line. 
-
-(4) Observations made by Stokes himself, which showed the bright line D 
-to be absent in a candle -flame when the wick was snuffed clean, so as not to 
-project into the luminous envelope, and from an alcohol flame when the spirit 
-was burned in a watch-glass. And 
-
-(5) Foucault's admirable discovery (L'Institut, Feb. 7, 1849) that the 
-voltaic arc between charcoal points is "a medium which emits the rays D 
-"on its own account, and at the same time absorbs them wrhen they come 
-"from another quarter."
-
-The conclusions, theoretical and practical, which Stokes taught me, and 
-which I gave regularly afterwards in my public lectures in the University of 
-Glasgow, were 
-
-(1) That the double line D, "whether bright or dark, is due to vapour of 
-sodium. 
-
-(2) That the ultimate atom of sodium is susceptible of regular elastic vi- 
-
-b rations, like those of a tuning-fork or of stringed musical instruments ; that 
-like an instrument with two strings tuned to approximate unison, or an ap¬ 
-proximately circular elastic disk, it has two fundamental notes or vibrations 
-of approximately equal pitch ; and that the periods of these vibrations are 
-precisely the periods of the two slightly different yellow lights constituting 
-the double bright line D. 
-
-(3) I hat when vapour of sodium is at a high enough temperature to be¬ 
-come itself a source of light, each atom executes these two fundamental 
-vibrations simultaneously ; and that therefore the light proceeding from it is 
-of the two qualities constituting the double bright line D. 
-
-(4) That when vapour of sodium is present in space across which light 
-from another source is propagated, its atoms, according to a well-known 
-general principle of dynamics, are set to vibrate in either or both of those 
-fundamental modes, if some of the incident light is of one or other of their 
-periods, or some of one and some of the other ; so that the energy of the 
-Waves of those particular qualities of light is converted into thermal vibra¬ 
-tions of the medium and dispersed in all directions, while light of all other 
-qualities, even though very nearly agreeing with them, is transmitted with 
-comparatively no loss. 
-
-(5) That Fraunhofer's double dark line I) of solar and stellar spectra is duo 
-to the presence of vapour of sodium in atmospheres surrounding the sun 
-and those stars in whose spectra it had been observed. 
-
-(6) That other vapours than sodium are to be found in the atmospheres 
-of sun and stars by searching for substances producing in the spectra of 
-artificial flames bright lines coinciding with other dark lines of the solar 
-and stellar spectra than the Fraunhofer line D. 
-
-The last of these propositions I felt to be confirmed (it was perhaps 
-partly suggested) by a striking and beautiful experiment admirably adapted 
-for lecture illustrations, due to Foucault, which had been shown to me by 
-M. Duboscque Soleil, and the Abbe' Moigno, in Paris in the month of 
-October 1850. A prism and lenses were arranged to throw upon a screen 
-an approximately pure spectrum of a vertical electric arc between charcoal 
-poles of a powerful battery, the lower one of wdiich was hollowed like a cup. 
-When pieces of copper and pieces of zinc were separately thrown into the 
-cup, the spectrum exhibited, in perfectly definite positions, magnificent well- 
-marked bands of different colours characteristic of the two metals. When 
-a piece of brass, compounded of copper and zinc, was put into the cup, 
-the spectrum showed all the bands, each precisely in the place in which 
-it had been seen \vhcn one metal or the other had been used separately. 
-
-It is much to be regretted that this great generalization was not pub¬ 
-lished to the world twenty years ago. I say this, not because it is to be 
-
-
-regretted that Angstrom should have the credit of having in 1853 pub- 
-
-lished independently the statement that "an incandescent gas emits lumi- 
-"nous rays of the same refrangibility as those which it can absorb "; or that 
-Balfour Stewart should have been unassisted by it when, coming to the 
-subject from a very different point of view, he made, in his extension of the 
-"Theory of Exchanges"*, the still wider generalization that the radiating 
-power of every kind of substance is equal to its absorbing power for every 
-kind of ray ; or that Kirchhoff also should have in 1859 independently dis¬ 
-covered the same proposition, and shown its application to solar and stellar 
-chemistry ; but because we might now be in possession of the inconceivable 
-riches of astronomical results which we expect from the next ten years' 
-investigation by spectrum analysis, had Stokes given his theory to the 
-world when it first occurred to him. 
-
-To Kirchhoff belongs, I believe, solely the great credit of having first 
-
-actually sought for and found other metals than sodium in the sun by the 
-
-method of spectrum analysis. His publication of October 1859 inaugurated 
-
-the practice of solar and stellar chemistry, and gave spectrum analysis an 
-
-impulse to which in a great measure is due its splendidly successful cultivation 
-
-by the labours of many able investigators within the last ten years. 
-
-To prodigious and wearing toil of Kirchhoff himself, and of Angstrom, we 
-owe large-scale maps of the solar spectrum, incomparably superior in minute¬ 
-ness and accuracy of delineation to any thing ever attempted previously. These 
-maps now constitute the standards of reference for all workers in the field. 
-Pliicker and Ilittorf opened ground in advancing the physics of spectrum 
-analysis and made the important discovery of changes in the spectra of 
-ignited gases produced by changes in the physical condition of the gas. The 
-scientific value of the meetings of the British Association is well illustrated 
-by the fact that it was through conversation with Pliicker at the Newcastle 
-meeting that Lockyer was first led into the investigation of the effects of varied 
-pressure on the quality of the light emitted by glowing gas which he and 
-Frankland have prosecuted with such admirable success. Scientific wealth 
-tends to accumulation according to the law of compound interest. Every addi¬ 
-tion to knowledge of properties of matter supplies the naturalist with new 
-instrumental means for discovering and interpreting phenomena of nature, 
-which in their turn afford foundations for fresh generalizations, bringing 
-gains of permanent value into the great storehouse of philosophy. Thus 
-Frankland, led, from observing the want of brightness of a candle burning in 
-a tent on the summit of Mont Blanc, to scrutinize Davy's theory of flame, 
-discovered that brightness without incandescent solid particles is given to a 
-purely gaseous flame by augmented pressure, and that a dense ignited gas 
-gives a spectrum comparable with that of the light from an incandescent solid 
-or liquid. Lockyer joined him ; and the two found that every incandescent 
-
-* Edin. Transactions, 1858-59. 
-
-
-substance gives a continuous spectrum --- that an incandescent gas under 
-varied pressure gives bright bars across the continuous spectrum, some of 
-which, from the sharp, hard and fast lines observed where the gas is in a 
-state of extreme attenuation, broaden out on each side into nebulous bands 
-as the density is increased, and are ultimately lost in the continuous spec¬ 
-trum when the condensation is pushed on till the gas becomes a fluid no 
-longer to be called gaseous. More recently they have examined the influence 
-of temperature, and have obtained results which seem to show that a highly 
-attenuated gas, which at a high temperature gives several bright lines, gives 
-a smaller and smaller number of lines, of sufficient brightness to be visible, 
-when the temperature is lowered, the density being kept unchanged. I cannot 
-refrain here from remarking how admirably this beautiful investigation har¬ 
-monizes with Andrews' great discovery of continuity between the gaseous 
-and liquid states. Such things make the life-blood of science. In contem¬ 
-plating them we feel as if led out from narrow waters of scholastic dogma to 
-a refreshing excursion on the broad and deep ocean of truth, where we learn 
-from the wonders we see that there are endlessly more and more glorious 
-wonders still unseen. 
-
-Stokes' dynamical theory supplies the key to the philosophy of Frank- 
-land and Lockyer's discovery. Any atom of gas when struck and left to 
-itself vibrates with perfect purity its fundamental note or notes. In a 
-highly attenuated gas each atom is very rarely in collision with other 
-atoms, and therefore is nearly at all times in a state of true vibration. 
-Hence the spectrum of a highly attenuated gas consists of one or more 
-perfectly sharp bright lines, with a scarcely perceptible continuous gradation 
-of prismatic colour. In denser gas each atom is frequently in collision, but 
-still is for much more time free, in intervals between collisions, than engaged 
-in collision ; so that not only is the atom itself thrown sensibly out of tune 
-during a sensible proportion of its whole time, but the confused jangle of 
-vibrations in every variety of period during the actual collision becomes more 
-considerable in its influence. Hence bright lines in the spectrum broaden 
-out somewhat, and the continuous spectrum becomes less faint. In still 
-denser gas each atom may be almost as much time in collision as free, and 
-the spectrum then consists of broad nebulous bands crossing a continuous 
-spectrum of considerable brightness. When the medium is so dense that 
-each atom is always in collision, that is to say never free from influence of 
-its neighbours, the spectrum will generally be continuous, and may present 
-little or no appearance of bands, or even of maxima of brightness. In this 
-condition the fluid, can be no longer regarded as a gas, and we must judge 
-of its relation to the vaporous or liquid states according to the critical 
-conditions discovered by Andrews. 
-
-While these great investigations of properties of matter were going on, 
-
-
-
-naturalists were not idle with the newly recognized power of the spectro¬ 
-scope at their service. Chemists soon followed the example of Bunsen 
-in discovering new metals in terrestrial matter by the old blow-pipe and 
-prism test of Fox Talbot and Herschel. Biologists applied spectrum analysis 
-to animal and vegetable chemistry, and to sanitary investigations. But 
-it is in astronomy that spectroscopic research has been carried on with 
-the greatest activity, and been most richly rewarded with results. The 
-chemist and the astronomer have joined their forces. An astronomical ob¬ 
-servatory has now, appended to it, a stock of reagents such as hitherto was 
-only to be found in the chemical laboratory. A devoted corps of volunteers 
-of all nations, whose motto might well be ubique, have directed their artil¬ 
-lery to every region of the universe. The sun, the spots on his surface, 
-the corona and the red and yellow prominences seen round him during total 
-eclipses, the moon, the planets, comets, auroras, nebulae, white stars, yellow 
-stars, red stars, variable and temporary stars, each tested by the prism was 
-compelled to show its distinguishing prismatic colours. Itarely before in 
-the history of science has enthusiastic perseverance directed by penetra¬ 
-tive genius produced within ten years so brilliant a succession of dis¬ 
-coveries. It is not merely the chemistry of sun and stars, as first sug¬ 
-gested, that is subjected to analysis by the spectroscope. Their whole laws 
-of being are now subjects of direct investigation; and already we have 
-glimpses of their evolutional history through the stupendous power of this 
-most subtle and delicate test. We had only solar and stellar chemistry; 
-we now have solar and stellar physiology. 
-
-It is an old idea that the colour of a star may be influenced by its motion 
-relatively to the eye of the spectator, so as to be tinged with red if it moves 
-from the earth, or blue if it moves towards the earth. William Allen Miller, 
-Huggins, and Maxwell showed how, by aid of the spectroscope, this idea may 
-be made the foundation of a method of measuring the relative velocity with 
-which a star approaches to or recedes from the earth. The principle is, first to 
-identify, if possible, one or more of the lines in the spectrum of the star, with a 
-line or lines in the spectrum of sodium, or some other terrestrial substance, 
-and then (by observing the star and the artificial light simultaneously by 
-the same spectroscope) to find the difference, if any, between their refran- 
-gibilities. From this difference of refrangibility the ratio of the periods of 
-the two lights is calculated, according to data determined by Fraunhofer from 
-comparisons between the positions of the dark lines in the prismatic spectrum 
-and in his own "interference spectrum "(produced by substituting for the 
-prism a fine grating). A first comparatively rough application of the test by 
-Miller and Huggins to a large number of the principal stars of our skies, 
-including Aldebaran, a Orionis, Pegasi, Sirius, « Lyrce, Capella, Arcturus, 
-Pollux, Castor (which they had observed rather for the chemical purpose than 
-
-
-for this), proved that not one of them had so great a velocity as 315 kilometres 
-per second to or from the earth, which is a most momentous result in respect 
-to eosmical dynamics. Afterwards Huggins made special observations of 
-the velocity test, and succeeded in making the measurement in one case, 
-that of Sirius, which he then found to be receding from the earth at the rate 
-of 66 kilometres per second. This, corrected for the velocity of the earth at 
-the time of the observation, gave a velocity of Sirius, relatively to the Sun, 
-amounting to 47 kilometres per second. The minuteness of the difference to 
-be measured, and the smallness of the amount of light, even when the brightest 
-star is observed, renders the observation extremely difficult. Still, with 
-such great skill as Mr. Huggins has brought to bear on the investigation, 
-it can scarcely be doubted that velocities of many other stars may be 
-measured. What is now wanted is, certainly not greater skill, perhaps not 
-even more powerful instruments, but more instruments and more observers. 
-Lockyer's applications of the velocity test to the relative motions of different 
-gases in the Sun's photosphere, spots, chromosphere, and chromospheric pro¬ 
-minences, and his observations of the varying spectra presented by the same 
-substance as it moves from one position to another in the Sun's atmosphere, 
-and his interpretations of these observations, according to the laboratory 
-results of Frankland and himself, go far towards confirming the conviction 
-that in a few years all the marvels of the Sun will be dynamically explained 
-according to known properties of matter. 
-
-During six or eight precious minutes of time, spectroscopes have been ap¬ 
-plied to the solar atmosphere and to the corona seen round the dark disk of 
-the Moon eclipsing the Sun. Some of the wonderful results of such obser¬ 
-vations, made in India on the occasion of the eclipse of August 1868, were 
-described by Professor Stokes in a previous address. Valuable results have, 
-through the liberal assistance given by the British and American Govern¬ 
-ments, been obtained also from the total eclipse of last December, notwith¬ 
-standing a generally unfavourable condition of weather. It seems to have 
-been proved that at least some sensible part of the light of the "corona"is a 
-terrestrial atmospheric halo or dispersive reflection of the light of the glow- 
-ing hydrogen and "helium"* round the sun. I believe I may say, on the 
-present occasion when preparation must again be made to utilize a total 
-eclipse of the Sun, that the British Association confidently trusts to our 
-Government exercising the same wise liberality as heretofore in the interests 
-of science. 
-
-The old nebular hypothesis supposes the solar system and other similar 
-systems through the universe which we see at a distance as stars, to have 
-
-* Frankland and Lockyer find the yellow prominences to give a very decided bright line 
-not far from D, but hitherto not identified with any terrestrial flame. It seems to indicate 
-a new substance, which they propose to call Helium. 
-
-
-originated in the condensation of fiery nebulous matter. This hypothesis 
-was invented before the discovery of thermo-dynamics, or the nebula} would 
-not have been supposed to be fiery ; and the idea seems never to have 
-occurred to any of its inventors or early supporters that the matter, the con¬ 
-densation of which they supposed to constitute the Sun and stars, could have 
-been other than fiery in the beginning. Mayer first suggested that the heat 
-of the Sun may be due to gravitation : but he supposed meteors falling in 
-to keep always generating the heat which is radiated year by year from the 
-Sun. Helmholtz, on the other hand, adopting the nebular hypothesis, showed 
-in 1854 that it was not necessary to suppose the nebulous matter to have 
-been originally fiery, but that mutual gravitation between its parts may 
-have generated the heat to which the present high temperature of the Sun is 
-due. Further he made the important observations that the potential energy 
-of gravitation in the Sun is even now far from exhausted ; but that with 
-further and further shrinking more and more heat is to bo generated, and 
-that thus we can conceive the Sun even now to possess a sufficient store of 
-energy to produce heat and light, almost as at present, for several million 
-years of time future. It ought, however, to be added that this condensation 
-can only follow from cooling, and therefore that Helmholtz's gravitational 
-explanation of future Sun -heat amounts really to showing that the Sun's 
-thermal capacity is enormously greater, in virtue of the mutual gravitation 
-between the parts of so enormous a mass, than the sum of the thermal capa¬ 
-cities of separate and smaller bodies of the same material and same total 
-mass, ltcasons for adopting this theory, and the consequences which follow 
-from it, are discussed in an article "On the Age of the Sun's Heat,"published 
-in ‘ Macmillan's Magazine ' for March 1862. 
-
-For a few years Mayer's theory of solar heat had seemed to me probable ; 
-but I had been led to regard it as no longer tenable, because I had been in 
-the first place diiven, by consideration of the very approximate constancy of 
-the Earth's period of revolution round the Sun for the last 2000 years, to 
-conclude that "The principal source, perhaps the sole appreciably effective 
-"source of Sun-heat, is in bodies circulating round the Sun at present inside 
-"the Earth's orbit"* ; and because Le Terrier's researches on the motion of 
-the planet Mercury, though giving evidence of a sensible influence attributable 
-to matter circulating as a great number of small planets within his orbit 
-round the Sun, showed that the amount of matter that could possibly be as¬ 
-sumed to circulate at any considerable distance from the Sun must be very 
-small ; and therefore "if the meteoric influx taking place at present is 
-"enough to produce any appreciable portion of the heat radiated away, it 
-"must be supposed to be from matter circulating round the Sun, within very 
-
-* "On the mechanical energies of the Solar System."Transactions of the Royal Society 
-of Edinburgh, 1854 ; and Fhil. Mag. 1854, second half year. 
-
-"short distances of his surface. The density of this meteoric cloud would 
-"have to be supposed so great that comets could scarcely have escaped as 
-"comets actually have escaped, showing no discoverable effects of resistance, 
-"after passing his surface within a distance equal to one-eighth of his radius. 
-"All things considered, there seems little probability in the hypothesis that 
-"solar radiation is compensated to any appreciable degree, by heat generated 
-"by meteors falling in, at present ; and, as it can be shown that no chemical 
-"theory is tenable*, it must be concluded as most probable that the Sun is 
-"at present mere an incandescent liquid mass cooling "f. 
-
-Thus on purely astronomical grounds was I long ago led to abandon as 
-very improbable the hypothesis that the Sun's heat is supplied dynamically 
-from year to year by the influx of meteors. But now spectrum analysis gives 
-proof finally conclusive against it. 
+To the great value of the former, personal experience of benefit received enables me, and gratitude impels me, to testify. In a few pages full of precious matter, the generalized dynamical equations of Lagrange, the great principle evolved from Maupertuis' "least action" by Hamilton, and the later developments and applications of the Hamiltonian principle by other authors are described by Cayley so suggestively that the reading of thousands of quarto pages of papers scattered through the Transactions of the various learned Societies of Europe is rendered superfluous for any one who desires only the essence of these investigations, with no more of detail than is necessary for a thorough and practical understanding of the subject.
+
+Sabine's Report of 1838 concludes with the following sentence:--- "Viewed in itself and its various relations, the magnetism of the earth cannot be counted less than one of the most important branches of the physical history of the planet we inhabit; and we may feel quite assured that the completion of our knowledge of its distribution on the surface of the earth would be regarded by our contemporaries and by posterity as a fitting enterprise of a maritime people, and a worthy achievement of a nation which has ever sought to rank foremost in every arduous and honourable undertaking." An immediate result of this Report was that the enterprise which it proposed was recommended to the Government by a joint Committee of the British Association and the Royal Society with such success, that Capt. James Ross was sent in command of the 'Erebus' and 'Terror' to make a magnetic survey of the Antarctic regions, and to plant on his way three Magnetical and Meteorological Observatories, at St. Helena, the Cape, and Van Diemen's Land. A vast mass of precious observations, made chiefly on board ship, were brought home from this expedition. To deduce the desired results from them, it was necessary to eliminate the disturbance produced by the ship's magnetism; and Sabine asked his friend Archibald Smith to work out from Poisson's mathematical theory, then the only available guide, the formulæ required for the purpose. This voluntary task Smith executed skilfully and successfully. It was the beginning of a series of labours carried on with most remarkable practical tact, with thorough analytical skill, and with a rare extreme of disinterestedness, in the intervals of an arduous profession, for the purpose of perfecting and simplifying the correction of the mariner's compass --- a problem which had become one of vital importance for navigation, on account of the introduction of iron ships. Edition after edition of the 'Admiralty Compass Manual' has been produced by the able superintendent of the Compass Department, Captain Evans, containing chapters of mathematical investigation and formulæ by Smith, on which depend wholly the practical analysis of compass-observations, and rules for the safe use of the compass in navigation. I firmly believe that it is to the thoroughly scientific method thus adopted by the Admiralty, that no iron ship of Her Majesty's Navy has ever been lost through errors of the compass. The 'British Admiralty Compass Manual' is adopted as a guide by all the navies of the world. It has been translated into Russian, German, and Portuguese; and it is at present being translated into French. The British Association may be gratified to know that the possibility of navigating ironclad war-ships with safety depends on application of scientific principles given to the world by three mathematicians, Poisson, Airy, and Archibald Smith.
+
+*) Report on the Recent Progress of Theoretical Dynamics, by A. Cayley (Report of the British Association 1857, p. 1).
+
+*) Report on the Variations of the Magnetic Intensity observed at different points of the Earth's Surface, by Major Sabine, F. R. S. (forming part of the 7th Report of the British Association).
+
+Returning to the science of terrestrial magnetism, we find in the Reports of early years of the British Association ample evidence of its diligent cultivation. Many of the chief scientific men of the day from England, Scotland, and Ireland found a strong attraction to the Association in the facilities which it afforded to them for cooperating in their work on this subject. Lloyd, Phillips, Fox, Ross, and Sabine made magnetic observations all over Great Britain; and their results, collected by Sabine, gave for the first time an accurate and complete survey of terrestrial magnetism over the area of this island. I am informed by Professor Phillips that, in the beginning of the Association, Herschel, though a "sincere well-wisher," felt doubts as to the general utility and probable success of the plan and purpose proposed; but his zeal for terrestrial magnetism brought him from being merely a sincere well-wisher to join actively and cordially in the work of the Association. "In 1838 he began to give effectual aid in the great question of magnetical Observatories, and was indeed foremost among the supporters of that which is really Sabine's great work. At intervals, until about 1858, Herschel continued to give effectual aid." Sabine has carried on his great work without intermission to the present day; thirty years ago he gave to Gauss a large part of the data required for working out the spherical harmonic analysis of terrestrial magnetism over the whole earth. A recalculation of the harmonic analysis for the altered state of terrestrial magnetism of the present time has been undertaken by Adams. He writes to me that he has "already begun some of the introductory work, so as to be ready when Sir Edward Sabine's Tables of the values of the Magnetic Elements deduced from observation are completed, at once to make use of them," and that he intends to take into account terms of at least one order beyond those included by Gauss. The form in which the requisite data are to be presented to him is a magnetic Chart of the whole surface of the globe. Materials from scientific travellers of all nations, from our home magnetic observatories, from the magnetic observatories of St. Helena, the Cape, Van Diemen's Land, and Toronto, and from the scientific observatories of other countries have been brought together by Sabine. Silently, day after day, night after night, for a quarter of a century he has toiled with one constant assistant always by his side to reduce these observations and prepare for the great work. At this moment, while we are here assembled, I believe that, in their quiet summer retirement in Wales, Sir Edward and Lady Sabine are at work on the magnetic Chart of the world. If two years of life and health are granted to them, science will be provided with a key which must powerfully conduce to the ultimate opening up of one of the most refractory enigmas of cosmical physics, the cause of terrestrial magnetism.
+
+To give any sketch, however slight, of scientific investigation performed during the past year would, even if I were competent for the task, far exceed the limits within which I am confined on the present occasion. A detailed account of work done and knowledge gained in science Britain ought to have every year. The Journal of the Chemical Society and the Zoological Record do excellent service by giving abstracts of all papers published in their departments. The admirable example afforded by the German "Fortschritte" and "Jahresbericht" is before us; but hitherto, so far as I know, no attempt has been made to follow it in Britain. It is true that several of the annual volumes of the Jahresbericht were translated; but a translation, published necessarily at a considerable interval of time after the original, cannot supply the want. An independent British publication is for many obvious reasons desirable. The two publications, in German and English, would, both by their differences and by their agreements, illustrate the progress of science more correctly and usefully than any single work could do, even if appearing simultaneously in the two languages. It seems to me that to promote the establishment of a British Year Book of Science is an object to which the powerful action of the British Association would be thoroughly appropriate.
+
+In referring to recent advances in several branches of science, I simply choose some of those which have struck me as most notable.
+
+Accurate and minute measurement seems to the non-scientific imagination a less lofty and dignified work than looking for something new. But nearly all the grandest discoveries of science have been but the rewards of accurate measurement and patient long-continued labour in the minute sifting of numerical results. The popular idea of Newton's grandest discovery is that the theory of gravitation flashed into his mind, and so the discovery was made. It was by a long train of mathematical calculation, founded on results accumulated through prodigious toil of practical astronomers, that Newton first demonstrated the forces urging the planets towards the Sun, determined the magnitudes of those forces, and discovered that a force following the same law of variation with distance urges the Moon towards the Earth. _Then_ first, we may suppose, came to him the idea of the universality of gravitation; but when he attempted to compare the magnitude of the force on the Moon with the magnitude of the force of gravitation of a heavy body of equal mass at the earth's surface, he did not find the agreement which the law he was discovering required. Not for years after would he publish his discovery as made. It is recounted that, being present at a meeting of the Royal Society, he heard a paper read, describing geodesic measurement by Picard which led to a serious correction of the previously accepted estimate of the Earth's radius. This was what Newton required. He went home with the result, and commenced his calculations, but felt so much agitated that he handed over the arithmetical work to a friend: then (and not when, sitting in a garden, he saw an apple fall) did he ascertain that gravitation keeps the Moon in her orbit.
+
+Faraday's discovery of specific inductive capacity, which inaugurated the new philosophy, tending to discard action at a distance, was the result of minute and accurate measurement of electric forces.
+
+Joule's discovery of thermo-dynamic law through the regions of electro-chemistry, electro-magnetism, and elasticity of gases was based on a delicacy of thermometry which seemed simply impossible to some of the most distinguished chemists of the day.
+
+Andrews' discovery of the continuity between the gaseous and liquid states was worked out by many years of laborious and minute measurement of phenomena scarcely sensible to the naked eye.
+
+Great service has been done to science by the British Association in promoting accurate measurement in various subjects. Tho origin of exact science in terrestrial magnetism is traceable to Gauss's invention of methods of finding the magnetic intensity in absolute measure. I have spoken of the great work done by the British Association in carrying out the application of this invention in all parts of the world. Gauss' colleague in the German Magnetic Union, Weber, extended the practice of absolute measurement to electric currents, the resistance of an electric conductor, and the electromotive force of a galvanic element. He showed the relation between electrostatic and electromagnetic units for absolute measurement, and made the beautiful discovery that resistance, in absolute electromagnetic measure, and the reciprocal of resistance, or, as we call it, "conducting power," in electrostatic measure, are each of them a velocity. He made an elaborate and difficult series of experiments to measure the velocity which is equal to the conducting power, in electrostatic measure, and at the same time to the resistance in electromagnetic measure, in one and the same conductor. Maxwell, in making the first advance along a road of which Faraday was the pioneer, discovered that this velocity is physically related to the velocity of light, and that, on a certain hypothesis regarding the elastic medium concerned, it may be exactly equal to the velocity of light. Weber's measurement verifies approximately this equality, and stands in science _monumentum ære perennius_, celebrated as having suggested this most grand theory, and as having afforded the first quantitative test of the recondite properties of matter on which the relations between electricity and light depend. A remeasurement of Weber's critical velocity on a new plan by Maxwell himself, and the important correction of the velocity of light by Foucault's laboratory experiments, verified by astronomical observation, seem to show a still closer agreement. The most accurate possible determination of Weber's critical velocity is just now a primary object of the Association's Committee on Electric Measurement; and it is at present premature to speculate as to the closeness of the agreement between that velocity and the velocity of light. This leads me to remark how much science, even in its most lofty speculations, gains in return for benefits conferred by its application to promote the social and material welfare of man. Those who perilled and lost their money in the original Atlantic Telegraph were impelled and supported by a sense of the grandeur of their enterprise, and of the world-wide benefits which must flow from its success; they were at the same time not unmoved by the beauty of the scientific problem directly presented to them; but they little thought that it was to be immediately, through their work, that the scientific world was to be instructed in a long-neglected and discredited fundamental electric discovery of Faraday's, or that, again, when the assistance of the British Association was invoked to supply their electricians with methods for absolute measurement (which they found necessary to secure the best economical return for their expenditure, and to obviate and detect those faults in their electric material which had led to disaster), they were laying the foundation for accurate electric measurement in every scientific laboratory in the world, and initiating a train of investigation which now sends up branches into the loftiest regions and subtlest ether of natural philosophy. Long may the British Association continue a bond of union, and a medium for the interchange of good offices between science and the world!
+
+The greatest achievement yet made in molecular theory of the properties of matter is the Kinetic theory of Gases, shadowed forth by Lucretius, definitely stated by Daniel Bernoulli, largely developed by Herapath, made a reality by Joule, and worked out to its present advanced state by Clausius and Maxwell. Joule, from his dynamical equivalent of heat, and his experiments upon the heat produced by the condensation of gas, was able to estimate the average velocity of the ultimate molecules or atoms composing it. His estimate for hydrogen was 6225 feet per second at temperature 60° Fahr., and 6055 feet per second at the freezing-point. Clausius took fully into account the impacts of molecules on one another, and the kinetic energy of _relative_ motions of the matter constituting an individual atom. He investigated the relation between their diameters, the number in a given space, and the mean length of path from impact to impact, and so gave the foundation for estimates of the absolute dimensions of atoms, to which I shall refer later. He explained the slowness of gaseous diffusion by the mutual impacts of the atoms, and laid a secure foundation for a complete theory of the diffusion of fluids, previously a most refractory enigma. The deeply penetrating genius of Maxwell brought in viscosity and thermal conductivity, aud thus completed the dynamical explanation of all the known properties of gases, except their electric resistance and brittleness to electric force.
+
+No such comprehensive molecular theory had ever been even imagined before the nineteenth century. Definite and complete in its area as it is, it is but a well-drawn part of a great chart, in which all physical science will be represented with every property of matter shown in dynamical relation to the whole. The prospect we now have of an early completion of this chart is based on the assumption of atoms. But there can be no permanent satisfaction to the mind in explaining heat, light, elasticity, diffusion, electricity and magnetism, in gases, liquids, and solids, and describing precisely the relations of these different states of matter to one another by statistics of great numbers of atoms, when the properties of the atom itself are simply assumed. When the theory, of which we have the first instalment in Clausius and Maxwell's work, is complete, we are but brought face to face with a superlatively grand question, what is the inner mechanism of the atom?
+
+In the answer to this question we must find the explanation not only of the atomic elasticity, by which the atom is a chronometric vibrator according to Stokes's discovery, but of chemical affinity and of the differences of quality of different chemical elements, at present a mere mystery in science. Helmholtz's exquisite theory of vortex-motion in an incompressible frictionless liquid has been suggested as a finger-post, pointing a way which may possibly lead to a full understanding of the properties of atoms, carrying out the grand conception of Lucretius, who "admits no subtle ethers, no variety of elements with fiery, or watery, or light, or heavy principles; nor supposes light to be one thing, fire another, electricity a fluid, magnetism a vital principle, but treats all phenomena as mere properties or accidents of simple matter." This statement I take from an admirable paper on the atomic theory of Lucretius, which appeared in the 'North British Review' for March 1868, containing a most interesting and instructive summary of ancient and modern doctrine regarding atoms. Allow me to read from that article one other short passage finely describing the present aspect of atomic theory:--- "The existence of the chemical atom, already quite a complex little world, seems very probable; and the description of the Lucretian atom is wonderfully applicable to it. We are not wholly without hope that the real weight of each such atom may some day be known --- not merely the relative weight of the several atoms, but the number in a given volume of any material; that the form and motion of the parts of each atom and the distances by which they are separated may be calculated; that the motions by which they produce heat, electricity, and light may be illustrated by exact geometrical diagrams; and that the fundamental properties of the intermediate and possibly constituent medium may be arrived at. Then the motion of planets and music of the spheres will be neglected for a while in admiration of the maze in which the tiny atoms run."
+
+Even before this was written some of the anticipated results had been partially attained. Loschmidt in Vienna had shown, and not much latter Stoney independently in England showed, how to deduce from Clausius and Maxwell's kinetic theory of gases a superior limit to the number of atoms in a given measurable space. I was unfortunately quite unaware of what Loschmidt and Stoney had done when I made a similar estimate on the same foundation, and communicated it to 'Nature' in an article on "The Size of Atoms." But questions of personal priority, however interesting they may be to the persons concerned, sink into insignificance in the prospect of any gain of deeper insight into the secrets of nature. The triple coincidence of independent reasoning in this case is valuable as confirmation of a conclusion violently contravening ideas and opinions which had been almost universally held regarding the dimensions of the molecular structure of matter. Chemists and other naturalists had been in the habit of evading questions as to the hardness or indivisibility of atoms by virtually assuming them to be infinitely small and infinitely numerous. We must now no longer look upon the atom, with Boscovich, as a mystic point endowed with inertia and the attribute of attracting or repelling other such centres with forces depending upon the intervening distances (a supposition only tolerated with the tacit assumption that the inertia and attraction of each atom is infinitely small and the number of atoms infinitely great), nor can we agree with those who have attributed to the atom occupation of space with infinite hardness and strength (incredible in any finite body); but we must realize it as a piece of matter of measurable dimensions, with shape, motion, and laws of action, intelligible subjects of scientific investigation.
+
+The prismatic analysis of light discovered by Newton was estimated by himself as being "the oddest, if not the most considerable, detection which hath hitherto been made in the operations of nature."
+
+Had he not been deflected from the subject, he could not have failed to obtain a pure spectrum; but this, with the inevitably consequent discovery of the dark lines, was reserved for the nineteenth century. Our fundamental knowledge of the dark lines is due solely to Fraunhofer. Wollaston saw them, but did not discover them. Brewster laboured long and well to perfect the prismatic analysis of sunlight; and his observations on the dark bands produced by the absorption of interposed gases and vapours laid important foundations for the grand superstructure which he scarcely lived to see. Piazzi Smyth, by spectroscopic observation performed on the Peak of Teneriffe, added greatly to our knowledge of the dark lines produced in the solar spectrum by the absorption of our own atmosphere. The prism became an instrument for chemical qualitative analysis in the hands of Fox Talbot and Herschel, who first showed how, through it, the old "blowpipe test" or generally the estimation of substances from the colours which they give to flames, can be prosecuted with an accuracy and a discriminating power not to be attained when the colour is judged by the unaided eye. But the application of this test to solar and stellar chemistry had never, I believe, been suggested, either directly or indirectly, by any other naturalist, when Stokes taught it to me in Cambridge at some time prior to the summer of 1852. The observational and experimental foundations on which he built were:---
+
+1\. The discovery by Fraunhofer of a coincidence between his double dark line D of the solar spectrum and a double bright line which he observed in the spectra of ordinary artificial flames.
+
+2\. A very rigorous experimental test of this coincidence by Prof. W. H. Miller, which showed it to be accurate to an astonishing degree of minuteness.
+
+3\. The fact that the yellow light given out when salt is thrown on burning spirit consists almost solely of the two nearly identical qualities which constitute that double bright line.
+
+4\. Observations made by Stokes himself, which showed the bright line D to be absent in a candle-flame when the wick was snuffed clean, so as not to project into the luminous envelope, and from an alcohol flame when the spirit was burned in a watch-glass. And
+
+5\. Foucault's admirable discovery (L'Institut, Feb. 7, 1849) that the voltaic arc between charcoal points is "a medium which emits the rays D on its own account, and at the same time absorbs them when they come from another quarter."
+
+The conclusions, theoretical and practical, which Stokes taught me, and which I gave regularly afterwards in my public lectures in the University of Glasgow, were:---
+
+1\. That the double line D, "whether bright or dark, is due to vapour of sodium.
+
+2\. That the ultimate atom of sodium is susceptible of regular elastic vibrations, like those of a tuning-fork or of stringed musical instruments; that like an instrument with two strings tuned to approximate unison, or an approximately circular elastic disk, it has two fundamental notes or vibrations of approximately equal pitch; and that the periods of these vibrations are precisely the periods of the two slightly different yellow lights constituting the double bright line D.
+
+3\. That when vapour of sodium is at a high enough temperature to become itself a source of light, each atom executes these two fundamental vibrations simultaneously; and that therefore the light proceeding from it is of the two qualities constituting the double bright line D.
+
+4\. That when vapour of sodium is present in space across which light from another source is propagated, its atoms, according to a well-known general principle of dynamics, are set to vibrate in either or both of those fundamental modes, if some of the incident light is of one or other of their periods, or some of one and some of the other; so that the energy of the waves of those particular qualities of light is converted into thermal vibrations of the medium and dispersed in all directions, while light of all other qualities, even though very nearly agreeing with them, is transmitted with comparatively no loss.
+
+5\. That Fraunhofer's double dark line D of solar and stellar spectra is due to the presence of vapour of sodium in atmospheres surrounding the sun and those stars in whose spectra it had been observed.
+
+6\. That other vapours than sodium are to be found in the atmospheres of sun and stars by searching for substances producing in the spectra of artificial flames bright lines coinciding with other dark lines of the solar and stellar spectra than the Fraunhofer line D.
+
+The last of these propositions I felt to be confirmed (it was perhaps partly suggested) by a striking and beautiful experiment admirably adapted for lecture illustrations, due to Foucault, which had been shown to me by M. Duboscque Soleil, and the Abbé Moigno, in Paris in the month of October 1850. A prism and lenses were arranged to throw upon a screen an approximately pure spectrum of a vertical electric arc between charcoal poles of a powerful battery, the lower one of which was hollowed like a cup. When pieces of copper and pieces of zinc were separately thrown into the cup, the spectrum exhibited, in perfectly definite positions, magnificent well-marked bands of different colours characteristic of the two metals. When a piece of brass, compounded of copper and zinc, was put into the cup, the spectrum showed all the bands, each precisely in the place in which it had been seen when one metal or the other had been used separately.
+
+It is much to be regretted that this great generalization was not published to the world twenty years ago. I say this, not because it is to be regretted that Ångström should have the credit of having in 1853 published independently the statement that "an incandescent gas emits luminous rays of the same refrangibility as those which it can absorb"; or that Balfour Stewart should have been unassisted by it when, coming to the subject from a very different point of view, he made, in his extension of the "Theory of Exchanges,"* the still wider generalization that the radiating power of every kind of substance is equal to its absorbing power for every kind of ray; or that Kirchhoff also should have in 1859 independently discovered the same proposition, and shown its application to solar and stellar chemistry; but because we might now be in possession of the inconceivable riches of astronomical results which we expect from the next ten years' investigation by spectrum analysis, had Stokes given his theory to the world when it first occurred to him.
+
+To Kirchhoff belongs, I believe, solely the great credit of having first actually sought for and found other metals than sodium in the sun by the method of spectrum analysis. His publication of October 1859 inaugurated the practice of solar and stellar chemistry, and gave spectrum analysis an impulse to which in a great measure is due its splendidly successful cultivation by the labours of many able investigators within the last ten years.
+
+To prodigious and wearing toil of Kirchhoff himself, and of Ångström, we owe large-scale maps of the solar spectrum, incomparably superior in minuteness and accuracy of delineation to any thing ever attempted previously. These maps now constitute the standards of reference for all workers in the field. Plücker and Hittorf opened ground in advancing the physics of spectrum analysis and made the important discovery of changes in the spectra of ignited gases produced by changes in the physical condition of the gas. The scientific value of the meetings of the British Association is well illustrated by the fact that it was through conversation with Plücker at the Newcastle meeting that Lockyer was first led into the investigation of the effects of varied pressure on the quality of the light emitted by glowing gas which he and Frankland have prosecuted with such admirable success. Scientific wealth tends to accumulation according to the law of compound interest. Every addition to knowledge of properties of matter supplies the naturalist with new instrumental means for discovering and interpreting phenomena of nature, which in their turn afford foundations for fresh generalizations, bringing gains of permanent value into the great storehouse of philosophy. Thus Frankland, led, from observing the want of brightness of a candle burning in a tent on the summit of Mont Blanc, to scrutinize Davy's theory of flame, discovered that brightness without incandescent solid particles is given to a purely gaseous flame by augmented pressure, and that a dense ignited gas gives a spectrum comparable with that of the light from an incandescent solid or liquid. Lockyer joined him; and the two found that every incandescent substance gives a continuous spectrum --- that an incandescent gas under varied pressure gives bright bars across the continuous spectrum, some of which, from the sharp, hard and fast lines observed where the gas is in a state of extreme attenuation, broaden out on each side into nebulous bands as the density is increased, and are ultimately lost in the continuous spectrum when the condensation is pushed on till the gas becomes a fluid no longer to be called gaseous. More recently they have examined the influence of temperature, and have obtained results which seem to show that a highly attenuated gas, which at a high temperature gives several bright lines, gives a smaller and smaller number of lines, of sufficient brightness to be visible, when the temperature is lowered, the density being kept unchanged. I cannot refrain here from remarking how admirably this beautiful investigation harmonizes with Andrews' great discovery of continuity between the gaseous and liquid states. Such things make the life-blood of science. In contemplating them we feel as if led out from narrow waters of scholastic dogma to a refreshing excursion on the broad and deep ocean of truth, where we learn from the wonders we see that there are endlessly more and more glorious wonders still unseen.
+
+*) Edin. Transactions, 1858-59.
+
+Stokes' dynamical theory supplies the key to the philosophy of Frankland and Lockyer's discovery. Any atom of gas when struck and left to itself vibrates with perfect purity its fundamental note or notes. In a highly attenuated gas each atom is very rarely in collision with other atoms, and therefore is nearly at all times in a state of true vibration. Hence the spectrum of a highly attenuated gas consists of one or more perfectly sharp bright lines, with a scarcely perceptible continuous gradation of prismatic colour. In denser gas each atom is frequently in collision, but still is for much more time free, in intervals between collisions, than engaged in collision; so that not only is the atom itself thrown sensibly out of tune during a sensible proportion of its whole time, but the confused jangle of vibrations in every variety of period during the actual collision becomes more considerable in its influence. Hence bright lines in the spectrum broaden out somewhat, and the continuous spectrum becomes less faint. In still denser gas each atom may be almost as much time in collision as free, and the spectrum then consists of broad nebulous bands crossing a continuous spectrum of considerable brightness. When the medium is so dense that each atom is always in collision, that is to say never free from influence of its neighbours, the spectrum will generally be continuous, and may present little or no appearance of bands, or even of maxima of brightness. In this condition the fluid can be no longer regarded as a gas, and we must judge of its relation to the vaporous or liquid states according to the critical conditions discovered by Andrews.
+
+While these great investigations of properties of matter were going on, naturalists were not idle with the newly recognized power of the spectroscope at their service. Chemists soon followed the example of Bunsen in discovering new metals in terrestrial matter by the old blow-pipe and prism test of Fox Talbot and Herschel. Biologists applied spectrum analysis to animal and vegetable chemistry, and to sanitary investigations. But it is in astronomy that spectroscopic research has been carried on with the greatest activity, and been most richly rewarded with results. The chemist and the astronomer have joined their forces. An astronomical observatory has now, appended to it, a stock of reagents such as hitherto was only to be found in the chemical laboratory. A devoted corps of volunteers of all nations, whose motto might well be _ubique_, have directed their artillery to every region of the universe. The sun, the spots on his surface, the corona and the red and yellow prominences seen round him during total eclipses, the moon, the planets, comets, auroras, nebulæ, white stars, yellow stars, red stars, variable and temporary stars, each tested by the prism was compelled to show its distinguishing prismatic colours. Rarely before in the history of science has enthusiastic perseverance directed by penetrative genius produced within ten years so brilliant a succession of discoveries. It is not merely the _chemistry_ of sun and stars, as first suggested, that is subjected to analysis by the spectroscope. Their whole laws of being are now subjects of direct investigation; and already we have glimpses of their evolutional history through the stupendous power of this most subtle and delicate test. We had only solar and stellar chemistry; we now have solar and stellar physiology.
+
+It is an old idea that the colour of a star may be influenced by its motion relatively to the eye of the spectator, so as to be tinged with red if it moves from the earth, or blue if it moves towards the earth. William Allen Miller, Huggins, and Maxwell showed how, by aid of the spectroscope, this idea may be made the foundation of a method of measuring the relative velocity with which a star approaches to or recedes from the earth. The principle is, first to identify, if possible, one or more of the lines in the spectrum of the star, with a line or lines in the spectrum of sodium, or some other terrestrial substance, and then (by observing the star and the artificial light simultaneously by the same spectroscope) to find the difference, if any, between their refrangibilities. From this difference of refrangibility the ratio of the periods of the two lights is calculated, according to data determined by Fraunhofer from comparisons between the positions of the dark lines in the prismatic spectrum and in his own "interference spectrum" (produced by substituting for the prism a fine grating). A first comparatively rough application of the test by Miller and Huggins to a large number of the principal stars of our skies, including Aldebaran, α Orionis, β Pegasi, Sirius, α Lyræ, Capella, Arcturus, Pollux, Castor (which they had observed rather for the chemical purpose than for this), proved that not one of them had so great a velocity as 315 kilometres per second to or from the earth, which is a _most momentous result in respect to cosmical dynamics_. Afterwards Huggins made special observations of the velocity test, and succeeded in making the measurement in one case, that of Sirius, which he then found to be receding from the earth at the rate of 66 kilometres per second. This, corrected for the velocity of the earth at the time of the observation, gave a velocity of Sirius, relatively to the Sun, amounting to 47 kilometres per second. The minuteness of the difference to be measured, and the smallness of the amount of light, even when the brightest star is observed, renders the observation extremely difficult. Still, with such great skill as Mr. Huggins has brought to bear on the investigation, it can scarcely be doubted that velocities of many other stars may be measured. What is now wanted is, certainly not greater skill, perhaps not even more powerful instruments, but _more instruments and more observers_. Lockyer's applications of the velocity test to the relative motions of different gases in the Sun's photosphere, spots, chromosphere, and chromospheric prominences, and his observations of the varying spectra presented by the same substance as it moves from one position to another in the Sun's atmosphere, and his interpretations of these observations, according to the laboratory results of Frankland and himself, go far towards confirming the conviction that in a few years all the marvels of the Sun will be dynamically explained according to known properties of matter.
+
+During six or eight precious minutes of time, spectroscopes have been applied to the solar atmosphere and to the corona seen round the dark disk of the Moon eclipsing the Sun. Some of the wonderful results of such observations, made in India on the occasion of the eclipse of August 1868, were described by Professor Stokes in a previous address. Valuable results have, through the liberal assistance given by the British and American Governments, been obtained also from the total eclipse of last December, notwithstanding a generally unfavourable condition of weather. It seems to have been proved that at least some sensible part of the light of the "corona" is a terrestrial atmospheric halo or dispersive reflection of the light of the glowing hydrogen and "helium"* round the sun. I believe I may say, on the present occasion when preparation must again be made to utilize a total eclipse of the Sun, that the British Association confidently trusts to our Government exercising the same wise liberality as heretofore in the interests of science.
+
+*) Frankland and Lockyer find the yellow prominences to give a very decided bright line not far from D, but hitherto not identified with any terrestrial flame. It seems to indicate a new substance, which they propose to call Helium.
+
+The old nebular hypothesis supposes the solar system and other similar systems through the universe which we see at a distance as stars, to have originated in the condensation of fiery nebulous matter. This hypothesis was invented before the discovery of thermo-dynamics, or the nebulæ would not have been supposed to be fiery; and the idea seems never to have occurred to any of its inventors or early supporters that the matter, the condensation of which they supposed to constitute the Sun and stars, could have been other than fiery in the beginning. Mayer first suggested that the heat of the Sun may be due to gravitation: but he supposed meteors falling in to keep always generating the heat which is radiated year by year from the Sun. Helmholtz, on the other hand, adopting the nebular hypothesis, showed in 1854 that it was not necessary to suppose the nebulous matter to have been originally fiery, but that mutual gravitation between its parts may have generated the heat to which the present high temperature of the Sun is due. Further he made the important observations that the potential energy of gravitation in the Sun is even now far from exhausted; but that with further and further shrinking more and more heat is to be generated, and that thus we can conceive the Sun even now to possess a sufficient store of energy to produce heat and light, almost as at present, for several million years of time future. It ought, however, to be added that this condensation can only follow from cooling, and therefore that Helmholtz's gravitational explanation of future Sun-heat amounts really to showing that the Sun's thermal capacity is enormously greater, in virtue of the mutual gravitation between the parts of so enormous a mass, than the sum of the thermal capacities of separate and smaller bodies of the same material and same total mass, Reasons for adopting this theory, and the consequences which follow from it, are discussed in an article "On the Age of the Sun's Heat," published in 'Macmillan's Magazine' for March 1862.
+
+For a few years Mayer's theory of solar heat had seemed to me probable; but I had been led to regard it as no longer tenable, because I had been in the first place diiven, by consideration of the very approximate constancy of the Earth's period of revolution round the Sun for the last 2000 years, to conclude that "The principal source, perhaps the sole appreciably effective source of Sun-heat, is in bodies circulating round the Sun at present inside the Earth's orbit"*; and because Le Verrier's researches on the motion of the planet Mercury, though giving evidence of a sensible influence attributable to matter circulating as a great number of small planets within his orbit round the Sun, showed that the amount of matter that could possibly be assumed to circulate at any considerable distance from the Sun must be very small; and therefore "if the meteoric influx taking place at present is enough to produce any appreciable portion of the heat radiated away, it must be supposed to be from matter circulating round the Sun, within very short distances of his surface. The density of this meteoric cloud would have to be supposed so great that comets could scarcely have escaped as comets actually have escaped, showing no discoverable effects of resistance, after passing his surface within a distance equal to one-eighth of his radius. All things considered, there seems little probability in the hypothesis that solar radiation is compensated to any appreciable degree, by heat generated by meteors falling in, at present; and, as it can be shown that no chemical theory is tenable,* it must be concluded as most probable that the Sun is at present mere an incandescent liquid mass cooling."*
+
+*) "On the mechanical energies of the Solar System." Transactions of the Royal Society of Edinburgh, 1854; and Phil. Mag. 1854, second half year.
+
+Thus on purely astronomical grounds was I long ago led to abandon as very improbable the hypothesis that the Sun's heat is supplied dynamically from year to year by the influx of meteors. But now spectrum analysis gives proof finally conclusive against it.
 
 Each meteor circulating round the Sun must fall in along a very gradual 
 spiral path, and before reaching the Sun must have been for a long time 
