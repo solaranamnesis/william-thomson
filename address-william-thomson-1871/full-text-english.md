@@ -8,295 +8,53 @@ In this place, from this Chair, twenty-one years ago, Sir David Brewster said:--
 
 The statement I have read contains no allusion to the real origin of the British Association. This blank in my predecessor's historical sketch I am able to fill in from words written by himself twenty years earlier. Through the kindness of Professor Phillips I am enabled to read to you part of a letter to him at York, written by David Brewster from Allerly by Melrose, on the 23rd of February, 1831:---
 
-"Dear Sir, --- I have taken the liberty of writing you on a subject of con- 
-(l siderable importance. It is proposed to establish a British Association of 
-"men of science similar to that which has existed for eight years in Ger- 
-"many, and which is now patronized by the most powerful Sovereigns of that 
-"part of Europe. The arrangements for the first meeting are in progress ; and 
-"it is contemplated that it shall be held in York, as the most central city for 
-"the three kingdoms. My object in writing you at present is to beg that you 
-"would ascertain if York will furnish the accommodation necessary for so 
-u large a meeting (which may perhaps consist of above 100 individuals), if 
-"the Philosophical Society would enter zealously into the plan, and if the 
-"Mayor and influential persons in the town and in the vicinity would be 
-"likely to promote its objects. The principal object of the Society would 
-"be to make the cultivators of science acquainted with each other, to stimu- 
-"late one another to new exertions, and to bring the objects of science more 
-"before the public eye, and to take measures for advancing its interests 
-"and accelerating its progress."
+"Dear Sir, --- I have taken the liberty of writing you on a subject of considerable importance. It is proposed to establish a British Association of men of science similar to that which has existed for eight years in Germany, and which is now patronized by the most powerful Sovereigns of that part of Europe. The arrangements for the first meeting are in progress; and it is contemplated that it shall be held in York, as the most central city for the three kingdoms. My object in writing you at present is to beg that you would ascertain if York will furnish the accommodation necessary for so large a meeting (which may perhaps consist of above 100 individuals), if the Philosophical Society would enter zealously into the plan, and if the Mayor and influential persons in the town and in the vicinity would be likely to promote its objects. The principal object of the Society would be to make the cultivators of science acquainted with each other, to stimulate one another to new exertions, and to bring the objects of science more before the public eye, and to take measures for advancing its interests and accelerating its progress."
 
-Of the little band of four pilgrims from Scotland to iork, not one now 
-survives. Of the seven first Associates one more has gone over to the 
-majority since the Association last met. Vernon Harcourt is no longer with 
-us ; but his influence remains, a beneficent and surely therefore never dying 
-influence. He was a Geologist and Chemist, a large-hearted lover of science, 
-and an unwearied worker for its advancement. Brewster was the founder of 
-the British Association ; Vernon Harcourt was its law-giver. His code re¬ 
-mains to this day the law of the Association. 
+Of the little band of four pilgrims from Scotland to York, not one now survives. Of the seven first Associates one more has gone over to the majority since the Association last met. Vernon Harcourt is no longer with us; but his influence remains, a beneficent and surely therefore never dying influence. He was a Geologist and Chemist, a large-hearted lover of science, and an unwearied worker for its advancement. Brewster was the founder of the British Association; Vernon Harcourt was its law-giver. His code remains to this day the law of the Association.
 
-On the eleventh of May last Sir John Herschel died in the eightieth year of 
-his age. The name of Herschel is a household word throughout Great Britain 
-and Ireland--- yes, and through the whole civilized world. We of this genera¬ 
-tion have, from our lessons of childhood upwards, learned to see in Herschel, 
-father and son, a presidium et didce decus of the precious treasure of British 
-scientific fame. 'When geography, astronomy, and the use of the globes were 
-still taught, even to poor children, as a pleasant and profitable sequel to "read¬ 
-ing, writing, and arithmetic,"which of us did not revere the great telescope 
-of Sir William Herschel (one of the Hundred Wonders of the World), and 
-learn with delight, directly or indirectly from the charming pages of Sir J ohn 
-Herschel' s book, about the sun and his spots, and the fiery tornadoes sweeping 
-over his surface, and about the planets, and Jupiter's belts, and Saturn's rings, 
-and the fixed stars with their proper motions, and the double stars, and 
-coloured stars, and the nebulse discovered by the great telescope ? Of Sir 
-John Herschel it may indeed be said, nil tetigitquod non ornavit . 
+On the eleventh of May last Sir John Herschel died in the eightieth year of his age. The name of Herschel is a household word throughout Great Britain and Ireland --- yes, and through the whole civilized world. We of this generation have, from our lessons of childhood upwards, learned to see in Herschel, father and son, a _præsidium et dulce decus_ of the precious treasure of British scientific fame. When geography, astronomy, and the use of the globes were still taught, even to poor children, as a pleasant and profitable sequel to "reading, writing, and arithmetic," which of us did not revere the great telescope of Sir William Herschel (one of the Hundred Wonders of the World), and learn with delight, directly or indirectly from the charming pages of Sir John Herschel's book, about the sun and his spots, and the fiery tornadoes sweeping over his surface, and about the planets, and Jupiter's belts, and Saturn's rings, and the fixed stars with their proper motions, and the double stars, and coloured stars, and the nebulæ discovered by the great telescope? Of Sir John Herschel it may indeed be said, _nil tetigit quod non ornavit_.
 
-A monument to Faraday and a monument to Herschel, Britain must have. 
-The nation will not be satisfied with any thing, however splendid, done by 
-private subscription. A national monument, the more humble in point of 
+A monument to Faraday and a monument to Herschel, Britain must have. The nation will not be satisfied with any thing, however splendid, done by private subscription. A national monument, the more humble in point of expense the better, is required to satisfy that honourable pride with which a high-spirited nation cherishes the memory of its great men. But for the glory of Faraday or the glory of Herschel, is a monument wanted? No!
 
-expense I lie better, is required to satisfy that honourable pride with which 
-a high-spirited nation cherishes the memory of its great men. But for 
-the glory of Faraday or the glory of Herschel, is a monument wanted ? 
-No! 
+What needs my Shakespere for his honoured bones  
+The labour of an age in piled stones?  
+Or that his hallowed reliques should be hid  
+Under a star-ypointing pyramid?  
+Dear son of memory, great heir of fame,  
+What need'st thou such weak witness of thy name!  
+Thou, in our wonder and astonishment,  
+Hast built thyself a live-long monument.  
+...  
+And, so sephúlchred, in such pomp dost lie,  
+That kings for such a tomb would wish to die.
 
-What needs my Shakespere for his honoured bones 
-The labour of an age in piled stones ? 
+With regard to Sir John Herschel's scientific work, on the present occasion I can but refer briefly to a few points which seem to me salient in his physical and mathematical writings. First, I remark that he has put forward, most instructively and profitably to his readers, the general theory of periodicity in dynamics, and has urged the practical utilizing of it, especially in meteorology, by the harmonic analysis. It is purely by an application of this principle and practical method, that the British Association's Committee on Tides has for the last four years been, and still is, working towards the solution of the grand problem proposed forty-eight years ago by Thomas Young in the following words;---
 
-Or that his hallowed reliques should be hid 
-Under a star-ypointing pyramid ? 
+"There is, indeed, little doubt that if we were provided with a sufficiently correct series of minutely accurate observations on the Tides, made not merely with a view to the times of low and high water only, but rather to the heights at the intermediate times, we might form, by degrees, with the assistance of the theory contained in this article* only, almost as perfect a set of tables for the motions of the ocean as we have already obtained for those of the celestial bodies, which are the more immediate objects of the attention of the practical astronomer."
 
-Bear son of memory, great heir of fame, 
+*) Young's; written in 1823 for the Supplement to the 'Encyclopædia Britannica.'
 
-What need'st thou such weak witness of thy name ! 
+Sir John Herschel's discovery of a right or left-handed asymmetry in the outward form of crystals, such as quartz, which in their inner molecular structure possess the heliçoidal rotational property in reference to the plane of polarization of light, is one of the notable points of meeting between Natural History and Natural Philosophy. His observations on "epipolic dispersion" gave Stokes the clue by which he was led to his great discovery of the change of periodic time experienced by light in falling on certain substances and being dispersively reflected from them. In respect to pure mathematics Sir John Herschel did more, I believe, than any other man to introduce into Britain the powerful methods and the valuable notation of modern analysis. A remarkable mode of symbolism had freshly appeared, I believe, in the works of Laplace, and possibly of other French mathematicians; it certainly appeared in Fourier, but whether before or after Herschel's work I cannot say. With the French writers, however, this was rather a short method of writing formulæ than the analytical engine which it became in the hands of Herschel and British followers, especially Sylvester and Gregory (competitors with Green in the Cambridge Mathematical Tripos struggle of 1837) and Boole and Cayley. This method was greatly advanced by Gregory, who first gave to its working-power a secure and philosophical foundation, and so prepared the way for the marvellous extension it has received from Boole, Sylvester, and Cayley, according to which symbols of operation become the subjects not merely of algebraic combination, but of differentiations and integrations, as if they were symbols expressing values of varying quantities. An even more marvellous development of this same idea of the separation of symbols (according to which Gregory separated the algebraic signs + and - from other symbols or quantities to be characterized by them, and dealt with them according to the laws of algebraic combination) received from Hamilton a most astonishing generalization, by the invention actually of new laws of combination, and led him to his famous "Quaternions," of which he gave his earliest exposition to the Mathematical and Physical Section of this Association, at its meeting in Cambridge in the year 1845. Tait has taken up the subject of quaternions ably and zealously, and has carried it into physical science with a faith, shared by some of the most thoughtful mathematical naturalists of the day, that it is destined to become an engine of perhaps hitherto unimagined power for investigating and expressing results in Natural Philosophy. Of Herschel's gigantic work in astronomical observation I need say nothing. Doubtless a careful account of it will be given in the 'Proceedings of the Royal Society of London' for the next anniversary meeting.
 
-Thou, in our wonder and astonishment, 
+In the past year another representative man of British science is gone. Mathematics has had no steadier supporter for half a century than De Morgan. His great book on the differential calculus was, for the mathematical student of thirty years ago, a highly prized repository of all the best things that could be brought together under that title. I do not believe it is less valuable now; and if it is less valued, may this not be because it is too good for examination purposes, and because the modern student, labouring to win marks in the struggle for existence, must not suffer himself to be beguiled from the stern path of duty by any attractive beauties in the subject of his study?
 
-Hast built thyself a live-long monument. 
+One of the most valuable services to science which the British Association has performed has been the establishment, and the twenty-nine years' maintenance, of its Observatory. The Royal Meteorological Observatory of Kew was built originally for a Sovereign of England who was a zealous amateur of astronomy. George the Third used continually to repair to it when any celestial phenomenon of peculiar interest was to be seen; and a manuscript book still exists filled with observations written into it by his own hand. After the building had been many years unused, it was granted, in the year 1842, by the Commissioners of Her Majesty's Woods and Forests, on application of Sir Edward Sabine, for the purpose of continuing observations (from which he had already deduced important results) regarding the vibration of a pendulum in various gases, and for the purpose of promoting pendulum observations in all parts of the world. The Government granted only the building --- no funds for carrying on the work to be done in it. The Royal Society was unable to undertake the maintenance of such an observatory; but, happily for science, the zeal of individual Fellows of the Royal Society and Members of the British Association gave the initial impulse, supplied the necessary initial funds, and recommended their new institution successfully to the fostering care of the British Association. The work of the Kew Observatory has, from the commencement, been conducted under the direction of a Committee of the British Association; and annual grants from the funds of the Association have been made towards defraying its expenses up to the present time. To the initial object of pendulum research was added continuous observation of the phenomena of meteorology and terrestrial magnetism, and the construction and verification of thermometers, barometers, and magnetometers designed for accurate measurement. The magnificent services which it has rendered to science are so well known that any statement of them which I could attempt on tho present occasion would be superfluous. Their value is due in a great measure to the indefatigable zeal and the great ability of two Scotchmen, both from Edinburgh, who successively held the office of Superintendent of the Observatory of the British Association --- Mr. Welsh for nine years, until his death in 1859, and Dr. Balfour Stewart from then until the present time. Fruits of their labours are to be found all through our volumes of Reports for these twenty-one years.
 
-And, so sepulchred, in such pomp dost lie, 
+The institution now enters on a new stage of its existence. The noble liberality of a private benefactor, one who has laboured for its welfare with self-sacrificing devotion unintermittingly from within a few years of its creation, has given it a permanent independence, under the general management of a Committee of the Royal Society. Mr. Gassiot's gift of £10,000 secures the continuance at Kew of the regular operation of the self-recording instruments for observing the phenomena of terrestrial magnetism and meteorology, without the necessity for further support from the British Association.
 
-That kings for such a tomb would wish to die. 
+The success of the Kew Magnetic and Meteorological Observatory affords an example of the great gain to be earned for science by the foundation of physical observatories and laboratories for experimental research, to be conducted by qualified persons, whose duties should be, not teaching, but experimenting. Whether we look to the honour of England, as a nation which ought always to be the foremost in promoting physical science, or to those vast economical advantages which must accrue from such establishments, we cannot but feel that experimental research ought to be made with us an object of national concern, and not left, as hitherto, exclusively to the private enterprise of self-sacrificing amateurs, and the necessarily inconsecutive action of our present Governmental Departments and of casual Committees. The Council of the Royal Society of Edinburgh has moved for this object in a memorial presented by them to the Royal Commission on Scientific Education and the Advancement of Science. The Continent of Europe is referred to for an example to be followed with advantage in this country, in the following words:---
 
-With regard to Sir John Herschel's scientific work, on the present occa¬ 
-sion I can but refer briefly to a few points which seem to me salient in his 
-physical and mathematical writings. First, I remark that he has put 
-forward, most instructively and profitably to his readers, the general theory 
-of periodicity in dynamics, and has urged the practical utilizing of it, espe¬ 
-cially in meteorology, by the harmonic analysis. It is purely by an appli¬ 
-cation of this principle and practical method, that the British Association's 
-Committee on Tides has for the last four years been, and still is, working 
-towards the solution of the^grand problem proposed forty- eight years ago by 
-Thomas Young in the following words ; --- 
+"On the Continent there exist certain institutions, fitted with instruments, apparatus, chemicals, and other appliances, which are meant to be, and which are made, available to men of science, to enable them, at a moderate cost, to pursue original researches."
 
-"There is, indeed, little doubt that if we were provided with a sufficiently 
-"correct series of minutely accurate observations on the Tides, made not merely 
-"with a view to the times of low and high water only, hut rather to the heights 
-"at the intermediate times, we might form, by degrees, with the assistance 
-"of the theory contained in this article * only, almost as perfect a set of tables 
-"for the motions of the ocean as we have already obtained for those of the 
+This statement is fully corroborated by information, on good authority, which I have received from Germany, to the effect that in Prussia "every university, every polytechnical academy, every industrial school (Realschule and Gewerbeschule), most of the grammar-schools, in a word, nearly all the schools superior in rank to the elementary schools of the common people, are supplied with chemical laboratories and a collection of philosophical instruments and apparatus, access to which is most liberally granted by the directors of those schools, or the teachers of the respective disciplines, to any person qualified, for _scientific experiments_. In consequence, though there exist no particular institutions like those mentioned in the memorial, there will scarcely be found a town exceeding in number 5000 inhabitants but offers the possibility of _scientific explorations_ at no other cost than reimbursement of the expense for the materials wasted in the experiments."
 
+Further, with reference to a remark in the Memorial to the effect that, in respect to the promotion of science, the British Government confines its action almost exclusively to scientific instruction, and fatally neglects the advancement of science, my informant tells me that, in Germany, "professors, preceptors, and teachers of secondary schools are engaged on account of their skilfulness in _teaching_; but professors of universities are never engaged unless they have already proved, _by their own investigations_, that they are to be relied upon for the _advancement of science_. Therefore every shilling spent for instruction in universities is at the same time profitable to the advancement of science."
 
-"celestial bodies, which are the more immediate objects of the attention of 
-"the practical astronomer."
+The physical laboratories which have grown up in the Universities of Glasgow and Edinburgh, and in Owens College, Manchester, show the want felt of Colleges of Research; but they go but infinitesimally towards supplying it, being absolutely destitute of means, material or personal, for advancing science except at the expense of volunteers, or securing that volunteers shall be found to continue even such little work as at present is carried on.
 
-Sir John ITerscheTs discovery of a right or left-handed asymmetry in the 
-outward form of crystals, such as quartz, which in their inner molecular 
-structure possess the heliqoidal rotational property in reference to the plane 
-of polarization of light, is one of the notable points of meeting between 
-Natural History and Natural Philosophy. His observations on "epipolic di¬ 
-spersion "gave Stokes the clue by which he was led to his great discovery of 
-the change of periodic time experienced by light in falling on certain substances 
-and being dispersively reflected from them. In respect to pure mathematics 
+The whole of Andrews' splendid work in Queen's College, Belfast, has been done under great difficulties and disadvantages, and at great personal sacrifices; and up to the present time there is not a student's physical laboratory in any one of the Queen's Colleges in Ireland --- a want which surely ought not to remain unsupplied. Each of these institutions (the four Scotch Universities, the three Queen's Colleges, and Owens College, Manchester) requires two professors of Natural Philosophy --- one who shall be responsible for the teaching, the other for the advancement of science by experiment. The University of Oxford has already established a physical laboratory. The munificence of its Chancellor is about to supply the University of Cambridge with a splendid laboratory, to be constructed under the eye of Professor Clerk Maxwell. On this subject I shall say no more at present, but simply read a sentence which was spoken by Lord Milton in the first Presidential Address to the British Association, when it met at York in the year 1831:--- "In addition to other more direct benefits, these meetings [of the British Association], I hope, will be the means of impressing on the Government the conviction, that the love of scientific pursuits, and the means of pursuing them, are not confined to the metropolis; and I hope that when the Government is fully impressed with the knowledge of the great desire entertained to promote science in every part of the empire, they will see the necessity of affording it due encouragement, and of giving every proper stimulus to its advancement."
 
-* Young's; written in 1823 for the Supplement to the ‘ Fneycloprcdia Britannicn.' 
-
-
-Sir John Herschel did more, I believe, than any other man to introduce into 
-Britain the powerful methods and the valuable notation of modern analysis. 
-A remarkable mode of symbolism had freshly appeared, I believe, in the 
-works of Laplace, and possibly of other French mathematicians ; it certainly 
-appeared in Fourier, but whether before or after Herschel's work I cannot 
-say. With the French writers, however, this was rather a short method of 
-writing formulae than the analytical engine which it became in the hands 
-of Herschel and British followers, especially Sylvester and Gregory (com¬ 
-petitors with Green in the Cambridge Mathematical Tripos struggle of 3837) 
-and Boole and Cayley. This method was greatly advanced by Gregory, who 
-first gave to its working-power a secure and philosophical foundation, and so 
-prepared the way for the marvellous extension it has received from Boole, 
-Sylvester, and Cayley, according to which symbols of operation become the 
-subjects not merely of algebraic combination, but of differentiations and in¬ 
-tegrations, as if they were symbols expressing values of varying quantities. 
-An even more marvellous development of this same idea of the separation of 
-symbols (according to which Gregory separated the algebraic signs + and --- 
-from other symbols or quantities to be characterized by them, and dealt with 
-them according to the laws of algebraic combination) received from Hamilton 
-a most astonishing generalization, by the invention actually of new laws of 
-combination, and led him to his famous "Quaternions,"of which he gave 
-his earliest exposition to the Mathematical and Physical Section of this As¬ 
-sociation, at its meeting in Cambridge in the year^l.845. Tait has taken up 
-the subject of quaternions ably and zealously, and has carried it into phy¬ 
-sical science with a faith, shared hy some of the most thoughtful mathematical 
-naturalists of the day, that it is destined to become an engine of perhaps 
-hitherto unimagined power for investigating and expressing results in 
-Natural Philosophy. Of Herschel's gigantic work in astronomical observa¬ 
-tion I need say nothing. Doubtless a careful account of it will be given 
-in the ‘ Proceedings of the Boyal Society of London 9 for the next anniver¬ 
-sary meeting. 
-
-In the past year another representative man of British science is gone. 
-Mathematics has had no steadier supporter for half a century than Do 
-Morgan. His great book on the differential calculus was, for the mathema¬ 
-tical student of thirty years ago, a highly prized repository of all the best 
-things that could be brought together under that title. I do not believe 
-it is less valuable now ; and if it is less valued, may this not be because it 
-is too good for examination purposes, and because the modern student, 
-labouring to win marks in the struggle for existence, must not suffer himself 
-to be beguiled from the stern path of duty by any attractive beauties in the 
-subject of his study ? 
-
-One of the most valuable services to science which the British Association 
-
-
-has performed has been the establishment, and the twenty-nine years' 
-maintenance, of its Observatory. The Royal Meteorological Observatory of 
-Kew was built originally for a Sovereign of England who was a zealous 
-amateur of astronomy. George the Third used continually to repair to it 
-when any celestial phenomenon of peculiar interest was to be seen ; and a 
-manuscript book still exists filled with observations written into it by his 
-own hand. After the building had been many years unused, it was 
-granted, in the year 1842, by the Commissioners of Her Majesty's Woods 
-and Forests, on application of Sir Edward Sabine, for the purpose of con¬ 
-tinuing observations (from which he had already deduced important results) 
-regarding the vibration of a pendulum in various gases, and for the purpose 
-of promoting pendulum observations in all parts of the world. The 
-Government granted only the building --- no funds for carrying on the work 
-to be done in it. The Royal Society was unable to undertake the main¬ 
-tenance of such an observatory ; but, happily for science, the zeal of in¬ 
-dividual Fellows of the Royal Society and Members of the British Asso¬ 
-ciation gave the initial impulse, supplied the necessary initial funds, and 
-recommended their new institution successfully to the fostering care of the 
-British Association. The work of the Kew Observatory has, from the 
-commencement, been conducted under the direction of a Committee of the 
-British Association ; and annual grants from the funds of the Association have 
-been made towards defraying its expenses up to the present time. To the 
-initial object of pendulum research was added continuous observation of the 
-phenomena of meteorology and terrestrial magnetism, and the construction 
-and verification of thermometers, barometers, and magnetometers designed 
-for accurate measurement. The magnificent services which it has rendered 
-to science are so well known that any statement of them which I could at¬ 
-tempt on tho present occasion would be superfluous. Their value is due in a 
-great measure to the indefatigable zeal and the great ability of two Scotchmen, 
-both from Edinburgh, who successively held the office of Superintendent of 
-the Observatory of the British Association --- Mr. Welsh for nine years, until 
-his death in 1859, and I)r. Balfour Stewart from then until the present 
-time. Fruits of their labours are to be found all through our volumes of 
-Reports for these twenty-one years. 
-
-The institution now enters on a new stage of its existence. The noble 
-liberality of a private benefactor, one who has laboured for its welfare with 
-self-sacrificing devotion unintermittingly from within a few years of its crea¬ 
-tion, has given it a permanent independence, under the general management 
-of a Committee of the Royal Society. Mr. Gassiot's gift of =£10,000 secures 
-the continuance at Kew of the regular operation of the self-recording instru¬ 
-ments for observing the phenomena of terrestrial magnetism and meteorology, 
-without the necessity for further support from the British Association. 
-
-The success of the Kew Magnetic and Meteorological Observatory affords 
-an example of the great gain to bo earned for science by the founda¬ 
-tion of physical observatories and laboratories for experimental research, 
-to be conducted by qualified persons, whose duties should be, not teach¬ 
-ing, but experimenting. Whether we look to the honour of England, as a 
-nation which ought always to be the foremost in promoting physical science, 
-or to those vast economical advantages which must accrue from such estab¬ 
-lishments, we cannot but feel that experimental research ought to be made 
-with us an object of national concern, and not left, as hitherto, exclusively 
-to the private enterprise of self-sacrificing amateurs, and the necessarily 
-inconsecutive action of our present Governmental Departments and of casual 
-Committees. The Council of the Itoyal Society of Edinburgh has moved for 
-this object in a memorial presented by them to the Koyal Commission on 
-Scientific Education and the Advancement of Science. The Continent of 
-Europe is referred to for an example to be followed with advantage in this 
-country, in the following words : --- 
-
-"On the Continent there exist certain institutions, fitted with instruments, 
-"apparatus, chemicals, and other appliances, which are meant to be, and 
-"which are made, available to men of science, to enable them, at a moderate 
-"cost, to pursue original researches."
-
-This statement is fully corroborated by information, on good authority, 
-which I have received from Germany, to the effect that in Prussia "every 
-"university, every polytechnical academy, every industrial school (Bealschule 
-"and Gewerbeschule), most of the grammar-schools, in a word, nearly all the 
-"schools superior in rank to the elementary schools of the common people, are 
-"supplied with chemical laboratories and a collection of philosophical in- 
-"struments and apparatus, access to which is most liberally granted by the 
-"directors of those schools, or the teachers of the respective disciplines, to 
-"any person qualified, for scientific experiments. In consequence, though 
-"there exist no particular institutions like those mentioned in the me- 
-"morial, there will scarcely be found a town exceeding in number 5000 
-"inhabitants but offers the possibility of scientific explorations at no other 
-"cost than reimbursement of the expense for the materials wasted in the 
-"experiments."
-
-Eurther, with reference to a remark in the Memorial to the effect that, in 
-respect to the promotion of science, the British Government confines its 
-action almost exclusively to scientific instruction, and fatally neglects the 
-advancement of science, my informant tells me that, in Germany, "professors, 
-
-"preceptors, and ‘teachers of secondary schools are engaged on account of 
-"their skilfulness in teaching ; but professors of universities are never engaged 
-"unless they have already proved, by their own investigations , that they are 
-"to be relied upon for the advancement of science . Therefore every shilling 
-
-"spent for instruction in universities is at tlie same time profitable tothoad- 
-"vancement of science."
-
-Tho physical laboratories which have grown up in the Universities of 
-Glasgow and Edinburgh, and in Owens College, Manchester, show tho want 
-felt of Colleges of Eesearch ; but they go but infinitesimally towards sup¬ 
-plying it, being absolutely destitute of means, material or personal, for ad¬ 
-vancing science except at the expense of volunteers, or securing that volunteers 
-shall be found to continue even such little work as at present is carried on. 
-
-The whole of Andrews' splendid work in Queen's College, Belfast, has 
-been done under great difficulties and disadvantages, and at great personal 
-sacrifices ; and up to the present time there is not a student's physical 
-laboratory in any one of the Queen's Colleges in Ireland --- a want which 
-surely ought not to remain unsupplied. Each of these institutions (the 
-four Scotch Universities, the three Queen's Colleges, and Owens College, 
-
-
-Manchester) requires two professors of Natural Philosophy --- one who shall 
-bo responsible for the teaching, the other for the advancement of science by 
-experiment. The University of Oxford has already established a physical 
-laboratory. The munificence of its Chancellor is about to supply the Univer¬ 
-sity of Cambridge with a splendid laboratory, to be constructed under the 
-eye of Professor Clerk Maxwell. On this subject I shall say no more at 
-present, but simply read a sentence which was spoken by Lord Milton in the 
-first Presidential Address to the British Association, when it met at York in 
-the year 1831 : --- "In addition to other more direct benefits, these meetings 
-"[of the British Association], I hope, will be the means of impressing on the 
-"Government the conviction, that the love of scientific pursuits, and the 
-"means of pursuing them, are not confined to the metropolis ; and I hope 
-"that when the Government is fully impressed with the knowledge of the 
-"great desire entertained to promote science in every part of the empire, they 
-u will see the necessity of affording it due encouragement, and of giving every 
-"proper stimulus to its advancement."
-
-Besides abstracts of papers read, and discussions held, before tho Sec¬ 
-tions, the annual Beports of the British Association contain a large mass 
-of valuable matter of another class. It was an early practice of the Associa¬ 
-tion, a practice that might well be further developed, to call occasionally for 
-a special report on some particular branch of science from a man eminently 
-qualified for the task. The reports received in compliance with these invita¬ 
-tions have all done good service in their time, and they remain permanently 
-useful as landmarks in the history of science. Some of them have led to 
-vast practical results ; others of a more abstract character are valuable to 
-this day as powerful and instructive condensations and expositions of the 
-branches of science to which they relate. I cannot better illustrate the two 
-kinds of efficiency realized in this department of the Association's work than 
-by referring- to Cayley's Report on Abstract Dynamics * and Sabine's Report 
-on Terrestrial Magnetism f (1838). 
+Besides abstracts of papers read, and discussions held, before tho Sections, the annual Reports of the British Association contain a large mass of valuable matter of another class. It was an early practice of the Association, a practice that might well be further developed, to call occasionally for a special report on some particular branch of science from a man eminently qualified for the task. The reports received in compliance with these invitations have all done good service in their time, and they remain permanently useful as landmarks in the history of science. Some of them have led to vast practical results; others of a more abstract character are valuable to this day as powerful and instructive condensations and expositions of the branches of science to which they relate. I cannot better illustrate the two kinds of efficiency realized in this department of the Association's work than by referring to Cayley's Report on Abstract Dynamics* and Sabine's Report on Terrestrial Magnetism* (1838).
 
 To the great value of the former, personal experience of benefit received 
 enables me, and gratitude impels me, to testify. In a few pages full of 
