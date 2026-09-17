@@ -144,293 +144,30 @@ For a few years Mayer's theory of solar heat had seemed to me probable; but I ha
 
 Thus on purely astronomical grounds was I long ago led to abandon as very improbable the hypothesis that the Sun's heat is supplied dynamically from year to year by the influx of meteors. But now spectrum analysis gives proof finally conclusive against it.
 
-Each meteor circulating round the Sun must fall in along a very gradual 
-spiral path, and before reaching the Sun must have been for a long time 
-exposed to an enormous heating effect from his radiation when very near, 
-and must thus have been driven into vapour before actually falling into the 
-Sun. Thus, if Mayer's hypothesis is correct, friction between vortices of 
-meteoric vapours and the Sun's atmosphere must be the immediate cause of 
-solar heat ; and the velocity with which these vapours circulate round equa¬ 
-torial parts of the Sun must amount to 435 kilometres per second. The 
-spectrum test of velocity applied by Lockyer showed but a twentieth part of 
-this amount as the greatest observed relative velocity between different 
-vapours in the Sun's atmosphere. 
+Each meteor circulating round the Sun must fall in along a very gradual spiral path, and before reaching the Sun must have been for a long time exposed to an enormous heating effect from his radiation when very near, and must thus have been driven into vapour before actually falling into the Sun. Thus, if Mayer's hypothesis is correct, friction between vortices of meteoric vapours and the Sun's atmosphere must be the immediate cause of solar heat; and the velocity with which these vapours circulate round equatorial parts of the Sun must amount to 435 kilometres per second. The spectrum test of velocity applied by Lockyer showed but a twentieth part of this amount as the greatest observed relative velocity between different vapours in the Sun's atmosphere.
 
-At the first Liverpool Meeting of the British Association (1854), in ad¬ 
-vancing a gravitational theory to account for ail the heat, light, and motions 
-of the universe, I urged that the immediately antecedent condition of the 
-matter of which the Sun and Planets were formed, not being fiery, could not 
-have been gaseous ; but that it probably was solid, and may have been like 
-the meteoric stones which we still so frequently meet with through space. 
-The discovery of Huggins, that the light of the Nebulae, so far as hitherto 
-sensible to us, proceeds from incandescent hydrogen and nitrogen gases, and 
-that the heads of comets also give us light of incandescent gas, seems at first 
-sight literally to fulfil that part of the Nebular hypothesis to which I had 
-objected. But a solution, which seems to me in the highest degree probable, 
-has been suggested by Tait. He supposes that it may be by ignited gaseous 
-exhalations proceeding from the collision of meteoric stones that Nebulae and 
-the heads of Comets show themselves to us, and he suggested, at a former 
-meeting of the Association, that experiments should be made for the purpose 
-of applying spectrum analysis to the light which has been observed in 
-gunnery trials, such as those at Shoeburyness, when iron strikes against iron 
+At the first Liverpool Meeting of the British Association (1854), in advancing a gravitational theory to account for all the heat, light, and motions of the universe, I urged that the immediately antecedent condition of the matter of which the Sun and Planets were formed, not being fiery, could not have been gaseous; but that it probably was solid, and may have been like the meteoric stones which we still so frequently meet with through space. The discovery of Huggins, that the light of the Nebulæ, so far as hitherto sensible to us, proceeds from incandescent hydrogen and nitrogen gases, and that the heads of comets also give us light of incandescent gas, seems at first sight literally to fulfil that part of the Nebular hypothesis to which I had objected. But a solution, which seems to me in the highest degree probable, has been suggested by Tait. He supposes that it may be by ignited gaseous exhalations proceeding from the collision of meteoric stones that Nebulæ and the heads of Comets show themselves to us, and he suggested, at a former meeting of the Association, that experiments should be made for the purpose of applying spectrum analysis to the light which has been observed in gunnery trials, such as those at Shoeburyness, when iron strikes against iron at a great velocity, but varied by substituting for the iron various solid materials, metallic or stony. Hitherto this suggestion has not been acted upon; but surely it is one the carrying out of which ought to be promoted by the British Association.
 
-* "Mechanical Energies "&c. 
+*) "Mechanical Energies" etc.
 
-f "Age of the Sun's Heat"(MacMillan's Magazine, March 1862). 
+*) "Age of the Sun's Heat" (MacMillan's Magazine, March 1862).
 
-at a great velocity, but varied by substituting for the iron various solid 
-materials, metallic or stony. Hitherto this suggestion has not been acted 
-upon ; but surely it is one the carrying out of which ought to bo promoted 
-by the British Association. 
+Most important steps have been recently made towards the discovery of the nature of comets; establishing with nothing short of certainty the truth of a hypothesis which had long appeared to me probable, --- that they consist of groups of meteoric stones;--- accounting satisfactorily for the light of the nucleus; and giving a simple and rational explanation of phenomena presented by the tails of comets which had been regarded by the greatest astronomers as almost preternaturally marvellous. The meteoric hypothesis to which I have referred remained a mere hypothesis, (I do not know that it is was ever even published,) until, in 1866, Schiaparelli calculated, from observations on the August meteors, an orbit for these bodies which he found to agree almost perfectly with the orbit of the great comet of 1862 as calculated by Oppolzer; and so discovered and demonstrated that a comet consists of a group of meteoric stones. Professor Newton, of Yale College, United States, by examining ancient records, ascertained that in periods of about thirty-three years, since the year 902, there have been exceptionally brilliant displays of the November meteors. It had long been believed that these interesting visitants came from a train of small detached planets circulating round the Sun all in nearly the same orbit, and constituting a belt analogous to Saturn's ring, and that the reason for the comparatively large number of meteors which we observe annually about the 14th of November is, that at that time the earth's orbit cuts through the supposed meteoric belt. Professor Newton concluded from his investigation that there is a denser part of the group of meteors which extends over a portion of the orbit so great as to occupy about one-tenth or one-fifteenth of the periodic time in passing any particular point, and gave a choice of five different periods for the revolution of this meteoric stream round the sun, any one of which would satisfy his statistical result. He further concluded that the line of nodes, that is to say, the line in which the plane of the meteoric belt cuts the plane of the Earth's orbit, has a progressive sidereal motion of about 52.4′ ′ per annum. Here, then, was a splendid problem for the physical astronomer; and, happily, one well qualified for the task, took it up. Adams, by the application of a beautiful method invented by Gauss, found that of the five periods allowed by Newton just one permitted the motion of the line of nodes to be explained by the disturbing influence of Jupiter, Saturn, and other planets. The period chosen on these grounds is 33 1/4 years. The investigation showed further that the form of the orbit is a long ellipse, giving for shortest distance from the Sun 145 million kilometres, and for longest distance 2895 million kilometres. Adams also worked out the longitude of the perihelion and the inclination of the orbit's plane to the plane of the ecliptic. The orbit which he thus found agreed so closely with that of Tempel's Comet 1. 1866 that he was able to identify the comet and the meteoric belt.* The same conclusion had been pointed out a few weeks earlier by Schiaparelli, from calculations by himself on data supplied by direct observations on the meteors, and independently by Peters from calculations by Leverrier on the same foundation. It is therefore thoroughly established that Temple's Comet 1. 1866 consists of an elliptic train of minute planets, of which a few thousands or millions fall to the earth annually about the 14th of November, when we cross their track. We have probably not yet passed through the very nucleus or densest part; but thirteen times, in Octobers and Novembers, from October 13, 902 CE to November 14, 1866 inclusive (this last time having been correctly predicted by Prof. Newton), we have passed through a part of the belt greatly denser than the average. The densest part of the train, when near enough to us, is visible as the head of the comet. This astounding result, taken along with Huggins's spectroscopic observations on the light of the heads and tails of comets, confirm most strikingly Tait's theory of comets, to which I have already referred; according to which the comet, a group of meteoric stones, is self-luminous in its nucleus, on account of collisions among its constituents, while its "tail" is merely a portion of the less dense part of the train illuminated by sunlight, and visible or invisible to us according to circumstances, not only of density, degree of illumination, and nearness, but also of tactic arrangement, as of a flock of birds or the edge of a cloud of tobacco smoke! What prodigious difficulties are to be explained, you may judge from two or three sentences which I shall read from Herschel's Astronomy, and from the fact that even Schiaparelli seems still to believe in the repulsion. "There is, beyond question, some profound secret and mystery of nature concerned in the phenomenon of their tails. Perhaps it is not too much to hope that future observation, borrowing every aid from rational speculation, grounded on the progress of physical science generally (especially those branches of it which relate to the etherial or imponderable elements), may enable us ere long to penetrate this mystery, and to declare whether it is really _matter_ in the ordinary acceptation of the term which is projected from their heads with such extraordinary velocity, and if not _impelled_, at least _directed_, in its course, by reference to the Sun, as its point of avoidance."*
 
-Host important steps have been recently made towards the discovery of the 
-nature of comets ; establishing with nothing short of certainty the truth of a 
-hypothesis which had long appeared to me probable, --- that theyconsistof groups 
-of meteoric stones ; --- accounting satisfactorily for the light of the nucleus ; 
-and giving a simple and rational explanation of phenomena presented by the 
-tails of comets which had been regarded by the greatest astronomers as almost 
-preternaturally marvellous. The meteoric hypothesis to which I have referred 
-remained a mere hypothesis, (I do not know that it is was ever even pub¬ 
-lished,) until, in 1866, Schiaparelli calculated, from observations on the 
-August meteors, an orbit for these bodies which he found to agree almost 
-perfectly with the orbit of the great comet of 1862 as calculated by Oppolzer ; 
-and so discovered and demonstrated that a comet consists of a group of 
-meteoric stones. Professor Newton, of Yale College, United States, by examin¬ 
-ing ancient records, ascertained that in periods of about thirty-three years, 
-since the year 902, there have been exceptionally brilliant displays of the 
-November meteors. It had long been believed that these interesting visi¬ 
-tants came from a train of small detached planets circulating round the Sun 
-all in nearly the same orbit, and constituting a belt analogous to Saturn's 
-ring, and that the reason for the comparatively large number of meteors 
-which we observe annually about the 14th of November is, that at that 
-time the earth's orbit cuts through the supposed meteoric belt. Professor 
-Newton concluded from his investigation that there is a denser part of 
-the group of meteors which extends over a portion of the orbit so great 
-as to occupy about one-tenth or one-fifteenth of the periodic time in 
-passing any particular point, and gave a choice of five different periods for 
-the revolution of this meteoric stream round the sun, any one of which would 
-satisfy his statistical result. He further concluded that the line of nodes, 
-that is to say, the line in which the plane of the meteoric belt cuts the plane 
-of the Earth's orbit, has a progressive sidereal motion of about 52"*4 per 
-annum. Here, then, was a splendid problem for the physical astronomer ; 
-and, happily, one well qualified for the task, took it up. Adams, by the 
-application of a beautiful method invented by Gauss, found that of the five 
-periods allowed by Newton just one permitted the motion of the line of nodes 
-to be explained by the disturbing influence of Jupiter, Saturn, and other 
-planets. The period chosen on these grounds is 33| years. The inves¬ 
-tigation showed further that the form of the orbit is a long ellipse, giving 
-for shortest distance from the Sun 145 million kilometres, and for longest 
-distance 2895 million kilometres. Adams also worked out the longitude 
+*) Signor Schiaparelli, Director of the Observatory of Milan, who, in a letter dated 31st December 1866, pointed out that the elements of the orbit of the _August_ Meteors, calculated from the observed position of their radiant point on the supposition of the orbit being a very elongated ellipse agreed very closely with those of the orbit of Comet 2. 1862, calculated by Dr. Oppolzer. In the same letter Schiaparelli gives elements of the orbit of the November meteors, but these were not sufficiently accurate to enable him to identify the orbit with that of any known comet. On the 21st January, 1867, M. Leverrier gave more accurate elements of the orbit of the November Meteors, and in the Astronomische Nachrichten of January 9, Mr. C. F. W. Peters, of Altona, pointed out that these elements closely agreed with those of Tempel's Comet (1. 1866), calculated by Dr. Oppolzer, and on February 2, Schiaparelli having recalculated the elements of the orbit of the meteors, himself noticed the same agreement. Adams arrived quite independently at the conclusion that the orbit of 33 1/4 years period, is the one which _must_ be chosen, out of the five indicated by Prof. Newton. His calculations were sufficiently advanced before the letters referred to appeared, to show that the other four orbits offered by Newton were inadmissible. But the calculations to be gone through to find the secular motion of the node in such an elongated orbit as that of the meteors, were necessarily very long, so that they were not completed till about March, 1867. They were communicated in that month to the Cambridge Philosophical Society, and in the month following to the Astronomical Society.
 
-of the perihelion and the inclination of the orbit's plane to the plane of the 
-ecliptic. The orbit which he thus found agreed so closely with that of 
-Tempel's Comet I. 1866 that he was able to identify the comet and the 
-meteoric belt *. The same conclusion had been pointed out a few weeks 
-earlier by Schiaparelli, from calculations by himself on data supplied by 
-direct observations on the meteors, and independently by Peters from calcu¬ 
-lations by Lcverrier on the same foundation. It is therefore thoroughly 
-established that Temple's Comet L 1866 consists of an elliptic train of minute 
-planets, of which a few thousands or millions fall to the earth annually about 
-the 14th of November, when we cross their track. We have probably not 
-yet passed through the very nucleus or densest part ; but thirteen times, in 
-Octobers and Novembers, from October 13, a.d. 902 to November 14, 1866 
-inclusive (this last time having been correctly predicted by Prof. Newton), 
-we have passed through a part of the belt greatly denser than the average. 
-The densest part of the train, when near enough to us, is visible as the head 
-of the comet. This astounding result, taken along with Huggins's spectro¬ 
-scopic observations on the light of the heads and tails of comets, confirm 
-most strikingly Tail's theory of comets, to which I have already referred ; 
-according to which the comet, a group of meteoric stones, is self-luminous 
-in its nucleus, on account of collisions among its constituents, while its "tail "
-is merely a portion of the less dense part of the train illuminated by sunlight, 
-and visible or invisible to us according to circumstances, not only of density, 
-degree of illumination, and nearness, but also of tactic arrangement, as of a 
-flock of birds or the edge of a cloud of tobacco smoke ! What prodigious diffi¬ 
-culties are to be explained, you may judge from two or three sentences which 
+"In no respect is the question as to the materiality of the tail more forcibly pressed on us for consideration than in that of the enormous sweep which it makes round the sun _in perihelio_ in the manner of a straight and rigid rod, _in defiance of the law of gravitation_, nay, even, _of the received_ laws of motion."*
 
-* Signor Schiaparelli, Director of the Observatory of Milan, who, in a letter dated 31st 
-December 1866, pointed out that the elements of the orbit of the August Meteors, calcu¬ 
-lated from the observed position of their radiant point on the supposition of the orbit 
-being a very elongated ellipse agreed very closely with those of the orbit of Comet II 1862, 
-calculated by Dr. Oppolzer. In the same letter Schiaparelli gives elements of the orbit 
-of the November meteors, but these were not sufficiently accurate to enable him to identify 
-the orbit with that of any known comet. On the 21st January, 1867, M. Leverrier gave 
-more accurate elements of the orbit of the November Meteors, and in the Astronomische 
-Naehrichten of January 9, Mr. C. F. W. Peters, of Altona, pointed out that these elements 
-closely agreed with those of Tempel's Comet (I. 1866), calculated by Dr. Oppolzer, and 
-on February 2, Schiaparelli having recalculated the elements of the orbit of the meteors^ 
-himself noticed the same agreement. Adams arrived quite independently at the conclusion 
-that the orbit of 334 7ears period, is the one which must be chosen, out of the five indi¬ 
-cated by Prof. Newton. His calculations were sufficiently advanced before the letters 
-referred to' appeared, to show that the other four orbits offered by Newton were inadmissible. 
-But the calculations to be gone through to find the secular motion of the node in such an 
-elongated orbit as that of the meteors, were necessarily very long, so that they were not 
-completed till about March, 1867. They were communicated in that month to the 
-Cambridge Philosophical Society, and in. the month following to the Astronomical 
-Scoiety. 
+"The projection of this ray... to so enormous a length, in a single day conveys an impression of the intensity of the forces acting to produce such a velocity of material transfer through space, such as no other natural phenomenon is capable of exciting. It is clear that _if we have to deal here with matter, such as we conceive it_, viz., _possessing inertia --- at all_, it must be under the dominion of forces incomparably more energetic than gravitation, and quite of a different nature."*
 
-I shall read from llerschel's Astronomy, and from the fact that even Schiaparelli 
-seems still to believe in the repulsion. "There is, beyond question, some 
-"profound secret and mystery of nature concerned in the phenomenon of 
-"their tails. Perhaps it is not too much to hope that future observation, 
-"borrowing every aid from rational speculation, grounded on the progress of 
-"physical science generally (especially those branches of it which relate to 
-"the etherial or imponderable elements), may enable us ere long to penetrate 
-"this mystery, and to declare whether it is really matter in the ordinary 
-"acceptation of the term which is projected from their heads with such 
-"extraordinary velocity, and if not impelled , at least directed, in its course, 
-by reference to the Sun, as its point of avoidance "*. 
+Think now of the admirable simplicity with which Tait's beautiful "sea-bird analogy," as it has been called, can explain all these phenomena.
 
-"In no respect is the question as to the materiality of the tail more for¬ 
-cibly pressed on us for consideration than in that of the enormous sweep 
-"which it makes round the sun in perihelio in the manner of a straight and 
-"rigid rod, in dejiance of the law of gravitation, nay, even, of the received], aws 
-"of motion 
+*) Herschel's Astronomy, § 599.
 
-"The projection of this ray ... to so enormous a length, in a single day 
-"conveys an impression of the intensity of the forces acting to produce such 
-"a velocity of material transfer through space, such as no other natural phe- 
-"nomeuon is capable of exciting. It is clear that if ivehave to deal here with 
-"matter, such as we conceive it, viz ., possessing inertia --- at cdl, it must be under 
-"the dominion of forces incomparably more energetic than gravitation, and 
-"quite of a different nature "f . 
+*) Herschel's Astronomy, 10th Edition, § 589.
 
-Think now of the admirable simplicity with which Tail's beautiful "sea¬ 
-bird analogy,"as it has been called, can explain all these phenomena. 
+The essence of science, as is well illustrated by astronomy and cosmical physics, consists in inferring antecedent, conditions, and anticipating future evolutions, from phenomena which have actually come under observation. In biology the difficulties of successfully acting up to this ideal are prodigious. The earnest naturalists of the present day are, however, not appalled or paralysed by them, and are struggling boldly and laboriously to pass out of the mere "Natural History stage" of their study, and bring zoology within the range of Natural Philosophy. A very ancient speculation, still clung to by many naturalists (so much so that I have a choice of modern terms to quote in expressing it) supposes that, under meteorological conditions very different from the present, dead matter may have run together or crystallized or fermented into "germs of life," or "organic cells," or "protoplasm." But science brings a vast mass of inductive evidence against this hypothesis of spontaneous generation, as you have heard from my predecessor in the Presidential chair. Careful enough scrutiny has, in every case up to the present day, discovered life as antecedent to life. Dead matter cannot become living without coming under the influence of matter previously alive. This seems to me as sure a teaching of science as the law of gravitation. I utterly repudiate, as opposed to all philosophical uniformitarianism, the assumption of "different meteorological conditions" --- that is to say, somewhat different vicissitudes of temperature, pressure, moisture, gaseous atmosphere --- to produce or to permit that to take place by force or motion of dead matter alone, which is a direct contravention of what seems to us biological law. I am prepared for the answer, "our code of biological law is an expression of our ignorance as well as of our knowledge." And I say yes: search for spontaneous generation out of inorganic materials; let any one not satisfied with the purely negative testimony of which we have now so much against it, throw himself into the inquiry. Such investigations as those of Pasteur, Pouchet, and Bastian are among the most interesting and momentous in the whole range of Natural History, and their results, whether positive or negative, must richly reward the most careful and laborious experimenting. I confess to being deeply impressed by the evidence put before us by Professor Huxley, and I am ready to adopt, as an article of scientific faith, true through all space and through all time, that life proceeds from life, and from nothing but life.
 
-The essence of science, as is well illustrated by astronomy and 
-cosmical physics, consists in inferring antecedent, conditions, and an¬ 
-ticipating future evolutions, from phenomena which have actually come 
-under observation. In biology the difficulties of successfully acting up 
-to this ideal are prodigious. The earnest naturalists of the present day 
-are, however, not appalled or paralysed by them, and arc struggling boldly 
-and laboriously to pass out of the mere "Natural History stage "of 
-their study, and bring zoology within the range of Natural Philosophy. 
-A very ancient speculation, still clung to by many naturalists (so much so 
-that I have a choice of modern terms to quote in expressing it) supposes that, 
-under meteorological conditions very different from the present, dead matter 
-may have run together or crystallized or fermented into "germs of life,"
-or "organic cells,'' or "protoplasm.'' Put science brings a vast mass of in¬ 
-ductive evidence against this hypothesis of spontaneous generation, as you 
-have heard from my predecessor in the Presidential chair. Careful enough 
+How, then, did life originate on the Earth? Tracing the physical history of the Earth backwards, on strict dynamical principles, we are brought to a red-hot melted globe on which no life could exist. Hence when the Earth was first fit for life, there was no living thing on it. There were rocks solid and disintegrated, water, air all round, warmed and illuminated by a brilliant Sun, ready to become a garden. Did grass and trees and flowers spring into existence, in all the fulness of ripe beauty, by a fiat of Creative Power? or did vegetation, growing up from seed sown, spread and multiply over the whole Earth? Science is bound, by the everlasting law of honour, to face fearlessly every problem which can fairly be presented to it. If a probable solution, consistent with the ordinary course of nature, can be found, we must not invoke an abnormal act of Creative Power. When a lava stream flows down the sides of Vesuvius or Etna it quickly cools and becomes solid; and after a few weeks or years it teems with vegetable and animal life, which for it originated by the transport of seed and ova and by the migration of individual living creatures. When a volcanic island springs up from the sea, and after a few years is found clothed with vegetation, we do not hesitate to assume that seed has been wafted to it through the air, or floated to it on rafts. Is it not possible, and if possible, is it not probable, that the beginning of vegetable life on the Earth is to be similarly explained? Every year thousands, probably millions, of fragments of solid matter fall upon the Earth --- whence came these fragments? What is the previous history of any one of them? Was it created in the beginning of time an amorphous mass? This idea is so unacceptable that, tacitly or explicitly, all men discard it. It is often assumed that all, and it is certain that some, meteoric stones are fragments which had been broken off from greater masses and launched free into space. It is as sure that collisions must occur between great masses moving through space as it is that ships, steered without intelligence directed to prevent collision, could not cross and recross the Atlantic for thousands of years with immunity from collisions. When two great masses come into collision in space it is certain that a large part of each is melted; but it seems also quite certain that in many cases a large quantity of débris must be shot forth in all directions, much of which may have experienced no greater violence than individual pieces of rock experience in a land-slip or in blasting by gunpowder. Should the time when this Earth comes into collision with another body, comparable in dimensions to itself, be when it is still clothed as at present with vegetation, many great and small fragments carrying seed and living plants and animals would undoubtedly be scattered through space. Hence and because we all confidently believe that there are at present, and have been from time immemorial, many worlds of life besides our own, we must regard it as probable in the highest degree that there are countless seed-bearing meteoric stones moving about through space. If at the present instant no life existed upon this Earth, one such stone falling upon it might, by what we blindly call _natural_ causes, lead to its becoming covered with vegetation. I am fully conscious of the many scientific objections which may be urged against this hypothesis, but I believe them to be all answerable. I have already taxed your patience too severely to allow me to think of discussing any of them on the present occasion. The hypothesis that life originated on this Earth through moss-grown fragments from the ruins of another world may seem wild and visionary; all I maintain is that it is not unscientific.
 
-* Ilcrschcl's Astronomy, § 599. 
-
-t Hcrscl.el'a Astronomy, 10th Edition, § 589. 
-
-scrutiny lias, in every case up to the present day, discovered life as antecedent 
-to life. Dead matter cannot become living without coming under the influ¬ 
-ence of matter previously alive. This seems to me as sure a teaching of science 
-as the law of gravitation. I utterly repudiate, as opposed to all philosophical 
-
-uniformitarianism, the assumption of "different meteorological conditions "_ 
-
-that is to say, somewhat different vicissitudes of temperature, pressure, 
-moisture, gaseous atmosphere--- to produce or to permit that to take place by 
-force or motion of dead matter alone, which is a direct contravention of what 
-seems to us biological law. I am prepared for the answer, "our code of 
-biological law is an expression of our ignorance as well as of our know- 
-u ledge."And I say yes : search for spontaneous generation out of inorganic 
-materials ; let any one not satisfied with the purely negative testimony of 
-which we have now so much against it, throw himself into the inquiry. Such 
-investigations as those of Pasteur, Pouchet, and Pastian are among the most 
-interesting and momentous in the whole range of Natural History, and their 
-results, whether positive or negative, must richly reward the most careful 
-and laborious experimenting. I confess to being deeply impressed by the 
-evidence put before us by Professor Huxley, and I am ready to adopt, as an 
-article of scientific faith, true through all space and through all time, that 
-life proceeds from life, and from nothing but life. 
-
-How, then, did life originate on the Earth ? Tracing the physical history 
-of the Earth backwards, on strict dynamical principles, we are brought to a 
-red-hot melted globe on which no life could exist. Hence when the Earth 
-was first fit for life, there was no living thing on it. There were rocks solid and 
-disintegrated, water, air all round, warmed and illuminated by a brilliant Sun, 
-ready to become a garden. Did grass and trees and flowers spring into exist¬ 
-ence, in all the fulness of ripe beauty, by a fiat of Creative Power? or did vege¬ 
-tation, growing up from seed sown, spread and multiply over the whole Earth ? 
-Science is bound, by the everlasting law of honour, to face fearlessly every pro¬ 
-blem which can fairly be presented to it. If a probable solution, consistent 
-with the ordinary course of nature, can be found, we must not invoke an abnor¬ 
-mal act of Creative Power. When a lava stream flows down the sides of Vesu¬ 
-vius or Etna it quickly cools and becomes solid; and after a few weeks or 
-years it teems with vegetable and animal life, which for it originated by the 
-transport of seed and ova and by the migration of individual living creatures. 
-When a volcanic island springs up from the sea, and after a few years is 
-found clothed with vegetation, we do not hesitate to assume that seed has 
-been wafted to it through the air, or floated to it on rafts. Is it not possible, 
-and if possible, is. it not probable, that the beginning of vegetable life on the 
-Earth is to be similarly explained ? Every year thousands, probably mil-' 
-lions, of fragments of solid matter fall upon the Earth--- whence came these 
-fragments ? What is the previous history of any one of them ? Was it created 
-
-
-iii the beginning of time an amorphous mass ? This idea is so unacceptable 
-that, tacitly or explicitly, all men discard it. It is often assumed that all, 
-and it is certain that some, meteoric stones are fragments which had been 
-broken off from greater masses and launched free into space. It is as sure 
-that collisions must occur between great masses moving through space as it 
-is that ships, steered without intelligence directed to prevent collision, could 
-not cross and recross the Atlantic for thousands of years with immunity from 
-collisions. When two great masses come into collision in space it is certain 
-that a large part of each is melted ; but it seems also quite certain that in 
-many cases a large quantity of debris must be shot forth in all directions, 
-much of which may have experienced no greater violence than individual 
-pieces of rock experience in a land-slip or in blasting by gunpowder. Should 
-the time when this Earth comes into collision with another body, comparable 
-in dimensions to itself, be when it is still clothed as at present with vege¬ 
-tation, many great and small fragments carrying seed and living plants and 
-animals would undoubtedly be scattered through space. Hence and because 
-we all confidently believe that there are at present, and have been from time 
-immemorial, many worlds of life besides our own, we must regard it as pro¬ 
-bable in the highest degree that there are countless seed-bearing meteoric 
-stones moving about through space. If at the present instant no life existed 
-upon this Earth, one such stone falling upon it might, by what we blindly 
-call natural causes, lead to its becoming covered with vegetation. I am fully 
-conscious of the many scientific objections which may be urged against this 
-hypothesis, but I believe them to be all answerable. I have already taxed 
-your patience too severely to allow me to think of discussing any of them on 
-the present occasion. The hypothesis that life originated on this Earth 
-through moss-grown fragments from the ruins of another world may seem 
-wild and visionary ; all I maintain is that it is not unscientific. 
-
-From the Earth stocked with such vegetation as it could receive meteorically, 
-to the Earth teeming with all the endless variety of plants and animals which 
-now inhabit it, the step is prodigious ; yet, according to the doctrine of conti¬ 
-nuity, most ably laid before the Association by a predecessor in this Chair 
-(Mr. Grove), all creatures now living on earth have proceeded by orderly 
-evolution from some such origin. Darwin concludes his great work on ‘ The 
-Origin of Species ' with the following words : --- "It is interesting to contem- 
-"plate an entangled bank clothed with man}' plants of many kinds, with 
-"birds singing on the bushes, with various insects flitting about, and with 
-"worms crawling through the damp earth, and to reflect that these elabo- 
-"rately constructed forms, so different from each other, and dependent on 
-"each other in so complex a manner, have all been produced by laws acting 
-"around us.". . . . "There is grandeur in this view of life with its 
-"several powers, having been originally breathed by the Creator into a few  
-
-
-•• forms or into one ; and that, whilst this planet has gone cycling on accord- 
-« ing to the fixed law of gravity, from so simple a beginning endless forms, 
-"most beautiful and most wonderful, have been and are being evolved. 
-With the feeling expressed in these two sentences I most cordially sympathise. 
-I have omitted two sentences which come between them, describing ne y 
-the hypothesis of "the origin of species by natural selection,"because I 
-have always felt that this hypothesis does not contain the true theory o 
-evolution, if evolution there has been, in biology. Sir John Herschel, in 
-expressing a favourable judgment on the hypothesis of zoological evolution, 
-with, however, some reservation in respect to the origin of man, objected to 
-the doctrine of natural selection, that it was too like the Laputan method ot 
-making books, and that it did not sufficiently take into account a continually 
-guiding and controlling intelligence. This seems to me a most valuable and 
-instructive criticism. I feel profoundly convinced that the argument o 
-design has been greatly too much lost sight of in recent zoological specula¬ 
-tions. Reaction against the frivolities of teleology, such as are to be found 
-not rarely, in the notes o? the learned Commentators on Paley's ‘ Natural 
-Theology,' has I believe had a temporary effect in turning attention from the 
-solid and irrefragable argument so well put forward in that excellent old boo c. 
-But overpoweringly strong proofs of intelligent and benevolent design lie 
-all round us, and if ever perplexities, whether metaphysical or scientific, turn 
-us away from them for a time, they come back upon us with irresistible 
-force, showing to us through nature the influence of a free will, and teaching 
-us that all living beings depend on one ever-acting Creator and Ruler. 
+From the Earth stocked with such vegetation as it could receive meteorically, to the Earth teeming with all the endless variety of plants and animals which now inhabit it, the step is prodigious; yet, according to the doctrine of continuity, most ably laid before the Association by a predecessor in this Chair (Mr. Grove), all creatures now living on earth have proceeded by orderly evolution from some such origin. Darwin concludes his great work on 'The Origin of Species' with the following words:--- "It is interesting to contemplate an entangled bank clothed with many plants of many kinds, with birds singing on the bushes, with various insects flitting about, and with worms crawling through the damp earth, and to reflect that these elaborately constructed forms, so different from each other, and dependent on each other in so complex a manner, have all been produced by laws acting around us." ... "There is grandeur in this view of life with its several powers, having been originally breathed by the Creator into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms, most beautiful and most wonderful, have been and are being evolved." With the feeling expressed in these two sentences I most cordially sympathise. I have omitted two sentences which come between them, describing briefly the hypothesis of "the origin of species by natural selection," because I have always felt that this hypothesis does not contain the true theory of evolution, if evolution there has been, in biology. Sir John Herschel, in expressing a favourable judgment on the hypothesis of zoological evolution, with, however, some reservation in respect to the origin of man, objected to the doctrine of natural selection, that it was too like the Laputan method of making books, and that it did not sufficiently take into account a continually guiding and controlling intelligence. This seems to me a most valuable and instructive criticism. I feel profoundly convinced that the argument of design has been greatly too much lost sight of in recent zoological speculations. Reaction against the frivolities of teleology, such as are to be found not rarely, in the notes of the learned Commentators on Paley's 'Natural Theology,' has I believe had a temporary effect in turning attention from the solid and irrefragable argument so well put forward in that excellent old book. But overpoweringly strong proofs of intelligent and benevolent design lie all round us, and if ever perplexities, whether metaphysical or scientific, turn us away from them for a time, they come back upon us with irresistible force, showing to us through nature the influence of a free will, and teaching us that all living beings depend on one ever-acting Creator and Ruler.
