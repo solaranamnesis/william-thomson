@@ -6,3 +6,10 @@
 English - PDF  
 French - Plain Text  
 French - PDF  
+
+## Treatise on Natural Philosophy.
+
+English - Plain Text  
+English - PDF  
+French - Plain Text  
+French - PDF  
