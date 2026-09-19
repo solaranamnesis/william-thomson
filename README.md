@@ -18,5 +18,7 @@ French - PDF
 
 English - Plain Text  
 English - PDF  
+[German - Plain Text](treatise-on-natural-philosophy-2/full-text-german.md)  
+German - PDF  
 French - Plain Text  
 French - PDF  
