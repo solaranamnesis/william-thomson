@@ -7,7 +7,14 @@ English - PDF
 French - Plain Text  
 French - PDF  
 
-## Treatise on Natural Philosophy.
+## Treatise on Natural Philosophy. Part 1.
+
+English - Plain Text  
+English - PDF  
+French - Plain Text  
+French - PDF  
+
+## Treatise on Natural Philosophy. Part 2.
 
 English - Plain Text  
 English - PDF  
