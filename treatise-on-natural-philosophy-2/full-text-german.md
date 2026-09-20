@@ -34,65 +34,9 @@ Unter den Gründen, welche Herr W. Thomson für die Unzulässigkeit der Weber'sc
 
 *) Genanntes Journal Bd. 75.
 
-Hierbei möchte ich, gegenüber der Betonung der deductiven 
-Methode durch unsere Gegner, an dieses Beispiel noch folgende 
-Bemerkung knüpfen. Nach der bisherigen Ansicht der besse- 
-ren Naturforscher war die deductive Methode nicht bloss be- 
-rechtigt, sondern sogar gefordert, wenn es sich darum handelte, 
-die Zulässigkeit einer Hypothese zu prüfen. Jede berechtigte 
-Hypothese ist der Versuch, ein neues allgemeineres Gesetz auf- 
-zustellen, welches mehr Thatsachen unter sich begreift, als his- 
-her beobachtet sind. Die Prüfung derselben besteht nun darin, 
-dass wir alle Folgerungen, welche aus ihr herfliessen, uns zu 
-entwickeln suchen, namentlich diejenigen, welche mit beobacht- 
-baren Thatsachen zu vergleichen sind. Also wäre es meines Er- 
-achtens die erste Pflicht derjenigen gewesen, welche die Weber'- 
-sche Hypothese vertheidigen wollten, unter Anderem nachzusehen, 
-ob diese Hypothese die allergemeinste Thatsache erklären kann, 
-die nämlich, dass die Elektricität, wenn keine elektromotori- 
-schen Kräfte auf sie einwirken, in allen elektrischen Leitern 
-in Ruhe bleibt und also fähig ist, in stabilem Gleichgewichte 
-zu beharren. Wenn die Weber'sche Hypothese das Gegen- 
-theil ergiebt, wie ich nachzuweisen gesucht habe, so war zunächst 
-nach einer solchen Modification derselben zu suchen, welche 
-stabiles Gleichgewicht in den grössten wie in den kleinsten 
-Leitern möglich machte. Nach meiner Ansicht wäre dies ein 
-richtiges und durch die deductive Methode gefordertes Verfahren 
-gewesen, nicht aber Halt zu machen, wenn man merkt, dass man 
-auf unbequeme Folgerungen kommt, und sich damit zu ent- 
-schuldigen, dass die richtigen Differentialgleichungen für die 
-Bewegung der Elektricität aus dem Weber'schen Gesetz eben 
-noch nicht gefunden seien. Und wenn ein ‘Anderer sich dieser 
-Mühe unterzieht, so sollte Jemand, der sich für einen Vertreter 
-der deductiven Methode xar' &£oynv hält, ihm Beifall spenden, 
-statt ihn der Impietät zu bezichtigen, selbst wenn die Ergebnisse 
-der Untersuchung sich als unbequem für den Icarusflug der 
-Speculation herausstellen sollten, 
+Hierbei möchte ich, gegenüber der Betonung der deduktiven Methode durch unsere Gegner, an dieses Beispiel noch folgende Bemerkung knüpfen. Nach der bisherigen Ansicht der besseren Naturforscher war die deduktive Methode nicht bloss berechtigt, sondern sogar gefordert, wenn es sich darum handelte, die Zulässigkeit einer Hypothese zu prüfen. Jede berechtigte Hypothese ist der Versuch, ein neues allgemeineres Gesetz aufzustellen, welches mehr Tatsachen unter sich begreift, als bisher beobachtet sind. Die Prüfung derselben besteht nun darin, dass wir alle Folgerungen, welche aus ihr herfliessen, uns zu entwickeln suchen, namentlich diejenigen, welche mit beobachtbaren Tatsachen zu vergleichen sind. Also wäre es meines Erachtens die erste Pflicht derjenigen gewesen, welche die Weber'sche Hypothese vertheidigen wollten, unter Anderem nachzusehen, ob diese Hypothese die allergemeinste Tatsache erklären kann, die nämlich, dass die Elektrizität, wenn keine elektromotorischen Kräfte auf sie einwirken, in allen elektrischen Leitern in Ruhe bleibt und also fähig ist, in stabilem Gleichgewichte zu beharren. Wenn die Weber'sche Hypothese das Gegenteil ergiebt, wie ich nachzuweisen gesucht habe, so war zunächst nach einer solchen Modifikation derselben zu suchen, welche stabiles Gleichgewicht in den grössten wie in den kleinsten Leitern möglich machte. Nach meiner Ansicht wäre dies ein richtiges und durch die deduktive Methode gefordertes Verfahren gewesen, nicht aber Halt zu machen, wenn man merkt, dass man auf unbequeme Folgerungen kommt, und sich damit zu entschuldigen, dass die richtigen Differentialgleichungen für die Bewegung der Elektrizität aus dem Weber'schen Gesetz eben noch nicht gefunden seien. Und wenn ein Anderer sich dieser Mühe unterzieht, so sollte Jemand, der sich für einen Vertreter der deduktiven Methode κατ' ἐξοχὴν hält, ihm Beifall spenden, statt ihn der Impietät zu bezichtigen, selbst wenn die Ergebnisse der Untersuchung sich als unbequem für den Ikarusflug der Spekulation herausstellen sollten.
 
-
-x Vorrede zum zweiten Theile des ersten Bandes. 
-
-
-Da Herr Zöllner sich nicht für einen Mathematiker aus- 
-gibt, im Gegentbeil uns auf Seite 426 und 427 seines Buches 
-belehrt, dass zu häufige Anwendung der Mathematik die be- 
-wusste Verstandesthätigkeit verkümmern mache und ein be- 
-quemes Mittel zur Befriedigung der Eitelkeit sei, ausserdem an 
-vielen Stellen, immer wiederholt, seine Geringschätzung denen 
-ausspricht, die seine Speculationen durch Nachweis von Fehlern 
-im Differentiiren und Integriren zu widerlegen glaubten: so 
-dürfen wir betrefis des Weber'schen Gesetzes nicht zu strenge 
-mit ihm rechten. Freilich sollte billiger Weise Jemand, der die 
-Freiheit für. sich in Anspruch nimmt, unsicher in der Mathe- 
-matik sein zu dürfen, nicht über Dinge absprechen wollen, die 
-nur durch mathematische Untersuchungen entschieden werden 
-können. Seine Kometentheorie, die man doch wohl als ein 
-nach seiner Meinung mustergültiges Beispiel davon ansehen soll, 
-wie dıe rechte Methode zu verfahren habe, gibt überdies andere 
-viel populärere Beispiele derselben eigenthümlichen Art von 
-Anwendung oder Nichtanwendung der Deduction, Beispiele, deren 
-Besprechung für eine andere passendere Gelegenheit vorbehalten 
-werden mag. 
+Da Herr Zöllner sich nicht für einen Mathematiker ausgibt, im Gegenteil uns auf Seite 426 und 427 seines Buches belehrt, dass zu häufige Anwendung der Mathematik die bewusste Verstandestätigkeit verkümmern mache und ein bequemes Mittel zur Befriedigung der Eitelkeit sei, ausserdem an vielen Stellen, immer wiederholt, seine Geringschätzung denen ausspricht, die seine Spekulationen durch Nachweis von Fehlern im Differentiiren und Integriren zu widerlegen glaubten: so dürfen wir betreffs des Weber'schen Gesetzes nicht zu strenge mit ihm rechten. Freilich sollte billiger Weise Jemand, der die Freiheit für sich in Anspruch nimmt, unsicher in der Mathematik sein zu dürfen, nicht über Dinge absprechen wollen, die nur durch mathematische Untersuchungen entschieden werden können. Seine Kometentheorie, die man doch wohl als ein nach seiner Meinung mustergültiges Beispiel davon ansehen soll, wie dıe rechte Methode zu verfahren habe, gibt überdies andere viel populärere Beispiele derselben eigentümlichen Art von Anwendung oder Nichtanwendung der Deduktion, Beispiele, deren Besprechung für eine andere passendere Gelegenheit vorbehalten werden mag.
 
 Es bleibt noch sein Ausfall gegen die Autoren dieses Buches 
 wegen der Emissionstheorie des Lichtes zu besprechen. Sie 
@@ -115,10 +59,6 @@ in ihre Worte hineininterpretirt hat. Muss ich einem Manne,
 der so viel sicherer in den Elementen der Erkenntnisstheorie 
 zu sein glaubt, als seine Gegner, noch erst auseinandersetzen, 
 ‘dass ein Object sehen, im Sinne der Emanationstheorie, heisst 
-
-
-Vorrede zum zweiten Theile des ersten Bandes. xI 
-
 
 die Lichtkörperchen in. das Auge aufnehmen und empfinden, 
 die von jenem Objecte abgeprallt sind? Nun ist aber 
@@ -161,10 +101,6 @@ eben so alt, wie die Materie sei, und ob nicht seine Keime von
 einem Weltkörper zum anderen herübergetragen sich überall 
 entwickelt hätten, wo sie günstigen Boden gefunden. 
 
-
-u Vorrede zum zweiten Theile des ersten Bandes: 
-
-
 Herrn Zöllner's angebliche physikalische Gegengründe 
 sind von sehr geringem Gewicht. Er erinnert an die Erhitzung 
 der Meteorsteine und fügt hinzu (S. XXVD. "Wenn daher 
@@ -183,11 +119,7 @@ also, die etwa in Spalten derselben steckten, wären vor Ver-
 brennung in der Erdatmosphäre geschützt. Aber auch die 
 oberflächlich gelagerten würden doch wohl, wenn sie in die aller- 
 höchsten und dünnsten Schichten der Erdatmosphäre gerathen, 
-
-
 längst durch den gewaltigen Luftzug herabgeblasen sein, ehe 
-
-
 der Stein in dichtere Theile der (asmasse gelangt, wo die 
 Compression gross genug wird, um merkliche Wärme zu erzeugen. 
 Und was andererseits den Zusammenstoss zweier Weltkörper 
@@ -211,10 +143,6 @@ Schlussfolgerungen aus solchen gelöst werden können.
 
 Herr Zöllner versteigt sich dann zu folgenden zwei Sätzen 
 (S. XXVIH und XXIX): | 
-
-
-Vorrede zum zweiten Theile des ersten Bandes. XmM 
-
 
 "Dass die Naturforscher heute noch einen so ungemeinen 
 "Werth auf den inductiven Beweis der generatio aequivoca 
@@ -263,10 +191,6 @@ W.-Thomson für Herrn Stokes gegen Herrn Kirchhoff aufgetreten ist, mich
 auf die Seite des Letztgenannten stellen in voller Anerkennung der Gründe, die 
 er selbst geltend gemacht hat. 
 
-
-XIV Vorrede zum zweiten Theile des ersten Bandes. 
-
-
 des Gegners erhoben, finden sich in Herrn Zöllner's Buche 
 noch in grosser Anzahl vor. Einen anderen Theil dieser Bei- 
 spiele zu besprechen wird sich noch eine andere Gelegenheit 
@@ -284,12 +208,11 @@ Mann ist, der einst, ehe er in die Metaphysik verfiel, hoffnungs-
 reiche Arbeiten lieferte, und noch jetzt, wo er auf dem Boden 
 der Wirklichkeit festgehalten wird, z. B. bei der Construction 
 optischer Instrumente und der Ermittelung optischer Methoden, 
-Scharfsinn und Erfindungsgabe zeigt. | 
+Scharfsinn und Erfindungsgabe zeigt.
 
+Berlin, Dezember 1873.
 
-Berlin, December 1873. 
-H. Helmholtz. 
-
+H. Helmholtz.
 
 Weiteres Verzeichniss neuer oder in deutschen 
 Büchern weniger gebrauchter Benennungen mit An- 
