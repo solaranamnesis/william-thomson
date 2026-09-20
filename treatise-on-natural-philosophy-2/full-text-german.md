@@ -38,44 +38,7 @@ Hierbei möchte ich, gegenüber der Betonung der deduktiven Methode durch unsere
 
 Da Herr Zöllner sich nicht für einen Mathematiker ausgibt, im Gegenteil uns auf Seite 426 und 427 seines Buches belehrt, dass zu häufige Anwendung der Mathematik die bewusste Verstandestätigkeit verkümmern mache und ein bequemes Mittel zur Befriedigung der Eitelkeit sei, ausserdem an vielen Stellen, immer wiederholt, seine Geringschätzung denen ausspricht, die seine Spekulationen durch Nachweis von Fehlern im Differentiiren und Integriren zu widerlegen glaubten: so dürfen wir betreffs des Weber'schen Gesetzes nicht zu strenge mit ihm rechten. Freilich sollte billiger Weise Jemand, der die Freiheit für sich in Anspruch nimmt, unsicher in der Mathematik sein zu dürfen, nicht über Dinge absprechen wollen, die nur durch mathematische Untersuchungen entschieden werden können. Seine Kometentheorie, die man doch wohl als ein nach seiner Meinung mustergültiges Beispiel davon ansehen soll, wie dıe rechte Methode zu verfahren habe, gibt überdies andere viel populärere Beispiele derselben eigentümlichen Art von Anwendung oder Nichtanwendung der Deduktion, Beispiele, deren Besprechung für eine andere passendere Gelegenheit vorbehalten werden mag.
 
-Es bleibt noch sein Ausfall gegen die Autoren dieses Buches 
-wegen der Emissionstheorie des Lichtes zu besprechen. Sie 
-sagen, eine solche Theorie wäre höchstens dann zu rechtfertigen 
-gewesen, wenn einLichtkörperchen wirklich gesehen und unter- 
-sucht worden wäre. Herr Zöllner findet in dieser Forderung 
-'"nicht etwa nur eine physikalische, sondern sogar eine leicht 
-"zu entdeckende logische Unmöglichkeit. In der That, wenn 
-"in uns erst durch die Berührung der Lichtkörperchen mit unseren 
-"Nerven die Empfindung des Lichtes erzeugt wird, — so ist es 
-"offenbar unmöglich, ein solches Lichtkörperchen, bevor es 
-
-"unseren Sehnerven berührt oder afficirt hat, überhaupt durch 
-
-"das Auge wahrzunehmen." Darauf folgen dann Declamationen 
-über grobe Denkfehler, absoluten Nonsens u. s. w. Letzterer 
-ist hier wirklich vorhanden; aber er steckt nicht in dem, was 
-die englischen Autoren gesagt, sondern in dem, was ihr Angreifer 
-in ihre Worte hineininterpretirt hat. Muss ich einem Manne, 
-der so viel sicherer in den Elementen der Erkenntnisstheorie 
-zu sein glaubt, als seine Gegner, noch erst auseinandersetzen, 
-‘dass ein Object sehen, im Sinne der Emanationstheorie, heisst 
-
-die Lichtkörperchen in. das Auge aufnehmen und empfinden, 
-die von jenem Objecte abgeprallt sind? Nun ist aber 
-nichts von einer logischen Unmöglichkeit oder Widerspruch 
-gegen die Grundlagen der Theorie in der Annahme zu finden, 
-dass ein ruhendes Lichtkörperchen — sie ruhen ja, sobald sie 
-von dunkeln Körpern absorbirt sind — andere gegenstossende 
-zurückwerfe, für die es dadurch Radiationscentrum wird und 
-demnächst als Ausstrahlungspunkt dieser Radiation gesehen 
-werde. Ob und wie ein solcher Vorgang zur Beobachtung zu 
-bringen ist, wäre im Sinne der englischen Autoren natürlich. 
-Sache desjenigen, der die Existenz der Lichtkörperchen direct 
-beweisen wollte. Man mag über die Strenge und Zweckmässig- 
-keit dieser Anforderung denken, was man will, ein logischer 
-Widerspruch liegt nicht darin, und gerade en einen solchen 
-käme es an, um das zu beweisen, was Herr Zöllner beweisen 
-möchte. 
+Es bleibt noch sein Ausfall gegen die Autoren dieses Buches wegen der Emissionstheorie des Lichtes zu besprechen. Sie sagen, eine solche Theorie wäre höchstens dann zu rechtfertigen gewesen, wenn ein Lichtkörperchen wirklich gesehen und untersucht worden wäre. Herr Zöllner findet in dieser Forderung "nicht etwa nur eine physikalische, sondern sogar eine leicht zu entdeckende logische Unmöglichkeit. In der Tat, wenn in uns erst durch die Berührung der Lichtkörperchen mit unseren Nerven die Empfindung des Lichtes erzeugt wird, --- so ist es offenbar unmöglich, ein solches Lichtkörperchen, bevor es unseren Sehnerven berührt oder affizirt hat, überhaupt durch das Auge wahrzunehmen." Darauf folgen dann Deklamationen über grobe Denkfehler, absoluten Nonsens u. s. w. Letzterer ist hier wirklich vorhanden; aber er steckt nicht in dem, was die englischen Autoren gesagt, sondern in dem, was ihr Angreifer in ihre Worte hineininterpretirt hat. Muss ich einem Manne, der so viel sicherer in den Elementen der Erkenntnisstheorie zu sein glaubt, als seine Gegner, noch erst auseinandersetzen, dass ein Objekt sehen, im Sinne der Emanationstheorie, heisst die Lichtkörperchen in das Auge aufnehmen und empfinden, die von jenem Objekte abgeprallt sind? Nun ist aber nichts von einer logischen Unmöglichkeit oder Widerspruch gegen die Grundlagen der Theorie in der Annahme zu finden, dass ein ruhendes Lichtkörperchen --- sie ruhen ja, sobald sie von dunkeln Körpern absorbirt sind --- andere gegenstossende zurückwerfe, für die es dadurch Radiationszentrum wird und demnächst als Ausstrahlungspunkt dieser Radiation gesehen werde. Ob und wie ein solcher Vorgang zur Beobachtung zu bringen ist, wäre im Sinne der englischen Autoren natürlich Sache desjenigen, der die Existenz der Lichtkörperchen direkt beweisen wollte. Man mag über die Strenge und Zweckmässigkeit dieser Anforderung denken, was man will, ein logischer Widerspruch liegt nicht darin, und gerade en einen solchen käme es an, um das zu beweisen, was Herr Zöllner beweisen möchte.
 
 Einen weiteren Einwurf von ähnlichem wissenschaftlichen. 
 Werthe willich noch erwähnen, weil er sich auf Sir W. Thomson 
