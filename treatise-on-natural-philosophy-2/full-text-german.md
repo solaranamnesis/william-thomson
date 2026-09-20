@@ -1,96 +1,31 @@
-#
+# Handbuch der theoretischen Physik
 
+## Von W. Thomson und P. G. Tait.
 
-Kritisches. 
+### Autorisirte deutsche Übersetzung von Dr. H. Helmholtz und G. Wertheim.
 
+## Erster Band. Zweiter Teil.
 
-Seitdem die Uebersetzung des ersten Theils dieses Bandes 
-veröffentlicht wurde, ist sowohl die ganze wissenschaftliche 
-Richtung desselben, als insbesondere auch eine Reihe einzelner 
-Stellen daraus‘ von Herrn J. C. F. Zöllner in seinem Buche 
-„über die Natur der Kometen“ einer mehr als lebhaften Kritik 
-unterzogen worden. Auslassungen gegen die persönlichen 
-Eigenschaften der englischen Autoren oder meiner selbst zu 
-beantworten, halte ich nicht für nöthig. Auf eine Kritik wissen- 
-schaftlicher Sätze und Principien zu erwigdern, habe ich der 
-Regel nach nur dann für nöthig gehalten, wenn neue Thatsachen 
-beizubringen oder Missverständnisse aufzuklären waren, in der 
-Erwartung, dass, wenn alle Data gegeben sind, die wissenschaft- 
-lichen Fachgenossen schliesslich sich ihr Urtheil zu bilden wis- 
-sen auch ohne die weitläufigen Auseinandersetzungen oder 
-sophistischen Künste der streitenden Gegner. Wäre das vor- 
-liegende Handbuch nur für reif ausgebildete Sachverständige 
-bestimmt, so hätte der Zöllner’sche Angriff unbeantwortet 
-bleiben können. Es ist aber auch wesentlich für Lernende be- 
-rechnet, und dä jüngere.Leser durch die überaus grosse Zuver- 
-sichtlichkeit und den Ton sittlicher Entrüstung, in welchem 
+### Braunschweig,
 
+#### Druck und Verlag von Friedrich Vieweg und Sohn.
 
-vI Vorrede zum zweiten Theile des ersten Bandes. 
+### 1874.
 
+---
 
-unser Kritiker seine Meinungen. vorzutragen sich berechtigt 
-glaubt, vielleicht irre gemacht werden könnten, halte ich es 
-für nützlich, die gegen die beiden englischen Autoren gerichteten 
-sachlichen Einwendungen so weit zu beantworten, als nöthig 
-ist, damit der Leser sich durch eigene Ueberlegung zurecht zu 
-finden wisse. | | 
+---
 
-Unter den Naturforschern, welche ihr Streben vorzugsweise 
-darauf gerichtet haben, die Naturwissenschaft von allen meta- 
-physischen Erschleichungen und von allen willkürlichen Hypo- 
-thesen zu reinigen, sie im Gegentheil immer mehr zum reinen und 
-treuen Ausdruck der Gesetze der Thatsachen zu machen, nimmt 
-SırW.Thomson.eine der ersten Stellen ein, und er hat gerade 
-dieses Ziel vom Anfange seiner wissenschaftlichen Laufbahn an 
-in bewusster Weise verfolgt. Eben dies erscheint mir als ein 
-Hauptverdienst des vorliegenden Buches, während es in 
-Herrn Zöllner’s Augen seinen fundamentalen Mangel bildet. 
-Letzterer möchte statt der „inductiven“ Methode der Natur- 
-forscher eine überwiegend „deductive“ eingeführt sehen. Wir 
-alle haben bisher das inductive Verfahren gebraucht, um neue 
-Gesetze, beziehlich Hypothesen, zu finden, das deductive, um 
-deren Consequenzen zum Zwecke ihrer Verificirung zu ent- 
-wickeln. Eine deutliche Auseinandersetzung, wodurch sich sein 
-neues Verfahren von dem allgemein eingehaltenen unterscheiden 
-solle, finde ich in Herrn Zöllner’s Buche nicht. Dem von 
-ihm in Aussicht genommenen letzten Ziele nach läuft es auf 
+# Vorrede zum zweiten Teile des ersten Bandes.
 
+## Kritisches.
 
-Schopenhauer’sche Metaphysik hinaus. Die Gestirne sollen - 
-sich einander lieben und hassen, Lust und Unlust empfinden 
+Seitdem die Übersetzung des ersten Teils dieses Bandes veröffentlicht wurde, ist sowohl die ganze wissenschaftliche Richtung desselben, als insbesondere auch eine Reihe einzelner Stellen daraus von Herrn J. C. F. Zöllner in seinem Buche "über die Natur der Kometen" einer mehr als lebhaften Kritik unterzogen worden. Auslassungen gegen die persönlichen Eigenschaften der englischen Autoren oder meiner selbst zu beantworten, halte ich nicht für nötig. Auf eine Kritik wissenschaftlicher Sätze und Principien zu erwiedern, habe ich der Regel nach nur dann für nötig gehalten, wenn neue Tatsachen beizubringen oder Missverständnisse aufzuklären waren, in der Erwartung, dass, wenn alle Data gegeben sind, die wissenschaftlichen Fachgenossen schliesslich sich ihr Urteil zu bilden wissen auch ohne die weitläufigen Auseinandersetzungen oder sophistischen Künste der streitenden Gegner. Wäre das vorliegende Handbuch nur für reif ausgebildete Sachverständige bestimmt, so hätte der Zöllner'sche Angriff unbeantwortet bleiben können. Es ist aber auch wesentlich für Lernende berechnet, und da jüngere Leser durch die überaus grosse Zuversichtlichkeit und den Ton sittlicher Entrüstung, in welchem unser Kritiker seine Meinungen vorzutragen sich berechtigt glaubt, vielleicht irre gemacht werden könnten, halte ich es für nützlich, die gegen die beiden englischen Autoren gerichteten sachlichen Einwendungen so weit zu beantworten, als nötig ist, damit der Leser sich durch eigene Überlegung zurecht zu finden wisse.
 
+Unter den Naturforschern, welche ihr Streben vorzugsweise darauf gerichtet haben, die Naturwissenschaft von allen metaphysischen Erschleichungen und von allen willkürlichen Hypothesen zu reinigen, sie im Gegenteil immer mehr zum reinen und treuen Ausdruck der Gesetze der Tatsachen zu machen, nimmt Sir W. Thomson eine der ersten Stellen ein, und er hat gerade dieses Ziel vom Anfange seiner wissenschaftlichen Laufbahn an in bewusster Weise verfolgt. Eben dies erscheint mir als ein Hauptverdienst des vorliegenden Buches, während es in Herrn Zöllners Augen seinen fundamentalen Mangel bildet. Letzterer möchte statt der "induktiven" Methode der Naturforscher eine überwiegend "deduktive" eingeführt sehen. Wir alle haben bisher das induktive Verfahren gebraucht, um neue Gesetze, beziehlich Hypothesen, zu finden, das deduktive, um deren Konsequenzen zum Zwecke ihrer Verifizirung zu entwickeln. Eine deutliche Auseinandersetzung, wodurch sich sein neues Verfahren von dem allgemein eingehaltenen unterscheiden solle, finde ich in Herrn Zöllners Buche nicht. Dem von ihm in Aussicht genommenen letzten Ziele nach läuft es auf Schopenhauer'sche Metaphysik hinaus. Die Gestirne sollen sich einander lieben und hassen, Lust und Unlust empfinden und sich so zu bewegen streben, wie es diesen Empfindungen entspricht. Ja in verschwommener Nachahmung des Gesetzes der kleinsten Wirkung wird (S. 326, 327) der Schopenhauer'sche Pessimismus, welcher diese Welt zwar für die beste unter den möglichen Welten, aber für schlechter als gar keine erklärt, zu einem angeblich allgemeingültigen Prinzipe von der kleinsten Summe der Unlust formulirt, und dieses als oberstes Gesetz der Welt, der lebenden wie der leblosen, proklamirt.
 
-und sich so zu bewegen streben, wie es diesen Empfindungen 
-entspricht. Ja in verschwommener Nachahmung des Gesetzes 
-der kleinsten Wirkung wird (S. 326, 327) der Schopenhauer’- 
-sche Pessimismus, welcher diese Welt zwar für die beste unter 
-den möglichen Welten, aber für schlechter als gar keine 
-erklärt, zu einem angeblich allgemeingültigen Principe von der 
-kleinsten Summe der Unlust formulirt, und dieses als oberstes 
-Gesetz der Welt, der lebenden wie der leblosen, proclamirt. 
-Dass nun ein Mann, .dessen Geist auf solchen Wegen wan- 
-delt, in der Methode des Thomson-Tait’schen Buches das 
-gerade Gegentheil des richtigen Weges, oder dessen, was er 
-selbst dafür hält, erblickt, ist natürlich; dass er den Grund des 
+Dass nun ein Mann, dessen Geist auf solchen Wegen wandelt, in der Methode des Thomson-Tait'schen Buches das gerade Gegenteil des richtigen Weges, oder dessen, was er selbst dafür hält, erblickt, ist natürlich; dass er den Grund des Widerspruchs in allen möglichen persönlichen Schwächen der Gegner, nicht aber da sucht, wo er wirklich steckt, entspricht ganz der intoleranten Weise, in der Anhänger von metaphysischen Glaubensartikeln ihre Gegner zu behandeln pflegen, um sich und der Welt die Schwäche ihres eigenen Standpunktes zu verhüllen. Herr Zöllner ist überzeugt, "dass es der Mehrzahl unter den heutigen Vertretern der exakten Wissenschaften an einer klar bewussten Kenntniss der ersten Prinzipien der Erkenntnisstheorie gebreche." (S. 8.) Dies sucht er durch Nachweisung angeblicher grober Denkfehler bei mehreren von ihnen zu erhärten.
 
-
-a a en Pan 
-
-
-Vorrede zum zweiten Theile des ersten Bandes. vmI 
-
-
-Widerspruchs in allen möglichen persönlichen Schwächen der 
-Gegner, nicht aber da sucht, wo er wirklich steckt, entspricht 
-ganz der intoleranten Weise, in der Anhänger von metaphysischen 
-Glaubensartikeln ihre Gegner zu behandeln pflegen, um sich und 
-der Welt die Schwäche ihres eigenen Standpunktes zu verhüllen. 
-Herr.Zöllner ist überzeugt, „dass es der Mehrzahl unter den 
-heutigen Vertretern der exacten Wissenschaften an einer klar be- 
-wussten Kenntniss der ersten Principien der Erkenntnisstheorie 
-gebreche.* (S. VIIL) Dies sucht er durch Nachweisung angeb- 
-licher grober Denkfehler bei mehreren von ihnen zu erhärten. 
 Dazu müssen zunächst die Herren Thomson und Tait 
 herhalten. Diese haben ihrer Ueberzeugung betrefls des 
 richtigen Gebrauchs der naturwissenschaftlichen Hypothesen 
@@ -135,13 +70,13 @@ gabe zufällt, nach seiner besten Ueberzeugung den Lernenden
 über den Weg, den er einzuschlagen habe, zu berathen. 
 
 Unter den Gründen, welche Herr W. Thomson für die 
-Unzulässigkeit der Weber’schen Hypothese anführt, ist auch 
+Unzulässigkeit der Weber'schen Hypothese anführt, ist auch 
 der, dass sie dem Gesetz von der Erhaltung der Kraft wider- 
 spreche. Dieselbe Behauptung war auch ich genöthigt, etwas 
 später in einer im Jahre 1870 veröffentlichten Arbeit*) aufzu- 
 stellen. Herr Zöllner hat nun auf die Autorität von Herrn 
 C. Neumann hin angenommen, diese Behauptung sei falsch. 
-Ihm erscheint im Gegentheil das Weber’sche Gesetz ebentalls 
+Ihm erscheint im Gegentheil das Weber'sche Gesetz ebentalls 
 ein Universalgesetz aller Kräfte der Natur zu sein (wie sich 
 diese verschiedenen Universalgesetze mit einander vertragen, 
 bleibt unerörtert), und er verwendet 20 Seiten seiner Einleitung 
@@ -175,10 +110,10 @@ a -——_———nm
 Vorrede zum zweiten Theile des ersten Bandes. IX 
 
 
-von Molecularkräften den Leck in der Weber’schen Theorie 
+von Molecularkräften den Leck in der Weber'schen Theorie 
 nicht zustopft. Inzwischen hat Herr C. Neumann selbst, noch 
 ehe er von meinem zweiten Aufsatze Kenntniss erhielt, die Be- 
-gründung der Elektrodynamik auf das Weber’sche Gesetz auf- 
+gründung der Elektrodynamik auf das Weber'sche Gesetz auf- 
 gegeben, und ein neues Gesetz dafür zu construiren gesucht. 
 
 Hierbei möchte ich, gegenüber der Betonung der deductiven 
@@ -193,13 +128,13 @@ her beobachtet sind. Die Prüfung derselben besteht nun darin,
 dass wir alle Folgerungen, welche aus ihr herfliessen, uns zu 
 entwickeln suchen, namentlich diejenigen, welche mit beobacht- 
 baren Thatsachen zu vergleichen sind. Also wäre es meines Er- 
-achtens die erste Pflicht derjenigen gewesen, welche die Weber’- 
+achtens die erste Pflicht derjenigen gewesen, welche die Weber'- 
 sche Hypothese vertheidigen wollten, unter Anderem nachzusehen, 
 ob diese Hypothese die allergemeinste Thatsache erklären kann, 
 die nämlich, dass die Elektricität, wenn keine elektromotori- 
 schen Kräfte auf sie einwirken, in allen elektrischen Leitern 
 in Ruhe bleibt und also fähig ist, in stabilem Gleichgewichte 
-zu beharren. Wenn die Weber’sche Hypothese das Gegen- 
+zu beharren. Wenn die Weber'sche Hypothese das Gegen- 
 theil ergiebt, wie ich nachzuweisen gesucht habe, so war zunächst 
 nach einer solchen Modification derselben zu suchen, welche 
 stabiles Gleichgewicht in den grössten wie in den kleinsten 
@@ -208,10 +143,10 @@ richtiges und durch die deductive Methode gefordertes Verfahren
 gewesen, nicht aber Halt zu machen, wenn man merkt, dass man 
 auf unbequeme Folgerungen kommt, und sich damit zu ent- 
 schuldigen, dass die richtigen Differentialgleichungen für die 
-Bewegung der Elektricität aus dem Weber’schen Gesetz eben 
+Bewegung der Elektricität aus dem Weber'schen Gesetz eben 
 noch nicht gefunden seien. Und wenn ein ‘Anderer sich dieser 
 Mühe unterzieht, so sollte Jemand, der sich für einen Vertreter 
-der deductiven Methode xar’ &£oynv hält, ihm Beifall spenden, 
+der deductiven Methode xar' &£oynv hält, ihm Beifall spenden, 
 statt ihn der Impietät zu bezichtigen, selbst wenn die Ergebnisse 
 der Untersuchung sich als unbequem für den Icarusflug der 
 Speculation herausstellen sollten, 
@@ -228,7 +163,7 @@ quemes Mittel zur Befriedigung der Eitelkeit sei, ausserdem an
 vielen Stellen, immer wiederholt, seine Geringschätzung denen 
 ausspricht, die seine Speculationen durch Nachweis von Fehlern 
 im Differentiiren und Integriren zu widerlegen glaubten: so 
-dürfen wir betrefis des Weber’schen Gesetzes nicht zu strenge 
+dürfen wir betrefis des Weber'schen Gesetzes nicht zu strenge 
 mit ihm rechten. Freilich sollte billiger Weise Jemand, der die 
 Freiheit für. sich in Anspruch nimmt, unsicher in der Mathe- 
 matik sein zu dürfen, nicht über Dinge absprechen wollen, die 
@@ -246,15 +181,15 @@ wegen der Emissionstheorie des Lichtes zu besprechen. Sie
 sagen, eine solche Theorie wäre höchstens dann zu rechtfertigen 
 gewesen, wenn einLichtkörperchen wirklich gesehen und unter- 
 sucht worden wäre. Herr Zöllner findet in dieser Forderung 
-'„nicht etwa nur eine physikalische, sondern sogar eine leicht 
-„zu entdeckende logische Unmöglichkeit. In der That, wenn 
-„in uns erst durch die Berührung der Lichtkörperchen mit unseren 
-„Nerven die Empfindung des Lichtes erzeugt wird, — so ist es 
-„offenbar unmöglich, ein solches Lichtkörperchen, bevor es 
+'"nicht etwa nur eine physikalische, sondern sogar eine leicht 
+"zu entdeckende logische Unmöglichkeit. In der That, wenn 
+"in uns erst durch die Berührung der Lichtkörperchen mit unseren 
+"Nerven die Empfindung des Lichtes erzeugt wird, — so ist es 
+"offenbar unmöglich, ein solches Lichtkörperchen, bevor es 
 
-„unseren Sehnerven berührt oder afficirt hat, überhaupt durch 
+"unseren Sehnerven berührt oder afficirt hat, überhaupt durch 
 
-„das Auge wahrzunehmen.“ Darauf folgen dann Declamationen 
+"das Auge wahrzunehmen." Darauf folgen dann Declamationen 
 über grobe Denkfehler, absoluten Nonsens u. s. w. Letzterer 
 ist hier wirklich vorhanden; aber er steckt nicht in dem, was 
 die englischen Autoren gesagt, sondern in dem, was ihr Angreifer 
@@ -291,7 +226,7 @@ die Frageüberdie Möglichkeit,dassorganische Keimein-den Meteor-
 steinen vorkommen und den kühl gewordenen W.eltkörpern zuge- 
 führt werden. Herr W. Thomson hatte diese Ansicht in seiner Er- 
 öffnungsrede der britischen Naturforscherversammlung zu Edin- 
-burg im Herbst 1871 als „nicht unwissenschaftlich“ bezeichnet. 
+burg im Herbst 1871 als "nicht unwissenschaftlich" bezeichnet. 
 Auch hier mussich mich, wenn darin ein Irrthum liegt, alsMitirren- 
 der melden. Ich hatte dieselbe Ansicht als eine mögliche Erklä- 
 rungsweiseder Uebertragung von Organismen durch die Welträume 
@@ -312,15 +247,15 @@ entwickelt hätten, wo sie günstigen Boden gefunden.
 u Vorrede zum zweiten Theile des ersten Bandes: 
 
 
-Herrn Zöllner’s angebliche physikalische Gegengründe 
+Herrn Zöllner's angebliche physikalische Gegengründe 
 sind von sehr geringem Gewicht. Er erinnert an die Erhitzung 
-der Meteorsteine und fügt hinzu (S. XXVD. „Wenn daher 
-„jener mit Organismen bedeckte Meteorstein auch beim Zer- 
-„trümmern s&ines Mutterkörpers mit heiler Haut davon gekommen 
-„wäre und nicht an der allgemeinen Temperaturerhöhung Theil 
-„genommen hätte, so musste er doch nothwendig erst die Erd- 
-„atmosphäre passirt haben, ehe er sich seiner Organismen zur 
-„Bevölkerung der Erde entledigen konnte.“ 
+der Meteorsteine und fügt hinzu (S. XXVD. "Wenn daher 
+"jener mit Organismen bedeckte Meteorstein auch beim Zer- 
+"trümmern s&ines Mutterkörpers mit heiler Haut davon gekommen 
+"wäre und nicht an der allgemeinen Temperaturerhöhung Theil 
+"genommen hätte, so musste er doch nothwendig erst die Erd- 
+"atmosphäre passirt haben, ehe er sich seiner Organismen zur 
+"Bevölkerung der Erde entledigen konnte." 
 
 Nun wissen wir erstens, aus häufig wiederholten Beob- 
 achtungen, dass die grösseren Meteorsteine bei ihrem Fall durch 
@@ -363,16 +298,16 @@ Herr Zöllner versteigt sich dann zu folgenden zwei Sätzen
 Vorrede zum zweiten Theile des ersten Bandes. XmM 
 
 
-„Dass die Naturforscher heute noch einen so ungemeinen 
-„Werth auf den inductiven Beweis der generatio aequivoca 
-„legen, ist das deutlichste Zeichen, wie wenig sie sich mit den 
-„ersten Principien der Erkenntnisstheorie vertraut gemacht 
-„haben.“ ® " 
+"Dass die Naturforscher heute noch einen so ungemeinen 
+"Werth auf den inductiven Beweis der generatio aequivoca 
+"legen, ist das deutlichste Zeichen, wie wenig sie sich mit den 
+"ersten Principien der Erkenntnisstheorie vertraut gemacht 
+"haben." ® " 
 und ferner: 
 
-„Ebenso drückt die Hypothese von der generatio aequi- 
-„voca, — — nichts anderes als die Bedingung für die Begreiflich- 
-„keit der Natur nach dem Causalitätsgesetze aus.“ | 
+"Ebenso drückt die Hypothese von der generatio aequi- 
+"voca, — — nichts anderes als die Bedingung für die Begreiflich- 
+"keit der Natur nach dem Causalitätsgesetze aus." | 
 
 Hier haben wir den ächten Metaphysiker. Einer angeb- 
 lichen Denknothwendigkeit gegenüber blickt er hochmüthig auf 
@@ -382,11 +317,11 @@ früheren Entwicklungsperioden der Naturwissenschaften ange-
 richtet hat? Und was ist die logische Basis dieses erhabenen 
 Standpunktes? Die richtige Alternative ist offenbar: 
 
-„Organisches Leben hat entweder zu irgend einer Zeit an- 
-gefangen zu bestehen, oder es besteht von Ewigkeit.“ | 
+"Organisches Leben hat entweder zu irgend einer Zeit an- 
+gefangen zu bestehen, oder es besteht von Ewigkeit." | 
 
 Herr Zöllner lässt den zweiten Theil dieser Disjunction 
-“einfach weg, oder glaubt ihn durch einige kurz zuvor angeführte 
+"einfach weg, oder glaubt ihn durch einige kurz zuvor angeführte 
 flüchtige physikalische Betrachtungen beseitigt zu haben, die 
 durchaus nicht entscheidend sind. Demgemäss ist seine Con- 
 clusio, welche die erste Hälfte der oben aufgestellten Disjunction 
@@ -414,7 +349,7 @@ er selbst geltend gemacht hat.
 XIV Vorrede zum zweiten Theile des ersten Bandes. 
 
 
-des Gegners erhoben, finden sich in Herrn Zöllner’s Buche 
+des Gegners erhoben, finden sich in Herrn Zöllner's Buche 
 noch in grosser Anzahl vor. Einen anderen Theil dieser Bei- 
 spiele zu besprechen wird sich noch eine andere Gelegenheit 
 finden. Wenn ich eine Nutzanwendung, die uns hier interessirt, 
@@ -423,7 +358,7 @@ inductiven Methode, das treue Festhalten an den Thatsachen,
 welches die Naturwissenschaften gross gemacht hat, für den 
 aufmerksamen und urtheilsfähigen Leser durch keine theoreti- 
 schen Gründe wirksamer und beredter vertheidigt werden kann, 
-als durch das praktische Beispiel, welches das Zöllner’sche 
+als durch das praktische Beispiel, welches das Zöllner'sche 
 Buch für die Consequenzen der entgegengesetzten, angeblich 
 deductiven, speculirenden Methode gibt, um so mehr als Herr 
 Zöllner unzweifelhaft ein talentvoller und kenntnissreicher 
@@ -491,7 +426,7 @@ Longitudinale Starrheit $ 686.
 Topographische Conturen (Coupes topographiques) $ 708. 
 
 
-’ 
+' 
 
 
 Hauptaxen und Hauptwiderstände der Biegung in einem 
@@ -563,7 +498,7 @@ Einheiten für die Messung der Rlektrieität und des Magnetismus 461
 Anziehung einer gleichförmig belegten Kugelfläche auf einen 
 inneren Punkt .. = 5 3:0. wa ea 3.0 de 462 
 Excurs über die Theilung von Flächen in Elemente . .... 463 
-Kezelflächen';. „> ums Se re anne 464 
+Kezelflächen';. "> ums Se re anne 464 
 
 
 XVIO Inhaltsverzeichniss des zweiten Theils. 
@@ -587,7 +522,7 @@ LIORAL ISLA. 8 ee ee en nn. 473—475
 Punktes ..... dr Br ya ze Santa ige As Verden ea 476 
 . Directe analytische Berechnung der Altractionen.. Da ee 477 
 Variation der Kraft beim m durch eine anziehende 
-Dberlläche „u... 6 0 we ee ee . |. 
+Dberlläche "u... 6 0 we ee ee . |. 
 Aenderung der Breite durch. eine Schlucht . Be ea er er 479 
 Anziehung einer aus concentrischen Schalen von gleichförmiger 
 Dichtigkeit zusammengesetzten Kugel . ........ . 480, 481 
@@ -606,9 +541,9 @@ Potential eines anziehenden Punktes, einer beliebigen Masse.
 
 Analytische Bestimmung des Werthes des Potentials. Aus- 
 
-druck der Kraftcomponenten. Laplace’s Gleichung. 
+druck der Kraftcomponenten. Laplace's Gleichung. 
 
-Poisson’s Erweiterung derselben. Beispiele. . x... . 491 
+Poisson's Erweiterung derselben. Beispiele. . x... . 491 
 Integral der Normalattraction über eine geschlossene Ober- 
 
 , SHACHarE, hr a ee ee ae yet 492 
@@ -620,11 +555,11 @@ Der Mittelwerth des Potentials über eine Kugelfläche ist gleich
 
 dem Potential im Centrum . . . 2» 2 2 2 2 2 2 2 2.0. 496 
 DENN Nereee Bo. ge Be ee EA 497, 498 
-Green’s Problem ....... u a a A Be 499 
+Green's Problem ....... u a a A Be 499 
 Die Wirkungen innerhalb und ausserhalb eines geschlossenen 
 
 Theils der Oberfläche sind von einander unabhängig . 500 
-Anwendung des Green’schen Problems auf eine gegebene Elek- 
+Anwendung des Green'schen Problems auf eine gegebene Elek- 
 
 trieitätsmenge M, welche auf eine Gruppe S leitender 
 
@@ -635,7 +570,7 @@ und bestimmt ..... a nee Be ee o... 503
 Simultane elektrische Wirkungen in Räumen, die durch un- 
 
 endlich dünne leitende Flächen von einander getrennt sind 504 
-Reducirbarer Fall des Green’schen Problems . . . . 2... 905, 506 
+Reducirbarer Fall des Green'schen Problems . . . . 2... 905, 506 
 
 
 Inhaltsverzeichniss des zweiten Theils. 
@@ -653,8 +588,8 @@ excentrischen Kugel . . 2.2.2 2 2 Er 2 nr 2 re.
 Attraction eines Ellipsoides . . » 2: 2 2 2 2 nr ne nn. 
 Vergleich der Potentiale zweier Schalen . . . 2. 2. 2.2.2.2... 
 Attraction eines homogenen Ellipsoides . . . 
-Der Maclaurin’sche Satz . . .. 2 2 2 2 2 2 2 nr ne. 
-Der Ivory’sche Satz .. » 2. ss a su was on ana 
+Der Maclaurin'sche Satz . . .. 2 2 2 2 2 2 2 nr ne. 
+Der Ivory'sche Satz .. » 2. ss a su was on ana 
 Attractionsgesetz im Falle einer gleichförmig belegten Kugel- 
 
 schale, die keine Wirkung auf einen inneren Punkt ausübt 
@@ -684,12 +619,12 @@ monische Reihe . . ....
 Anwendung auf die Gestalt der Erde BR Re re 
 Fall eines um eine Axe symmetrischen Potentials 
 Verlust an potentieller Energie . « « «er... 0.0. 
-Green’s Methode . ». x x» v2. 0... 
+Green's Methode . ». x x» v2. 0... 
 Verlust an potentieller Energie bei der Condensation einer Masse 
 Methode von Gauss . . . . 
 
 
-. ® ® . . 0} . . 2 . “ . . 
+. ® ® . . 0} . . 2 . " . . 
 
 
 Siebentes Capitel. 
@@ -920,7 +855,7 @@ Inhaltsverzeichniss des zweiten Theils.
 
 
 Spiralfeder von unendlich kleiner Neigung. Torsionswage 
-Kirchhoff’s Vergleich der Biegung und Drillung eines Drahtes 
+Kirchhoff's Vergleich der Biegung und Drillung eines Drahtes 
 
 
 mit der Rotation eines starren Körpers . . . .. 2... 
@@ -992,7 +927,7 @@ deren Axen zur Umgrenzung senkrecht sind . » « . . . .
 Gleichförmig vertheilte Torsionskräftepaare erzeugen keine 
 
 
-Biegung } . . . . . [ ® ‘ [) ® . . » . . “_ . . . OD Ü [) 
+Biegung } . . . . . [ ® ‘ [) ® . . » . . "_ . . . OD Ü [) 
 
 
 xXxI 
@@ -1123,7 +1058,7 @@ Die durch eine einzige longitudinale Deformation erzeugte
 VRORCLION: 4 en ee ne eis 
 Verhältniss der seitlichen Contraction zur longitudinalen Aus- 
 dehnung © «2 2 2 en 2 ren een. 
-Young’s Modulus . !. 2.2000 
+Young's Modulus . !. 2.2000 
 Gewichtsmodulus und Länge des Modulus - ve. oe... 
 Der specifische Modulus eines isotropen Körpers. Volumen- und 
 Krafteinheiten zur Bestimmung desselben » » «+. .+ 
@@ -1167,14 +1102,14 @@ den sechs Gleichungen des Gleichgewichts in einem starren
 
 Körper genügen. — Vereinfachung der Gleichungen für 
 einen isotropen festen Körper . . » » «2: 20.2.0... 
-St. Venant’s Anwendung auf Torsionsprobleme . ..... - 
+St. Venant's Anwendung auf Torsionsprobleme . ..... - 
 Hülfssätze z 4 4 2-a.8.0.8. 208 2 u ua Se ce 
 Torsion eines Cylinders mit kreisförmiger Basis . - ... . 
 Die auf den Seitenflächen eines beliebigen Prisma für eine ein- 
 fache Drillung erforderliche Zugkraft . ... . - EEE 
 Analoges Problem der Hydrokinetik . - - «ve... 0. 
 Lösung des Torsionsproblems . .. . . a ee Be 
-St. Venant’s Ermittlung lösbarer Fälle. ... . » . .. 
+St. Venant's Ermittlung lösbarer Fälle. ... . » . .. 
 Verhältniss des Widerstandes gegen eine Torsion zur Summe 
 der Hauptbiegungswiderstände. . » » 2... eo... 
 Die Stellen grösster Verzerrung in gedrillten Prismen. .. - » 
@@ -1345,7 +1280,7 @@ Grösse der Zunahme des Drucks. . . .. +. Be a ee et
 
 
 Druck in einer ruhigen Atmosphäre von gleichmässiger Tempe- 
-“ratur. Höhe der homogenen Atmosphäre . . oc... 
+"ratur. Höhe der homogenen Atmosphäre . . oc... 
 Bedingungen des Gleichgewichts einer Flüssigkeit, welche ein 
 geschlossenes Gefäss ganz ausfüllt . . - . ....» re 
 Eine Flüssigkeit in einem geschlossenen Gefäss unter der Ein- 
@@ -1361,7 +1296,7 @@ aussen einwirkenden Kräfte. . . .. » er
 Resultante der auf ein ebenes Flächenstück wirkenden Druck- 
 kräfte 20 wa. wre u a 
 Gewichtsverlust eines Körpers in einer Flüssigkeit .. ... . 
-Hilfssatz’. 3 = 2.4.8 82. 2 aa ED 2 
+Hilfssatz'. 3 = 2.4.8 82. 2 aa ED 2 
 ‚Stabilität des Gleichgewichts eines schwimmenden Körpers . . 
 "Verticale Verschiebungen . . .. . Ir Bee . 
 
@@ -1379,7 +1314,7 @@ Ein homogenes Ellipsoid ist eine Gleichgewichtsfigur einer
 
 rotirenden Flüssigkeit. . . . - ie ee ee 
 Mittlere Dichtigkeit der Erde, ausgedrückt in Attractionsein- 
-heiten ®. ® . ® “ ® ” . ® eo ® . . oe. ve ev v ve °. 2 . . ‘ 
+heiten ®. ® . ® " ® ” . ® eo ® . . oe. ve ev v ve °. 2 . . ‘ 
 
 
 Rotationsdauer eines Sphär oids von gegebener Excentricität . 
@@ -1440,7 +1375,7 @@ Paragraph
 Inhaltsverzeichniss des zweiten Theils. 
 
 
-Murphy’s analytische Behandlung der zonalen harmonischen 
+Murphy's analytische Behandlung der zonalen harmonischen 
 
 
 Künetion. 5 w 2.2 ne en . x 
@@ -1497,16 +1432,16 @@ Anwendung des $ 817 auf die Theorie der Gestalt der Erde .
 Gleichgewicht einer heterogenen Flüssigkeitsmasse von der 
 Form eines Sphäroids . . . . « a ee a A Et 
 Fall der Centrifugalkraft . . » 2 2 2 2 2 2 nn ern nnn 
-Laplace’s hypothetisches Gesetz über die Dichtigkeit im 
+Laplace's hypothetisches Gesetz über die Dichtigkeit im 
 Innern der Erde". ; x 2.20 Se 2 8 ou a 
 Dynamischer Ursprung der Präcession und Nutation . ... . 
 Die Präcession belehrt uns über die Vertheilung der Erdmasse, 
 während die Grösse der Schwerkraft auf der Erdoberfläche 
-@B: NICHt THU“ 10. 25. 2 sur ua ra er a ee ee 
-Bestimmung der Constanten der Präcession mittels des Laplace-’ 
+@B: NICHt THU" 10. 25. 2 sur ua ra er a ee ee 
+Bestimmung der Constanten der Präcession mittels des Laplace-' 
 schen Gesetzes . . ». » 2 2 2 en rn ern nnn 
-Vergleich der Laplaee’schen Hypothese mit der Beobachtung 
-Prüfung der Laplace’schen Hypothese mit Beziehung auf die 
+Vergleich der Laplaee'schen Hypothese mit der Beobachtung 
+Prüfung der Laplace'schen Hypothese mit Beziehung auf die 
 Zusammendrückbarkeit einiger Stoffe . ». » 2 22.0... 
 
 
@@ -1894,11 +1829,11 @@ Kräfte durch Kräfte einer Wechselwirkung ersetzte, von denen man
 annähme, dass sie durch unendlich kleine relative Bewegungen der 
 Theile, zwischen denen sie wirken, nicht verändert würden. Durch 
 diesen Kunstgriff werden alle solche Fälle unter das allgemein? 
-Lagrange’sche Princip $ 289 subsumirt. | 
+Lagrange'sche Princip $ 289 subsumirt. | 
 
 453. Fortlassung bloss merkwürdiger Speculationen. — 
 In den folgenden Capiteln über die abstracte Dynamik werden 
-' wir uns streng auf solche Theile dieses ausgedehnten Gegenstandes’ 
+' wir uns streng auf solche Theile dieses ausgedehnten Gegenstandes' 
 beschränken, die uns voraussichtlich in den späteren Theilen die- 
 ses Werkes von Nutzen sein werden, oder welche an sich so 
 wichtig sind, dass ihre Einführung gerechtfertigt erscheint. Nur 
@@ -1949,7 +1884,7 @@ stehen soll, die Summe ihrer nach einer beliebigen Richtung ge-
 nommenen Componenten Null sein, und hieraus ergeben sich die für 
 das Gleichgewicht erforderlichen und hinreichenden Bedingungen. 
 
-Dieselben folgen auch direct aus Newton’s Entwicklungen 
+Dieselben folgen auch direct aus Newton's Entwicklungen 
 über die Arbeit, wenn wir voraussetzen, dass der Punkt irgend 
 eine Geschwindigkeit‘ von constanter Richtung und Grösse hat (und 
 nach $ 245 ist dies die allgemeinste Voraussetzung, die wir machen 
@@ -2212,9 +2147,9 @@ Masse, von Elektricität, u. s. w. längs einer Linie, auf einer Ober-
 fläche oder in einem Volumen zu sprechen. Es ist aber die 
 Dichtigkeit in Linien = Masse, die auf die Einheit der Länge kommt; 
 
-= „Flähen= „ , he = „ Fläche = ; 
+= "Flähen= " , he = " Fläche = ; 
 
-im Raume = , Tu ur a des Volumens „ 
+im Raume = , Tu ur a des Volumens " 
 
 461. Einheiten für die Messung der Elektricität und des 
 Magnetismus. — Um die nachstehenden Untersuchungen auf die 
@@ -2299,7 +2234,7 @@ Richtung hin getrieben.
 mente. — In den folgenden Untersuchungen wird uns die Einthei- 
 lung einer Kugelfläche in unendlich kleine Elemente noch öfters. 
 begegnen, und die im vorhergehenden Beweise beschriebene Me- 
-thode Newton’s, nach welcher die Theilung in einer solchen 
+thode Newton's, nach welcher die Theilung in einer solchen 
 Weise ausgeführt wird, dass alle Theile in Paare von je zweiin 
 Beziehung 'auf einen inneren Punkt entgegengesetzten 
 Elementen zusammengefasst werden können, wird neben anderen 
@@ -2324,7 +2259,7 @@ einer anderen zusammenfällt, bis sie wieder in ihre erste Lage ge-
 langt, so erzeugt sie zu beiden Seiten des festen Punktes eine voll- 
 ständige Kegelfläche, die aus zwei Schalen besteht. Man nennt 
 diese Schalen entgegengesetzte oder Scheitelkegel. Die 
-im oben gegebenen Newton’schen Beweise beschriebenen Elemente 
+im oben gegebenen Newton'schen Beweise beschriebenen Elemente 
 . HI und KL können als die von zwei entgegengesetzten Ke- 
 geln, die P zum gemeinschaftlichen Scheitel haben, gebildeten 
 Ausschnitte aus der Kugelfläche angesehen werden. | 
@@ -2361,7 +2296,7 @@ Scheitel beschreiben kann, zur Summe 4 x haben.
 flächen. — Da die Ecken entgegengesetzter oder Scheitelkegel ein- 
 ander gleich sind, so schliessen wir aus dem Vorhergehenden, dass 
 die Summe der Ecken aller vollständigen Kegelflächen, welche, 
-ohne sich zu schneiden, um einen’ gegebenen Punkt als Scheitel 
+ohne sich zu schneiden, um einen' gegebenen Punkt als Scheitel 
 beschrieben werden können, gleich 2% ist. 
 
 
@@ -2406,7 +2341,7 @@ eines sehr kleinen Elements einer Kugelfläche, welches im Punkte
 E liegt (d. h. dessen Theile sämmtlich dem Punkte E sehr nahe 
 liegen); ferner bezeichne ® die über E in einem beliebigen Punkte 
 P stehende Kegelecke, und es möge die Gerade PE oder ihre 
-Verlängerung die Kugelfläche zum zweiten Male in E’ treffen. 
+Verlängerung die Kugelfläche zum zweiten Male in E' treffen. 
 Ist dann a der Radius der Kugelfläche, so erhalten wir 
 
 
@@ -2462,7 +2397,7 @@ ist und theilen die ganze Kugel-
 fläche ın Beziehung auf den 
 C Punkt Iın Paare entgegen- 
 P gesetzter Elemente. 
-Bezeichnen H und H’ die 
+Bezeichnen H und H' die 
 Grössen eines Paares solcher 
 H Elemente, welche beziehungs- 
 weise in den Endpunkten einer 
@@ -2472,7 +2407,7 @@ Elemente im Punkte I stehenden Kegelecke, so haben wir nach
 __.@-IH: ‚_. @-IH” 
 m cos CHI - cos CHI 
 Bezeichnet demnach @ die Dichtigkeit der Masse auf der Ober- 
-fläche, so ziehen die Elemente 4 und H’ den Punkt P beziehungs- 
+fläche, so ziehen die Elemente 4 und H' den Punkt P beziehungs- 
 weise mit den Kräften | 
 
 
@@ -2504,7 +2439,7 @@ Statik eines materiellen Punktes. 17
 
 
 Auf dieselbe Weise lässt sich durch Betrachtung der Dreiecke 
-CPH' und CH’I darthun, dass die Winkel C ‚PH und ÜH’1 gleich 
+CPH' und CH'I darthun, dass die Winkel C ‚PH und ÜH'1 gleich 
 sind, und dass man 
 
 IH CH a 
@@ -2517,11 +2452,11 @@ H' auf P ausgeübten Anziehungen werden folglich
 9 SsCcHI Tr Bar cs CHI CP 
 
 
-und diese sind gleich, da das Dreieck HCH'’ gleichschenklig ist. 
+und diese sind gleich, da das Dreieck HCH'' gleichschenklig ist. 
 Aus demselben Grunde sind die Winkel COPH, CPH', die, wie wir 
-gezeigt haben, beziehungsweise den Winkeln CHI, CH’I gleich 
+gezeigt haben, beziehungsweise den Winkeln CHI, CH'I gleich 
 sind, einander gleich. Wir schliessen daraus, dass die Resultante 
-der von den beiden Elementen H und H’ ausgeübten Kräfte die 
+der von den beiden Elementen H und H' ausgeübten Kräfte die 
 Richtung PC hat und gleich 
 
 a? 
@@ -2653,32 +2588,32 @@ in ihrer Verlängerung) einen Punkt 7 an, so dass
 
 (Fig. 6) SP.TS= a? — f? 
 ist. Durch T ziehen wir eine beliebige Gerade, welche die Kugel- 
-fläche in K und K’ schneidet, verbinden darauf S mit K und K’ 
+fläche in K und K' schneidet, verbinden darauf S mit K und K' 
 ‚und verlängern diese Geraden, bis sie die Kugelfläche nochmals in 
 E und E treffen. | 
 
 Es werde nun die ganze Kugelfläche in Beziehung auf den 
 Punkt T in Paare entgegengesetzter Elemente eingetheilt. K und 
 K' seien ein Paar solcher Elemente, die an den Endpunkten der 
-Sehne KK’ liegen, und über denen im Punkte 7 die Kegelecke 
-© steht. Ausserdem nehmen wir die Elemente E und E’ an, 
+Sehne KK' liegen, und über denen im Punkte 7 die Kegelecke 
+© steht. Ausserdem nehmen wir die Elemente E und E' an, 
 über denen in S beziehungsweise dieselben Kegelecken wie über 
-den Elementen K und K’ stehen. Dadurch können wir die 
-ganze Kugelfläche in Paare conjugirter Elemente E,E’ zerlegen; 
+den Elementen K und K' stehen. Dadurch können wir die 
+ganze Kugelfläche in Paare conjugirter Elemente E,E' zerlegen; 
 denn es ist leicht ersichtlich, dass wenn wir jedes Paar von Ele- 
-menten K, K’' genommen haben, die daraus hergeleiteten Ele- 
+menten K, K'' genommen haben, die daraus hergeleiteten Ele- 
 
 Fig. 5. j Fig. 6. 
 w 
 
 
-K’ 
+K' 
 
 
-mente E, E’ die.ganze Kugelfläche ausmachen werden, ohne dass 
+mente E, E' die.ganze Kugelfläche ausmachen werden, ohne dass 
 ein Theil derselben mehr als einmal genommen wäre. Die auf P 
 ausgeübte Anziehung wird also die Resultante der von allen Ele- 
-mentenpaaren E, E’ ausgeübten Anziehungen sein. 
+mentenpaaren E, E' ausgeübten Anziehungen sein. 
 
 2% 
 
@@ -2728,7 +2663,7 @@ Fie.5) F=4A-— — SK,
 ( 1g ) KK (f?—.a?) SP? v 
 2a - [n) | 
 KK (a  _yySR 2 
-Ebenso Be sich, wenn ı F die Anziehung bemeluet: welche E’ 
+Ebenso Be sich, wenn ı F die Anziehung bemeluet: welche E' 
 auf P aaibs, 
 
 
@@ -2750,21 +2685,21 @@ KE (a — f2)SP:
 
 Nun sind in den Dreiecken, deren Aehnlichkeit wir nachge- 
 wiesen haben, die Winkel TKS, EPS einander gleich, und ebenso 
-kann man die Gleichheit der Winkel SK’T, SPE’ beweisen. Die 
-Winkel, welche die beiden Seiten SK, SK’ des Dreiecks KSK’ mit 
+kann man die Gleichheit der Winkel SK'T, SPE' beweisen. Die 
+Winkel, welche die beiden Seiten SK, SK' des Dreiecks KSK' mit 
 der dritten Seite bilden, sind also gleich den Winkeln, welche die 
-Linie PS mit den Richtungen PE, PE’ der beiden auf den Punkt 
-P wirkenden Kräfte bildet, und die Seiten SK, SK’ verhalten sich 
-zu einander wie die in den Richtungen PE, PE’ genommenen 
-Componenten der Kräfte F,F’. Es folgt daraus nach dem „Dreieck 
-der Kräfte“, dass die Resultante von F und F’ die Richtung PS 
+Linie PS mit den Richtungen PE, PE' der beiden auf den Punkt 
+P wirkenden Kräfte bildet, und die Seiten SK, SK' verhalten sich 
+zu einander wie die in den Richtungen PE, PE' genommenen 
+Componenten der Kräfte F,F'. Es folgt daraus nach dem "Dreieck 
+der Kräfte", dass die Resultante von F und F' die Richtung PS 
 hat und zu den Componenten in denselben Verhältnissen steht, wie 
-die Seite KK’ des Dreiecks zu den beiden anderen Seiten. Die 
-Resultante der von den beiden Elementen E und E’ auf den Punkt 
+die Seite KK' des Dreiecks zu den beiden anderen Seiten. Die 
+Resultante der von den beiden Elementen E und E' auf den Punkt 
 P ausgeübten Kräfte ist somit nach S zu gerichtet und gleich 
 
 
-Ze 0. KK’ oder 1.20.0 .*) 
+Ze 0. KK' oder 1.20.0 .*) 
 KK (f2ova?) SP? (f?ova?) SP? 
 
 
@@ -2862,7 +2797,7 @@ Statik eines materiellen Punktes. 23
 Die Dichtigkeit im Punkte E werde wieder mit n bezeich- 
 
 
-net. Betrachten wir jetzt zwei in E und E’ befindliche entgegen- 
+net. Betrachten wir jetzt zwei in E und E' befindliche entgegen- 
 gesetzte Elemente, über denen in S eine Kegelecke & steht. Da die 
 Flächen dieser Elemente 
 
@@ -2956,7 +2891,7 @@ ade =uDsin3d$,
 =D— ucos9 = 
 PN co op: 
 folglich die Anziehung des Streifens 
-M x? — a? + D2 “ 
+M x? — a? + D2 " 
 4 D2 ax? 5 
 Bei (der Integration haben wir zwei Fälle zu unterscheiden: 
 (1.) P ist ein äusserer Punkt, d.h. D>a. Die Grenzwerte von x 
@@ -3037,7 +2972,7 @@ Winkel 2a. Ein in seinem Scheitel befindlicher materieller Punkt wird
 dann, wie sich aus (b.) leicht ergibt, mit einer Kraft 
 
 
-‚„2nol(1-— cos) 
+‚"2nol(1-— cos) 
 angezogen, welcher Ausdruck der Länge der Axe einfach proportional ist. 
 
 Es ist leicht, nöthigenfalls den natürlich weniger einfachen Ausdruck 
@@ -3078,7 +3013,7 @@ a
 
 478. Variation der Kraft beim Durchgang durch eine 
 
-anziehende Oberfläche. — Es seien P und P’ zwei zu beiden 
+anziehende Oberfläche. — Es seien P und P' zwei zu beiden 
 
 
 Seiten einer Oberfläche, über welche Materie vertheilt ıst, einander 
@@ -3086,18 +3021,18 @@ unendlich nahe liegende Punkte. Die Dichtigkeit der Materie auf
 der Öberfläche in der Nähe dieser Punkte sei 0. Welches dann 
 auch die resultirende Attraction R ın P ıst, die von der gesammten 
 anziehenden Materie, mag dieselbe auf der Oberfläche oder sonst 
-wo sich befinden, ausgeübt wird, die Resultante R’ der auf P’ wir- 
+wo sich befinden, ausgeübt wird, die Resultante R' der auf P' wir- 
 kenden Kräfte ist die Resultante einer R gleichen und parallelen 
 Kraft und einer Kraft, welche gleich 4x0 ist und in der Richtung 
-der von P’ an die Oberfläche gelegten Normale wirkt. Denn neh- 
-men wir an, PP’ sei senkrecht gegen die Öberfläche gerichtet, eine 
+der von P' an die Oberfläche gelegten Normale wirkt. Denn neh- 
+men wir an, PP' sei senkrecht gegen die Öberfläche gerichtet, eine 
 Voraussetzung, welche die Allgemeinheit der Untersuchung nicht be- 
 einträchtigt, und betrachten eine auf der Oberfläche liegende kreis- 
-förmige Scheibe, deren. Mittelpunkt in P P’ liegt und deren Radius 
+förmige Scheibe, deren. Mittelpunkt in P P' liegt und deren Radius 
 unendlich klein im Vergleich zu den Krümmungsradien der Ober- 
-fläche, aber unendlich gross im Vergleich zu PP’ ist, so wird diese 
-Scheibe [$ 477, (b.)] P und P’ mit entgegengesetzt gerichteten 
-Kräften anziehen, deren jede gleich 2x@ ist und in der Linie PP’ 
+fläche, aber unendlich gross im Vergleich zu PP' ist, so wird diese 
+Scheibe [$ 477, (b.)] P und P' mit entgegengesetzt gerichteten 
+Kräften anziehen, deren jede gleich 2x@ ist und in der Linie PP' 
 wirkt. Daraus ergibt sich die Richtigkeit des Satzes, der ın der 
 Theorie der Elektricität von grosser Bedeutung ist. 
 
@@ -3219,7 +3154,7 @@ ben, die wir jetzt betrachtet haben. Eine sich von Osten nach
 
 
 Westen hin erstreckende tiefe Schlucht vergrössert die Breite von 
-Orten, die an ihrem Südrande liegen, (annähernd) um den Winkel’ 
+Orten, die an ihrem Südrande liegen, (annähernd) um den Winkel' 
 3 04 
 4 6 
 Schlucht ist. So wird der Nordrand der Schlucht eine tiefere 
@@ -3310,7 +3245,7 @@ ist auch
 
 
 oder 2 
-G, (R—h? +4nı (R—h!h= GR“, 
+G, (R—h? +4nı (R—h!h= GR", 
 folglich 
 
 
@@ -3444,7 +3379,7 @@ KC.CF=al.Cdb = — - [AU FOR: — AB?)
 und dies liefert die Formel (1). 
 
 
-“ (4&.) CF ist offenbar die im Punkte C gezogene Tangente einer Hy- 
+" (4&.) CF ist offenbar die im Punkte C gezogene Tangente einer Hy- 
 perbel, welche durch C geht. und A und B zu Brennpunkten hat. Wird 
 also in einer beliebigen durch A.B gehenden Ebene eine beliebige Hy- 
 perbel beschrieben, die A und B zu Brennpunkten hat, so wird sie in 
@@ -3481,7 +3416,7 @@ seine wichtigsten Eigenschaften hier erforschen.
 483. Iaaplace hat diese Function in die Theorie der Gravi- 
 tation eingeführt. Den Namen Potential hat ihr aber zuerst Green 
 gegeben, den man fast als den Schöpfer der Theorie, wie wir sie 
-jetzt haben, ansehen kann. Green’s Werk blieb bis 1846 unbe- 
+jetzt haben, ansehen kann. Green's Werk blieb bis 1846 unbe- 
 achtet, und so wurden die meisten der wichtigen Sätze, die es ent- 
 hält, während dieser Zeit von Gauss, Chasles, Sturm und 
 Thomson zum zweiten Male entdeckt. 
@@ -3564,11 +3499,11 @@ rechnet für die Längeneinheit.
 487. Oberflächen constanten Potentials. — Eine Oberfläche, 
 bei welcher das Potential in jedem Punkte denselben Werth hat, 
 und die deshalb eine Oberfläche constanten Potentials ge- 
-nannt wird, hat’ die Eigenschaft, dass die Richtung der Attraction 
+nannt wird, hat' die Eigenschaft, dass die Richtung der Attraction 
 überall mit der Richtung der Normalen zusammenfällt. Denn längs 
 der Oberfläche ändert sich der Werth des Potentials in keiner Rich- 
 tung, und daher ist in keiner solchen Richtung eine Kraft thätig. 
-Wenn’ also der angezogene Punkt auf eine solche Oberfläche gesetzt 
+Wenn' also der angezogene Punkt auf eine solche Oberfläche gesetzt 
 wird (die wir als glatt und starr voraussetzen), s0 wird er in jeder 
 Lage in Ruhe bleiben; die Oberfläche wird daher auch wohl eine 
 Gleichgewichtsoberfläche genannt. Wir werden später sehen, 
@@ -3646,7 +3581,7 @@ trachteten Theils der Röhre keine der anziehenden Massen befindet,
 FG —FW'—=0, 
 
 wo F die Kraft in jedem Punkte des Schnittes bezeichnet, dessen 
-Fläche © ist. Diese Gleichung ist mit der berühmten Laplace’- 
+Fläche © ist. Diese Gleichung ist mit der berühmten Laplace'- 
 schen Gleichung [Anhang B (a) und unten $ 491 (c)] äquivalent. 
 
 Wenn der anziehende Körper um einen Punkt herum symme- 
@@ -3656,7 +3591,7 @@ gel und @ nach $ 469 dem Quadrate des Abstandes vom Scheitel
 proportional. Für Punkte, welche ausserhalb der anziehenden 
 
 
-Masse liegen, ist danach F’ dem un des Abstandes umgekehrt 
+Masse liegen, ist danach F' dem un des Abstandes umgekehrt 
 proportional. 
 
 
@@ -3681,7 +3616,7 @@ und ® die Fläche des Schnittes der Röhre in diesem Theile ist,
 so erhalten wir | | 
 
 Fo — Fü —=4nloo. 
-Dies ıst der Poisson’schen Erweiterung der Laplace’schen Glei- 
+Dies ıst der Poisson'schen Erweiterung der Laplace'schen Glei- 
 chung [$ 491 (c)] äquivalent. 
 
 
@@ -3689,7 +3624,7 @@ chung [$ 491 (c)] äquivalent.
 Berechnung der Arbeit, welche gegen eine dem Quadrate des Ab- 
 standes von einem festen Punkte umgekehrt proportionale Kraft 
 geleistet wird, hat man als die mittlere Kraft das geometrische 
-Mittel dör am Anfang und am Ende der Bahn wirkenden’ Kräfte 
+Mittel dör am Anfang und am Ende der Bahn wirkenden' Kräfte 
 anzusehen: Was den zweiten Factor des Ausdrucks für die Arbeit, 
 die Grösse des Weges, betrifft, so ist dieselbe ganz unabhängig von 
 der eingeschlagenen Bahn und einfach die Differenz der Abstände 
@@ -3747,7 +3682,7 @@ materielle Punkte O und P, welche beziehungsweise die Massen m und
 Eins und die Coordinaten qa,b,c; x,y,2 haben. Ihr Abstand sei D, also 
 
 
-D’ = («— a)? + (y—b)? + (2 — ce). 
+D' = («— a)? + (y—b)? + (2 — ce). 
 
 
 Die Componenten ihrer wechselseitigen Anziehung sind 
@@ -3767,7 +3702,7 @@ daher |
 (e—a)de + (y—b)d (2 —c)dz 
 ei vi ni y+ 
 daD 
-Gi + m D:’ 
+Gi + m D:' 
 oder, da die obere Grenze D= » ist, gleich 
 m 
 +7 
@@ -3844,7 +3779,7 @@ Hieraus folgt
 aX_ EV __2, 
 dx . da az 
 
-(c.) Laplace’s Gleichung. Poisson’s Erweiterung dersel- 
+(c.) Laplace's Gleichung. Poisson's Erweiterung dersel- 
 ben. — Ist jetzt allgemein 
 
 
@@ -3857,7 +3792,7 @@ so erhalten wir, wie oben [Anhang B (g), (14)] bewiesen wurde,
 - 92 5= 0. 
 
 
-„(D)=- Eu 
+"(D)=- Eu 
 e— 
 
 
@@ -3898,8 +3833,8 @@ dass
 
 
 v2 V,. =0 
-Ri x „. d2V Ta ; 
-ist. Ferner liefern die Ausdrücke für 2’ u.s. w., die wir im Falle einer 
+Ri x ". d2V Ta ; 
+ist. Ferner liefern die Ausdrücke für 2' u.s. w., die wir im Falle einer 
 
 
 Kugel (b) erhalten haben, 
@@ -3948,7 +3883,7 @@ Dann ist V nur eine Function von r, folglich
 
 av _dVdr _zav 
 
-dx drd& r dr’ 
+dx drd& r dr' 
 
 aV _1ıdaV x dV x d2V . 
 
@@ -3964,7 +3899,7 @@ senen Höhlung liegt,
 u 2 dV 
 r dr +3 Tr = 
 Ein erstes Integral dieser Gleichung ist 
-72 „aV 
+72 "aV 
 dr 
 
 
@@ -3998,9 +3933,9 @@ dr? Eu r dr
 ist; darin hat e, die Dichtigkeit der Materie im Abstande r vom Mittel- 
 punkt, den Werth Null, wenn r kleiner als der Radius a der Höhlung 
 ist; einen endlichen Werth o, den wir der Einfachheit wegen als con- 
-stant ansehen wollen, wenn r>a und zugleich < als der Radius a’ der 
+stant ansehen wollen, wenn r>a und zugleich < als der Radius a' der 
 äussersten Grenzfläche der Hohlkugel ist; endlich wieder den Werth Null 
-für alle Werthe von r, die grösser als a’ sind. Wir erhalten somit, wenn 
+für alle Werthe von r, die grösser als a' sind. Wir erhalten somit, wenn 
 
 
 = — 4no 
@@ -4175,7 +4110,7 @@ hat. Es ist dies die Gleichung einer Fläche constanten Potentials.
 Ist n die nach auswärts gemessene Normale einer solchen Fläche, so 
 ist die in einem beliebigen Punkte wirkende Gesammtattraction offenbar 
 aV 
-Am’ 
+Am' 
 
 
 und ihre Richtung ist diejenige, in welcher V zunimmt, 
@@ -4212,7 +4147,7 @@ Theile von [ S Ndo, welche den durch den Kegel aus S heraus-
 
 geschnittenen Elementen entsprechen, werden offenbar dieselbe ab- 
 solute Grösse ®@m haben, aber abwechselnd positiv und negativ 
-“ sein. Da nun ihre Anzahl ungerade ist, so ist ihre Summe gleich 
+" sein. Da nun ihre Anzahl ungerade ist, so ist ihre Summe gleich 
 + om. Wird jetzt weiter für alle um OÖ herumliegenden Kegel- 
 ecken summirt ($ 466), so erhält man 4m, d. h. es ist 
 
@@ -4220,7 +4155,7 @@ ecken summirt ($ 466), so erhält man 4m, d. h. es ist
 . [Nas = 4m. 2 
 
 
-Dieses Resultat ist der Poisson’schen Erweiterung der Laplace’- 
+Dieses Resultat ist der Poisson'schen Erweiterung der Laplace'- 
 schen Gleichung äquivalent. 
 
 
@@ -4238,7 +4173,7 @@ Summe Null. Es ist also in diesem Falle
 SJN4s = 0, 
 
 
-und dies ist wieder die Laplace’sche Gleichung. = 
+und dies ist wieder die Laplace'sche Gleichung. = 
 
 
 Statik eines materiellen Punktes. 43- 
@@ -4255,7 +4190,7 @@ bezeichnet, während N und do dieselbe Bedeutung wie oben haben.
 
 
 Es ist dies nur ein besonderer Fall des in Cap. I. Anhang A (a) ge- 
-gebenen analytischen Satzes. Für @«=1 und U’=1 lautet derselbe 
+gebenen analytischen Satzes. Für @«=1 und U'=1 lautet derselbe 
 
 
 nämlich 
@@ -4333,14 +4268,14 @@ von der Entwicklung nach harmonischen Functionen unabhängig ist.
 
 In Cap. I, Zusatz B (a) sei $ eine Kugelfläche vom Radius a und 
 U das Potential im Punkte (x, y, 2), welches aus der gesammten 
-ausserhalb S befindlichen Masse herrührt. Ferner sei U’ das Potential 
+ausserhalb S befindlichen Masse herrührt. Ferner sei U' das Potential 
 
 
 einer auf eine kleinere concentrische Kugelfläche gleichförmig vertheil- 
 ten Masseneinheit, so dass ausserhalb der Fläche $ und bis zu einem 
 
 
-gewissen Abstande innerhalb derselben U’= - ist. Endlich sei noch «=1. 
+gewissen Abstande innerhalb derselben U'= - ist. Endlich sei noch «=1. 
 
 
 Dann verwandelt sich das mittlere Glied der Formel (1) des Zusatzes A 
@@ -4358,19 +4293,19 @@ dritte Glied gleich Null setzen und erhalten
 [Jg U8 U = [SV U'dxzdydz. 
 
 
-An der Oberfläche $ ist nun dU'’— — 5; für alle ausserhalb der 
+An der Oberfläche $ ist nun dU''— — 5; für alle ausserhalb der 
 
 
-Kugel $ liegenden Punkte der Materie, aus welcher U’ herrührt, ist 
-v2 U’= 0; endlich ist, wenn eo’ die Dichtigkeit der Materie bezeichnet, 
-für alle inneren Punkte 7? U’ = — 4no’. Die vorhergehende Gleichung 
+Kugel $ liegenden Punkte der Materie, aus welcher U' herrührt, ist 
+v2 U'= 0; endlich ist, wenn eo' die Dichtigkeit der Materie bezeichnet, 
+für alle inneren Punkte 7? U' = — 4no'. Die vorhergehende Gleichung 
 geht daher über in 
 
 
 - [/ Udo = an [ [ fe! Udxdyda. 
 
 
-Wir lassen jetzt die Dichtigkeit e’ unbegrenzt zunehmen, folglich die 
+Wir lassen jetzt die Dichtigkeit e' unbegrenzt zunehmen, folglich die 
 Kugel, innerhalb welcher das dreifache Integral genommen werden muss, 
 
 
@@ -4425,7 +4360,7 @@ ist, es durch den ganzen Raum constant ist, zu dem man von die-
 sem Theil der Axe aus gelangen kann, ohne eine der Massen zu tref- 
 fen (s. $ 546 unten). | 
 
-499. Green’s Problem. — Es sei S ein endlicher Theil 
+499. Green's Problem. — Es sei S ein endlicher Theil 
 einer Oberfläche, oder eine vollständige geschlossene oder eine un- 
 endlich ausgedehnte Oberfläche und E ein auf S beliebig angenom- 
 mener Punkt. Dann ist es erstens-möglich, Materie so über S hin 
@@ -4449,7 +4384,7 @@ lich gegebenen Werth habe. Wir bezeichnen die Lösung dieses Problems
 wieder mit U und betrachten zunächst den Fall, in welchem S eine offene 
 Schale, d. h. ein endlicher Theil einer gekrümmten Oberfläche ist (eine 
 Ebene ist darin natürlich als ein besonderer Fall enthalten). In Cap. I. 
-A (a) sei U’ das Potential für den Punkt (x, y,z), welches aus einer 
+A (a) sei U' das Potential für den Punkt (x, y,z), welches aus einer 
 Masse herrührt, die in jedem Punkte @ die Dichtigkeit 7 (Q) hat. Die 
 dreifache Integration erstrecke sich durch den unendlichen Raum, mit 
 Ausnahme der unendlich dünnen Schale $. In der in [A. (a)] angestell- 
@@ -4469,24 +4404,24 @@ von S, am Anfang einer vom Punkte E auslaufenden und zu S$ norma-
 len Linie erfährt, genommen für die Längeneinheit; (JÜU) bezeichnet die 
 Grösse der Variation, welche U auf der anderen Seite von S erfährt, am 
 Ende einer normal zu 8 gegen E hin verlaufenden Linie, ebenfalls ge- 
-nommen für die Längeneinheit; entsprechende Bedeutungen haben [d’ U’], 
-(FU’). Wir setzen jetzt voraus, die Masse, deren Potential U’ ist, sei 
+nommen für die Längeneinheit; entsprechende Bedeutungen haben [d' U'], 
+(FU'). Wir setzen jetzt voraus, die Masse, deren Potential U' ist, sei 
 nicht in endlichen Mengen in irgend welchen endlichen Theilen von S 
 verdichtet; dann wird 
 
 
-[(F UN) = ($U’) 
-sein, und die. U und U’ definirenden Bedingungen liefern für den ganzen 
+[(F UN) = ($U') 
+sein, und die. U und U' definirenden Bedingungen liefern für den ganzen 
 Raum, innerhalb dessen das dreifache Integral zu nehmen ist, 
 2U=0, WVWU= — 4nd; = 
 %@ bezeichnet den Werth von w(Q), wenn Q der Punkt (x, 9,2) ist. Die 
 vorhergehende Gleichung geht daher über in 
 
 
-SJes U’ ı[$ U] — (d U)) =4n/ [ [dx dydz@U. 
+SJes U' ı[$ U] — (d U)) =4n/ [ [dx dydz@U. 
 
 
-Es sei jetzt die Masse, deren Potential U’ ist, gleich der Masseneinheit 
+Es sei jetzt die Masse, deren Potential U' ist, gleich der Masseneinheit 
 und auf einen unendlich kleinen Raum um einen Punkt Q herum be- 
 schränkt. Wir erhalten dann 
 1 . 
@@ -4538,8 +4473,8 @@ herleiten: —
 
 
 Der Beweis ist leicht: Es bezeichne für einen Augenblick ‚oe die zur Er- 
-zeugung von U erforderte Flächendichtigkeit. Ist dann ,‚oe’ der Werth 
-von ‚oe für irgend ein anderes Element Z’ von $, so erhalten wir 
+zeugung von U erforderte Flächendichtigkeit. Ist dann ,‚oe' der Werth 
+von ‚oe für irgend ein anderes Element Z' von $, so erhalten wir 
 
 
 F(E) AL 
@@ -4599,7 +4534,7 @@ Integration auf einen der beiden Raumtheile beschränkt, welche
 durch @ vollständig von einander getrennt werden. 
 
 
-501. Anwendung des Green’schen Problems auf eine 
+501. Anwendung des Green'schen Problems auf eine 
 gegebene Elektricitätsmenge M, welche auf eine Gruppe 8 
 leitender Oberflächen einwirkt. — Eine andere Bemerkung von 
 äusserster Wichtigkeit ist folgende: — Ist F(E) das Potential 
@@ -4653,7 +4588,7 @@ durch S von einer beliebig gegebenen Masse M getrennt
 wird, dasselbe Potential wie diese Masse M erzeugt. | 
 
 So ist es in Fig. 15 möglich, eine, aber auch nur eine Verthei- 
-“ lung einer Masse über $ı, S,, S, zu finden, welche für jeden Punkt 
+" lung einer Masse über $ı, S,, S, zu finden, welche für jeden Punkt 
 von S; und für jeden Punkt der Hanincheilo H, und HM Eee 
 Potential wie M erzeugt. 
 
@@ -4703,7 +4638,7 @@ Bedingungen. Dies ist daher
 eine, und zwar die einzige Lösun g 
 des Problems ($ 500). 
 
-505. Reducirbarer Fall des Green’schen Problems. — 
+505. Reducirbarer Fall des Green'schen Problems. — 
 Indem wir immer noch den Fall betrachten, in welchem F(E) das 
 Potential einer gegebenen Masse M ist, nehmen wir an, S sei eine 
 M umschliessende Oberfläche constanten Potentials oder eine Gruppe 
@@ -4728,7 +4663,7 @@ Es ist [F[UJ=— R und (I UÜ)=0. Hieraus ergibt sich nach $ 500
 (2) das Gesetz der Dichtigkeit. 
 
 
-506. Wenn M aus zwei Theilen m, und m’ besteht, die durch 
+506. Wenn M aus zwei Theilen m, und m' besteht, die durch 
 eine Fläche $, constanten Potentials von einander getrennt sind, 
 
 
@@ -4738,34 +4673,34 @@ eine Fläche $, constanten Potentials von einander getrennt sind,
 Statik eines materiellen Punktes. 51 
 
 
-und wenn S aus zwei Theilen $, und S’ besteht, von denen der 
-letztere den ersteren vollständig von m’ trennt, so ersehen wir aus 
+und wenn S aus zwei Theilen $, und S' besteht, von denen der 
+letztere den ersteren vollständig von m' trennt, so ersehen wir aus 
 $ 504, dass die über $, vertheilte Masse für den ganzen mit $' 
 auf dersalben Seite von $ı liegenden Raum dasselbe Potential V, 
-wie m; erzeugt, und dass -die über $’ vertheilte Masse für den 
-ganzen mit S, auf derselben Seite von S’ liegenden Raum dasselbe - 
-Potential V’ wie m’ erzeugt. Die Masse ist aber, wie wir voraus- 
+wie m; erzeugt, und dass -die über $' vertheilte Masse für den 
+ganzen mit S, auf derselben Seite von S' liegenden Raum dasselbe - 
+Potential V' wie m' erzeugt. Die Masse ist aber, wie wir voraus- 
 setzen, auf der ganzen Fläche S in einer solchen Weise vertheilt, 
 dass auf S;ı und folglich auch in jedem Punkte innerhalb $, ein 
 constantes Potential C} hervorgebracht wird. Das von S, allein 
 herrührende innere Potential ist daher C, — V”. 
 
-Gehen wir also von den’Potentialen zu den Attractionen über, 
+Gehen wir also von den'Potentialen zu den Attractionen über, 
 so erkennen wir, dass die Resultante der Kräfte, mit welchen Sı 
 allein jeden auf der einen Seite liegenden Punkt anzieht, dieselbe 
 ist, wie die Resultante der Attraction von mı; auf der anderen Seite 
 ist dieselbe gleich und entgegengesetzt derjenigen des übrigen 
 
-Theils m’ der ganzen Masse. Der directeste und einfachste voll- 
+Theils m' der ganzen Masse. Der directeste und einfachste voll- 
 ständige Ausspruch dieses Resultats ist folgender: — 
 
-Wenn man weiss, dass in zwei Raumtheilen H, H’, welche von 
+Wenn man weiss, dass in zwei Raumtheilen H, H', welche von 
 einander durch eine geschlossene oder eine unendliche continuirliche 
-Oberfläche S vollständig getrennt sind, sich zwei Massen m, m’ be- 
+Oberfläche S vollständig getrennt sind, sich zwei Massen m, m' be- 
 finden, welche in jedem Pünkte von $ gleiche und: gleichgerichtete 
 Tangentialkräfte erzeugen, so wird eine und dieselbe Vertheilung 
-einer Masse über S die Kraft von m für jeden Punkt von H’ und 
-die Kraft von m’ für jeden Punkt von H erzeugen. Die Dichtig- 
+einer Masse über S die Kraft von m für jeden Punkt von H' und 
+die Kraft von m' für jeden Punkt von H erzeugen. Die Dichtig- 
 
 
 keit dieser Vertheilung ist gleich Ze wenn R die Resultante der 
@@ -4793,16 +4728,16 @@ tial erzeugt. So sei, um ein von Green selbst gegebenes Beispiel
 52 Abstracte Dynamik. 
 
 
-anzuführen, M die Masse eines gleichförmigen Stabes AA’. Die 
+anzuführen, M die Masse eines gleichförmigen Stabes AA'. Die 
 Oberflächen constanten Potentials sind für diesen Körper, wie wir 
 oben in $ 481 gesehen haben, gestreckte Rotationsellipsoide, deren 
-jedes die Punkte A und A’ zu Brennpunkten hat, und die Resul- 
+jedes die Punkte A und A' zu Brennpunkten hat, und die Resul- 
 tante der auf Ü wirkenden Kräfte ist gleich 
 m 
 
 12 —a?) 
 wenn die ganze Masse des Stabes mit m, die Länge desselben mit 
-2a und A’C + AC mit 2] bezeichnet wird. Wir schliessen dar- 
+2a und A'C + AC mit 2] bezeichnet wird. Wir schliessen dar- 
 aus, dass eine über die Oberfläche des Ellipsoides vertheilte Masse, 
 welche im Punkte C die Dichtigkeit 
 
@@ -4822,7 +4757,7 @@ Schichten, den wir unten in SS 520, 521 beweisen werden.
 
 
 508. Wir wollen noch ein zweites Beispiel_ geben: M bestehe 
-aus zwei gleichen Massenpunkten, die sich in den Punkten I], I’ 
+aus zwei gleichen Massenpunkten, die sich in den Punkten I], I' 
 befinden. Wird die Masse jedes Punktes als Einheit angenom- 
 
 
@@ -4835,14 +4770,14 @@ iprrB
 
 
 die Gleichung einer Oberfläche constanten Potentials; dabei wird 
-vorausgesetzt, dass IP und I’P keine negativen Werthe haben 
+vorausgesetzt, dass IP und I'P keine negativen Werthe haben 
 können, und dass man C einen beliebigen constanten positiven 
 Werth beilegt. Nach dieser Gleichung sind die nebenstehenden 
 Curven für die Werthe 10; 9; 8; 7; 6; 5; 4°5; 48, 42; 41; 4; 3°9; 
-38; 37; 3:5; 3; 2°5; 2 von ( gezeichnet; II’ ist dabei als Längen- 
+38; 37; 3:5; 3; 2°5; 2 von ( gezeichnet; II' ist dabei als Längen- 
 einheit angenommen. Die entsprechenden Flächen constanten Po- 
 tentials sind die Oberflächen, welche von diesen Curven gebildet 
-‘werden, wenn man die ganze Figur um II’ als Axe rotiren lässt. 
+‘werden, wenn man die ganze Figur um II' als Axe rotiren lässt. 
 Wir sehen daraus, dass, wenn C < 4 ist, die Oberfläche constanten 
 Potentials eine geschlossene Fläche ist. Fassen wir eine Fläche 
 _ dieser Art ins Auge und bezeichnen die Resultante der beziehungs- 
@@ -4851,7 +4786,7 @@ _ dieser Art ins Auge und bezeichnen die Resultante der beziehungs-
 ‚Statik eines materiellen Punktes. 53 
 
 
-weise in den Richtungen PI und PI’ wirkenden Kräfte an und 
+weise in den Richtungen PI und PI' wirkenden Kräfte an und 
 
 
 —— mit R, so ist die Anziehung einer über die Fläche‘ vertheilten 
@@ -4867,13 +4802,13 @@ Masse, die ım Punkte P die Dichtigkeit n hat, für jeden inne-
 
 
 ren Punkt Null und für jeden äusseren Punkt gleich der Anziehung, 
-welche I und I’ auf denselben Punkt ausüben. | : 
+welche I und I' auf denselben Punkt ausüben. | : 
 509. Für jeden Werth von C, der grösser‘ als 4 ist, besteht 
 die Fläche constanten Potentials aus zwei getrennten Ovalen, die 
 bei wachsendem C sich immer mehr der Form von Kugelflächen 
 nähern (in der Figur sind die letzten drei oder vier Flächen nur 
 noch sehr wenig von Kugelflächen verschieden); ihre Mittelpunkte 
-liegen zwischen I und I’ und kommen für grössere und grössere 
+liegen zwischen I und I' und kommen für grössere und grössere 
 Werthbe von C immer näher an diese Punkte zu liegen. 
 Betrachten wir eins dieser Ovale allein, etwa eine der I um- 
 gebenden Oberflächen, und vertheilen über dieselbe eine Masse, 
@@ -4883,7 +4818,7 @@ welche im Punkte P wieder die Dichtigkeit — hat, so erhalten wir
 
 
 eine Schicht, welche ($ 507) auf jeden äusseren Punkt dieselbe 
-Kraft wie I’ und auf jeden inneren Punkt eine Kraft ausübt, welche 
+Kraft wie I' und auf jeden inneren Punkt eine Kraft ausübt, welche 
 derjenigen von I gleich und entgegengesetzt ist. 
 
 
@@ -4893,11 +4828,11 @@ derjenigen von I gleich und entgegengesetzt ist.
 10. Elektrische Bilder. — Wir wollen noch ein Beispiel 
 geben, welches in der "Theorie der Elektricität von ausserordent- 
 licher Bedeutung ist. Es bestehe M aus einer in einem Punkte I 
-concentrirten positiven Masse m und einer in I’ befindlichen nega- 
-tiven Masse — m’. Ferner sei S eine Kugelfläche, welche die Gerade 
+concentrirten positiven Masse m und einer in I' befindlichen nega- 
+tiven Masse — m'. Ferner sei S eine Kugelfläche, welche die Gerade 
 IT und deren Verlängerung in Punkten A, A, schneidet, für welche 
 
-IA:AI' = IA,:I A, = m:m’ 
+IA:AI' = IA,:I A, = m:m' 
 ist. Dann hat man nach einem bekannten geometrischen Satze 
 
 
@@ -4912,7 +4847,7 @@ Fig. 20. selbe über S vertheilte Masse
 
 
 auf jeden äusseren Punkt die- 
-selbe Kraft wie m’ und auf jeden 
+selbe Kraft wie m' und auf jeden 
 Punkt, der innerhalb S liegt, die- 
 selbe Kraft wıe m ausüben. Um 
 den Ausdruck für die Dichtig- 
@@ -4924,7 +4859,7 @@ Resultante der in der Richtung EI wirkenden Kraft = und der
 
 
 ' 
-in der Verlängerung von I’E wirkenden Kraft FE Da diese 
+in der Verlängerung von I'E wirkenden Kraft FE Da diese 
 
 
 Kräfte sich umgekehrt wie IE:IE verhalten ($ 256), so ist die 
@@ -4940,8 +4875,8 @@ wir schliessen daraus, dass die Schicht im Punkte E die Dichtigkeit
 m?.Il 1 
 nm TE 
 
-„hat. Dass eine Schicht von dieser Beschaffenheit äussere Punkte 
-ganz so anzieht, wie wenn ihre Masse in I’ concentrirt wäre, und 
+"hat. Dass eine Schicht von dieser Beschaffenheit äussere Punkte 
+ganz so anzieht, wie wenn ihre Masse in I' concentrirt wäre, und 
 innere Punkte ganz wie eine gewisse in ] concentrirte Masse, ist 
 bereits oben im $ 474 geometrisch bewiesen. 
 
@@ -4963,25 +4898,25 @@ CI nımmt; für die ın diesen Punkt zu setzende Masse er-
 
 
 gibt sich 
-| ra „04 _ „cr 
+| ra "04 _ "cr 
 AI "cr "rei 
 
 
 Haben wir also eine beliebige Anzahl materieller Punkte m,, 
 M;, u. 8. w., welche sich ausserhalb S in den Punkten ],, I., u. s. w. 
 befinden, so können wir nach dem Vorigen entsprechende innere 
-Punkte T}, T’,, u. s. w. und Massen m’, m',, u. s. w. finden, und 
+Punkte T}, T',, u. s. w. und Massen m', m',, u. s. w. finden, und 
 durch Addition der Ausdrücke für die Dichtigkeit in E, welche die 
 vorhergehende Formel für jedes Punktepaar liefert, erhalten wir 
 eine kugelförmige materielle Schicht, welche die Eigenschaft hat, auf 
-jeden äusseren Punkt mit derselben Kraft wie — m’, —m’s, u. 8. w. 
+jeden äusseren Punkt mit derselben Kraft wie — m', —m's, u. 8. w. 
 und auf jeden inneren Punkt mit einer Kraft zu wirken, die derje- 
 nigen von Mı, Mg, u. 5. w. gleich und entgegengesetzt ist. 
 
 512. Es möge eine unendliche Anzahl solcher Partikeln ge- 
 geben sein, welche eine: continuirliche Masse M ausmachen; dann 
 werden die entsprechenden inneren Partikeln natürlich eine conti- 
-nuirliche Masse — M’ von der entgegengesetzten Art Materie bil- 
+nuirliche Masse — M' von der entgegengesetzten Art Materie bil- 
 den, und der frühere Schluss wird seine Gültigkeit nicht verlieren. 
 Wenn S die Oberfläche einer massiven oder hohlen Metallkugel ist, 
 die mit der Erde durch einen dünnen Drath in V erbindung steht, 
@@ -4989,11 +4924,11 @@ und wenn M ein auf die Kugel einwirkender elektrisirter äusserer
 Körper ist, so ist die materielle Schicht, die wir bestimmt haben, 
 eben die durch den Einfluss von M erregte und auf S vertheilte 
 Elektricität; die in der oben angegebenen Art bestimmte Masse 
-— M’ heisst das elektrische Bild von M in der Kugel, da die 
+— M' heisst das elektrische Bild von M in der Kugel, da die 
 elektrische Wirkung in dem ganzen ausserhalb der Kugel befind- 
 lichen Raume unverändert bleiben würde, wenn man die Kugel ent- 
 fernte und im Innern des von ihr eingenommenen Raumes die in 
-angegebener Weise bestimmte Masse — M’ anbrächte. In der 
+angegebener Weise bestimmte Masse — M' anbrächte. In der 
 Elektricitätslehre werden wir auf diesen Gegenstand zurückkommen. 
 
 
@@ -5007,7 +4942,7 @@ Anzahl von Punkten oder für eine beliebige Anzahl von Linien oder
 Flächen andere substituirt, die erhalten werden, wenn man von 
 
 
-ın’ ni / 7 } 
+ın' ni / 7 } 
 
 
 56 Abstracte Dynamik. 
@@ -5062,11 +4997,11 @@ Es sei P ein beliebiger Punkt einer geometrischen Figur oder
 Statik eines materiellen Punktes. & 57 
 
 
-einer Massen-Vertheilung, O ein besonderer Punkt („das Centrum“) 
-und a eine besondere Länge (der Radius der „reflectirenden Kugel“). 
-In OP nehmen wir einen P entsprechenden Punkt P’ an, und 
+einer Massen-Vertheilung, O ein besonderer Punkt ("das Centrum") 
+und a eine besondere Länge (der Radius der "reflectirenden Kugel"). 
+In OP nehmen wir einen P entsprechenden Punkt P' an, und 
 für jeden unendlich kleinen Theil m der gegebenen Masse setzen 
-wir eine Masse m’; dabei sollen P’ und m’ den Bedingungen 
+wir eine Masse m'; dabei sollen P' und m' den Bedingungen 
 ee Sp m — Em lfm 
 genügen. Bezeichnen dann 
 L, A, V, e(L), e(A), e(V) 
@@ -5076,11 +5011,11 @@ Flächendichtigkeit, Volumendichtigkeit in der gegebenen Masse un-
 endlich nahe an P oder in sonst einem Punkte, der von O densel- 
 ben Abstand r wie P hat, und werden die entsprechenden Elemente 
 in der transformirten Figur oder Massenvertheilung durch diesel- 
-ben Symbole mit nn ae bezeichnet, so ist “ 
+ben Symbole mit nn ae bezeichnet, so ist " 
 
 
 a? at y'6 
-U=S1=, 4 -A=Z A V= VG’. 
+U=S1=, 4 -A=Z A V= VG'. 
 
 
 y2 Pr\ as 
@@ -5093,7 +5028,7 @@ Der Nutzen dieser Transformation in ‚der Theorie der Elektri-
 eität und der Attraction überhaupt beruht ganz und gar auf dem 
 folgenden Satze: — 
 ' 516. Anwendung auf das Potential. —. Satz. — Bezeich- 
-net @ das Potential der gegebenen Masse für den Punkt P und 9’ 
+net @ das Potential der gegebenen Masse für den Punkt P und 9' 
 das Potential der transformirten Masse für den Punkt P', so ist 
 
 
@@ -5102,8 +5037,8 @@ p Ze er
 
 
 In einem beliebigen Punkte I befinde sich ein beliebiger Theil 
-m der gegebenen Masse, in dem entsprechenden Punkte I’ der m ' 
-entsprechende Theil m’ der transformirten Masse. Dann hat man 
+m der gegebenen Masse, in dem entsprechenden Punkte I' der m ' 
+entsprechende Theil m' der transformirten Masse. Dann hat man 
 
 
 Fig. 21. 
@@ -5131,7 +5066,7 @@ TP : Tp' u a:OP.
 
 Danach steht jeder Theil von @ zu dem entsprechenden Theile von 
 p' in dem constanten Verhältniss a: r; es muss also auch die Summe 
-p sich zur Summe g’ wie «:r verhalten, und das hatten wir zu 
+p sich zur Summe g' wie «:r verhalten, und das hatten wir zu 
 ‘beweisen. . 
 
 517. Anwendung auf eine über eine Kugelfläche ver- 
@@ -5153,16 +5088,16 @@ OP —= PET ist, gleich SP 9. (Wie wir alsbald sehen werden,
 mittels harmonischer Kugelfunctionen.) So z.B. sei die Verthei- 
 lung der Masse eine gleichföormige. Da wir dann wissen, dass 
 ‚auf einen inneren Punkt keine Kraft wirkt, so muss ® constant 
-sein; folglich ist das Potential -für jeden äusseren Punkt P’' dem 
+sein; folglich ist das Potential -für jeden äusseren Punkt P'' dem 
 Abstande dieses Punktes vom Centrum umgekehrt proportional. 
 Oder es sei die ‚gegebene Masse eine gleichförmige Schale 8 
 und OÖ irgend ein excentrischer oder irgend ein äusserer Punkt. 
 Die transformirte Masse wird ($$ 513, 514) eine kugelförmige 
-Schale S’, deren Dichtigkeit umgekehrt wie der Kubus des Abstan- 
+Schale S', deren Dichtigkeit umgekehrt wie der Kubus des Abstan- 
 des von O variirt. Liegt der Punkt O innerhalb S, so wird er auch 
-von S’ umschlossen, und der ganze Raum innerhalb S transformirt 
+von S' umschlossen, und der ganze Raum innerhalb S transformirt 
 sich in den ganzen Raum ausserhalb 9. Folglich ist ($ 516) das 
-Potential von S’ für jeden ausserhalb S’ liegenden Punkt dem Ab- 
+Potential von S' für jeden ausserhalb S' liegenden Punkt dem Ab- 
 
 
 4 
@@ -5175,9 +5110,9 @@ stand von O0 umgekehrt proportional; es ist- daher gleich dem Po-
 
 
 tential einer gewissen in O concentrirten Quantität Materie. Wenn 
-aber O ausserhalb S und folglich auch ausserhalb S’ liegt, so trans- 
-formirt sich der Raum innerhalb S in den Raum innerhalb S’. Das 
-Potential von S’ für einen inneren Punkt ist also dasselbe, wie das 
+aber O ausserhalb S und folglich auch ausserhalb S' liegt, so trans- 
+formirt sich der Raum innerhalb S in den Raum innerhalb S'. Das 
+Potential von S' für einen inneren Punkt ist also dasselbe, wie das 
 Potential einer gewissen ın dem Punkte O, der jetzt ein äusserer 
 Punkt ist, concentrirten Quantität Materie. Wir gelangen auf 
 
@@ -5196,7 +5131,7 @@ einen Punkt innerhalb einer gleichförmigen Kugelschale ausgeübten
 
 
 Attractionen einander das Gleichgewicht halten. So ist der erste 
-derselben ($ 471) das Bild dieses Newton’schen Satzes in einer 
+derselben ($ 471) das Bild dieses Newton'schen Satzes in einer 
 concentrischen Kugelfläche; der zweite ıst das Bild einer Kugel- 
 fläche, deren Mittelpunkt ausserhalb der Schale oder innerhalb der- 
 selben (dann aber nicht in dem Mittelpunkt der Schale) liegt, je- 
@@ -5216,16 +5151,16 @@ formirte System eine volle Kugel B' sein, deren Dichtigkeit sich
 umgekehrt wie die fünfte Potenz des Abstandes von dem ausserhalb 
 
 
-B’ liegenden Punkte O ändert: Das Potential von S für den gan- 
+B' liegenden Punkte O ändert: Das Potential von S für den gan- 
 
 
 zen äusseren Raum ist dasselbe, wie das Potential der im Mittel- 
 punkte C von S concentrirten Masse m von $. Folglich ist das 
-Potential von $’ für den ganzen äusseren Raum dasselbe, wie das 
-Potential der entsprechenden Masse, wenn diese in C’, der transfor- 
+Potential von $' für den ganzen äusseren Raum dasselbe, wie das 
+Potential der entsprechenden Masse, wenn diese in C', der transfor- 
 mirten Lage von (, concentrirt ist. Diese Masse ist natürlich gleich 
-der Masse von B’, und man kann leicht beweisen, dass (’ die Lage 
-des Bildes von O in der Kugelfläche von B’ ist. Wir schliessen 
+der Masse von B', und man kann leicht beweisen, dass (' die Lage 
+des Bildes von O in der Kugelfläche von B' ist. Wir schliessen 
 daraus, dass eine volle Kugel, deren Dichtigkeit sich umgekehrt 
 wie die fünfte Patenz des Abstandes von einem äusseren Punkte 0) 
 ändert, jeden äusseren Punkt ebenso anzieht, wie wenn ihre Masse 
@@ -5258,7 +5193,7 @@ eine reine Deformation mit dem anderen zur Deckung gebracht wird.
 
 Es lässt sich leicht zeigen, dass, wenn P,Q@ zwei auf einer el- - 
 lipsoidischen Schicht liegende Punkte und p,q dieihnen correspon- 
-direnden Punkte der zweiten Schicht sind, Pq = Qp sein wird.“ 
+direnden Punkte der zweiten Schicht sind, Pq = Qp sein wird." 
 Der Beweis ist folgender: — 
 
 
@@ -5279,7 +5214,7 @@ p Se 6; re Terz N, ee en Ä
 offenbar ein Punkt,von (2) und zwar der P correspondirende Punkt. 
 
 
-Sind ferner Q [F’, 7’, C'] und q zwei andere correspondirende Punkte, 
+Sind ferner Q [F', 7', C'] und q zwei andere correspondirende Punkte, 
 so ist 
 
 
@@ -5288,7 +5223,7 @@ pP = (a! an e) +(r _ VRR NN (2VeHRe)
 
 Es ergibt sich daraus 
 este + — 
-£'2 „2 02 
+£'2 "2 02 
 zu RR 2) 
 
 
@@ -5302,7 +5237,7 @@ grenzt, und aus den Eigenschaften der reinen Deformation ($ 182)
 erhellt, dass eine solche Schale aus einer Kugelschale von gleich- 
 förmiger Dicke durch einfache Ausdehnungen und Zusammenziehun- 
 gen in drei zu einander rechtwinkligen Richtungen erzeugt werden 
-kann. Im Folgenden wird das Wort’„Schale“, wenn nicht dag Ge- 
+kann. Im Folgenden wird das Wort'"Schale", wenn nicht dag Ge- 
 gentheil ausdrücklich gesagt ist, immer eine unendlich dünne Schale 
 dieser Art bezeichnen. 
 
@@ -5316,7 +5251,7 @@ Denn nehmen wir an, die Kugelschale des $ 462 werde durch
 einfache Ausdehnungen und Zusammenziehungen in drei zu einan-. 
 der senkrechten Richtungen in eine ellipsoidische Schicht transfor- 
 mirt. In diesem deformirten Zustande sind die Massen aller Theile 
-. ım Verhältniss der Masse des Ellipsoides zu’ derjenigen der Kugel 
+. ım Verhältniss der Masse des Ellipsoides zu' derjenigen der Kugel 
 verringert oder vergrössert. Auch ist das Verhältniss der Linien 
 HP, PK nach $ 158 unverändert geblieben. Folglich ziehen die 
 Elemente IH, KL den Punkt P noch mit gleicher Kraft an, und 
@@ -5330,7 +5265,7 @@ Potential der ersteren für irgend einen Punkt P der Oberfläche der
 zweiten zu dem Potential der zweiten für den correspondirenden 
 Punkt p der Oberfläche der ersteren, wie die Masse der ersteren 
 zur Masse der zweiten Schale. Dieser schöne Satz ist von Chas- 
-les entdeckt worden. ’ 
+les entdeckt worden. ' 
 
 Jedem Massenelement der äusseren Schale in Q entspricht ein 
 Massenelement der inneren Schale in qg. Das Verhältniss eines sol- 
@@ -5445,7 +5380,7 @@ an
 
 
 1 d ds 
-\ ae .2 Yv & o— nn FrI ’ 
+\ ae .2 Yv & o— nn FrI ' 
 und folglich ist die ganze Attraction j 
 IHody 
 40 bat BT 
@@ -5486,7 +5421,7 @@ X= — % ME —— nie a
 und in ähnlicher Weise werden Y und Z durch die beziehungsweise nach 
 b2 und c$ genommenen partiellen Differentialquotienten von $ ausge- 
 drückt; « wird dabei als eine Constante behandelt. Wenn der angezo- 
-gene Punkt auf der Oberfläche des Ellipsoides liegt, so hat man „weiter 
+gene Punkt auf der Oberfläche des Ellipsoides liegt, so hat man "weiter 
 keine Aenderung vorzunehmen, als « = 0 zu setzen. 
 
 
@@ -5570,9 +5505,9 @@ reduciren; folglich ist
 e3 e2 
 
 
-523. Der Maclaurin’sche Satz. — Aus den Ergebnissen der 
+523. Der Maclaurin'sche Satz. — Aus den Ergebnissen der 
 letzten Untersuchung können wir leicht den folgenden schönen Satz 
-herleiten, der nach seinem Entdecker der Maclaurin’sche Satz ge- 
+herleiten, der nach seinem Entdecker der Maclaurin'sche Satz ge- 
 nannt wird: — 
 
 Zwei homogene und confocale Ellipsoide üben auf 
@@ -5621,8 +5556,8 @@ Thomson u. Tait, theoretische Fhysik. 11. 5
 66 Abstracte Dynamik. 
 
 
-- 524. Der Ivory’sche Satz. — Auf ähnliche Weise können 
-wir leicht den Ivory’schen Satz beweisen: — 
+- 524. Der Ivory'sche Satz. — Auf ähnliche Weise können 
+wir leicht den Ivory'schen Satz beweisen: — 
 
 Werden auf den Oberflächen zweier homogenen con- 
 focalen Ellipsoide E, e zwei correspondirende Punkte P,p 
@@ -5675,7 +5610,7 @@ benutzt.
 525. Attractionsgesetz im Falle einer gleichförmig beleg- 
 ten Kugelschale, die keine Wirkung auf einen inneren Punkt 
 ausübt. — Wir wollen eine von Duhamel herrührende geistreiche 
-Anwendung des Ivory’schen Satzes nicht unerwähnt lassen. Con- 
+Anwendung des Ivory'schen Satzes nicht unerwähnt lassen. Con- 
 centrische Kugeln sind ein besonderer Fall confocaler Ellipsoide. 
 Folglich verhält sich die Anziehung irgend einer Kugel auf einen 
 Punkt der Oberfläche einer innerhalb der ersteren liegenden con- 
@@ -5715,7 +5650,7 @@ diesen Punkt das Attractionscentrum*) und den Körper selbst
 einen centrobarischen Körper. 
 
 527. Eins der überraschendsten Ergebnisse der wundervollen 
-Green’schen Theorie des Potentials ist der Nachweis der Exi- 
+Green'schen Theorie des Potentials ist der Nachweis der Exi- 
 stenz centrobarischer Körper, und die Entdeckung der Eigen- 
 schaften derselben ist gewiss eine der merkwürdigsten und interes- 
 santesten von den verschiedenen Anwendungen dieser Theorie. 
@@ -5730,8 +5665,8 @@ Es sei O irgend ein Punkt, der so weit von B entfernt ist,
 dass eine um ihn als Mittelpunkt beschriebene Kugel, die keinen 
 Theil von B enthält, gross genug ist, die ganze Masse A zu um- 
 
-*) Die Verfasser brauchen hierfür den Namen „centre of gravity“, was nach 
-bisherigem englischen Sprachgebrauche dem im Deutschen mit „Schwerpunkt“ 
+*) Die Verfasser brauchen hierfür den Namen "centre of gravity", was nach 
+bisherigem englischen Sprachgebrauche dem im Deutschen mit "Schwerpunkt" 
 bezeichneten Begriffe entsprach. Die Uebersetzer haben geglaubt, besser einen 
 neuen Namen dafür einführen zu müssen, um nicht durch Umdeutung eines viel 
 
@@ -5757,14 +5692,14 @@ tung anziehen. Dies wird der Fall sein, wie auch immer diese Masse
 um O0 rotirt; denn bevor wir dieselbe erhielten, hätten wir A und 
 OK in irgend einer Weise um O rotiren lassen können, ohne dabei 
 die relative Lage von A und OK zu ändern. Wir haben also einen 
-um eine Axe O0 K symmetrischen Körper A’ gefunden, in Beziehung 
+um eine Axe O0 K symmetrischen Körper A' gefunden, in Beziehung 
 auf welchen B nothwendig centrobarisch ist. Es möge jetzt, wäh- 
-rend Ö fest bleibt, OK und der damit verbundene Körper A’ suc- 
+rend Ö fest bleibt, OK und der damit verbundene Körper A' suc- 
 cessive in eine unendliche Anzahl n Lagen versetzt werden, welche 
 gleichförmig um O vertheilt sind, d. h. welche so gewählt werden, 
 dass in allen um O liegenden gleichen Kegelecken gleichviel La- 
 gen von OK vorhanden sind. In jeder der Lagen, in welche der 
-mit OK fest verbundene Körper A’ auf diese Weise gelangt, möge 
+mit OK fest verbundene Körper A' auf diese Weise gelangt, möge 
 
 
 1 ® 3 
@@ -5819,8 +5754,8 @@ also ausserhalb der Masse des Körpers liegen.
 
 530. Wenn eine beliebige Masse M und eine einzige 
 sıe vollständig umschliessende geschlossene Oberfläche 
-S gegeben ist, so kann eine beliebig gegebene Masse M’ 
-so über Svertheilt werden, dass Mund M’ zusammen einen 
+S gegeben ist, so kann eine beliebig gegebene Masse M' 
+so über Svertheilt werden, dass Mund M' zusammen einen 
 centrobarischen Körper ausmachen, dessen Attractions- 
 centrum eine innerhalb der Oberfläche beliebig gegebene 
 Lage @ einnimmt. 
@@ -5833,7 +5768,7 @@ E von S das Potential
 erzeugt werde; V bezeichnet das Potential von M für diesen Punkt. 
 Dass diese Aufgabe eine und nur eine Lösung hat, wurde schon 
 oben ($ 499) bewiesen. Es ist aber zu bemerken, dass, wenn die 
-gegebene Masse M’ nicht gross genug ist, eine durch 'eine gleiche 
+gegebene Masse M' nicht gross genug ist, eine durch 'eine gleiche 
 Menge negativer Masse neutralisirte zusätzliche Masse genommen 
 werden muss, um die geforderte Vertheilung auf $ auszuführen. 
 
@@ -5861,14 +5796,14 @@ sen wurde, erhellt auch, dass aus jeder der beiden Hälften der Lemnis-
 kate in der Figur 19 des $508 oder aus jedem der darin enthaltenen 
 Ovale eine centrobarische Schicht hergestellt werden kann, wenn 
 man darüber eine Masse ausbreitet, deren Dichtigkeit - der Resul- 
-tante der von m auf I und von m’ auf I’ ausgeübten Kräfte pro- 
+tante der von m auf I und von m' auf I' ausgeübten Kräfte pro- 
 portional ist; der eine dieser Punkte, der innerhalb der Schicht 
 - liegt, ist das Attractionscentrum derselben. Allgemein, wenn man die 
 Flächen constanten Potentials für eine in einem Punkte I concen-. 
 trirte Masse m und für eine beliebige andere Masse zieht, die den 
 Punkt I nicht umgiebt, und sodann eine dieser Oberflächen nimmt, 
 welche J, aber keinen anderen Theil der Masse umschliesst, so leh- 
-ren uns Green’s allgemeines Theorem und der specielle Satz des 
+ren uns Green's allgemeines Theorem und der specielle Satz des 
 $ 506, wie man über dieselbe eine Masse zu vertheilen hat, damit 
 sie eine centrobarische Schicht mit dem Attractionscentrum I werde. 
 
@@ -5992,7 +5927,7 @@ u a
 
 
 Auch ist [$ 491 (c)] | | 
-v2 v’=— 4no, 
+v2 v'=— 4no, 
 
 
 und für alle der Masse des gegebenen Körpers nicht angehörenden Punkte 
@@ -6047,14 +5982,14 @@ hen auszudrücken. Sie ist auch vollkommen dazu geeignet, das
 Potential oder die Attraction einer unendlich dünnen sphärischen 
 Schicht auszudrücken, über welche nach einem ganz willkürlichen 
 Gesetze Materie verbreitet ist. Da die letztere Anwendung die 
-“einfachere ist, so wollen wir sie zuerst vornehmen. 
+"einfachere ist, so wollen wir sie zuerst vornehmen. 
 
 Anwendung der Entwicklung nach harmonischen Kugelfunc- 
 tionen. — Es seien X, Yy, 2 die von dem Centrum OÖ als Anfangspunkt 
 aus gerechneten Coordinaten des in Rede stehenden Punktes P; e und _° 
 die Werthe der Dichtigkeit der Kugelfläche in den Punkten E und E, 
 von denen der erstere der Durchschnittspunkt der Oberfläche mit OP 
-oder der Verlängerung von OP ist; do’ ein in E’ liegendes Element 
+oder der Verlängerung von OP ist; do' ein in E' liegendes Element 
 
 
 der Oberfläche, und a der Radius derselben. Dann haben wir, wenn V 
@@ -6160,10 +6095,10 @@ Nutzen ist.
 
 
 Es seien x, %, 2 die Coordinaten des angezogenen Punktes P und 
-x’, y', 2’ diejenigen irgend eines Punktes P’ der gegebenen Masse. Ist 
-dann o’ die Dichtigkeit der Masse in P' und V das Potential im Punkte 
+x', y', 2' diejenigen irgend eines Punktes P' der gegebenen Masse. Ist 
+dann o' die Dichtigkeit der Masse in P' und V das Potential im Punkte 
 P, so haben wir 
-o’ da’ dy’ d:' 
+o' da' dy' d:' 
 6 V = 1 
 = Mia Hot" 
 
@@ -6175,8 +6110,8 @@ so stellen wir -uns denselben am zweckmässigsten als nach allen Seiten
 Statik eines materiellen Punktes. 75 
 
 
-hin unbegrenzt vor, und nehmen _’ als eine Uiscontinuirliche Function 
-von &, y', 2’ an, die in dem ganzen Raume, der keine Masse enthält, 
+hin unbegrenzt vor, und nehmen _' als eine Uiscontinuirliche Function 
+von &, y', 2' an, die in dem ganzen Raume, der keine Masse enthält, 
 verschwindet. 
 
 Nun haben wir nach B (%) 
@@ -6189,7 +6124,7 @@ le -2P? + Yy—yP+@— 2)"
 
 
 1 © r'\n 
-und = ;[ı +2 On () N wenn r’ <r. 
+und = ;[ı +2 On () N wenn r' <r. 
 1 
 
 
@@ -6197,7 +6132,7 @@ Wird dies in (6) substituirt, so folgt '
 
 
 SINE HL SSR aa 
-ge 5 S [rm (SS IS) On e' Leer oe + I///|r r'n 0’ da’ dy' de, 
+ge 5 S [rm (SS IS) On e' Leer oe + I///|r r'n 0' da' dy' de, 
 
 
 wo (/ S [ ) eine Integration durch den ganzen ausserhalb der Kugel 
@@ -6229,13 +6164,13 @@ Wenn wir uns der Bezeichnung von B(u) (52) bedienen, so geht dieser
 Ausdruck über in 
 
 
-| ’= IS Se da’ dy’ de’ 
+| '= IS Se da' dy' de' 
 
 
 | + rm [ffe Hulay2), (@,y,o))de day ar), 
 
 
-und wir haben nach B(v’) und (w) 
+und wir haben nach B(v') und (w) 
 
 
 (10) 
@@ -6282,14 +6217,14 @@ Ferner mögen OX, OY, OZ als Hauptaxen ($$ 281, 282) angenommen
 werden, so dass 
 
 
-SS oe y:’dady' de: —=0,u.s. w. 
+SS oe y:'dady' de: —=0,u.s. w. 
 
 
 ist, und es seien A,B,C die Trägheitsmomente in Beziehung auf diese 
 Axen. Dies liefert 
 
 
-SS J Bag do ay ar = % (eur) [ [ fe’ wRdaldy'dz' + u.s. w.} 
+SS J Bag do ay ar = % (eur) [ [ fe' wRdaldy'dz' + u.s. w.} 
 = ter — ra (A+B+O—A + us w.} 
 = Al 329) + B(r?— 3y2)+ Cr? — 32°) 
 = %WKB+C-2A 8 +(C+A—2B)y +(A+B—20)22}- 
@@ -6350,7 +6285,7 @@ lehrt Folgendes: —
 540. Attraction eines Massenpunktes auf einen entfern- 
 ten Körper. — Wenn die Attraction eines entfernten Punktes 
 P auf einen starren Körper auf den Trägheitsmittelpunkt I dieses 
-Körpers (nach Poinsot’s Methode, die unten in $ 555 erläutert 
+Körpers (nach Poinsot's Methode, die unten in $ 555 erläutert 
 wird) übertragen wird, so erhält man ein Kräftepaar, das näherungs- 
 weise gleich und entgegengesetzt demjenigen ist, welches die resul- 
 tirende Wirkung der Centrifugalkraft ausmacht, wenn der Körper 
@@ -6396,11 +6331,11 @@ standen werden: —
 
 . Es sei 
 (15) 0: F(r) Sn, 
-wo Fr) eine beliebige Function von r und S$„ eine harmonische Kugel- 
+wo Fr) eine beliebige Function von r und S$" eine harmonische Kugel- 
 flächenfunctjon »ter Ordnung bezeichnet, deren Coefficienten von r un- 
 
 
-abhängig sind. Wird der entsprechende Werth für e’ in (8) substituirt, 
+abhängig sind. Wird der entsprechende Werth für e' in (8) substituirt, 
 so erhält man mit Rücksicht auf B (52) und (16) 
 
 
@@ -6410,7 +6345,7 @@ so erhält man mit Rücksicht auf B (52) und (16)
 ausdruck eine harmonische Function ist. — Um ein Beispiel 
 zu geben, wollen wir das Potential einer festen Kugel vom Radius 
 a bestimmen, deren Masse so vertheilt ıst, dass der Ausdruck der 
-Dichtigkeit eine räumliche harmonische Kugelfunction V,„ ist. 
+Dichtigkeit eine räumliche harmonische Kugelfunction V," ist. 
 
 
 Es soll also 
@@ -6440,7 +6375,7 @@ nach $ 491 (c)
 v2V = — 4nVn, wennr<a 
 (18) | =0 ‚wenn Tr >a. 
 Setzt man aber m = 2 in B((12), so folgt 
-72 (r2 Y„) = 2(2n-+3) Vn, 
+72 (r2 Y") = 2(2n-+3) Vn, 
 und folglich hat die Gleichung 
 
 
@@ -6465,7 +6400,7 @@ Function Tr dieselbe Bedingung erfüllt, und dass V für r = ®, sowie
 für r = 0 verschwindet, so findet man = 
 U=4nVa —— Zenfi)' 
 und erhält den Kasirack (17) für das äussere V. Denn erstens muss 
-nn und U von der Form BV,„ 
+nn und U von der Form BV," 
 
 
 sein, wo A und B Constanten sind; as bestimmen genannten 
@@ -6481,7 +6416,7 @@ mittelbar, dass jede beliebige Function von &, y, 2 für den ganzen
 Raum durch eine Reihe harmonischer Kugelflächenfunctionen aus- 
 gedrückt werden kann, deren jede Functionen des Abstandes r vom 
 Coordinatenanfangspunkte zu Üoefficienten hat. Folglich liefert 
-(16), wenn man $,„ unter das Integrationszeichen statt r’ setzt, die 
+(16), wenn man $," unter das Integrationszeichen statt r' setzt, die 
 harmonische Entwicklung des Potentials einer beliebigen Masse. 
 Es ist dies das Resultat der ın $ 539 (8) angezeigten dreifachen 
 Integration, vorausgesetzt dass die Dichtigkeit der me durch 
@@ -6557,8 +6492,8 @@ innerhalb einer endlichen, wenn auch noch so kleinen Entfernung von
 ihm liegen, erreicht werden kann, ohne dass man die Masse, welche die 
 in Rede stehende Kraft ausübt, oder einen Raum, für welchen die Reihe 
 nicht convergirt, zu durchschreiten hätte. Denn in diesem ganzen Raume 
-($ 498) muss, wenn V’ der Werth der Summe der Reihe ist, V— V’ 
-verschwinden, da [Zusatz B (g)] V/— V’ eine Potentialfunction ist und 
+($ 498) muss, wenn V' der Werth der Summe der Reihe ist, V— V' 
+verschwinden, da [Zusatz B (g)] V/— V' eine Potentialfunction ist und 
 für einen endlichen Theil der Axe, die Q enthält, verschwindet. 
 
 Die Reihe (b) convergirt natürlich für alle Werthe von r, welche (a) 
@@ -6567,7 +6502,7 @@ convergent machen, da, wie jeder der im Zusatz B für die Functionen
 unendlich grosse Werthe von n den Grenzwerth Eins hat. re 
 
 Im Allgemeinen, d. h. wenn nicht OÖ ein singulärer Punkt ist, be- 
-steht die Reihe für U nach dem Maclaurin’schen Satze nur aus stei- 
+steht die Reihe für U nach dem Maclaurin'schen Satze nur aus stei- 
 genden ganzen Potenzen von r, vorausgesetzt dass 7 eine gewisse Grenze 
 nicht überschreitet. In Fällen gewisser Art gibt es solche singulären 
 Punkte, dass, wenn einer derselben zum Anfangspunkt O genommen 
@@ -6687,7 +6622,7 @@ und
 
 
 1, & 1.3 a* 
-v’= 2ne(Yı =g Qı — Sun Qt usw.) wenn r>.a. 
+v'= 2ne(Yı =g Qı — Sun Qt usw.) wenn r>.a. 
 
 
 Der erstere Ausdruck ist gleichfalls discontinuirlich, und wenn $ > 
@@ -6696,7 +6631,7 @@ ersetzt werden.
 
 
 547. Verlust an potentieller Energie. — Wenn man zwei 
-Systemen oder Massen-Vertheilungen M und M’, deren jede einen 
+Systemen oder Massen-Vertheilungen M und M', deren jede einen 
 endlichen gegebenen Raum einnimmt, die aber unendlich weit von 
 einander entfernt sind, gestattet, sich einander zu nähern, so wird 
 eine gewisse Menge Arbeit durch die wechselseitig zwischen ihnen 
@@ -6706,17 +6641,17 @@ wir sagen können, eine Erschöpfung. Die Grösse dieses Ver-
 lustes wird ($ 486) stets dieselbe sein, auf welchen Wegen auch die 
 Aenderungen der Lage des Systems vor sich gehen, sobald die rela- 
 tiven anfänglichen und die relativen Endlagen aller Massenpunkte 
-gegeben sind. Wenn also mı, Ma,... die Massenpunkte von M; my’, 
-Mg',... diejenigen von M’; vı', vg',... die Potentiale von M’ in den 
+gegeben sind. Wenn also mı, Ma,... die Massenpunkte von M; my', 
+Mg',... diejenigen von M'; vı', vg',... die Potentiale von M' in den 
 von Mı, Ma,... eingenommenen Punkten; vı, ®%,... die Potentiale 
-von M in den von my’, My',... eingenommenen Punkten sind, und Z& 
+von M in den von my', My',... eingenommenen Punkten sind, und Z& 
 der Verlust an wechselseitiger potentieller Energie zwischen den 
 beiden Systemen in irgend welchen wirklichen Configurationen ist, 
 
 
 so hat man 
 AIRIEREN, ı__ [1 
-E=NmvV’ —=Nmv. 
+E=NmvV' —=Nmv. 
 
 
 Es lässt sich dies noch in anderer Weise schreiben, wenn E eine 
@@ -6734,7 +6669,7 @@ Statik emes materiellen Punktes. ' 83
 s 
 
 
-wenn oe’ in ähnlicher Weise die andere Masse M’ bestimmt. Wir er- 
+wenn oe' in ähnlicher Weise die andere Masse M' bestimmt. Wir er- 
 halten dann 
 
 
@@ -6750,9 +6685,9 @@ man beachtet, dass
 ‚= J een 
 
 
-ist, wenn (,%, „y, ‚2) irgend ein Punkt des Raumes, ‚ge der Werth von @ 
+ist, wenn (,%, "y, ‚2) irgend ein Punkt des Raumes, ‚ge der Werth von @ 
 in diesem Punkte und D der Abstand zwischen (x, y, 2) und (,X, %, 2) 
-ist. Ein entsprechender Ausdrück liefert natürlich v’, und wir erhalten 
+ist. Ein entsprechender Ausdrück liefert natürlich v', und wir erhalten 
 auf diese Weise das zweite und dritte Glied, oder den Werth von E, 
 identisch durch ein sechsfaches Integral ausgedrückt, nämlich durch . 
 
@@ -6760,29 +6695,29 @@ identisch durch ein sechsfaches Integral ausgedrückt, nämlich durch .
 E = Ssysse® dy de dzdydz 
 
 
-548. Green’s Methode. — Es ist- bemerkenswerth, dass 
+548. Green's Methode. — Es ist- bemerkenswerth, dass 
 Green sein ganzes System allgemeiner Sätze über die Attraction 
 "auf die Betrachtung einer analytischen Formel basirte, welche, wenn 
 man sie auf zwei Massen bezieht und gehörig interpretirt, genau 
 dieselbe Bedeutung wie die vorhergehenden Ausdrücke für E hat. 
 
 
-In Zusatz A(a) sei « constant und U, U’ die Potentiale zweier end- 
+In Zusatz A(a) sei « constant und U, U' die Potentiale zweier end- 
 lichen, in endlicher Entfernung von einander befindlichen Massen M,M' 
-im Punkte (x, y, 2), so dass wir, wenn _ und 0’ beziehungsweise die 
-Dichtigkeiten von M und M’ in (z, y, z) bezeichnen, nach $ 491 (c) 
+im Punkte (x, y, 2), so dass wir, wenn _ und 0' beziehungsweise die 
+Dichtigkeiten von M und M' in (z, y, z) bezeichnen, nach $ 491 (c) 
 
 TU=—4ng, TV U — Ang 
 
 haben. Dabei ist zu bemerken, dass oe in jedem Punkte, welcher keinen 
-Theil der Masse M enthält, und o’ in jedem ausserhalb M’ liegenden 
+Theil der Masse M enthält, und o' in jedem ausserhalb M' liegenden 
 Punkte verschwindet. In der vorliegenden rein abstracten Untersuchung 
 mögen die beiden Massen theilweise oder ganz vereint denselben Raum 
 einnehmen: oder sie mögen bloss gedachte Theile einer reellen Masse 
 sein. Setzen wir dann voraus, dass Ö nach allen Richtungen hin unend- 
-lich entfernt ist, und beachten, dass Ud U’ und U’J U unendlich kleine 
+lich entfernt ist, und beachten, dass Ud U' und U'J U unendlich kleine 
 Grössen von derselben Ordnung, wie der reciproke Werth des Cubus des 
-Abstandes irgend eines Punktes von S von M und M’ sind, während die 
+Abstandes irgend eines Punktes von S von M und M' sind, während die 
 gesammte Fläche von S, über welche die Flächenintegrale des Zusatzes 
 A. (a) (1) genommen werden, zwar unendlich gross, aber nur von der 
 Ordnung des Quadrates 1 Abstandes ist, so erhalten wir 
@@ -6810,20 +6745,20 @@ Entfernung sich in die relative Lage bewegen, die sie wirklich einnehmen.
 
 Ohne S als unendlich gross vorauszusetzen, sehen wir, dass das zweite 
 Glied von (a) (1), durch 4 dividirt, der directe Ausdruck für den Ver- 
-lust an wechselseitiger Energie zwischen M’ und einer Masse ist, welche 
+lust an wechselseitiger Energie zwischen M' und einer Masse ist, welche 
 aus dem innerhalb S liegenden Theile von M und einer auf S mit der 
 
 
- Dichtigkeit 2 d U’ vertheilten Masse besteht; das dritte Glied ist der 
+ Dichtigkeit 2 d U' vertheilten Masse besteht; das dritte Glied ist der 
 
 
 entsprechende Ausdruck für M und für die in ähnlicher Weise bestimm- 
-ten Theile von M’. 
+ten Theile von M'. 
 
 
 549. Verlust an potentieller Energie bei der Conden- 
 sation einer Masse. — Wenn statt der beiden in irgend einer 
-Weise vertheilten Massen M und M’ nur zwei Massenpunkte m, M3 
+Weise vertheilten Massen M und M' nur zwei Massenpunkte m, M3 
 gegeben sind, so ist der Verlust an wechselseitiger potentieller 
 Energie, der eintritt, wenn man den unendlich weit von ‘einander 
 entfernten Punkten gestattet, einander bis auf die Entfernung 
@@ -6845,11 +6780,11 @@ auf diese Weise in eine gewisse Lage zu einander gelangen, so er-
 halten wir für den ganzen Verlust an potentieller Energie 
 
 
-mm’ 
-E22 "D’ 
+mm' 
+E22 "D' 
 
 
-wo m, m’ die Massen irgend zweier der Punkte, D den Abstand der- 
+wo m, m' die Massen irgend zweier der Punkte, D den Abstand der- 
 selben bezeichnen, und wo die Summation I % sich auf alle Paare 
 von je zwei Punkten, jedes Paar nur einmal genommen, bezieht. Be- 
 zeichnet v das Potential aller Massen, mit Ausschluss von m, in dem 
@@ -6920,7 +6855,7 @@ oder
 
 
 550. Methode von Gauss. — Die Art, in welcher Gauss 
-Green’s Sätze unabhängig bewies, lässt sich unmittelbarer und 
+Green's Sätze unabhängig bewies, lässt sich unmittelbarer und 
 leichter in Ausdrücke der Energie übertragen, wenn man die ge- 
 wöhnlich angenommene Vorstellung von Kräften festhält, welche 
 einfach zwischen zwei von einander entfernten Massenpunkten 
@@ -6930,7 +6865,7 @@ gegebene Quantität Materie Q in einer, aber auch nur einer Weise
 sich so über eine gegebene endliche Oberfläche $ (die geschlossen 
 
 
-'*) Nichol’s Cyclopaedia, 2d Ed. 1860. Magnetism, Dynamical Relations ot. 
+'*) Nichol's Cyclopaedia, 2d Ed. 1860. Magnetism, Dynamical Relations ot. 
 
 
 86 Abstracte Dynamik. 
@@ -6950,8 +6885,8 @@ einen der Bedingung
 
 
 unterworfenen Minimum-Werth hat (e ist eine Function der Lage 
-eines Punktes P auf S; 0’ ist der Werth, den diese Function in P’ 
-hat; d6 und do’ sind die Elemente von S in diesen Punkten), 
+eines Punktes P auf S; 0' ist der Werth, den diese Function in P' 
+hat; d6 und do' sind die Elemente von S in diesen Punkten), 
 und (2) dass dieses Minimum nur durch eine bestimmte -Verthei- 
 lung der Werthe von E erzeugt wird. Nach dem, was wir soeben 
 ($ 549) gesehen haben, ist das erstere dieser Integrale doppelt so 
@@ -6962,7 +6897,7 @@ tische Fassung des Problems, zu bestimmen, wie diese Massentheil-
 chen vertheilt werden müssen, um sich in stabilem Gleichgewichte 
 zu befinden. . 
 
-Ebenso ist Gauss’ zweites Minimum-Problem, welches das er- 
+Ebenso ist Gauss' zweites Minimum-Problem, welches das er- 
 stere als einen besonderen Fall in sich schliesst, nämlich das 
 Problem, E so zu bestimmen, dass | 
 
@@ -7003,9 +6938,9 @@ Statik fester und flüssiger Körper.
 551. Gleichgewicht eines starren Körpers. — Wie wir 
 schon in $ 454 dargelegt haben, sind für die vorliegende Unter- 
 suchung das dritte Bewegungsgesetz und die Folgerungen, die sich 
-aus demselben ziehen’lassen, erforderlich. Diese letzteren sind für 
+aus demselben ziehen'lassen, erforderlich. Diese letzteren sind für 
 unser jetziges Vorhaben ausführlich genug in dem allgemeinen Aus- 
-spruch Lagrange’s ($ 293) und in der Ausdehnung desselben auf 
+spruch Lagrange's ($ 293) und in der Ausdehnung desselben auf 
 die Frietionskräfte ($ 452) vereinigt. Wir beginnen mit dem Fall 
 eines starren Körpers oder Systems, worunter wir eine Gruppe 
 materieller Punkte verstehen, welche durch die wechselseitig zwi- 
@@ -7081,8 +7016,8 @@ nenten £&, n, { hat, so ist offenbar
 
 
 EEK + nz HL) 
-der Ausdruck der geleisteten Arbeit. Nach Lagrange’s Form des 
-Newton’schen Princips muss dieser Ausdruck verschwinden, wenn sich 
+der Ausdruck der geleisteten Arbeit. Nach Lagrange's Form des 
+Newton'schen Princips muss dieser Ausdruck verschwinden, wenn sich 
 
 
 4 
@@ -7202,7 +7137,7 @@ werden vereinigt und zerlegt, indem man ihre Axen nach dem
 Parallelogramm-Gesetz in einer Weise behandelt, welche mit der 
 nach unseren früheren Betrachtungen für lineare und angulare Ge- 
 schwindigkeiten und Kräfte erforderlichen identisch ist. Es ergibt 
-„sich dies unmittelbar aus $ 551, II, kann aber auch leicht synthe- 
+"sich dies unmittelbar aus $ 551, II, kann aber auch leicht synthe- 
 tisch bewiesen werden. Um nämlich die Componente eines Kräfte- 
 paars, das in einer Ebene A liegt, für eine belieläge gegen A ge- 
 
@@ -7312,7 +7247,7 @@ der gegebenen gleiche und parallele Kraft reducirt werden. Denn
 das Kräftepaar lässt sich in zwei Paare zerlegen, von denen das 
 eine in einer Ebene liegt, welche die Richtung der gegebenen Kraft 
 enthält, während die Ebene des zweiten zur Kraft senkrecht steht, 
-und dass die Kraft’und das in derselben Ebene liegende Paar einer 
+und dass die Kraft'und das in derselben Ebene liegende Paar einer 
 ‘ gleich grossen und in einer parallelen Richtung, wenngleich in 
 einer anderen Linie wirkenden Kraft äquivalent sind, ist bloss die 
 Umkehrung des $ 555. 
@@ -7337,28 +7272,28 @@ das Moment der gegebenen Kräfte am kleinsten ist.
 
 
 Unter Beibehaltung der Bezeichnung des $ 551 (c) wollen wir vor- 
-zussetzen, der Anfangspunkt der Coordinaten werde in den Punkt (#’, y’, 2’) 
+zussetzen, der Anfangspunkt der Coordinaten werde in den Punkt (#', y', 2') 
 verlegt. Die resultirende Kraft hat dann noch die den Axen parallelen 
 Componenten (X), Z(Y), 5(Z), oder Rl, Rm, Rn. Die Kräftepaare 
 sind aber 
 27 u) — Y@— N], 2X) — Za—a)], Z[Y (0), — XyYy)), 
 oder 
 
-G% — R(ny —m?’, Gu— R(le! — ne, Gv— R(mx’ —1y'). 
+G% — R(ny —m?', Gu— R(le! — ne, Gv— R(mx' —1y'). 
 
 Die Bedingungen, dass die resultirende Kraft zur Ebene des resultirenden 
 Paares senkrecht sei, sind 
-Gr — RE(iny—mz) _ @Gu—R(lz —nz) _ Gv— R(imx’ —Iy') 
+Gr — RE(iny—mz) _ @Gu—R(lz —nz) _ Gv— R(imx' —Iy') 
 ı Zu m = n 
-Diese beiden Gleichungen zwischen &’, y', 2’ sind die Gleichungen der 
+Diese beiden Gleichungen zwischen &', y', 2' sind die Gleichungen der 
 Centralaxe. | 
 
 Wir können dieselben auch dadurch erhalten, dass wir die Bedingun- 
 gen suchen, unter welchen das resultirende Kräftepaar \ 
-VIer— Riny — me) + [@u— Elle — na’) + [Gr — Rme—ıy')]", 
-die Variationen von #°, y', 2’ als von einander unabhängig angesehen, 
+VIer— Riny — me) + [@u— Elle — na') + [Gr — Rme—ıy')]", 
+die Variationen von #°, y', 2' als von einander unabhängig angesehen, 
 ein Minimum werde. Diese Methode liefert uns drei Gleichungen (da 
-die nach x’, y’, 2’ genommenen partiellen Differentialguotienten des obi- 
+die nach x', y', 2' genommenen partiellen Differentialguotienten des obi- 
 gen Ausdrucks einzeln verschwinden müssen), welche sich auf die beiden 
 
 
@@ -7366,7 +7301,7 @@ schon erhaltenen reduciren lassen, und von denen wir nur die erste hin-
 schreiben. Es ist 
 
 
-n (Gu— R(lze — nz’)} -— m !Gv— R(mx’ — Iy))} =0. 
+n (Gu— R(lze — nz')} -— m !Gv— R(mx' — Iy))} =0. 
 Aus den einfachsten Eigenschaften der Kräftepaare folgt, dass das resul- 
 
 
@@ -7390,10 +7325,10 @@ besonders hervorgehoben zu werden.
 
 Wir nehmen an, die Centralaxe des Systems sei gefunden. 
 Durch einen beliebigen Punkt C dieser Axe ziehen wir senkrecht 
-zu derselben eine Linie AA’, so dass CA= CA’ ist. Für die in 
+zu derselben eine Linie AA', so dass CA= CA' ist. Für die in 
 der. Richtung der Centralaxe wirkende Kraft R substituiren wir 
-(nach $ 561) in jedem Endpunkte von AA’ eine Kraft 1, R. Fer- 
-ner wählen wir die Linie AA’, die wir @ nennen wollen, zum Arm 
+(nach $ 561) in jedem Endpunkte von AA' eine Kraft 1, R. Fer- 
+ner wählen wir die Linie AA', die wir @ nennen wollen, zum Arm 
 des Kräftepaares.. Dann haben wir in jedem Endpunkt von a zwei 
 
 
@@ -7402,12 +7337,12 @@ Kräfte, nämlich eine zur Centralaxe senkrechte Kraft * und eine der
 
 Centralaxe parallele Kraft !/; R. Durch Vereinigung dieser beiden 
 
-Kräfte erhalten wir zwei beziehungsweise durch A und A’ gehende 
+Kräfte erhalten wir zwei beziehungsweise durch A und A' gehende 
 GN" . 
 
 Kräfte, deren jede von der Grösse (HR+) und zu AA 
 
-senkrecht ist, und die zu beiden Seiten der durch AA’ und die 
+senkrecht ist, und die zu beiden Seiten der durch AA' und die 
 2G ER: 
 
 Centralaxe gelegten Ebene um den Winkel arctan TE geneigt sind. 
@@ -7556,14 +7491,14 @@ Oberfläche ruhende Kugel, welche an einer Stelle in der Nähe ihrer
 Oberfläche aus einem schwereren Stoffe als an den übrigen Stellen 
 ‘besteht, ist daher ein Repräsentant solcher Fälle. 
 
-Es sei O der Krümmungsmittelpunkt des festen Körpers, 0’ 
+Es sei O der Krümmungsmittelpunkt des festen Körpers, 0' 
 die Lage, welche der Krüämmungsmittelpunkt des darauf liegenden 
 bewegliehen Körpers ım Gleichgewichtszustande einnimmt. Wir 
 
 Fig. 23. nehmen zwei beliebige unendlich kleine gleiche 
 
 Bogen PQ, Pp an und ziehen QR durch @ so, 
-dass /X0'’QR = ZPOp wird. Wenn die Punkte 
+dass /X0''QR = ZPOp wird. Wenn die Punkte 
 Q und p durch eine Verschiebung aufeinander fal- 
 len, so wird Q@ R offenbar eine Verticale sein, und 
 wenn der Schwerpunkt @, welcher in OPO' lie- 
@@ -7579,7 +7514,7 @@ Sind jetzt oe und 6 die Krümmungsradien
 
 d 
 Winkel POp, so ist der Winkel QO'R= —, und wir haben 
-in dem Dreieck QO’R ($ 112) 
+in dem Dreieck QO'R ($ 112) 
 RO:6— sin #: sin (8 DI A 
 
 
@@ -7602,7 +7537,7 @@ Ist die untere Oberfläche concav, so hat man das Zeichen von @
 zu ändern und erhält als Bedingung 
 
 
-2 . 6’ | 
+2 . 6' | 
 welcher Ausdruck nicht negativ sein kann, da E in diesem Falle 
 numerisch grösser als 0 sein muss. 
 
@@ -7672,7 +7607,7 @@ von Gebundenheit betrachten.
 zusammengesetzten, Combinationen derselben, fordert Nichts weiter, 
 als dass man die kinematischen Relationen (wie in $$ 79, 85, 
 102, u. s. w.) feststelle und sodann in die Dynamik übertrage. Dies 
-geschieht mittels des Newton’schen Princips ($ 269) oder mittels 
+geschieht mittels des Newton'schen Princips ($ 269) oder mittels 
 des Princips der virtuellen Geschwindigkeiten ($ 289), bei dessen 
 Anwendung aber besondere Aufmerksamkeit auf die Einführung 
 ‘ der Kräfte der Reibung (wie in $ 452) zu richten ist. Dies Ver- 
@@ -7741,7 +7676,7 @@ Danach ei die Empfindlichkeit ($ 431) der Wage um so grösser,
 ist, (3) je näher der Unterstützungspunkt der Verbindungslinie 
 der Punkte ist, in welchen die Schalen an dem Balken befestigt 
 sind, (4) je näher der Unterstützungspunkt dem Schwerpunkt des 
-Balkens liegt. Wenn’ der Unterstützungspunkt in der Verbin- 
+Balkens liegt. Wenn' der Unterstützungspunkt in der Verbin- 
 dungslinie der Aufhängungspunkte der Schalen liegt, so ist die 
 Empfindlichkeit für dieselbe Differenz der Belastungen der Scha- 
 len unabhängig von der Grösse dieser Belastungen. 
@@ -7855,7 +7790,7 @@ Zusatz wollen wir noch den Fall betrachten, ın welchem die Wand
 und der Balken des vorigen Beispiels rauh sind, und zwar sei % 
 der Coefficient der statischen Reibung für beide. Wenn die Stange 
 ın die Gleichgewichtslage gebracht wird, die wir eben für den Fall, 
-ın welchem keine Reibung eintreten kann, bestimmt haben, so’ wird 
+ın welchem keine Reibung eintreten kann, bestimmt haben, so' wird 
 auch unter den jetzt vorliegenden Verhältnissen keine Reibung ins 
 Leben gerufen werden, da die Stange nicht das Bestreben hat, 
 eine Bewegung anzunehmen, ein solches Bestreben also auch nicht 
@@ -7921,7 +7856,7 @@ diese Weise erhalten wir aus (4,) für ®, die Gleichung
 1 — 5 sind = — U — sin? O2 (cos 9 + u sin®;). 
 
 
-Beispiel IV. Ein’ Block auf einer rauhen Ebene. — Ein 
+Beispiel IV. Ein' Block auf einer rauhen Ebene. — Ein 
 Block, dessen Grenzflächen senkrecht auf einander stehen, liegt auf 
 einer rauhen Horizontalebene, und es wirkt auf ıhn eine horizontale 
 
@@ -8077,7 +8012,7 @@ gen ist. Denn die Ebene der Tangenten, in welchen jene Spannun-
 gen wirken, ist ($ 8) die Krümmungsebene. Ist nun ® der Winkel 
 zwischen beiden Tangenten (oder der unendlich kleine Winkel, wel- 
 cher dem von ihren positiven Richtungen gebildeten Winkel an % 
-fehlt) und 7’ das arithmetische Mittel ihrer Grössen, so ist die längs 
+fehlt) und 7' das arithmetische Mittel ihrer Grössen, so ist die längs 
 der Halbirungslinie des von ihren positiven Richtungen gebildeten 
 Winkels genommene Componente ihrer Resultante genau gleich 
 2 T sin !/, 9% oder, da # unendlich klein ist, gleich TY. Wir er- 
@@ -8147,7 +8082,7 @@ Punkte P bezeichnet, dessen rechtwinklige Coordinaten &, y, 2 sind;
 X, Y, Z sind die für die Masseneinheit der Schnur genommenen Com- 
 ponenten der in P angreifenden Kräfte; o ist die Masse jeines in ? lie- 
 genden Elements der Schnur, dividirt durch die Länge” dieses Elements ; 
-endlich ist 7’ die Spannung der Schnur im Punkte P. 
+endlich ist 7' die Spannung der Schnur im Punkte P. 
 
 
 108 Abstracte Dynamik. 
@@ -8159,7 +8094,7 @@ gen addirt, nachdem die erste mit dx, die zweite mit dy, die dritte mit
 dz Beh worden ist, so folgt, der Relation 
 
 
-AR | dy dy de „da da? +dy® td _ 
+AR | dy dy de "da da? +dy® td _ 
 ds ı+2a5 ta Ya ru: 77 ee 
 wegen, 
 (2) AT=—o(Xde+ Yay+ Zd)=—o(XF+Y a4 1z2 da) as 
@@ -8205,7 +8140,7 @@ einer beliebig gegebenen Länge der Schnur in irgend einer wirklichen
 Lage zwischen zwei gegebenen festen Punkten gleich 
 
 
-[P° ds. ’ 
+[P° ds. ' 
 
 
 Dies Integral, das für die gegebene Länge der Schnur zwischen den ge- 
@@ -8382,7 +8317,7 @@ horizontale Componente der Spannung in jedem Punkte) gleich dem Ge-
 wicht einer Länge a der Kette ist. 
 
 
-Nun ist 7’ = I 7 > 7 [nach (1)]=62 [nach (4)], und daraus schlies- 
+Nun ist 7' = I 7 > 7 [nach (1)]=62 [nach (4)], und daraus schlies- 
 
 
 sen wir Folgendes: — 
@@ -8436,7 +8371,7 @@ ds
 an, so ergibt sich 
 
 
-d2x e dey __ j d’z _ 
+d2x e dey __ j d'z _ 
 an = TeX an =,Tet ap = Te2 
 
 
@@ -8450,7 +8385,7 @@ beliebigen Punkte der Schnur ist,
 T=coV HC. 
 Ist aso U= Y («eV + 0), so gehen jene Gleichungen über in 
 I Be 1 1 ESEEBR 20, 2 EEE 2) 
-dat? 7 da’ di” dy’ di de 
+dat? 7 da' di” dy' di de 
 
 
 Die Integrale dieser mit der Kettenlinie verträglichen Gleichungen sind 
@@ -8534,7 +8469,7 @@ handelt, die gegen einen gegebenen festen Punkt gerichtete Kraft
 zu bestimmen, unter deren Einwirkung eine Schnur in einer belie- 
 big gegebenen ebenen Curve herabhängt, deren Ebene diesen festen 
 . Punkt enthält, so können wir die Antwort unmittelbar aus der Lö- 
-sung des entsprechenden Problems der Theorie der „centralen Kräfte“ 
+sung des entsprechenden Problems der Theorie der "centralen Kräfte" 
 entnehmen. Aber auch die allgemeinen Gleichungen, $ 578, lassen sich 
 immer mit Leichtigkeit anwenden, wie z. B. auf den folgenden um- 
 gekehrten Fall der Gravitationskettenlinie, der zuweilen von Nutzen 
@@ -8566,11 +8501,11 @@ genommene Gewicht der Kette im Punkte (x, 2), so gehen unsere Glei-
 (0% =, 5, (I) =« 
 
 
-Der Voraussetzung nach ist aber 7’ proportional u, also etwa T = bu. 
+Der Voraussetzung nach ist aber 7' proportional u, also etwa T = bu. 
 Ist also 4#, der Werth, welchen # in dem am tiefsten gelegenen Punkte - 
 hat, so folgt aus der ersteren Gleichung 
 ds 
-Mm — Mo dx ’ 
+Mm — Mo dx ' 
 und mit Rücksicht hierauf geht die zweite Gleichung über in 
 5) mg 
 ds \da/) bdx 
@@ -8584,7 +8519,7 @@ Eine erste Integration liefert jetzt
 
 
 r ar N LER = 
-van Tg d’ 
+van Tg d' 
 
 
 und wir brauchen keine Eonstante hinzuzufügen, wenn wir die £Axe so 
@@ -8595,7 +8530,7 @@ letzte Gleichung integrirt, so folgt
 ° —— log cos = 
 Dre 1 
 und auch hier ist keine Constante hinzuzufügen, wenn der tiefste Punkt 
-der’ Curve zum Coordinatenanfangspunkt genommen wird. Diese Glei- 
+der' Curve zum Coordinatenanfangspunkt genommen wird. Diese Glei- 
 chung kann auf die Form 
 z 
 FR — 
@@ -8688,7 +8623,7 @@ und auf Winden mit horizontalen Axen vorkommen.
 
 Wenn R der Widerstand ın Richtung der Normale ist, den die 
 Längeneinheit der Schnur in irgend einem Punkte vom Cylinder 
-erfährt, wenn ferner Tund 7’ + ÖT die Spannungen in den End- 
+erfährt, wenn ferner Tund 7' + ÖT die Spannungen in den End- 
 punkten eines Bogens Ös sind, und wenn Ö®% der Winkel zwischen 
 den Richtungen dieser Spannungen ist, so haben wir, wie in $ 576, 
 
@@ -8916,9 +8851,9 @@ die Winkelgeschwindigkeiten %, A, T um diese Axen haben wird.
 Wenn also der Punkt P und die Linien PK, PL, PT ın Ruhe 
 bleiben, während der Draht von seinem anfänglichen Zustande aus 
 in einen anderen Zustand gebogen und gedrillt wird, so werden 
-die durch irgend einen P unendlich nahe liegenden Punkt P’ ge- 
-henden Coordinatenaxen P'K’', P'L', P'T’ eine Rotation erleiden, 
-die aus %.PP' um P'K', A.PP' um P'L/ und r.PP' um PT’ 
+die durch irgend einen P unendlich nahe liegenden Punkt P' ge- 
+henden Coordinatenaxen P'K'', P'L', P'T' eine Rotation erleiden, 
+die aus %.PP' um P'K', A.PP' um P'L/ und r.PP' um PT' 
 besteht. | | 
 
 
@@ -8929,11 +8864,11 @@ dieselben ein conservatives System bilden, die zum Biegen und
 Drillen eines Drahttheils aus seinem undeformirten in seinen wirk- 
 lichen Zustand erforderliche Arbeit nur von seiner Gestalt in die- 
 sen beiden Zuständen abhängt. Bezeichnet demnach w.PP' die 
-Grösse dieser Arbeit für die unendlich kleine Länge PP’ des Drah- 
+Grösse dieser Arbeit für die unendlich kleine Länge PP' des Drah- 
 tes, so muss % eine Function von %, A, T sein; wenn also K,L,T 
 die Componenten des resultirenden Kräftepaars aller Kräfte bezeich- 
-nen, die auf den durch P’ gehenden Schnitt. wirken müssen, um 
-den Theil PP’ in seinem deformirten Zustande zu erhalten, so er- 
+nen, die auf den durch P' gehenden Schnitt. wirken müssen, um 
+den Theil PP' in seinem deformirten Zustande zu erhalten, so er- 
 
 gibt sich aus $$ 240, 272, 274, dass 
 
@@ -9040,7 +8975,7 @@ der von dem einwirkenden Kräftepaar erzeugten Rotation ist.
 
 
 Es sei / die Länge des Drahtes von einem festgehaltenen Ende E 
-bis zum anderen Ende E’, wo ein Kräftepaar L in einer Ebene wirkt, 
+bis zum anderen Ende E', wo ein Kräftepaar L in einer Ebene wirkt, 
 welche auf der durch einen beliebigen Punkt des Drahtes gehenden 
 Hauptaxe PQ, senkrecht steht. Da die Grösse der Rotation für die 
 
@@ -9184,7 +9119,7 @@ nothwendig im Gleichgewicht sein, obschon sein Gleichgewicht, wenn
 er (für seine Form und den Grad seiner Drillung) zu lang ist, in- 
 stabil sein kann. Die Kraft in der Richtung der Centralaxe und 
 das Kräftepaar bestimmen sich durch die Bedingung, dass aus dem- 
-selben, wenn.die. Kraft nach Poinsot’s Verfahren in den elastischen 
+selben, wenn.die. Kraft nach Poinsot's Verfahren in den elastischen 
 Mittelpunkt irgend eines Normalschnittes versetzt wird, zwei Kräfte- 
 paare erhalten werden, die zusammen den elastischen Kräftepaaren 
 der Biegung und Torsion äquivalent sind. 
@@ -9334,7 +9269,7 @@ die Centrallinie des Drahtes berührenden Normalebene zusammen-
 fallen. 
 
 605. Wenn die auf das bewegliche Ende der Feder in der 
-Richtung der Axe wirkende Kraft nach Poinsot’s Verfahren ($ 555) 
+Richtung der Axe wirkende Kraft nach Poinsot's Verfahren ($ 555) 
 in irgend einen Punkt der elastischen Centrallinie versetzt wird, so 
 liefert sie ein Kräftepaar in der durch jenen Punkt und die Axe 
 der Spirale gehenden Ebene. Die Resultante dieses Kräftepaars 
@@ -9367,10 +9302,10 @@ gehen und senkrecht zu derselben sind, so erhalten wir
 
 
 co8? « C082 « i 
-G= BI —— — 20) 008 @' + Ar sin «’ 
+G= BI —— — 20) 008 @' + Ar sin «' 
 ) 
 cos? « cos? 5 
-(7) — Rr=B oo, 8) sin « — Art cos «’ 
+(7) — Rr=B oo, 8) sin « — Art cos «' 
 h 
 
 
@@ -9388,7 +9323,7 @@ deformirten Zustand.
 
 Diese Gleichungen geben die expliciten Ausdrücke der Kraft und 
 des Kräftepaars, die erforderlich sind, um eine bestimmte Aenderung der 
-Spirale zu erzeugen; sie bestimmen aber auch die Parameter «’, r’ der 
+Spirale zu erzeugen; sie bestimmen aber auch die Parameter «', r' der 
 geänderten Curve, falls die Kraft und das Kräftepaar gegeben sind. 
 
 Da es hauptsächlich die äussere Wirkung der Feder ist, die uns in 
@@ -9523,8 +9458,8 @@ Spirale gleich Null.
 Für unendlich kleine Verschiebungen sei in (10) 
 y=mptrdpgumndse=n + de, 
 so dass jetzt 
-| _dE „_dE 
-ddp’ dd 
+| _dE "_dE 
+ddp' dd 
 ist. Dann erhalten wir, wenn in jeder Formel nur die Glieder vom nie- 
 
 
@@ -9612,7 +9547,7 @@ sächlich vermittels der Torsion wirken, scheint zuerst von Binet im
 Jahre 1814 entdeckt worden zu sein*). | 
 
 
-609. Kirchhoff’s Vergleich der Biegung und Drillung 
+609. Kirchhoff's Vergleich der Biegung und Drillung 
 eines Drahtes mit der Rotation eines starren Körpers. — 
 Wir kehren jetzt zum Falle eines gleichförmigen Drahtes zurück, 
 der, wenn Nichts auf ihn einwirkt, gerade und ungedrillt (d. h. 
@@ -9644,7 +9579,7 @@ Ba 2 ; d 2 ra az
 dinaten von P zu irgend einer Zeit t, so sind un EA 4 die Rich- 
 
 
-ds’ ds’ ds 
+ds' ds' ds 
 tungscosinus von O,T, und die in der Linie ‚7 D wirkende Kraft R 
 
 
@@ -9660,7 +9595,7 @@ OY, OZ beziehungsweise die Momente
 
 dz day 
 0 EBEN 
-z ds’ zur ds 
+z ds' zur ds 
 Folglich sind die Momente der hierdurch in irgend einer Zeit erzeugten 
 Bewegungsgrösse (es sind dies einfach ihre Zeitintegrale), da s = £ ist, 
 
@@ -9707,7 +9642,7 @@ zu untersuchen, welche den Spiralen der $$ 601 bis 603 entspre-
 chen, und auch den allgemeinen Charakter der elastischen Curven 
 
 
-*) Crelle’s Journal 1859. Ueber das Gleichgewicht und die u 
+*) Crelle's Journal 1859. Ueber das Gleichgewicht und die u 
 eines unendlich dünnen elastischen Stabes, 
 
 
@@ -9801,7 +9736,7 @@ Wird dies mit 2d%y multiplicirt und darauf integrirt, so folgt
 | dx? 
 und endlich 
 (4) Wo Oay 
-(1 at — er re 20y2 — (a — 0220 — yıyk’ 
+(1 at — er re 20y2 — (a — 0220 — yıyk' 
 
 
 was die Gleichung der Curve in Form eines elliptischen Integrals ist. 
@@ -10058,7 +9993,7 @@ Fälle einer Curve, welche durch ihr eigenes Gewicht, oder durch
 
 die Centrifugalkraft deformirt wird, oder welche Gleichgewichts- 
 bedingungen von der Art erfüllt, wie wir sie später bei der Auf- 
-stellung der Bewegungsgleichungen yach dem D’Alembert’schen 
+stellung der Bewegungsgleichungen yach dem D'Alembert'schen 
 ‘ Princip zu benutzen haben werden. Wir wenden uns jetzt zu einer 
 völlig allgemeinen Erforschung des Gleichgewichts einer Curve, die 
 in ihrer ganzen Länge gleichförmig ist, oder nicht; die im unge- 
@@ -10089,7 +10024,7 @@ ten liegenden Theil ds des Drahtes einwirken, so erhalten wir ($ 551) für
 
 das u dieses Theils des Drahtes 
 d« u er dy 
-(1) ee das’ = ds’ 27 ds 
+(1) ee das' = ds' 27 ds 
 
 
 und (wenn die unendlich kleinen Grössen zweiter Ordnung, wir dyds, 
@@ -10101,7 +10036,7 @@ BER EN 0 VOHBen. NE Rn
 
 ds 
 oder 4: e 
-_r1r_% dy „dz 
+_r1r_% dy "dz 
 Ii=7tr7 ds Pas 
 = dx 
 (2) -M=Tra =U 
@@ -10156,13 +10091,13 @@ ten wir [$ 595 (3)]
 
 
 Etnm+in=Ak—n) te) + bir) 
-(6) Et’ + nm + Bann 
+(6) Et' + nm + Bann 
 
 
 Er Ur Ede n)ta a M)+CL—H) 
 
 
-wo (I, m,n), (!’ m’ n’), (=, =, . die Richtungen von PK, PL, PT 
+wo (I, m,n), (!' m' n'), (=, =, . die Richtungen von PK, PL, PT 
 
 
 bezeichnen, so dass 
@@ -10170,7 +10105,7 @@ bezeichnen, so dass
 
 da ds 2 
 ler stm Yınl=or = tm tn —Kı 
-(7) | I’ -+- mm + nn = 0 
+(7) | I' -+- mm + nn = 0 
 ?-m+n=1ı 2?+mM2? + n?=1 
 ist. 
 Werden jetzt, wie in $ 593, Linien O,K, O,L, O,T gezogen, jede von 
@@ -10199,7 +10134,7 @@ N + 0: 48 ds
 ds ds ds 
 
 
-Die Gleichungen (7) reduciren (l, m, n), (I, m’ n’) auf ein variabeles 
+Die Gleichungen (7) reduciren (l, m, n), (I, m' n') auf ein variabeles 
 Element; es ist dies die Coordinate, durch welche die Lage der Substanz 
 des Drahtes in Beziehung auf die Tangente irgend eines Punktes der 
 Centraleurve bestimmt wird. Weiter drücken die Gleichungen (8) x, A, T 
@@ -10314,7 +10249,7 @@ erforderten Gleichungen des Gleichgewichts.
 
 
 In der Figur 35, welche einen Schnitt des Drahtes in der Ebene ey 
-darstellt, si OP=x PP’ = dx. Ferner mögen Y und N die für 
+darstellt, si OP=x PP' = dx. Ferner mögen Y und N die für 
 
 
 Fig. 35. 
@@ -10327,20 +10262,20 @@ die Einheit der Länge des Drahtes gerechneten Componenten der einwir-
 kenden Kraft und des einwirkenden Kräftepaars in der Ebene der Zeich- 
 nung sein, so dass Yd:z und N dx die Grössen der Kraft und des Kräfte- 
 paars in dieser Ebene sind, welchen die Theile des Drahtes zwischen P 
-und P’ wirklich ausgesetzt sind. | 
+und P' wirklich ausgesetzt sind. | 
 
 Die Wechselwirkung zwischen den zu beiden Seiten des durch P ge- 
 henden Normalschnitts liegenden Theilen der Substanz lässt sich auf 
 eine Kraft*) und ein Kräftepaar reduciren. Die den Axen OY und OZ 
 parallelen Componenten der Kraft seien wie früher ($ 614) $ und y, die 
 in den Ebenen XOY und X OZ genommenen Componenten des Kräfte- 
-paars Z und 7; die entsprechenden Grössen für P’ seien ß', y’ und £’, m’. 
+paars Z und 7; die entsprechenden Grössen für P' seien ß', y' und £', m'. 
 Die zwischen diesen beiden Schnitten befindliche Substanz ist im Gleich- 
 gewicht unter diesen von der zu beiden Seiten unmittelbar daran gren- 
 zenden Materie ausgeübten Einwirkungen und unter der Wirkung der 
 Kraft und des Kräftepaars, die sie von aussen angreifen. Die Componen- 
 ten der letzteren in der Ebene XOY sind beziehungsweise gleich Ydx 
-und Ndx. Folglich erhalten wir für das Gleichgewicht des Theils PP’ 
+und Ndx. Folglich erhalten wir für das Gleichgewicht des Theils PP' 
 rücksichtlich der zu O Y parallelen Kräfte die Bedingung 
 
 
@@ -10349,7 +10284,7 @@ und rücksichtlich der in der Ebene X O Y wirkenden Kräftepaare
 
 — + Nde +!" +pßde = 0; | 
 das Glied dx in der zweiten Gleichung ist das Moment des Kräftepaars, 
-welches von den nur unendlich wenig verschiedenen Kräften 8, $’ gebil- 
+welches von den nur unendlich wenig verschiedenen Kräften 8, $' gebil- 
 det wird, die in entgegengesetzt-parallelen Richtungen durch P und P' 
 gehen. Nun ist 
 
@@ -10492,7 +10427,7 @@ türlich
 (8) = (a + Kt Ka+K"ta+K”) 
 
 
-darin bezeichnen X, K’, u.'s. w. die vier Integrationsconstanten. Diese 
+darin bezeichnen X, K', u.'s. w. die vier Integrationsconstanten. Diese 
 werden durch die Grenzbedingungen bestimmt, welche z. B. darin bestehen 
 
 
@@ -10665,7 +10600,7 @@ letzteren ?/,;. Wenn die Stütze der Mitte von der Verbindungs-
 linie der Endpunkte um ?/,, des Weges herabgelassen wird, den sie 
 herabgelassen werden müsste, um von jedem Druck befreit zu wer- 
 den, so trägt sie gerade !/; des Gesammtgewichts und jedes Ende 
-hat gleichfalls !’;, zu tragen. 
+hat gleichfalls !';, zu tragen. 
 
 621. Rotation eines Drahtes um seine elastische Cen- 
 trallinie. Elastisches Universalgelenk. — Ein Draht von glei- 
@@ -10740,10 +10675,10 @@ wegung eine periodische Ungleichheit stattfinden, deren Periode
 eine ‚halbe Umdrehung jedes Körpers ist. Oder wenn der Draht 
 ım ungezwängten Zustande nicht ganz gerade ist, so wird eine pe- 
 riodische Ungleichheit eintreten, welche die ganze Umdrehung zur 
-Periode hat. Mit anderen Worten: Wenn ® und @’ die Winkel 
+Periode hat. Mit anderen Worten: Wenn ® und @' die Winkel 
 sind, durch welche die beiden Körper gleichzeitig rotiren, während 
 ein constant arbeitendes Kräftepaar vom einen zum anderen durch 
-den Draht hindurch fortgepflanzt wird, so ist 9 — @’ nicht Null, 
+den Draht hindurch fortgepflanzt wird, so ist 9 — @' nicht Null, 
 wie ım Falle des exacten elastischen Universal-Biegungsgelenks, 
 sondern eine Function von sin 2 und cos 29, wenn der erstere 
 Fehler allein existirt, oder eine Function von sin@ und c05s@, wehn 
@@ -11199,7 +11134,7 @@ tialebene zur Ebene X O Y gewählt werde, sei (x,%, 2) irgend ein Punkt
 der Mittelfläche der Platte, ? die Inclination derselben in diesem Punkte 
 
 
-I’; b A 
+I'; b A 
 und = ihre Krümmung in einem durch denselben gehenden Normalschnitt, 
 
 
@@ -11285,7 +11220,7 @@ An allen Stellen, die einen endlichen Abstand [$ 627
 ($)] vom Anfangspunkt haben, ist das Verhältniss der 
 Deflexion zur Dicke eine unendlich kleine Grösse. 
 
-Wenn wir den Ausdruck „Deflexion“ nicht auf die in $ 627 
+Wenn wir den Ausdruck "Deflexion" nicht auf die in $ 627 
 (4) gegebene Bedeutung beschränken, sondern auf den Abstand von 
 irgend einer wirklich abwickelbaren Fläche ausdehnen, so wird der 
 ausgeschlossene Fall natürlich demselben Ausspruch subsumirt. 
@@ -11362,7 +11297,7 @@ ten wird, so erhalten wir
 WO £,, 09 die Hauptkrümmungsradien a en verschwindet der 
 
 
-a r „ 
+a r " 
 Ausdruck a3ds unter dem Wurzelzeichen, wenn wir keine Glieder neh- 
 
 
@@ -11483,7 +11418,7 @@ E
 Statik fester und flüssiger Körper. 163 
 
 
-“einen von einer Normalfläche [$ 627 (3)] begrenzten Theil der Platte 
+"einen von einer Normalfläche [$ 627 (3)] begrenzten Theil der Platte 
 wirken, sind entweder verschwindend oder auf Kräftepaare redu- 
 cirbar. Mit anderen Worten: Für jeden von einer Normalfläche um- 
 grenzten Theil der Platte ist die nn Summe solcher Com- 
@@ -11578,8 +11513,8 @@ Fig. 36. Normalschnitte sind gleich und haben in
 zu einander senkrechten Schnitten ent- 
 gegengesetzte Richtungen. Den Beweis 
 findet man in $ 661. [Die Bedeutung, 
-welche hier der Ausdruck „entgegen- 
-gesetzte Richtungen“ hat, ist aus der 
+welche hier der Ausdruck "entgegen- 
+gesetzte Richtungen" hat, ist aus der 
 Figur 36 zu entnehmen, wo die Pfeil- 
 spitzen die Richtungen angeben, in 
 denen die zu beiden Seiten jedes Nor- 
@@ -11667,7 +11602,7 @@ Ka sing, Ha sin o,
 Werden die beiden letzteren nach den Axen OX und OY zerlegt, so 
 erhalten wir 
 Ga cos og — Ha sin oyum OX, 
-Gasing+ Hacosy „ OY. 
+Gasing+ Hacosy " OY. 
 
 
 Das Gleichgewicht des in Rede stehenden Theils der Platte würde aber 
@@ -11680,7 +11615,7 @@ muss
 (a) | Gacosg—Hasinp=4dacosp-- Hasin o für die Kräftepaare um OX 
 
 
-Gasng+tHacospy=Kasing+ Hacoop „ „ “3 „or 
+Gasng+tHacospy=Kasing+ Hacoop " " "3 "or 
 sein. Hieraus folgt unmittelbar 
 @) ee de ee sr 
 H=(K—A) sin po cos 9 + I (cos?g — sin? yp). 
@@ -11819,18 +11754,18 @@ nung vom Punkte O, wo sie von der Ebene YOX berührt wird. Die
 Krümmung der Fläche kann man ansehen als zusammengesetzt aus einer 
 cylindrischen Krümmung 4, deren Axe parallel OX. ist, einer cylindri- 
 schen Krümmung x, deren Axe parallel O Y ist, und einer anticlastischen 
-Krümmung %, deren Axe die Winkel XOY, YOX’ halbirt. Wenn also 
+Krümmung %, deren Axe die Winkel XOY, YOX' halbirt. Wenn also 
 jede der Grössen @ und 4 verschwände, so würde die Oberfläche cylin- 
 
 
-° . . .. . “.. 1 LL \ 5 
+° . . .. . ".. 1 LL \ 5 
 drisch sein; ihr Krümmungsradius wäre dann En und ihre erzeugenden 
 
 
 Linien parallel OY. Wenn jede der Grössen x und A verschwänden, so 
 hätten wir eine anticlastische Krümmung; es gäbe dann zwei Schnitte 
 gleicher Maximalkrümmung; die Richtungen dieser Schnitte würden die 
-Winkel XOY und YOX’ halbiren und der Krümmungsradius in jedem 
+Winkel XOY und YOX' halbiren und der Krümmungsradius in jedem 
 Schnitt gleich _ ein. 
 
 
@@ -11850,10 +11785,10 @@ wenn 9 = w 008 2a, I —= w sin 2« Ist.
 
 In diesen Formeln misst o die sphärische Krümmung; $ und @ sind die 
 beiden Componenten der anticlastischen Krümmung, genommen in Bezie- 
-hung auf das ‘Axenpaar X’X, Y'’Y und das andere Paar, welches die 
+hung auf das ‘Axenpaar X'X, Y''Y und das andere Paar, welches die 
 Winkel des ersteren halbirt. Die Resultante von $ und @ ist eine anti- 
 clastische Krümmung ®, deren Axen im Winkel XOY einen Winkel « 
-mit OX und im Winkel YOX’ einen gleich grossen Winkel @« mit OY 
+mit OX und im Winkel YOX' einen gleich grossen Winkel @« mit OY 
 bilden. 
 
 
@@ -11879,8 +11814,8 @@ wenn, wie früher,
 a ; e= Wk +4), = (x —A) 
 
 
-Es sei nun PQP’Q' ein rechtwinkliger Theil der Platte, dessen 
-Mittelpunkt in O ist, und dessen Seiten Q’ P, P'® parallel OX, während 
+Es sei nun PQP'Q' ein rechtwinkliger Theil der Platte, dessen 
+Mittelpunkt in O ist, und dessen Seiten Q' P, P'® parallel OX, während 
 Q'P', QP parallel OY sind. Ist dann 
 
 
@@ -11894,13 +11829,13 @@ eine unendlich kleine Rotation
 
 4) I + ayum 0Y 
 
-wı+-iy „ 0X 
+wı+-iy " 0X 
 ab, und die Rotation von XOY bis zur mittleren Tangentialebene für 
-alle Punkte der Seite PQ oder P’Q’ beträgt 
+alle Punkte der Seite PQ oder P'Q' beträgt 
 
 
 + 1, Q@'P.x um OY und 
-Fy,QPo ,„ox. 
+Fy,QPo ,"ox. 
 
 
 Wenn also die Tangentialebene X OY in O fest bleibt, während die 
@@ -11911,7 +11846,7 @@ um OX dreht, gleich
 Y%W'P.PQ. (Kdx + IN0o) 
 sein. Eine gleich grosse Arbeit werden die gleichen und entgegengesetz- 
 ten Kräftepaare leisten, welche über die eine gleiche und entgegengesetzte 
-Rotation erleidende Seite Q’P’ vertheilt sind. Auf ähnliche Weise er- 
+Rotation erleidende Seite Q'P' vertheilt sind. Auf ähnliche Weise er- 
 ' halten wir für die Gesammtarbeit, welche auf die Seiten P/Q und Q'P 
 ausgeübt ist, 
 PQ.WP(ndw + A401). 
@@ -11936,7 +11871,7 @@ Statik fester und flüssiger Körper. | 171
 
 (-45 er ds um 0X 
 (5) 
-(x 3? ds „ oY 
+(x 3? ds " oY 
 
 
 liefern. Wie wir aber soeben (4) ._ haben, ist die Rotation, welche 
@@ -11944,7 +11879,7 @@ die im Punkte (x, y) an die Platte gelegte Tangentialebene erfährt, wenn
 die Krümmung aus (x @,A)in(« + dx, 7 + dw, A -+- dA) übergeht, 
 (6) | oo. um OY 
 
-adwuwt ydı „ OX, 
+adwuwt ydı " OX, 
 wo vorausgesetzt wird, dass die Tangentialebene an die Platte in OÖ ihre 
 
 
@@ -11983,7 +11918,7 @@ Kräfte, so erhalten wir, wie im Falle des in $ 594 behandelten
 Drahtes, 
 
 
-(() ,„ Köx—d,w A684 = d,w 2168 = Iww, 
+(() ," Köx—d,w A684 = d,w 2168 = Iww, 
 
 oder nach der anderen Bezeichnung 
 
@@ -12138,16 +12073,16 @@ welche die gesuchte Gleichung des Gleichgewichts ist.
 
 
 Gleichungen des Gleichgewichts einer durch irgend welche 
-Kräfte gebogenen Platte. — Es sei 0 ein Rechteck PQP’'Q', dessen 
-Seiten dx parallel OX und d’y parallel OY sind. Ferner seien «d'y, 
+Kräfte gebogenen Platte. — Es sei 0 ein Rechteck PQP''Q', dessen 
+Seiten dx parallel OX und d'y parallel OY sind. Ferner seien «d'y, 
 
 Fig. 40. e' dy die nur unendlich wenig von 
 einander verschiedenen zur Platte 
-in den beziehungsweise durch PQ’ 
-und QP’ gehenden Normalflächen 
+in den beziehungsweise durch PQ' 
+und QP' gehenden Normalflächen 
 senkrechten Schiebungskräfte; die 
 entsprechenden Grössen für PQ und 
-P'Q' seien ß, ’. Dann ist natürlich 
+P'Q' seien ß, '. Dann ist natürlich 
 
 
 & 
@@ -12157,8 +12092,8 @@ Es hat dies auf den als starr ange-
 sehenen Theil E& der Platte den Ein- 
 Ä fluss, dass . durch die Mittelpunkte 
 
-von QP', Q’ P' in der Richtung der positiven 2 die Kräfte «’ dy, B'dx 
-und durch die Mittelpunkte von PQ’, PQ in der Richtung der negati- 
+von QP', Q' P' in der Richtung der positiven 2 die Kräfte «' dy, B'dx 
+und durch die Mittelpunkte von PQ', PQ in der Richtung der negati- 
 ven 2 die Kräfte «dy, dx wirken. Mithin tragen sie zum Gleichge- 
 wicht des als starr angesehenen Körpers E ö 
 
@@ -12170,11 +12105,11 @@ da aß
 — ' — — ——n 
 (@ — e)dy-+ (Bf — PB) dr oder (z + 2u) dx dy, 
 das Kräftepaar edy.dxz um OY und 
-n = Pdxz.dy „ 0X 
+n = Pdxz.dy " 0X 
 
 
-bei (in den beiden letzten Ausdrücken ist die Differenz zwischen & und o’, 
-sowie zwischen $ und f’ natürlich vernachlässigt). Drücken weiter K, 
+bei (in den beiden letzten Ausdrücken ist die Differenz zwischen & und o', 
+sowie zwischen $ und f' natürlich vernachlässigt). Drücken weiter K, 
 4, II, nach dem System des $ 637, die Biegungsreaction in (X, y) aus, so _ 
 erhalten wir folgende unendlich wenig von einander verschiedene und 
 entgegengesetzte Kräftepaare, welche auf die Paare entgegengesetzter 
@@ -12191,11 +12126,11 @@ sich zu drehen, ausdrücken: —
 dd 
 
 
-— dy.dx von den Seiten PQ, Q’P' aus 
+— dy.dx von den Seiten PQ, Q'P' aus 
 dy 
 um OX a 
-ESS ' ’ 
-72 dz.dy „ nm ie EN ORE- 5; 
+ESS ' ' 
+72 dz.dy " nm ie EN ORE- 5; 
 A ee 27 2 Zu 
 ay 
 um OY IK 
@@ -12229,7 +12164,7 @@ d?z __ dz d?z
 (3) ir ee 
 
 
-de dy’ 
+de dy' 
 folglich liefern die Gleichungen (10) des $ 641 
 
 
@@ -12238,7 +12173,7 @@ Feen er
 
 . d2z d?z d?z 
 
-“ air 
+" air 
 d?z d?z d?z 
 
 
@@ -12339,7 +12274,7 @@ du dK\ . dd dı
 
 Bezeichnen weiter @ds und Hods die um XY und um eine zu XY 
 senkrechte in der Ebene der Platte liegende Axe genommenen Componen- 
-ten des Kräftepaars, welches durch die d’s enthaltende Normalfläche wirkt, 
+ten des Kräftepaars, welches durch die d's enthaltende Normalfläche wirkt, 
 
 
 so folgt [$ 637 (2)] 
@@ -12387,7 +12322,7 @@ ee rt +) 0
 + — [X — 4A) sing cosp + IH (cos? @ — sin? )], 
 
 
-und dies sind Kirchhoff’s Grenzgleichungen. 
+und dies sind Kirchhoff's Grenzgleichungen. 
 
 
 646. Vertheilung von Schiebungskräften, welche die- 
@@ -12522,11 +12457,11 @@ einheit des Randes genommene Grösse des zwischen AB und BC gege-
 benen Kräftepaars, so ist der Betrag desselben für das Rechteck ABCD 
 gleich Hds; folglich muss H die Grösse der längs AD, CB eingeführ- 
 ten Kräfte sein, damit dieselben ein Kräftepaar von dem geforderten Mo- 
-ment ausmachen. Bezeichnet in ähnlicher Weise H’ds die Grösse des 
+ment ausmachen. Bezeichnet in ähnlicher Weise H'ds die Grösse des 
 Kräftepaars in dem auf der anderen Seite von BC liegenden anstossen- 
-den Rechteck, so wird HM’ die aus demselben herrührende Kraft sein, 
+den Rechteck, so wird HM' die aus demselben herrührende Kraft sein, 
 welche in BC und H entgegengesetzt wirkt. Es bleibt also in BC nur 
-eine der Differenz H’ — H gleiche Kraft wirksam. 
+eine der Differenz H' — H gleiche Kraft wirksam. 
 
 Wenn wir voraussetzen, dass 8 (eine längs des Randes von einem be- 
 liebigen Nullpunkte aus gemessene Grösse) in der Richtung von A nach 
@@ -12646,7 +12581,7 @@ vr
 -—— fr af! — [rZar + [fr Zar 
 
 
-“ +uCKAtglgr + W(A— 0) 
+" +uCKAtglgr + W(A— 0) 
 +%O(A+)-(A—g)N, 
 H=V. 
 d2z dz 
@@ -12790,7 +12725,7 @@ lichen Constanten zu erkennen.
 von keiner Deformation begleitet ist. 
 
 
-(2) CO’ log r ist eine Verschiebung, welche überall eine anti- 
+(2) CO' log r ist eine Verschiebung, welche überall eine anti- 
 clastische Krümmung m und zwar sind die Krümmungen in 
 
 
@@ -12824,11 +12759,11 @@ hat. Für diesen Fall ist & = 0, oder es findet keine Schiebung
 statt. 
 
 
-(3) 44 O’r? ist eine Verschiebung, die einer sphärischen 
+(3) 44 O'r? ist eine Verschiebung, die einer sphärischen 
 Krümmung entspricht und daher einfach eine gleichmässige syncla- 
 stische Reaction [$ 638 (2)] erzeugt, deren Grösse natürlich [$ 641 
 (10) oder (11)] gleich A + c, dividirt durch den Krümmungsradius, 
-oder gleich (A + c) X !/, C’ ist und mit den gleichen Werthen 
+oder gleich (A + c) X !/, C' ist und mit den gleichen Werthen 
 übereinstimmt, welche die Formeln (6) und (7) des $ 649 für Z und 
 G geben. Auch in diesem Falle ist & = 0, oder es ist keine Schie- 
 bungskraft vorhanden. Eine endliche Platte von irgend welcher 
@@ -12869,7 +12804,7 @@ f_
 2A 
 
 
-ist; es bleiben also nur die beiden Constanten C’ und C” unbekannt, 
+ist; es bleiben also nur die beiden Constanten C' und C” unbekannt, 
 und diese bestimmen sich aus den beiden Gleichungen, die man er- 
 hält, wenn man den Ausdruck von @ [$ 649 (6)] gleich den Wer- 
 then setzt, die beziehungsweise für die Werthe, welche r im äusse- 
@@ -12890,14 +12825,14 @@ jedem Rande verschwinden. -
 (12) - (= 
 
 
-Sind a und a’ die Radien des inneren und des äusseren Randes, so 
+Sind a und a' die Radien des inneren und des äusseren Randes, so 
 haben wir 
 
 
 yC{(A+e) lga+%(A—d} +Y%C(A+e) — C"(A—e) n 0 
 
 
-und eine zweite Gleichung, die aus der letzten entsteht, wenn man «’ 
+und eine zweite Gleichung, die aus der letzten entsteht, wenn man «' 
 statt a schreibt. Folglich ist 
 
 
@@ -12905,7 +12840,7 @@ I 1 a
 a-)5-5)=-nOA+N)1T 
 
 
-= 1, C'(A+.c) (a — a) = — %C[(A+c)(adloga — a'? log a’) 
+= 1, C'(A+.c) (a — a) = — %C[(A+c)(adloga — a'? log a') 
 + 1%(A— ec) (a? — a)]; 
 
 
@@ -12915,8 +12850,8 @@ wenn wir für C den Werth (12) benutzen, so erhalten wir auf diese
 Weise [$ 649 (2)] 
 ; ] a a Fr IL, 
 = [4 (- ogr+ a'2 24 er 
-a? a’2 log ® — 
-, A+c a’ 
+a? a'2 log ® — 
+, A+c a' 
 + Ya A—-c a — a”? logr + e | 
 Wenn wir den Factor von r? auf eine passendere Form bringen und 0” 
 
@@ -12925,7 +12860,7 @@ so wählen, dass die Deflexion von der Fläche des inneren Bandes aus
 gerechnet werde, so folgt endlich 
 
 
-A [u(- log + in log = a’ + I) r? 
+A [u(- log + in log = a' + I) r? 
 
 
 == 
@@ -12945,14 +12880,14 @@ Um zu zeigen, wie sich die elastische Reaction durch die Breite des Rin-
 ges vertheilt, schliessen wir hieraus nach $ 649 (6) 
 
 
-F a?2a’? a 5) 
+F a?2a'? a 5) 
 
 
 a? a r 
 (14) = late) (310 — 109 a ar 
 
 
-welcher Ausdruck, wie es der Fall sein muss, für r = a’ und für r=a 
+welcher Ausdruck, wie es der Fall sein muss, für r = a' und für r=a 
 verschwindet. Weiter ergibt sich nach $ 649 (8) 
 
 
@@ -12984,7 +12919,7 @@ Ausdrücke für 2 @ und & für jeden ringförmigen Theil der
 
 
 dz 
-’ dr’ 
+' dr' 
 Platte, für welchen Z continuirlich ist, einzeln herzuleiten und ihre 
 Werthe zu beiden Seiten jedes Kreises, der zwei solche Theile 
 trennt, gleich zu setzen. Wären also ö ringförmige Theile vorhan- 
@@ -13033,7 +12968,7 @@ r ; r r r
 
 
 <e|w vr? ly ur? . Yıswr* U ort 
->ce | 0 wc? “(2% 24) "(42092 +) "(aro I_e+r@g +), e) 
+>ce | 0 wc? "(2% 24) "(42092 +) "(aro I_e+r@g +), e) 
 2 4 z 16 e 16 .z r%ı 
 
 
@@ -13046,13 +12981,13 @@ sprechenden Ausdrücke für @ und {. Wenn wir zunächst voraussetzen,
 der so erhaltene Ausdruck von @ habe für jeden der beiden Werthe 
 r', r'' von r einen beliebig gegebenen Werth, und { habe für einen die- 
 ser Werthe von r einen beliebig gegebenen Werth, so erhalten wir drei 
-einfache algebraische Gleichungen zur Bestimmung von C, 0’, 0" und 
+einfache algebraische Gleichungen zur Bestimmung von C, 0', 0" und 
 lösen ein Problem, welches allgemeiner als das vorgelegte ist; zu letzte- 
 rem gelangen wir, wenn wir die vorgeschriebenen Werthe von @ und & 
 Null machen. Ein auffallendes Beispiel für die Macht, welche die ma- 
 thematische Analysis durch Einführung discontinuirlicher Functionen er- 
 langt, ist die Anwendbarkeit des Resultats nicht bloss auf den betrach- 
-teten Fall, in welchem c zwischen r’ und r” liegt, sondern auch auf 
+teten Fall, in welchem c zwischen r' und r” liegt, sondern auch auf 
 Fälle, in denen c kleiner als jede dieser Grössen (dann kommen wir wie- 
 der zu dem im vorhergehenden Paragraphen behandelten Fall), oder 
 grösser als jede derselben ist (dann erhalten wir eine Lösung, die wir 
@@ -13068,14 +13003,14 @@ Statik fester und flüssiger Körper. 189
 
 belastet ist, so muss Ü = 0 und C” = 0 sein, damit die Werthe von 
 ö und G im Mittelpunkt nicht unendlich gross werden; die Gleichung 
-G = 0 für die äussere Grenze der Scheibe liefert dann sofort C’ und 
+G = 0 für die äussere Grenze der Scheibe liefert dann sofort C' und 
 vervollständigt dadurch die Lösung. Wenn wir endlich voraussetzen, 
 c sei nicht kleiner als der Radius der Scheiße, so erhalten wir die Lö- 
 sung für eine gleichförmige Kreisscheibe, welche an ihrem Rande gleich- 
 mässig unterstützt und nur durch« ihr eigenes Gewichtideformirt wird. 
 
 
-654. Reduction des allgemeinen Problems „auf den Fall, 
+654. Reduction des allgemeinen Problems "auf den Fall, 
 in welchem die Platte ganz unbelastet ist. — Betrachten wir 
 jetzt das allgemeine Problem: — Ueber eine Platte von beliebiger 
 Form ist in irgend einex, Weise eine Last vertheilt, und am Rande 
@@ -13093,26 +13028,26 @@ Zunächst lässt sich, wie für einen entsprechenden Ausdruck für drei
 unabhängig Veränderliche in $ 491 (ed), leicht beweisen, dass 
 
 
-() I + n/ Se 1og D da’ dy' = ne 
+() I + n/ Se 1og D da' dy' = ne 
 
 
-ist; darin ist o’ eine beliebige Function zweier unabhängig Veränder- 
-lichen «@’, y; 
+ist; darin ist o' eine beliebige Function zweier unabhängig Veränder- 
+lichen «@', y; 
 e ist dieselbe Function von x, %; 
 
 
-D bezeichnet Y ((e— a’)? + (y— y')?}, 
+D bezeichnet Y ((e— a')? + (y— y')?}, 
 und S [ bezeichnet die Integration über eine Fläche, welche alle Werthe 
-von x’, y' enthält, für die e’ nicht verschwindet. Folglich ist 
+von x', y' enthält, für die e' nicht verschwindet. Folglich ist 
 
 
 y d2 d2 
 (2) + 47) u=Z, 
 wenn 
-3) - u— nf Saw ay log D f [az ay" Z" log D’ 
+3) - u— nf Saw ay log D f [az ay" Z" log D' 
 
 
-ist, wo D’ = Y {(@" — x)? + (y" — y')?} ist und Z”, Z die Werthe 
+ist, wo D' = Y {(@" — x)? + (y" — y')?} ist und Z”, Z die Werthe 
 einer beliebigen Function zweier unabhängig Veränderlichen für (x”, y''), 
 (©, %) bezeichnen. Diese Function möge die Grösse der Last für die 
 Flächeneinheit bezeichnen und für alle nicht in der Platte liegenden 
@@ -13220,13 +13155,13 @@ a 2 Alm, m, (A: cos iO + Bi sin i0) e |
 
 
 — 1Y, (A, 0080 + 2, sin 0) He? + v', 
-wo v’ irgend eine Lösung von (11) ist, die man zweckmässig als durch 
+wo v' irgend eine Lösung von (11) ist, die man zweckmässig als durch 
 (182) gegeben annehmen kann, wenn darin die accentuirten Buchstaben 
 4A! u. s. w. zur Bezeichnung von vier neuen Constanten gebraucht wer- 
 den. Wenn nun die willkürlichen periodischen Functionen von 0 mit der 
 Periode 2, welche als die Werthe einer Verschiebung, oder einer Schie. 
 bungskraft, oder eines Kräftepaars für den äusseren und inneren kreis- 
-förmigen Rand gegeben sind, durch den Fourier’schen Satz [$ 77 (14)] 
+förmigen Rand gegeben sind, durch den Fourier'schen Satz [$ 77 (14)] 
 in einfachen harmonischen Reihen ausgedrückt werden, so liefern die 
 beiden Gleichungen [$ 645 (5)] für jeden Rand, wenn man sie einzeln auf 
 die Coefficienten von cos ? 6 und sin iO in den so erhaltenen Ausdrücken 
@@ -13335,14 +13270,14 @@ unterwirft.
 [Um diese Kräfte zu bezeichnen, wollen wir im Deutschen 
 statt des von Rankine (Cambridge and Dublin Mathematical Jour- 
 nal 1850) vorgeschlagenen und von den englischen Verfassern 
-adoptirten Wortes „stress“ den Ausdruck „elastische Reaction 
-oder Gegenwirkung“ (nämlich gegen die Formveränderung) 
+adoptirten Wortes "stress" den Ausdruck "elastische Reaction 
+oder Gegenwirkung" (nämlich gegen die Formveränderung) 
 brauchen, zum Unterschied von dem früher ($ 154) eingeführten 
-Ausdruck „Deformation“ (engl. strain), welcher den bloss geome- 
+Ausdruck "Deformation" (engl. strain), welcher den bloss geome- 
 trischen Begriff einer Volumen- oder Formänderung enthält. 
 
-Denselben Ausdruck „stress“ werden wir zuweilen auch durch 
-„Zwang“ wiedergeben, wenn es sich nämlich um die Bezeichnung 
+Denselben Ausdruck "stress" werden wir zuweilen auch durch 
+"Zwang" wiedergeben, wenn es sich nämlich um die Bezeichnung 
 nicht der durch die Deformation in einem Körper hervorgerufenen 
 Kräfte, sondern des Zustandes handelt, in welchen der Körper 
 
@@ -13483,7 +13418,7 @@ ten der Kraft bezeichnen, welche auf die Flächeneinheit ds» ersten Drei-
 ecks X YZ, wirkt, 
 
 F.A=P.ılA+U.mA+ T.nA 
-und zwei symmetrische “ıeichungen für die OY und OZ parallelen 
+und zwei symmetrische "ıeichungen für die OY und OZ parallelen 
 >urch Division mit A ergibt sich daher 
 
 
@@ -13659,14 +13594,14 @@ Volumen gleich Eins ist, unter irgend einer Reaction (P,Q,R,S, T, U)
 die unendlich kleine einfache longitudinale Deformation e allein er- 
 fährt, so ist die auf ihn ausgeübte Arbeit Pe; denn von den OX 
 parallelen Kräftecomponenten P,U, Tleisten bei dieser Deformation U 
-und T'’keine Arbeit. Ebenso sind Qf, Rg die Ausdrücke für die Arbeit; 
+und T''keine Arbeit. Ebenso sind Qf, Rg die Ausdrücke für die Arbeit; 
 wenn unter der Einwirkung derselben elastischen Reaction bezie- 
 hungsweise die einfachen longitudinalen Deformationen / oder g 
 erlitten werden. Wenn der Würfel weiter eine einfache Schiebung 
 a erfährt, so sehen wir, dass die geleistete Arbeit $a ist, mag die 
 Schiebung nun ($ 172) als ein unendlich kleines Gleiten der Ebenen 
 yx parallel y oder der Ebenen 2% parallel z angesehen werden; 
-die geleistete Arbeit ist Z’b, wenn die Deformation einfach eine 
+die geleistete Arbeit ist Z'b, wenn die Deformation einfach eine 
 Schiebung b ist, welche entweder in den Ebenen z%y parallel OZ 
 oder in den Ebenen xy parallel OX erfolgt; die Arbeit ist endlich 
 Uc, wenn die Deformation eine Schiebung c der Ebenen x# oder 
@@ -13692,7 +13627,7 @@ mit der Deformation erfolgt, die eben gefundene Grösse der gelei-
 steten Arbeit verändern. 
 
 Wenn jede Kante des Würfels nicht die Länge Eins, sondern 
-eine beliebige Länge p hat, so ist jede Kraft p?’mal, jede relative 
+eine beliebige Länge p hat, so ist jede Kraft p?'mal, jede relative 
 Verschiebung p mal, folglich die verrichtete Arbeit 9° mal so gross, 
 als oben gerechnet wurde. Mithin wird auf einen Körper von irgend 
 einer Form und vom Cubikinhalt C, welcher überall einem gleich- 
@@ -13754,8 +13689,8 @@ $ 190 (e) benutzen, mit Rücksicht auf unsere jetzige ($ 669) Bezeichnung
 
 _ de __dß __.dy 
 
-(6) e = dx’ f dy’ 9I-= dz’ 
-_Aß,dy „_ dy, de da | dp 
+(6) e = dx' f dy' 9I-= dz' 
+_Aß,dy "_ dy, de da | dp 
 ee reer Arruer 
 
 
@@ -13780,7 +13715,7 @@ selbe bedeutet, wie der Ausdruck
 
 e 1” ee Up + I) 14 (Ua +08 +Sy) m 
 +(Ta+ Sp + Ry)n} de, 
-welcher, wenn man die Glieder anders gruppirt, in’ 
+welcher, wenn man die Glieder anders gruppirt, in' 
 er [w=/ furı + Um + Tna+(Ul+Qm+ Sn) 
 | +(TI+Sm-+ Rn)y} de 
 übergeht. Das zweite Glied dieser Formel drückt nach (1) direct die Ar- 
@@ -13822,7 +13757,7 @@ die Arbeit aus, die in einer Flüssigkeit durch die Verzerrungs-
 reaction (oder die Differenz des Drucks in verschiedenen Richtungen) 
 geleistet wird, wenn dieselbe gegen die allen natürlichen Flüssig- 
 keiten innewohnende Zähigkeit arbeitet, und w ist dann nach 
-Joule’s Entdeckung der dynamische Werth der in dem Process 
+Joule's Entdeckung der dynamische Werth der in dem Process 
 erzeugten Wärme. Die Gleichung kann auch dazu angewandt 
 werden, die Arbeit auszudrücken, welche bei der Deformation 
 eines unvollkommen elastischen festen Körpers oder eines elasti- 
@@ -13897,14 +13832,14 @@ das Differential einer Function der als unabhängig Veränderliche ange-
 
 
 sehenen Grössen e, f, 9, a, db, c sein, oder, was dasselbe ist, w ist eine 
-Function dieser Elemente und “ 
+Function dieser Elemente und " 
 
 
 dw dw dw 
 
 (12) rn, I=7 er 
 | Ber, Due, re 
-da’ — db’ —de 
+da' — db' —de 
 
 
 Im Anhang Ü werden wir zu dieser Theorie zurückkehren und eine 
@@ -13914,7 +13849,7 @@ nung (e, f, ...), wie sie in $ 869 definirt wurde, allein passend ist. In-
 zwischen bemerken wir nur, dass, wenn der Gesammtbetrag der Defor- 
 
 
-*%) „On the Thermoelastic and Thermomagnetic Properties of Matter“ 
+*%) "On the Thermoelastic and Thermomagnetic Properties of Matter" 
 (w. ee Quarterly Journal of Mathematics. April 1855. 
 **) Ibid. 
 
@@ -13941,7 +13876,7 @@ v—=)tleeJ)ed+(f,f)f?+(g,9)9?+(a,a) a? + (b,d) b?-+-(c,c)c?
 
 
 Die 21 Coefficienten (e,e), (f,f),..-, (d,c) dieses Ausdrucks sind die 21 
-„Elasticitätscoefficienten“, von denen Green zuerst gezeigt hat, dass sie 
+"Elasticitätscoefficienten", von denen Green zuerst gezeigt hat, dass sie 
 für eine vollständige Theorie der Dynamik eines unendlich kleinen De- 
 formationen unterworfenen elastischen festen Körpers geeignet und un- 
 entbehrlich sind. Die einzige Bedingung, der man diese Coefficienten 
@@ -14142,7 +14077,7 @@ So besitzt in der abstracten Dynamik ein starrer Körper oder
 eine Gruppe starr mit einander verbundener Körper, die innerhalb 
 einer starren Kugelfläche enthalten und an derselben starr befestigt 
 sind, kinetische Symmetrie ($ 285), wenn der Trägheitsmittelpunkt 
-im Centrum der Kugel liegt und die Trägheitsmomente für’ alle 
+im Centrum der Kugel liegt und die Trägheitsmomente für' alle 
 Durchmesser gleich sind. Der Körper ist auch isotrop in Be- 
 ziehung auf die Schwerkraft, wenn er centrobarisch ($ 526) ist, so 
 dass das Centrum seiner Figur nicht bloss ein Trägheitsmittelpunkt, 
@@ -14171,7 +14106,7 @@ der Körper und des heterogenen Gefüges, das wir im Grunde ge-
 nommen allen Substanzen zuzuschreiben haben, wie sehr sie auch 
 homogen zu sein scheinen, ergeben einerseits entsprechende Be- 
 schränkungen, andererseits für die Praxis zulässige weitere Inter- 
-pretationen des Begriffes „isotrop“. 
+pretationen des Begriffes "isotrop". 
 
 
 679. Bedingungen der elastischen Isotropie. — Damit 
@@ -14235,7 +14170,7 @@ barkeit. Das zweite Element, oder der Widerstand gegen eine
 Formänderung wird gemessen durch die (wie in $ 662 gerechnete) 
 tangentiale Reaction, dividirt durch die Gfösse der Verzerrung oder 
 Schiebung ($ 175), die sie erzeugt, und heisst die Starrheit oder 
-die Gestaltselasticität der Substanz. ’ 
+die Gestaltselasticität der Substanz. ' 
 
 
 681. Aus $ 169 folgt, dass eine Deformation, die aus einer 
@@ -14396,7 +14331,7 @@ Dub. Math. Jour., March 1848.
 212 Abstracte Dynamik. 
 
 
-sich hinsichtlich der Starrheit („Steifheit“) bedeutend von einander 
+sich hinsichtlich der Starrheit ("Steifheit") bedeutend von einander 
 unterscheiden. Die Zusammendrückbarkeit des Wassers ist Y/gox000 
 für jedes (engl.) Pfund, was auf den (engl.) Quadratzoll drückt (oder 
 1/gıssss per Gramm und Quadratmillimeter); der durch den recipro- 
@@ -14434,7 +14369,7 @@ zwischen 0,226 und 0,441 liegt.
 
 685. Alle diese Resultate zeigen an, dass die Starrheit klei- 
 ner ist im Verhältniss zur Zusammendrückbarkeit, als sie nach 
-Naviıer’s und Poisson’s Theorie sein sollte. Viele Naturforscher, 
+Naviıer's und Poisson's Theorie sein sollte. Viele Naturforscher, 
 welche die Nothwendigkeit einsahen, jene Theorie als unanwendbar 
 
 
@@ -14467,14 +14402,14 @@ nur !/; oder !/; seiner anfänglichen Länge behält. Es ist auf diese
 Weise entscheidend bewiesen, dass im Verhältniss zum Widerstande 
 gegen eine Compression Kork weit starrer, während Metalle, Glas 
 und Gallerte sämmtlich weniger starr sind, als der vorausgesetzte 
-„vollkommen feste Körper“, und damit ist die gänzliche Werth- 
+"vollkommen feste Körper", und damit ist die gänzliche Werth- 
 losigkeit jener Theorie experimentell dargelegt. 
 
 
-686. Young’s Modulus. — Der Elastieitätsmodulus eines 
+686. Young's Modulus. — Der Elastieitätsmodulus eines 
 Stabes, Drahtes, einer Faser, eines dünnen Fadens, eines Bandes 
 oder einer Schnur von irgend einem Material (dessen Substanz nicht 
-isotrop, ja nicht einmal homogen’ innerhalb eines Normalschnit- 
+isotrop, ja nicht einmal homogen' innerhalb eines Normalschnit- 
 tes zu sein braucht) [wie z. B. ein Glas- oder Holzstab, ein Metall- 
 draht, ein Gummiband, ein Zwirnsfaden, eine Schnur, ein Band] ist 
 ein von Dr. Thomas Young eingeführter Ausdruck, mit dem das 
@@ -14621,7 +14556,7 @@ gemein auf jeden der 21 Coefficienten, welche [$ 673 (14)] die Re-
 actionen durch die Deformationen ausdrücken, sowie auf den reci- 
 proken Werth jedes dieser 21 Coefficienten, wodurch [$ 673 (16)] 
 die Deformation durch die Reaction ausgedrückt wird, endlich auch 
-auf den Young’schen Modulus anwenden. 
+auf den Young'schen Modulus anwenden. 
 
 
 692. Die bei einer einfachen longitudinalen Deforma- 
@@ -14709,7 +14644,7 @@ Reaction (P, @, R, S, T, U) ausdrücken. Dieselben sind natürlich
 bloss die algebraischen Umkehrungen der Formeln (5) und hätten 
 ($ 673) durch Auflösung der Gleichungen (5) für e, f, 9, a,b, c als 
 Unbekannte gefunden werden können. M ist hier eingeführt, um 
-Young’s Modulus ($ 683) zu bezeichnen, und m wird unten ın 
+Young's Modulus ($ 683) zu bezeichnen, und m wird unten ın 
 8 698 (5) definirt werden. 
 
 
@@ -14833,7 +14768,7 @@ dU ,dQ ‚ds
 
 
 dT dS , dR : 
-a ta +22) da 09 88 „02 
+a ta +22) da 09 88 "02 
 
 
 Es mögen nun X, Y, Z die für die Volumeneinheit genommenen 
@@ -14842,7 +14777,7 @@ Kraft bezeichnen; für den kleinen betrachteten Theil sind dann diese
 Componenten Xdadydz, Ydzdydz, Zdxdydz. Wenn wir diese 
 Ausdrücke zu den oben gefundenen entsprechenden Componenten der 
 Zugkräfte addiren, die erhaltenen Summen gleich Null setzen und den 
-Factor dx dy d’z unterdrücken, so ergibt sich 
+Factor dx dy d'z unterdrücken, so ergibt sich 
 
 
 dP adaU , dT 
@@ -14988,11 +14923,11 @@ und 2 das schon oben [Zusatz A und B, $$ 491,492, 499, u. s. w.] be-
 nutzte Symbol ist. 
 
 
-699. St. Venant’s Anwendung auf Torsionsprobleme,. — 
+699. St. Venant's Anwendung auf Torsionsprobleme,. — 
 Eine der schönsten Anwendungen, die bis jetzt von den allgemei- 
 nen Gleichungen des inneren Gleichgewichts eines elastisch-festen 
-Körpers gemacht worden sind, ist die von St. Venant „über die 
-Torsion der Prismen“ *), Auf das eine Ende eines langen geraden 
+Körpers gemacht worden sind, ist die von St. Venant "über die 
+Torsion der Prismen" *), Auf das eine Ende eines langen geraden 
 prismatischen Stabes, Drahtes oder eines vollen oder hohlen Cylin- 
 ders von beliebiger Form wirkt in einer zur Länge senkrechten 
 Ebene ein gegebenes Kräftepaar ein, während das andere Ende fest- 
@@ -15007,8 +14942,8 @@ beit wird bedeutend vereinfacht, wenn wir erst die folgenden ein-
 leitenden Sätze beweisen: — 
 
 
-*) M&moires des Savants Etrangers. 1855. „De la Torsion des Pris- 
-mes, avec des Considerations sur leur Flexion“, etc. 
+*) M&moires des Savants Etrangers. 1855. "De la Torsion des Pris- 
+mes, avec des Considerations sur leur Flexion", etc. 
 
 
 Statik fester und flüssiger Körper. 293 
@@ -15231,14 +15166,14 @@ Elements eines jeden Cylinders von kreisförmiger Basis, der mit dem
 Grenzcylinder ‚oder den Grenzcylindern die Axe gemeinschaftlich 'hat; 
 und somit braucht auf die cylindrische Grenzfläche keine Kraft einzu- 
 wirken, um den vorausgesetzten Deformationszustand zu erhalten. Die 
-“ Wechselwirkung zwischen den Substanztheilen zu beiden Seiten eines 
+" Wechselwirkung zwischen den Substanztheilen zu beiden Seiten eines 
 jeden‘ ebenen Normalschnitts besteht aus der Kraft in dieser Ebene; 
 diese Kraft ist senkrecht zu dem durch jeden Punkt gehenden Radius 
 und beträgt nrr für die Einheit der Fläche. Das Moment dieser Kraft- 
 vertheilung in Beziehung auf die Axe des Cylinders ist (wenn do ein 
 
 
-Element der Fläche bezeichnet) nr ’ S deor?, oder das Product von nz 
+Element der Fläche bezeichnet) nr ' S deor?, oder das Product von nz 
 in das Trägheitsmoment der Fläche in Beziehung auf die durch das Cen- 
 
 
@@ -15333,7 +15268,7 @@ die durch jeden Punkt gehenden Hauptschnitte ($ 130) gleiche und
 entgegengesetzte Krümmungen haben. Diese Theorie verdanken 
 wir St. Venant, der nicht nur die Falschheit der von mehreren 
 früheren Schriftstellern gemachten Voraussetzung, dass das Cou- 
-lomb’sche Gesetz auch für andere Prismenformen als für volle oder 
+lomb'sche Gesetz auch für andere Prismenformen als für volle oder 
 hohle Cylinder von kreisförmiger Basis gelte, nachwies, sondern 
 auch die Natur der erforderten Correction vollständig entdeckte, 
 die Bestimmung derselben auf ein Problem der reinen Mathematik 
@@ -15351,7 +15286,7 @@ zuerst von Stokes*) gelösten hydrokinetischen Problem veranlasst
 uns, den folgenden Satz mitzutheilen, der sich sehr nützlich erwei- 
 sen wird bei der Berechnung des Betrages, um welchen der Wider- 
 stand gegen eine Torsion kleiner ist, als die aus der falschen Aus- 
-dehnung des Coulomb’schen Gesetzes berechnete Grösse. 
+dehnung des Coulomb'schen Gesetzes berechnete Grösse. 
 
 
 705. Man denke sich, eine Flüssigkeit von der Dichtigkeit » 
@@ -15361,12 +15296,12 @@ stische Prisma, und welches die Einheit zur Länge hat. Auf das
 Gefäss wirke ın einer zur Länge desselben senkrechten Ebene ein 
 Kräftepaar ein. Das wirksame Trägheitsmoment der Flüssigkeit **) 
 ist dann gleich dem Betrage, um welchen der aus der falschen Aus- 
-dehnung des Coulomb’schen Gesetzes berechnete Widerstand des 
+dehnung des Coulomb'schen Gesetzes berechnete Widerstand des 
 elastischen Prisma gegen eine Torsion verringert werden muss, um 
 die richtige Grösse dieses Widerstandes zu liefern. 
 
 
-: „On some cases of Fluid Motion.“ — Camb. Phil. Trans. 1843. 
+: "On some cases of Fluid Motion." — Camb. Phil. Trans. 1843. 
 
 **) Das ist das Trägheitsmoment eines starren festen Körpers, welcher, wie 
 im zweiten Bande bewiesen werden wird, in dem Gefässe nach Entfernung der 
@@ -15422,7 +15357,7 @@ staben benutzen, im Uebrigen aber die Bezeichnung beibehalten,
 et Ten et, 
 (0) str 
 mithin [$ 693 (5)] Ä 
-?r’=6 Q=0, 8=0 
+?r'=6 Q=0, 8=0 
 (0) | 
 
 
@@ -15527,13 +15462,13 @@ der positiven Richtung mit der Winkelgeschwindigkeit z um OZ rotirt.
 Wir erhalten somit die zu erweisenden Sätze ($ 705). 
 
 
-707. St. Venant’s Ermittlung lösbarer Fälle. — St. Ve- 
+707. St. Venant's Ermittlung lösbarer Fälle. — St. Ve- 
 nant findet auf zwei Wegen Lösungen dieser Gleichungen: — 
 (A) Er nimmt eine beliebige Lösung von (12) und bestimmt eine 
 Schaar von Curven, für deren jede (18) erfüllt ist; jede dieser Cur- 
 ven kann daher als die Grenze der. Basis eines Prisma angenom- 
 men werden, auf welches jene Lösung anwendbar sein soll. (B) Er 
-löst nach der rein analytischen Methode Fourier’s mit Rücksicht 
+löst nach der rein analytischen Methode Fourier's mit Rücksicht 
 auf die Oberflächengleichung (18) die Gleichung (12) für den beson- 
 deren Fall eines rechtwinkligen Prisma. 
 
@@ -15553,7 +15488,7 @@ Function der unabhängig Veränderlichen zundy aus, da y der Gleichung
 (12) genügt. Wird diese en mit % bezeichnet, so folgt 
 
 day _ _ dy _ du 
-(20) dx =5 Yy 2 dy de’ 
+(20) dx =5 Yy 2 dy de' 
 und (19) verwandelt sich in | 
 
 a Yrdat Wo, 
@@ -15755,7 +15690,7 @@ aty 48 16 #— sry? + y
 rn 49 17 _ 1% 
 12 meeneyınay 2 ıyz 36 16 
 49 17 198 49 17 
-r? 48 16 r4cos4$ , 12 16 r8cos8$°“ .' 36 16 
+r? 48 16 r4cos4$ , 12 16 r8cos8$°" .' 36 16 
 oder a ta Ten 
 1, 49 17 N 49 17. ry 49 17 
 
@@ -15770,8 +15705,8 @@ welche St. Venant in seiner synthetischen Entwicklung (A) benutzte,
 ist auch in der analytischen Untersuchung von grossem Nutzen, obwohl 
 St. Venant sie.nicht dazu verwandt hat. Wir bemerken erstens, dass 
 die Bestimmung von % für eine gegebene Prismenform ein besonderer 
-Fall des im Zusatz A (e) als möglich und bestimmt erwiesenen „Green- 
-schen Problems“ ist, indem dieses darin besteht, eine Function u von x 
+Fall des im Zusatz A (e) als möglich und bestimmt erwiesenen "Green- 
+schen Problems" ist, indem dieses darin besteht, eine Function u von x 
 und % zu finden, welche für jeden Punkt der von einer der Bedingung 
 (36) sehr tyd). 
 genügenden geschlossenen Curve umgrenzten Fläche die Gleichung 
@@ -15814,7 +15749,7 @@ w=0, wıny=- Yb |
 
 \ = — (4b? — Y) wenn 2 =+ Ya ist. 
 
-Um das Problem nach Fourier’s Methode zu lösen 
+Um das Problem nach Fourier's Methode zu lösen 
 
 
 (vergl. das schwierigere Problem des $ 655), müssen wir Y,b? — y? in 
@@ -15867,7 +15802,7 @@ verwandelt. Hieraus erhalten wir mit Benutzung von (37), (38) und (20)
 (45) y y+ı\z On Fıy Diane (2r+1)n 
 
 
-*) Man kann dieselbe natürlich aus dem allgemeinen Fourier’schen Satze 
+*) Man kann dieselbe natürlich aus dem allgemeinen Fourier'schen Satze 
 herleiten; leichter erhält man sie aber durch zwei successive Integrationen der 
 hekannten Formel 
 
@@ -15910,8 +15845,8 @@ Eine Relation, welche Stokes*) und Lam6**) unabhängig von ein-
 ander entdeckten [wir haben dieselbe schon in den Gleichungen (20), (22) . 
 
 
-benutzt] gestattet uns, wenn wir sie mit Lam6’s Methode der krumm- 
-linigen Coordinaten***) verbinden, Fourier’s analytische Methode 
+benutzt] gestattet uns, wenn wir sie mit Lam6's Methode der krumm- 
+linigen Coordinaten***) verbinden, Fourier's analytische Methode 
 auf eine grosse Klasse krummliniger Rechteck auszudeh- 
 nen, welche das geradlinige Rechteck als einen besonderen Fall in sich 
 schliesst. Das geschieht auf folgende Weise: — 
@@ -15943,8 +15878,8 @@ chung F e
 ne an LANE 
 
 
-K On the Steady Motion of Theomprekeible Fluids. Camb. Phil. Trans. .„ 1842. 
-_**) M&moire sur les lois de l’Equilibre du Fluide Ethere. Journal de l’Ecole 
+K On the Steady Motion of Theomprekeible Fluids. Camb. Phil. Trans. ." 1842. 
+_**) M&moire sur les lois de l'Equilibre du Fluide Ethere. Journal de l'Ecole 
 Polytechnique, 1834. 
 
 *%+*) Siehe Thomson, on the Equations of the Motion of Heat referred to 
@@ -15987,7 +15922,7 @@ a2u a? u
 (54) FF] + dn == 4); 
 Auch gehen die Relationen 
 du _dy du _ _dy 
-day de’ de dy 
+day de' de dy 
 wegen (49) über in 
 du _dy du _ _dy. 
 (55) An” ar de dan 
@@ -16012,7 +15947,7 @@ s=a| n=B
 238 Abstracte Dynamik. 
 
 
-nach dem Fourier’schen Plan ist 
+nach dem Fourier'schen Plan ist 
 nr 
 
 
@@ -16021,19 +15956,19 @@ u=:r sin "3 (Ar Ace)
 + sin” Er 21 (Bue® a +Bie 7), 
 
 
-wo Au, An’ durch zwei an bestimmt werden müssen, die man 
+wo Au, An' durch zwei an bestimmt werden müssen, die man 
 
 
 folgendermaassen erhält: — Man ‚setze den Coefficienten von sin en! ; 
 wenn n=0 und wenn n=ß ist, beziehungsweise gleich den Coefficienten 
-von sin am in den nach dem Fourier’schen Satze ($ 77) erhaltenen 
+von sin am in den nach dem Fourier'schen Satze ($ 77) erhaltenen 
 
 
 Entwicklungen von f (£, 0) und f (£, $) in Reihen von der Form 
 9) BmÜ+pR m? Pr eniLusw 
 
 
-Auf ähnliche Weise werden B„, B„’ aus den Entwicklungen von f (0, n) 
+Auf ähnliche Weise werden B", B"' aus den Entwicklungen von f (0, n) 
 und f (a, n) in In von der Form 
 
 
@@ -16091,9 +16026,9 @@ illusorisch wird.
 Statik fester und flüssiger Körper. 239 
 
 
-ergibt. Die letzte Bedingung zeigt,’ dass der Du und Bu’ enthaltende 
+ergibt. Die letzte Bedingung zeigt,' dass der Du und Bu' enthaltende 
 Theil von (58) geeignet ist, ® auszudrücken, und die beiden ersten be- 
-stimmen B„ und Br in der gewöhnlichen Weise. _ 
+stimmen B" und Br in der gewöhnlichen Weise. _ 
 
 Wenn es am besten ist, das Resultat in einer Reihe von Sinus der 
 Vielfachen von u zu haben, so können wir 
@@ -16113,17 +16048,17 @@ liefert und als Grenzbedingungen in der Lösung für w
 © = 0, wehn £ = 0 und wenn & = « ist 
 
 
-ergibt. Die letzte zeigt, dass der A» und A’„ enthaltende Theil von (58) 
+ergibt. Die letzte zeigt, dass der A» und A'" enthaltende Theil von (58) 
 zur Bestimmung von % passend ist, und die beiden ersten bestinımen 
-Ar, A’n. \ 
+Ar, A'n. \ 
 
 
-708. St. Venant’s Arbeit ist reich an schönen und lehrrei- 
+708. St. Venant's Arbeit ist reich an schönen und lehrrei- 
 chen graphischen Erläuterungen seiner Resultate, von denen wir 
 die folgenden auswählen: — 
 
 (1) Cylinder mit elliptischer Basis. — Die einfachen und. 
-punktirten Linien sind die „topographischen Contouren“ 
+punktirten Linien sind die "topographischen Contouren" 
 
 
 (coupes topographiques) des durch die Torsion gekrümmten 
@@ -16140,7 +16075,7 @@ Hyperbeln. Der Pfeil zeigt die Richtung der Rotation in dem über
 der Ebene der Zeichnung liegenden Theil des Prisma an. | 
 Fig.”so. " (2.) Prisma, dessen Ba- 
 sis ein gleichseitiges 
-Dreieck ist. — Die’ Contou- 
+Dreieck ist. — Die' Contou- 
 ren sind wie im Falle (1) ge- 
 zeichnet, und zwar sind die 
 punktirten Curven diejenigen, 
@@ -16186,8 +16121,8 @@ Die den Werthen a —= 0,4 und a = — 0,2 entsprechenden Curven
 sind nur äusserst wenig von den geradlinigen Quadraten verschieden, 
 die in der Figur theilweise durch punktirte Linien angedeutet sind. 
 
-(4.) Contouren für St. Venant’s „etoile & quatre points 
-arrondis.“ Die Fig. 52 zeigt ganz, wie es in den Fällen (1.) und 
+(4.) Contouren für St. Venant's "etoile & quatre points 
+arrondis." Die Fig. 52 zeigt ganz, wie es in den Fällen (1.) und 
 (2.) geschehen ist, die Contouren für den Fall eines Prisma, welches 
 
 
@@ -16227,7 +16162,7 @@ Re Be
 .. 
 7 or. 
 ur ... 
-+. .“ .“” .” 
++. ." ."” .” 
 
 
 -(6.), (7.), (8.) Die Figuren 54, 55, 56 sind schattirte Zeich- 
@@ -16244,7 +16179,7 @@ ihren Trägheitsmittelpunkt gehende zu ihrer Ebene senkrechte Axe
 . offenbar gleich ist der Summe ihrer Trägheitsmomente in Bezie- 
 hung auf zwei beliebige durch denselben Punkt gehende zu einan- 
 der senkrechte Linien ihrer Ebene, so würde die in $ 703 angege- 
-bene falsche Ausdehnung des Coulomb’schen Gesetzes den Wider- 
+bene falsche Ausdehnung des Coulomb'schen Gesetzes den Wider- 
 stand, welchen ein Stab von beliebigem Normalschnitt einer Torsion 
 
 
@@ -16339,7 +16274,7 @@ Statik fester und flüssiser Körper. 245
 Verzerrung diejenigen Punkte der Grenzfläche sind, welche der 
 Axe des gedrillten Prisma in jedem Falle am nächsten liegen, und 
 dass die Stellen der kleinsten Verzerrung die am weitesten entfern- 
-ten’ Punkte sind. So ist in dem Cylinder mit elliptischer Basis die 
+ten' Punkte sind. So ist in dem Cylinder mit elliptischer Basis die 
 Substanz in den Endpunkten des kleineren Hauptdurchmessers am 
 meisten, in den Endpunkten des grösseren am wenigsten deformirt. 
 In den Prismen, welche beziehungsweise ein gleichseitiges Dreieck 
@@ -16406,15 +16341,15 @@ fach in
 
 
 (69) v= Z(Burw + Burm) sinnvn*), | 
-wo Ban, B’„ durch die Gleichungen (65) des $ 707 bestimmt werden müs- 
+wo Ban, B'" durch die Gleichungen (65) des $ 707 bestimmt werden müs- 
 
 
-sen, indenenmanr=a undr = «statt E= 0 und E= a und a’2 
-statt a?e°“ zu setzen hat (a und a’ bezeichnen beziehungsweise die Ra- 
+sen, indenenmanr=a undr = «statt E= 0 und E= a und a'2 
+statt a?e°" zu setzen hat (a und a' bezeichnen beziehungsweise die Ra- 
 
 
 dien der concaven und der convexen Cylinderflächen). Wenn a = 0 ist, 
-so liefern diese Gleichungen B„ = 0, folglich 
+so liefern diese Gleichungen B" = 0, folglich 
 dv 
 FG) =0, =B,con,=w, 
 
@@ -16436,8 +16371,8 @@ bogen, dass er einen Kreisbogen bildet, und bestimmen die Kraft,
 *) Der Vergleich mit $ 707 (23), (24) lässt erkennen, dass diese Lösung 
 bloss der allgemeine Ausdruck in Polarcoordinaten für Reihen harmonischer Kugel- 
 functionen von zundy und mit 3=0 ist, die von den Graden N, 2n, 3n, U.8. W., 
-—n, —2n, —3n, u. s. w. sind. Es sind dies „vollkommene harmonische 
-Functionen“, wenn » die Einheit oder eine beliebige ganze Zahl ist. 
+—n, —2n, —3n, u. s. w. sind. Es sind dies "vollkommene harmonische 
+Functionen", wenn » die Einheit oder eine beliebige ganze Zahl ist. 
 
 
 Statik fester und flüssiger Körper. 247 
@@ -16462,14 +16397,14 @@ Verbindungslinie der Mittelpunkte hindurchgehen).
 
 Es werde ein Schnitt DOE des Stabes zur Coordinatenebene X OY 
 genommen, und es sei P (x, %, 2) ein beliebiger Punkt des ungebo- 
-genen, P’ (x’, y’, 2’) derselbe Punkt des gebogenen Stabes. Die Figur 
+genen, P' (x', y', 2') derselbe Punkt des gebogenen Stabes. Die Figur 
 
 
 Fig. 59. 
 
 
 zeigt die Projection dieser Punkte auf die Ebene ZOX. Ferner sei o der 
-Radius des Bogens ON’, in welchen sich die Linie ON des Ben 
+Radius des Bogens ON', in welchen sich die Linie ON des Ben 
 Stabes umbiegt. Dann ist 
 
 
@@ -16492,7 +16427,7 @@ gilt dasselbe von 2. Deshalb vernachlässigen wir in den vorhergehenden Aus-
 drücken die Potenzen von z und > deren Grad den zweiten übersteigt, 
 
 
-und erbalten, wenn wir noch !— ze =a Y„—y=-ß, !‘—z=y 
+und erbalten, wenn wir noch !— ze =a Y"—y=-ß, !‘—z=y 
 setzen, 
 
 
@@ -16542,7 +16477,7 @@ an, so werden die auf die Seitenflächen des Stabes wirkenden Zugkräfte |
 und die inneren Kräfte auf Null reducirt. Wenn daher jetzt | 
 
 
-(1) “=, la+? 
+(1) "=, la+? 
 
 
 ist, so ergibt sich 
@@ -16610,7 +16545,7 @@ haben, d. h. die Ebene der Biegung muss senkrecht sein zu einer
 von den beiden seiner eigenen Ebene angehörenden Hauptträgheits- 
 axen des Normalschnitts.. Wenn dies der Fall ıst, so ist das Mo- 
 ment des ganzen durch jeden Normalschnitt wirkenden Kräftepaars 
-gleich dem Product aus der Krümmung, dem Young’schen Modu- 
+gleich dem Product aus der Krümmung, dem Young'schen Modu- 
 lus und dem ın Beziehung auf die zur Ebene der Biegung senk- 
 rechte Hauptaxe genommenen Trägheitsmoment der Fläche des 
 
@@ -16630,7 +16565,7 @@ Es fallen somit in einem Stabe von isotroper Substanz die Haupt-
 axen der Biegung ($ 599) mit den Hauptträgheitsaxen der Fläche 
 des Normalschnitts zusammen, und die entsprechenden Biegungs- 
 widerstände ($ 596) sind die Trägheitsmomente dieser Fläche in 
-Beziehung auf diese Axen, multiplicirt mit dem Young’schen Mo- 
+Beziehung auf diese Axen, multiplicirt mit dem Young'schen Mo- 
 dulus. 
 
 
@@ -16698,7 +16633,7 @@ BERENEEEE
 EL gl 
 
 
-6. nur wenig kleiner als !/, ist ($ 684), und welches im hohen’Grade 
+6. nur wenig kleiner als !/, ist ($ 684), und welches im hohen'Grade 
 deformirt werden kann, ohne die entsprechende elastische Wirksam- 
 keit völlig zu verlieren]. 
 
@@ -16714,7 +16649,7 @@ Erklärung; denn wofern nicht die Breite AC des Stabes (oder der
 zur Ebene der Biegung senkrechte Durchmesser) sehr klein wäre 
 ım Vergleich zur mittleren Proportionale zwischen dem Radius OH 
 und der Dicke A B,so würden die Abstände von OY nach den Ecken 
-A’, C’ kürzer und die Abstände von O Y nach B’, D’ länger sein, als die 
+A', C' kürzer und die Abstände von O Y nach B', D' länger sein, als die 
 halbe Dicke OE, und zwar würden die Verhältnisse der Differenzen 
 dieser Abstände zur halben Dicke endliche Werthe haben. Dadurch 
 
@@ -16805,7 +16740,7 @@ und
 Mb3 
 
 3 — 1 —_y% 
-(3) K ‚1a 1— 6? “ 
+(3) K ‚1a 1— 6? " 
 Wenn eine sphärische Krümmung erzeugt werden soll, so ha- 
 ben wir # = 4 zu setzen. Dies liefert 
 
@@ -16835,7 +16770,7 @@ tropem Material
 
 
 MD? 
-A= I1_ga’ 
+A= I1_ga' 
 I Mb® 
 u 
 (6) h /ı2 gr = Ui Ire' 
@@ -16901,7 +16836,7 @@ worden ist.
 Es ist von grösster Wichtigkeit, Folgendes zu bemerken: — (1) Eine 
 Hälfte des Theils Y,nrab® in dem Werthe von N, welchen die Formel 
 (46) des $ 707 liefert, leitet sich aus «@ und ß, wie sie $ 706 (8) gibt, her, 
-und das Glied — xy von y folgt aus (45). — (2) Bezeichnet y’ die 
+und das Glied — xy von y folgt aus (45). — (2) Bezeichnet y' die 
 transcendente Reihe, a den Ausdruck (45) für y vervollständigt, so 
 
 
@@ -16910,7 +16845,7 @@ ist es das Glied n S [23 x —— Y de dy der Formel (17) des $ 706, welches
 
 die andere Hälfte des in stehenden Theils von N ausmacht. Um 
 diesen Ausdruck zu bestimmen, werden wir partiell integriren, wobei zu 
-beachten ist, dass sich einfach das Zeichen von y’ ändert, wenn man &£ 
+beachten ist, dass sich einfach das Zeichen von y' ändert, wenn man &£ 
 oder % ein anderes Zeichen gibt. Es ergibt sich 
 
 
@@ -16919,7 +16854,7 @@ na Iab Ya
 dy 
 
 
-u “ı Zy 
+u "ı Zy 
 (10) /a@ fa 6 a 2a 
 =. [are nf d& «| @aa, 
 0 
@@ -16932,7 +16867,7 @@ Gen Te day = any
 = Int (2) BIS — 
 
 
-2 +1 „7a 
+2 +1 "7a 
 v 2@»+1)® ‚ar+VZ Be — v4 
 
 
@@ -16979,7 +16914,7 @@ scheint. Diese ist, wie wir oben [$ 721 (8)] gesehen haben, unendlich
 klein im Vergleich zum ersten Gliede von (46), wenn @ — b unendlich 
 gross ist. Wenn wir aber wie jetzt die Zusammensetzung des Ausdrucks - 
 untersuchen, so ist zu beachten, dass für ein unendlich grosses « — P 
-die Grösse y’ verschwindet, ausser für Werthe von &, die unendlich wenig 
+die Grösse y' verschwindet, ausser für Werthe von &, die unendlich wenig 
 von + Y,a verschieden sind, und daraus erkennen wir leicht, dass in 
 diesem Falle 
 
@@ -17007,7 +16942,7 @@ einfach proportional ist.
 723. Wenn wir jetzt die erstere Hälfte entfernen und statt 
 Fig. 61. derselben über die bisher freien 
 
-Ränder (BB’, AA’) gleich- 
+Ränder (BB', AA') gleich- 
 mässig ein Kräftepaarsystem 
 vertheilen, welches der letzte- 
 ren Hälfte gleich und ähnlich 
@@ -17015,7 +16950,7 @@ und so gerichtet ist, dass in
 der ganzen Platte dieselbe 
 ‚ Drillung unterhalten wird, so 
 "haben wir die zurErfüllung der 
-drei Poisson’schen Grenzbe- 
+drei Poisson'schen Grenzbe- 
 dingungen ($ 645) für den vor- 
 liegenden Fall geeigneten Zugkräfte, d. h. wir haben ein System von 
 Zugkräften, die über die vier Ränder einer quadratischen Platte so ver- 
@@ -17041,7 +16976,7 @@ a=— 190, B=ras y=—ıay,
 e=[=9=0 1a =90, b= — 2ry c—=0 
 Ya ab 
 nT 
-—L=N=-— Tydydı= — ad’; 
+—L=N=-— Tydydı= — ad'; 
 Aa —Yb 
 
 
@@ -17106,9 +17041,9 @@ bleiben nur die folgenden transcendenten Reihen: —
 2» +e 25 
 (14) gerle _@v+1) = 
 br TER seht. 0 (— 1)» e —_e B (2v + I)ay 
-= „(2r + 13) | @v+1)na (27 -+1)7Ta b 
+= "(2r + 13) | @v+1)na (27 -+1)7Ta b 
 et te. 
-NE a i n : „Grtlna 
+NE a i n : "Grtlna 
 125. Wenn 5 unendlich gross ist, so wırde” 2 unend- 
 @rHjna A : 
 lich gross und e="z — unendlich klein. Setzen wir dann 
@@ -17121,7 +17056,7 @@ hergehenden Ausdrücke in
 2 Zu 
 Bann (2) Br GM 1)r TE in (2» + 1)ry 
 @»-+1)3 
-für Punkte, welche‘ e Rande A’B’ nicht a nahe 
+für Punkte, welche‘ e Rande A'B' nicht a nahe 
 liegen; also ist 
 
 
@@ -17130,7 +17065,7 @@ liegen; also ist
 a r(Z-) Br sın — 
 z u (=) (2, + 1)3 3° ö b 
 
-für Punkte, welche dem Rande AA’ nicht unendlich nahe 
+für Punkte, welche dem Rande AA' nicht unendlich nahe 
 
 liegen; also ist 
 
@@ -17219,7 +17154,7 @@ nb\rx
 bestimmt, wo 3 die für die Einheit der Randlänge genommene 
 Grösse des Kräftepaars und % die Starrheit ($ 680) der Substanz 
 bezeichnen. Die einfachste und leichteste Art, zu diesem Resultat 
-zu gelangen, besteht jedoch. darin, dass man direct nach Fourier’s 
+zu gelangen, besteht jedoch. darin, dass man direct nach Fourier's 
 analytischer Methode das folgende Problem löst, welches ein beson- 
 derer Fall eines der allgemeinen Probleme des $ 696 ist: — 
 
@@ -17277,7 +17212,7 @@ Gleichungen, welche «@ und $ enthalten, werden durch die Werthe « = 0,
 ß=0 befriedigt, erfordern also (Zusatz C) «=0, $=0. Aus (a), (b) und 
 
 
-(ec) sieht man natürlich zunäclıst, dass die Fourier’sche Lösung von der 
+(ec) sieht man natürlich zunäclıst, dass die Fourier'sche Lösung von der 
 
 
 Form 
@@ -17340,13 +17275,13 @@ für > ag 77° 4G ) STB SegTıas tl suggigs uSW.
 = zn et ee ne ie 
 ='ab, 9 46 r) 801 Bas tzsagnp u W 
 ny any BnYy 
-2303 „ Br E32 ale D cos 2 +. d ne 
-n ’ ob 33,103 53,105 u 
+2303 " Br E32 ale D cos 2 +. d ne 
+n ' ob 33,103 53,105 u 
 5 
 N al cos =. 4 cos > ) 
 ı=b, e=® ie -) 314 Bag t Sag SW. 
 37 5 
-“ ler cos IE cos 2 ) 
+" ler cos IE cos 2 ) 
 2b, 78 ,(@ -) FEFSEHEBETETTSTFITTTT 
 
 
@@ -17434,18 +17369,18 @@ ayY'
 a ie. 77) dr dy' dz' 
 
 (5 day "dz 
-“ nf SS Vle =? + (y—y® + (2 — 2')2]’ 
+" nf SS Vle =? + (y—y® + (2 — 2')2]' 
 
 
-wo X’, Y', Z’ die Werthe von X, Y, Z für einen beliebigen Punkt 
-(x’, y’, 2’) bezeichnen. 
+wo X', Y', Z' die Werthe von X, Y, Z für einen beliebigen Punkt 
+(x', y', 2') bezeichnen. 
 
 (c) Wir können diesen Ausdr uck durch eine partielle Integration und 
 durch Beachtung der vorgeschriebenen Convergenzbedingung, nach welcher 
 für =» 
 
 
-dy' dz’ 
+dy' dz' 
 0 S mem 
 
 
@@ -17471,7 +17406,7 @@ bezeichnen, welche durch den ganzen Rauın vertheilt sind und bezie-
 hungsweise die Dichtigkeiten 
 
 m ddö m dd mdö X Y Z 
-4nndx’' anndy’ Anndz' Arnın’' 4nın' Arın 
+4nndx'' anndy' Anndz' Arnın'' 4nın' Arın 
 haben; mit anderen Worten: u, u. s. w, U, u. s. w. sind solche Func- 
 tionen, dass in allen Punkten des Raumes 
 
@@ -17480,7 +17415,7 @@ m dd _ 2 X _
 (8) a u.8.w,V2U+ . —(, u.8.Ww. 
 
 
-ist. Bezeichnen also d’”’, X”, Y", Z" die Werthe von d, X, Y, Z für 
+ist. Bezeichnen also d'”', X”, Y", Z" die Werthe von d, X, Y, Z für 
 einen Punkt (x”, y”, 2''), so erhalten Bi rn @ 
 
 
@@ -17528,15 +17463,15 @@ welche beziehungsweise von den Werthen abhängen, die u. innerhalb
 
 und ausserhalb der Kugelfläche hat; dann ist 
 mX 
-fürr<a Vu’ = ———— m const., 
+fürr<a Vu' = ———— m const., 
 (11) 3n(m-+n) 
 
 
-„r>a W=0; | 
+"r>a W=0; | 
 fürrr<a VUu'—=0, 
 
 
-(12) „r>a W"'=— _ = und dies ist eine räumliche har- 
+(12) "r>a W"'=— _ = und dies ist eine räumliche har- 
 
 
 monische Kugelfunction vom Grade —3, da d durch die erste 
@@ -17664,7 +17599,7 @@ hat. Da aber {k} — [ER] eine harmonische Flächenfunction zweiter
 Ordnung ist, so ist das Potential dieser Schicht allein [$ 536 (4)] 
 
 
-„(BY — [R]) - m im Innern der Kugel 
+"(BY — [R]) - m im Innern der Kugel 
 und j 
 YV(dR} — [R)) = im äusseren Raum, 
 
@@ -17678,7 +17613,7 @@ a8? [ 5] im Innern der Kugel
 und 
 
 
-3a dd. „ 
+3a dd. " 
 ——- —- im äusseren Raun:. 
 
 
@@ -17801,11 +17736,11 @@ Pegel dei dy' de |2tem an; —mD? 7, Bern zen)
 
 
 d X' pl y' _y! g' 2 
-y= = ante pafll da’ dy' de‘ |otemHan) m DH (Ze) Y yiH- (2 a), 
+y= = ante pafll da' dy' de‘ |otemHan) m DH (Ze) Y yiH- (2 a), 
 
 
 wo D= Y{x— x) + y—y')? + (2— 2')?} ist, die Integration //f sich durch den 
-ganzen Raum erstreckt und X’, Y’, Z’ drei willkürliche, nur durch die Convergenz- 
+ganzen Raum erstreckt und X', Y', Z' drei willkürliche, nur durch die Convergenz- 
 bedingung des $ 730 beschränkte Functionen von x, y', 2' sind, 
 
 
@@ -17850,7 +17785,7 @@ tionen von (X, %, 2), welche für den vom Körper eingenommenen Raum
 die Gleichungen 
 
 
-nVatmll 4 xX=o, „vet m& + Y=0 
+nVatmll 4 xX=o, "vet m& + Y=0 
 (1) a ee wo der Kürze wegen 
 
 
@@ -17861,7 +17796,7 @@ befriedigen. ei wir dann
 
 (2) e=e+,P=P + y=Yyty 
 so sehen wir, dass wir, um die Aufgabe vollständig zu lösen, nur 
-&, Py„ Yy, mittels der Gleichungen 
+&, Py" Yy, mittels der Gleichungen 
 
 
 n v2, + m 5% =0, —.—— 
@@ -17911,7 +17846,7 @@ schen Gravitation der Fall ist.
 liebig vertheilte schwere Masse wirkt, und der entweder im Zu- 
 stand der Ruhe durch Oberflächenzugkräfte ins Gleichgewicht ge- 
 bracht wird, wenn die Attractionskräfte einander nicht selbst das 
-Gleichgewicht halten; oder der dem D’Alembert’schen Princip 
+Gleichgewicht halten; oder der dem D'Alembert'schen Princip 
 ($ 264) gemäss die Bedingungen des inneren Gleichgewichts erfüllt, 
 indem die Widerstände aller Theile seiner Masse gegen Beschleuni- 
 gungen und die Attractionskräfte, denen er unterworfen ist, einan- 
@@ -17983,8 +17918,8 @@ chungen (1) des $ 732 ein, so sehen wir, dass dieselben schliesslich
 durch folgende Werthe für '«, 'ß, 'y befriedigt werden: — 
 
 
-de „__ı de, __1 49 
-| —mt+nde’" mtndy’ ’Tmtnde' 
+de "__ı de, __1 49 
+| —mt+nde'" mtndy' 'Tmtnde' 
 
 wo 9 eine beliebige Function ist, welche der Gleichung 
 
@@ -18082,9 +18017,9 @@ legten Normalen.
 
 
 735. Lösung des Problems des $ 686 für Kugelschalen. — 
-Die mittels der Laplace’schen Entwicklung nach harmonischen 
+Die mittels der Laplace'schen Entwicklung nach harmonischen 
 Kugelfunctionen erhaltene Lösung dieses Problems für den Fall 
-einer Kugelschale ($ 696) hat zuerst Lame in einer in Liouville’s 
+einer Kugelschale ($ 696) hat zuerst Lame in einer in Liouville's 
 Journal 1854 veröffentlichten Arbeit gegeben. Sie wird durch 
 unsere Bezeichnungsweise und symmetrischen Formeln [Zusatz B. 
 (1) — (24)] sehr vereinfacht !), die wir so lange beibehalten, bis 
@@ -18101,33 +18036,33 @@ v2e=0. |
 (b) Beweis, dass die Ausdehnung sich in önkarzenten Rei- 
 hen harmonischer Kugelfunctionen ausdrücken lässt. — Es seien 
 nun die Werthe, welche d auf zwei beliebigen concentrischen Kugel- 
-flächen von den Radien a und a’ hat, nach Zusatz B (52) in Reihen har- 
-monischer Flächenfunctionen S,, S, 82, u. s. w. und Sy, 51’, Sy’, u. 8. w. 
+flächen von den Radien a und a' hat, nach Zusatz B (52) in Reihen har- 
+monischer Flächenfunctionen S,, S, 82, u. s. w. und Sy, 51', Sy', u. 8. w. 
 entwickelt, so dass 
 
 
 j I=-SHH HH tr. + HH... fnrma 
-(e) e=S+ S'+ S’+...+ Sy +... für a 
+(e) e=S+ S'+ S'+...+ Sy +... für a 
 
 ist. Dann muss in dem gauzen zwischen beiden Kugelflächen liegenden 
 Raum 
 
 = Lars, —awrtı S)rr — (aa')rti (dv 9 — ar Sy) ro 
 
-0 a2y +1 == a’2vV- +1 
+0 a2y +1 == a'2vV- +1 
 
 
-sein. Denn erstens convergirt diese Reihe für alle zwischen a und «’ 
+sein. Denn erstens convergirt diese Reihe für alle zwischen a und «' 
 
 
-1) „Dynamical Problems regarding Elastic Spheroidal Shells, and Spheroids 
-of Incompressible Liquid.“ W. Thomson, Phil. Trans., 1862. 
+1) "Dynamical Problems regarding Elastic Spheroidal Shells, and Spheroids 
+of Incompressible Liquid." W. Thomson, Phil. Trans., 1862. 
 
 
 Statik fester und flüssiger Körper. 273 
 
 
-liegenden Werthe von r. Dies zu beweisen, nehmen wir an, a’ sei klei- 
+liegenden Werthe von r. Dies zu beweisen, nehmen wir an, a' sei klei- 
 ner als a und schreiben (5) in der Form 
 
 
@@ -18154,10 +18089,10 @@ dy = Sy (£) und d-y—ı = 8°, (=) ‚
 
 und da jede der Reihen (4) nothwendig convergirt, so convergiren die 
 beiden Reihen, in. welche in (6) die Entwicklung (5) getheilt ist, zuletzt 
-rascher, als beziehungsweise die „geometrischen“ Reihen 
+rascher, als beziehungsweise die "geometrischen" Reihen 
 
 
-y\y /r\v+tl /r\v+2 al\v+l /a’\y+2 /a’\v+3 
+y\y /r\v+tl /r\v+2 al\v+l /a'\y+2 /a'\v+3 
 HEROES EEE SEI EI are 
 a a a T r T 
 Zweitens stimmt der Ausdruck (5) an der Grenze des betrachteten 
@@ -18189,7 +18124,7 @@ negativen Grade ist, und von denen jede für alle Punkte ienes Rau-
 (c) Wir können jetzt (6) kurz in folgender Form schreiben: — 
 ei | 
 (7) d= %b,, 
-„(0 
+"(0 
 
 
 wo die vollkommene harmonische Kugelfunction d, vom positiven oder 
@@ -18212,7 +18147,7 @@ aus (1) und (7)
 
 m dd, 
 2a = — — F 
-via iz’ 
+via iz' 
 ddy . 5 N ö 
 und da nF eine harmonische Function vom Grade »—1 ist, so sehen 
 wir, wenn wir im Zusatz B (12) n = » — 1 und m = 2 nehmen, dass 
@@ -18242,7 +18177,7 @@ tiiren und die Formel
 
 d d do,\ 
 tete) 
-= (@HtvnteZ,) 9,+r"Vv?og,=2v9,+r?V’op,, 
+= (@HtvnteZ,) 9,+r"Vv?og,=2v9,+r?V'op,, 
 
 
 (8) 
@@ -18279,7 +18214,7 @@ Van © mr? a (du, , dv, dw,
 Sl, mr? ®y, 
 
 
-| „, dw 
+| ", dw 
 11) 9=2% SAGE nei m )n + — ı) nr ) 
 
 
@@ -18313,12 +18248,12 @@ v=X& dy \
 14 — % (v,— Mr ==) 
 (14) = 2 (mr) 
 v=® dy 
-_— w„— M,r? un 
+_— w"— M,r? un 
 BR z # dz 
 übergeht. 
 (e) Es ist wichtig zu bemerken, dass, wenn man zu 4, v, w bezie- 
 hungsweise die Glieder aD ey 2 addirt (p ist eine beliebige Func- 
-8 dx’ dy’ dz ? \8 
+8 dx' dy' dz ? \8 
 
 
 tion, welche der Gleichung V?y = 0 genügt), die Gleichung (10). nicht 
@@ -18334,7 +18269,7 @@ ist die Lösurg
 
 yon rw m (02 — r?) d9,_ı 
 «= 2 2 14, (2) Ze 
-2a’ [vr —ı)n + —ı)m] „0% 
+2a' [vr —ı)n + —ı)m] "0% 
 
 
 vo (a? — 7?) do,_ 
@@ -18350,14 +18285,14 @@ er —_——— ——— ıst.
 
 
 Mar dx d dz 
-“ 18* 
+" 18* 
 
 
 (15) 
 
 
 276 Abstracte Dynamik. 
-Denn dies ist’s, was (11) wird, wenn wir 
+Denn dies ist's, was (11) wird, wenn wir 
 
 
 m 48,41 
@@ -18383,8 +18318,8 @@ sphärischen Umgrenzungsflächen willkürlich gegeben sind,
 ist viel verwickelter, und wir werden finden, dass ein rein analytisches 
 Verfahren für die Lösung am geeignetsten ist. 
 
-Es seien @ und a’ die Radien der äusseren und der inneren Kugel- 
-fläche, und 2 A,, u. s. w., ZA’,, u. s. w. die Reihen der harmonischen 
+Es seien @ und a' die Radien der äusseren und der inneren Kugel- 
+fläche, und 2 A,, u. s. w., ZA',, u. s. w. die Reihen der harmonischen 
 Flächenfunctionen, welche [Zusatz B (52)] die willkürlich gegebenen Com- 
 ponenten der Verschiebung auf diesen Flächen ausdrücken, so dass un- 
 sere Oberflächenbedingungen folgende sind: — 
@@ -18410,7 +18345,7 @@ u, + I = (m v+2 7: Hr M_,+ı =)
 
 m A,, war=a ist 
 —— — ' 
-= A,» r=«a „ 
+= A,» r=«a " 
 
 
 (18) 
@@ -18434,18 +18369,18 @@ von r unabhängig ist, so erhalten wir aus (18) unmittelbar die beiden
 folgenden Gleichungen zur Bestimmung dieser vier Functionen: — 
 
 
-a’ (vr? u,) + ar! (Pr! u_,_,) 
+a' (vr? u,) + ar! (Pr! u_,_,) 
 
 
-„I Yytı Bun dy_ 
+"I Yytı Bun dy_ 
 u er) 4 M_,n1a” (er =)| = 4,, 
 
 
-ar? (r? u „+ ar-1 (r v+l, sea) 
+ar? (r? u "+ ar-1 (r v+l, sea) 
 
 
 1 
-— a”? [ı,.. ar’ („ei Yy+ +M_,4ı ame (FH » =)| = 4',, 
+— a”? [ı,.. ar' ("ei Yy+ +M_,4ı ame (FH » =)| = 4',, 
 
 
 Diese und die auf y und £ ein symmetrischen Gleichungen ge- 
@@ -18532,7 +18467,7 @@ in » — 1 verwandelt, so ergeben sich zwei Gleichungen für die beiden
 
 unbekannten Grössen Yn Y_,_ı, 3us denen 
 .9%,+@+3)@+)R_,8_,[ yerıı 
-(25) „1 —(2v +3) (2, - 1) @HNM_,R,rı 
+(25) "1 —(2v +3) (2, - 1) @HNM_,R,rı 
 (27 — 1)», 9, ar +9_J]1 
 I = IHRER, 
 
@@ -18542,7 +18477,7 @@ d (A,rı rrrh) d (8,41 th) UE,,, Pt)
 
 
 (26) u dx dy dz 
-a. _ au, EST de, r’) 
+a. _ au, EST de, r') 
 ud, de 17 Fre Od 
 
 
@@ -18551,7 +18486,7 @@ gegeben sind, so enthalten (14) und (23) die vollständige Lösung des Problems.
 
 (g) Die Zusammensetzung dieser Lösung verdient eine sorgfältige 
 Betrachtung. Scheidet man der Einfachheit wegen aus den Öberflächen- 
-daten den Theil aus, welcher aus den Gliedern A,, u. s. w., A’,, u.8.w. 
+daten den Theil aus, welcher aus den Gliedern A,, u. s. w., A',, u.8.w. 
 der Ordnung » herrührt, so sieht man, dass, wenn keine solche Glieder 
 von anderen Ordnungen vorhanden wären, alle Functionen %, ausser 
 Y,_1 Yyrır Y_yı Y_,a Verschwinden würden. Diese würden %,_,, 
@@ -18623,7 +18558,7 @@ der Variation dieser Function bezeichnet.
 
 (k) Um diese Ausdrücke auf harmonische Flächenfunctionen zu re- 
 duciren, wollen wir die homogenen Glieder »ten Grades der vollständigen 
-Lösung (14) betrachten. Wir bezeichnen dieselben mit «,, ß,, Y,„*) und 
+Lösung (14) betrachten. Wir bezeichnen dieselben mit «,, ß,, Y,"*) und 
 es seien Bu &, +1 die entsprechenden Glieder der anderen Functionen. 
 Dann haben wir 
 
@@ -18674,7 +18609,7 @@ sche Functionen geeignet sind [siehe unten (36)],
 ı (»—1)[e—ı)m—2n] 
 
 
-(31) ,n=77,71 2[@v— ı)aFw—ı)m] r2 Y,— + 9,4] ’ 
+(31) ,n=77,71 2[@v— ı)aFw—ı)m] r2 Y,— + 9,4] ' 
 wo 
 dur?) dwr) dw ı 
 — y2y+3 v v_ | MecHe A FE 
@@ -18692,7 +18627,7 @@ rentiation
 
 n(2v —1) 
 
-= -Drfoe-ım ’- 
+= -Drfoe-ım '- 
 
 Werden diese Ausdrücke für 0,45 @, und &, +1 in (29) substituirt, so 
 
@@ -18727,7 +18662,7 @@ Statik fester und flüssiger Körper. 281
 
 
 Franz Nu, 20-2) m,r Wa _ 5 ern da) _ 
-dx v dx 2’+1 dx 
+dx v dx 2'+1 dx 
 Gr=nzlr— 1)v,—2(v—2) M,r? dy,_ı _E rd, BR 
 day 5 dy 2-1 
 dy Alp rrH1) 
@@ -18738,7 +18673,7 @@ H_nzb—ı)w, —2(—2)M, ? —- _ ay+ı ty =
 wo 
 My = \ wemenE [wie oben (12)] 
 (38) und weiter 
-E „+ 2)m— (2v—1ı)n 
+E "+ 2)m— (2v—1ı)n 
 v 
 
 
@@ -18746,7 +18681,7 @@ j —-2,t1){E»—)ntw—ı)m]
 
 
 (m) Um die Oberflächenbedingungen für die Schale, welche 
-durch die beiden concentrischen Kugelflächen r = a, r = a’ begrenzt 
+durch die beiden concentrischen Kugelflächen r = a, r = a' begrenzt 
 wird, in harmonischen Gleichungen auszudrücken, nehmen wir 
 an, die Werthe von F, @, H auf diesen Oberflächen seien folgendermaas- 
 sen gegeben: — 
@@ -18758,7 +18693,7 @@ H= 30,
 
 (39) und 
 F= zA, 
-G= 2.) wenn r = ua’ ist, 
+G= 2.) wenn r = ua' ist, 
 H=_('\ 
 
 
@@ -18768,7 +18703,7 @@ nung bezeichnen. |
 
 Um auf diese Entwicklung nach harmonischen Functionen die Be-_ 
 dingungen $ 734 (2), denen die auf die Oberflächen wirkenden Zugkräfte 
-unterworfen sind, anzuwenden, nehmen wir an, a?2d%@ und a’2d® seien - 
+unterworfen sind, anzuwenden, nehmen wir an, a?2d%@ und a'2d® seien - 
 Elemente der äusseren und der inneren Kugelfläche, über denen im Cen- 
 trum ($ 468) ein gemeinschaftlicher unendlich kleiner körperlicher Win- 
 kel d%@ steht, und /fd@ bezeichne eine sich über die ganze Kugelfläche 
@@ -18778,7 +18713,7 @@ dann über in
 
 ne =0,u8s w. 
 (40 , 
-SSTO [yZ(a? C,— a”? C',) — 2 Z(a? B,— a”B’,)]=0, u. 3. w. 
+SSTO [yZ(a? C,— a”? C',) — 2 Z(a? B,— a”B',)]=0, u. 3. w. 
 
 
 Nun zeigt Zusatz B (16), dass von den ersten drei dieser Gleichungen 
@@ -18802,11 +18737,11 @@ A
 
 
 282 Abstracte Dynamik. 
-SSA@ (a? A, — a’? A o)=0,u.8 w.,, 
-und dies erfordert einfach, da Ay A’g, u. s. w. Constanten sind, dass 
+SSA@ (a? A, — a'? A o)=0,u.8 w.,, 
+und dies erfordert einfach, da Ay A'g, u. s. w. Constanten sind, dass 
 
 
-(41) a? A, = a”? A’, a2 B, = a’?B',, a? G,=a’ CO’, se 
+(41) a? A, = a”? A', a2 B, = a'?B',, a? G,=a' CO', se 
 Die drei zweiten Gleichungen (40) sind äquivalent den ar 
 ra A, — an A) = 
 dH. 
@@ -18816,7 +18751,7 @@ r(a2 0, —a”? Cl!) = »
 
 
 wo Hy, eine homogene Function zweiten Grades von x, y, 2 ist. Denn 
-[Zusatz B (a)] r A), r A’,, u. s. w. sind lineare Functionen von x, y%, 2 
+[Zusatz B (a)] r A), r A',, u. s. w. sind lineare Functionen von x, y%, 2 
 Wenn daher (A, x), (A,y)...(B,x)... neun Constanten bezeichnen, 
 so ist 
 r(a2 4, — a”? 4',) = (A,x)x + (Ay)y + (4,2)23 
@@ -18847,14 +18782,14 @@ halten wir
 
 
 ay_ 
-Be v-+2)u_,_ı +2 „‚M ig“ rn +2(+1)M_ —-v/-+1 "_ 
+Be v-+2)u_,_ı +2 "‚M ig" rn +2(+1)M_ —-v/-+1 "_ 
 
 
 dx v—1 dx 2»-+1\ dx dx 
 
 
 A,, wenn r =a ist 
-A’,, wennr = a/ist, 
+A',, wennr = a/ist, 
 und symmetrische Gleichungen in Beziehung auf y und 2. 
 
 
@@ -18879,7 +18814,7 @@ ben ausgedrückt.
 
 
 (pP Zum Falle der Vollkugel gelangt man natürlich von dem 
-allgemeineren Problem einer Kugelschale, wenn man a’=0 setzt. Wenn 
+allgemeineren Problem einer Kugelschale, wenn man a'=0 setzt. Wenn 
 wir aber diesen besonderen Fall direct behandeln, so brauchen wir keine 
 räumlichen harmonischen Funetionen negativen Grades einzuführen (jede 
 harmonische Functiod negativen Grades wird im Centrum unendlich 
@@ -18895,7 +18830,7 @@ n r dy
 
 
 (44) _E part day, Fr) a ma 
-“  d& +1 d&s 
+"  d& +1 d&s 
 = 4,, wenn r = a ist. 
 
 
@@ -18903,13 +18838,13 @@ Wenn wir also [wie früher in (f}] die Eigenschaft einer homogenen
 Function H; von beliebiger Ordnung j berücksichtigen, dass 1 H; von r 
 
 
-unabhängig ist und nur von den Verhältnissen 7’ n, = abhängt, so 
+unabhängig ist und nur von den Verhältnissen 7' n, = abhängt, so 
 
 
 erhalten wir für alle Werthe von x, %, 2 
 
 
-—1)u,—2,M „na _ortH _ ar _ 1 3 / 
+—1)u,—2,M "na _ortH _ ar _ 1 3 / 
 (45) va nn »t2 de £,r ds 
 
 
@@ -18934,7 +18869,7 @@ und nach (32)
 
 
 2v Qyrı + 2 +1) 2v-+1ı) M,r42 Yy4ı 
-(47) „2r+3 [ (A,r tt) diB,r ’—") dic,r. 
+(47) "2r+3 [ (A,r tt) diB,r '—") dic,r. 
 > ta TI 
 
 
@@ -18958,7 +18893,7 @@ ys
 
 
 De Lu le 
-(49) ze [„—1) + 2v-+ 1) v E,\na”! 
+(49) ze ["—1) + 2v-+ 1) v E,\na”! 
 = am Br nee 
 wo 5 en . 
 d(4A r”) d(B yP). 
@@ -18969,7 +18904,7 @@ Wir = Zu a ur nn
 e d(A,r ”!) + d(B,r”) d(C,r) 
 
 
-= „239 +3 
+= "239 +3 
 BIN | dz dy dz 
 
 
@@ -19036,7 +18971,7 @@ nen un: die für eine Vollkugel in
 
 
 dH, _dH, dH, 
-da’ — 
+da' — 
 
 
 (53) ra = 
@@ -19091,7 +19026,7 @@ hängig seien. Wir ersehen daraus Folgendes: —
 In den analytischen Ausdruck der ebenen Deformation gehen 
 nur zwei unabhängig Veränderliche ein, und daher bietet dieser 
 Fall eine Classe von besonders einfachen Problemen dar. Wenn 
-z. B. der „gegebene feste Körper“ des $ 696 ein unendlich lan- 
+z. B. der "gegebene feste Körper" des $ 696 ein unendlich lan- 
 ger voller oder hohler Cylinder von kreisförmiger Basis 
 ist und die im Innern desselben wirkende Kraft (wenn eine solche 
 vorhanden ist), sowie die auf die Oberfläche ausgeübte Wirkung 
@@ -19136,7 +19071,7 @@ annimmt und das Resultat mit (x? + 42)? multiplicirt.
 Eine ebene harmonische Function ist natürlich der besondere Fall 
 einer räumlichen harmonischen Function [Zusatz B (a) und (b)], in wel- 
 cher 2 nicht erscheint, d. h. eine beliebige homogene Function Y von x 
-und y, “ der Gleichung 
+und y, " der Gleichung 
 
 d2V a2V 
 
@@ -19204,7 +19139,7 @@ c=rc0os9, y=r sin}
 setzt und 
 
 
-4) u=r (A, cos v9 + 4’, sin v9) 
+4) u=r (A, cos v9 + 4', sin v9) 
 
 
 vv = r”(B,cosv3 + B', sin v9) 
@@ -19221,12 +19156,12 @@ und
 m 
 
 
-on Fm)(A „+B' )eosw—2)9$—(4',—B,)sin(v—2)9] 
+on Fm)(A "+B' )eosw—2)9$—(4',—B,)sin(v—2)9] 
 
 
 a=zr" [A,cov0+ A, sin» 9 — 
 6 
--I|B=rr” 12, cosv $3 + B’,sinv9 — anal Ast „ein(v—2) 94 (41, —B,Jeoo(r— 20] 
+-I|B=rr” 12, cosv $3 + B',sinv9 — anal Ast "ein(v—2) 94 (41, —B,Jeoo(r— 20] 
 
 x 
 liefert. 
@@ -19241,8 +19176,8 @@ von uns bei der Behandlung der harmonischen Kugelfunctionen befolgten
 Methode. Dagegen wird das dem $& 737 (37) entsprechende Resultat leich- 
 ter und in einer einfacheren Form erhalten, wenn man $ 737 (29) unmit- 
 telbar in Polarcoordinaten umsetzt, wie es in $ 739 (4), (5), (6) geschehen 
-ist. Wir beabsichtigen, diese Lösungen in dem Capitel über „die Eigen- 
-schaften der Materie“ anzuwenden und zu erläutern. 
+ist. Wir beabsichtigen, diese Lösungen in dem Capitel über "die Eigen- 
+schaften der Materie" anzuwenden und zu erläutern. 
 
 
 » 
@@ -19281,7 +19216,7 @@ verschiedenen Körper wie die Quadrate der linearen Dimensio-
 nen derselben. Wenn also diese Kräfte unter geometrisch ähnlichen 
 Verhältnissen der Schwere oder der kinetischen Reaction ($ 264) 
 gegen gleiche Beschleunigung ($ 28) das Gleichgewicht halten 
-müssen, so erleidet der grössere Körper eine grössere’ Deforma- 
+müssen, so erleidet der grössere Körper eine grössere' Deforma- 
 tion als der kleinere, da die Beträge der Schwere oder der kineti- 
 schen Reaction ähnlicher Theile der Körper sich wie die Cuben 
 der linearen Dimensionen derselben verhalten. Schliesslich werden 
@@ -19296,14 +19231,14 @@ dreht wird. Dies durch ein Beispiel zu erläutern, wollen wir
 einen gleichmässigen dünnen runden Stab betrachten, der in seiner 
 Mitte horizontal gehalten wird. Seine Substanz sei homogen und 
 von der Dichtigkeit og; seine Länge I sei pmal so gross als sein 
-Querdurchmesser. Wenn der Young’sche Modulus mit M bezeich- 
+Querdurchmesser. Wenn der Young'sche Modulus mit M bezeich- 
 net wird, so ist (da das Trägheitsmoment einer Kreisfläche vom 
 Radius r in Beziehung auf einen Durchmesser :!/;wr* ist) der 
 Widerstand des Stabes gegen eine Biegung ($ 715) gleich 
 
 
 M I \t | ER? a BD 
-zz“ 3%) In der Bezeichnung des $ 610 ist dies gleich 7 da 
+zz" 3%) In der Bezeichnung des $ 610 ist dies gleich 7 da 
 
 
 dort B in kinetischem oder absolutem Maass ($ 223) gemessen 
@@ -19316,13 +19251,13 @@ vw on (5,) ‚ folglich [nach $ 617]
 
 
 2» 
-gw _ 16p’Q, 
+gw _ 16p'Q, 
 B Ma 
 
 
 Wird dies in $ 617 (10) eingesetzt, so erhalten wir für die Krüm- 
 
-“mung in der Mitte des Stabes; für die Elongation und Contraction 
+"mung in der Mitte des Stabes; für die Elongation und Contraction 
 in den Punkten, wo dieselben am grössten sind, d. h. in den höch- 
 sten und den niedrigsten Punkten des durch den Mittelpunkt ge- 
 henden Normalschnitts; endlich für die Senkung der Enden be- 
@@ -19332,7 +19267,7 @@ ziehungsweise die folgenden Ausdrücke: —
 2p20 pie Pe 
 
 
-Mm’ m’ 5m 
+Mm' m' 5m 
 
 
 Thomson u. Tait, theoretische Physik. II. 19 
@@ -19437,8 +19372,8 @@ grosse, oder gar unbegrenzte Formänderung erleiden zu können.
 In diesem Sinne hat z. B. Forbes das Wort gebraucht, als er jene 
 
 
-*) Siehe Proceedings of the Royal Society, Mai a „On the Viscosity ‚ana 
-Elasticity of Metals“ (W. Thomson). A 
+*) Siehe Proceedings of the Royal Society, Mai a "On the Viscosity ‚ana 
+Elasticity of Metals" (W. Thomson). A 
 
 
 19* 
@@ -19447,7 +19382,7 @@ Elasticity of Metals“ (W. Thomson). A
 292 Abstracte Dynamik. 
 
 
-„Zähigkeitstheorie der Gletscherbewegung“ aufstellte, die 
+"Zähigkeitstheorie der Gletscherbewegung" aufstellte, die 
 er durch seine grossartigen Beobachtungen über Gletscher bewies. 
 Da aber er und viele Schriftsteller nach ihm die Ausdrücke Plastı- 
 cität und plastisch gebraucht haben, sowohl in Beziehung auf 
@@ -19473,7 +19408,7 @@ mene Flüssigkeit oder (wie wir sie kurz nennen werden) eine
 Flüssigkeit ist, wie ein starrer, oder ein glatter Körper, ein unrea- 
 lisirbarer Begriff. Wir definiren sie als einen Körper, welcher nicht 
 im Stande ist, einer Formänderung zu widerstehen, welcher daher 
-unfähig ist, eine schiebende oder tangentiale Reaction ($ 669) aus“ 
+unfähig ist, eine schiebende oder tangentiale Reaction ($ 669) aus" 
 zuüben. Folglich ist ihr Druck auf jede Oberfläche, mag die- 
 selbe nun einem festen Körper oder einem angrenzenden Flüssig- 
 keitstheil angehören, in jedem Punkte senkrecht zu der Oberfläche. 
@@ -19635,7 +19570,7 @@ erste Gleichung kann daher nur bestehen, wenn
 
 Ppı — = 9 7=U8SW, 
 d. h. wenn der auf jedem Kolben lastende Druck derselbe ist. Auf 
-dieser Eigenschaft beruht die Wirkung der Brahmah’schen 
+dieser Eigenschaft beruht die Wirkung der Brahmah'schen 
 Presse. | | | 
 
 
@@ -19742,7 +19677,7 @@ Längeneinheit in der Richtung der resultirenden Kraft genommene
 Grösse der Zunahme des Drucks ıst gleich der für die Volumen- 
 einheit der Flüssigkeit gerechneten Intensität der Kraft. Es sei F 
 die für die Volumeneinheit in einer der Säulen des $ 750 genom- 
-mene resultirende Kraft; ferner seien p und p’ die an den Enden 
+mene resultirende Kraft; ferner seien p und p' die an den Enden 
 dieser Säule wirkenden Druckkräfte, ! die Läng> und S der Quer- 
 schnitt der Säule. Wir erhalten dann für das Gleichgewicht der- 
 selben 
@@ -19752,13 +19687,13 @@ Folglich ist F die für die Längeneinheit genommene Grösse der
 Zunahme des Drucks. 
 
 Wenn die von aussen einwirkenden Kräfte einem conservati- 
-' ven System angehören, für welches V und V’ die Werthe des Po- 
+' ven System angehören, für welches V und V' die Werthe des Po- 
 tentials an den Enden der Säule sind, so ist ($ 486) 
 
 
-V’-V=-—IFoe, 
+V'-V=-—IFoe, 
 wo 0 die Dichtigkeit der Flüssigkeit bezeichnet. Dies liefert 
-v’—rvr=-io(’ — V), 
+v'—rvr=-io(' — V), 
 
 
 dp=— odV. 
@@ -19780,7 +19715,7 @@ nutzt wird) E, im kinetischen oder absoluten ($ 224) Maasse 90.
 Wenn die Flüssigkeit ein Gas wie Luft ist und in einer constanten 
 Temperatur erhalten wird, so haben wir eg = cp, wo c eine Constante 
 bezeichnet, nämlich den reciproken Werth von H, der unten ($ 753) de- 
-finirten „Höhe der homogenen Atmosphäre“. Folglich ist in einer ruhi- 
+finirten "Höhe der homogenen Atmosphäre". Folglich ist in einer ruhi- 
 gen Atmosphäre von gleichmässiger Temperatur 
 
 
@@ -19837,7 +19772,7 @@ oben zu erfolgenden Abnahme des Drucks zum gesammten Druck
 Höhe, welche die Atmosphäre, wenn ihre Dichtigheit constant ist, 
 über jenen Punkt haben muss, damit ihr Gewicht jenen Druck lie- 
 fere. Die so definirte Höhe wird gewöhnlich mit dem recht passen- 
-den Namen: „die Höhe der homogenen Atmosphäre“ bezeichnet. 
+den Namen: "die Höhe der homogenen Atmosphäre" bezeichnet. 
 Dieselbe ist gleich dem Product des Volumens, welches die Massen- 
 einheit des Gases unter irgend einem Druck einnimmt, ın den mit- 
 tels des Gewichtes der Masseneinheit ausgedrückten Werth, wel- 
@@ -19965,7 +19900,7 @@ steienden Masse erfüllt sein, woraus hervorgeht, dass der Druck
 an der Grenze constant und gleich dem Druck der Flüssigkeit auf 
 der anderen Seite sein muss. So ist für das Gleichgewicht von 
 Wasser, Oel, Quecksilber oder irgend einer anderen Flüssigkeit, 
-die sich in einem’ offenen Gefässe befindet und deren freie Ober- 
+die sich in einem' offenen Gefässe befindet und deren freie Ober- 
 fläche der Luft ausgesetzt ist, bloss erforderlich, dass diese Ober- 
 fläche eine Ebene sei. 
 
@@ -19978,7 +19913,7 @@ dass, wenn die Flüssigkeit homogen und unzusammendrückbar ist,
 ihr Gleichgewicht durch kein conservatives Kraftsystem gestört wer- 
 den kann. Diesen Satz zu beweisen, bedarf es keiner analytischen 
 Untersuchung; denn wenn derselbe nicht richtig wäre, so würden 
-wir ein „Perpetuum mobile“ erhalten, was der Voraussetzung, 
+wir ein "Perpetuum mobile" erhalten, was der Voraussetzung, 
 dass das System der Kräfte ein conservatives sei, widerspricht. 
 Andererseits kann ein nichtconservatives Kraftsystem unter keinen 
 Umständen eine Flüssigkeit in den Zustand des Gleichgewichts ver- 
@@ -20053,7 +19988,7 @@ Oder wenn wir die erste der Gleichungen (5) mit Se ‚ die zweite mit
 
 
 d ; ö 
-äy’ die dritte mit ze multipliciren und die Resultate addiren, so er- 
+äy' die dritte mit ze multipliciren und die Resultate addiren, so er- 
 
 
 halten wir 
@@ -20069,7 +20004,7 @@ Dies zeigt, dass die Linie, deren Richtungscosinus proportional
 
 az _dY dX_dZ dY_dx 
 
-dy ds’ dz da’ dx dy Y 
+dy ds' dz da' dx dy Y 
 sind, auf der durch (x, %, 2) gehenden Oberfläche gleicher Dichtigkeit 
 senkrecht steht, und aus (6) geht hervor, dass dieselbe Linie senkrecht 
 ist zur resultirenden Kraft. Die genannte Linie ist daher Tangente sowohl 
@@ -20130,7 +20065,7 @@ ist.
 304 Abstracte Dynamik. 
 
 
-757. Imaginäres Beispiel’ des Gleichgewichts einer 
+757. Imaginäres Beispiel' des Gleichgewichts einer 
 Flüssigkeit unter der Einwirkung nicht conservativer 
 Kräfte. — Das folgende imaginäre Beispiel und seine Realisation 
 in einem späteren Paragraphen ($ 759) zeigen eine merkwürdig 
@@ -20138,7 +20073,7 @@ interessante praktische Anwendung der Theorie des Gleichgewichts
 der Flüssigkeiten unter aussergewöhnlichen Umständen, während 
 man diese Theorie allgemein als eine bloss abstracte analytische 
 Theorie ansieht, die praktisch werthlos und ganz unnatürlich sei, 
-„weil die Kräfte in der Natur von conservativer Art seien.“ 
+"weil die Kräfte in der Natur von conservativer Art seien." 
 
 758. Es mögen die Kraftlinien Kreise sein, deren Mittelpunkte 
 sämmtlich auf einer Linie liegen, und deren Ebenen senkrecht zu 
@@ -20246,15 +20181,15 @@ Abstande r von der Axe die Grösse @r haben, wenn ® die für die
 Zeiteinheit genommene Grösse der Winkelbeschleunigung ($ 42) ist; 
 ausserdem (siehe Bd. II) ist in der zur Axe senkrechten Richtung 
 eine nach aussen zu wirkende Reaction gegen die Krümmung der 
-Bahn, d. h. eine „Centrifugalkraft“ vorhanden, welche für die 
+Bahn, d. h. eine "Centrifugalkraft" vorhanden, welche für die 
 Masseneinheit der Flüssigkeit ®®r beträgt. Nun haben wir im vor- 
 hergehenden Paragraphen bewiesen, dass die Flüssigkeit, wenn wir 
 voraussetzen, sie befinde sich in Ruhe und werde in irgend einer 
 Weise von zwei Kraftsystemen (dem nicht-conservativen mit kreis- 
 förmigen Kraftlinien und dem conservativen radialen Systeme) an- 
 gegriffen, welche mit jenen Kräften der kinetischen Reaction über- 
-einstimmen, im Gleichgewicht ist. Dies beweist uns jetzt D’Alem- 
-bert’s ($ 264) Gleichgewichtsbedingung für die Bewegung der 
+einstimmen, im Gleichgewicht ist. Dies beweist uns jetzt D'Alem- 
+bert's ($ 264) Gleichgewichtsbedingung für die Bewegung der 
 ganzen Flüssigkeit als eines starren Körpers, welcher eine beschleu- 
 nigte Rotation erfährt, d. h. zeigt uns, dass diese Art der Bewegung 
 für die wirklich vorhandenen Umstände die Gesetze der Bewegung 
@@ -20276,7 +20211,7 @@ Statik fester und flüssiger Körper. 307
 
 Drucks sein, und es kann, wie wir oben ($ 753) gesehen haben, 
 kein Gleichgewicht stattfinden, wofern das System der Kräfte nicht 
-conservativ ist. Die Dichtigkeit ist eine Function des“Drucks, und 
+conservativ ist. Die Dichtigkeit ist eine Function des"Drucks, und 
 diese Function muss als bekannt vorausgesetzt werden ($ 448), da 
 sie von den physikalischen Eigenschaften der Flüssigkeit abhängt 
 (vergl. $ 752). 
@@ -20395,7 +20330,7 @@ k,
 _; 
 Yy 
 und dieser Abstand wird, wie wir erwarten konnten, um so kleiner, je 
-mehr das ebene Flächenstück untergetaucht wird. Wenn’ man das ebene 
+mehr das ebene Flächenstück untergetaucht wird. Wenn' man das ebene 
 Flächenstück um die durch seinen Trägheitsmittelpunkt gehende, der 
 x-Axe parallele Linie dreht, so variirt jener Abstand wie der Cosinus der 
 Neigung des Flächstücks gegen die Verticale; dabei wird natürlich vor- 
@@ -20455,7 +20390,7 @@ zu nehmen ist. Nach $ 752 ist aber
 
 
 ap __,47 
-dc Fr’ 
+dc Fr' 
 
 
 und daher verwandelt sich das dreifache Integral in 
@@ -20516,14 +20451,14 @@ Ein homogener fester Körper, dessen Volumeneinheit das Ge-
 wicht Eins haben möge, werde von einer horizontalen Ebene ın 
 
 Fig. 65. XYX'Y' geschnitten, und es sei 
-O der Trägheitsmittelpunkt, XX’ 
-und YY’ die Hauptaxen dieses 
+O der Trägheitsmittelpunkt, XX' 
+und YY' die Hauptaxen dieses 
 Schnittes. 
 
 Weiter werde der feste Kör- 
 per von einer zweiten Ebene ge- 
 schnitten, die gleichfalls durch 
-YY’ geht und mit der ersteren 
+YY' geht und mit der ersteren 
 den unendlich kleinen Winkel 
 D bildet. Dann gelten folgende 
 Sätze: — 
@@ -20531,11 +20466,11 @@ Sätze: —
 1. Die Volumina der durch diese Schnitte aus dem festen 
 Körper geschnittenen beiden Keile sind einander gleich. 
 
-2. Ihre Trägheitsmittelpunkte liegen in einer zu YY’ senk- 
+2. Ihre Trägheitsmittelpunkte liegen in einer zu YY' senk- 
 rechten Ebene. 
 
-3. In Beziehung auf YY’ ist das Moment des Gewichts jedes 
-dieser Keile gleich dem mit ® multiplieirten in Beziehung auf YY’ 
+3. In Beziehung auf YY' ist das Moment des Gewichts jedes 
+dieser Keile gleich dem mit ® multiplieirten in Beziehung auf YY' 
 genommenen Trägheitsmoment des entsprechenden Theils der Fläche. 
 
 
@@ -20553,10 +20488,10 @@ Wir bedienen uns jetzt der Zeichen [] und (), um die Integrationen,
 welche sich beziehungsweise über die rechts und links von der y-Axe 
 liegenden Flächentheile erstrecken, von einander zu unterscheiden, wäh- 
 rend den auf die ganze Fläche bezüglichen Integralen keine solchen Un- 
-terscheidungszeichen beigefügt werden. Es seien « und «’ diese Flächen, 
+terscheidungszeichen beigefügt werden. Es seien « und «' diese Flächen, 
 
 
-v und v’ die Volumina der Keile, (x,%), (x, y') die Coordinaten ihrer 
+v und v' die Volumina der Keile, (x,%), (x, y') die Coordinaten ihrer 
 Trägheitsmittelpunkte Dann ist 
 
 
@@ -20571,7 +20506,7 @@ folglich
 
 
 womit der Satz (1) bewiesen ist. 
-Nehmen wir,weiter die Momente in Beziehung auf die Axe X X’, 
+Nehmen wir,weiter die Momente in Beziehung auf die Axe X X', 
 
 
 so folgt _ 
@@ -20654,7 +20589,7 @@ Statik fester und flüssiger Körper. 313
 
 
 Lagen. Dieselben Punkte sollen im Gleichgewichtszustande des 
-Körpers sich in @’, E’ befunden haben. Diese vier Punkte sind 
+Körpers sich in @', E' befunden haben. Diese vier Punkte sind 
 j Fig. 66. 
 
 
@@ -20665,15 +20600,15 @@ verschobenen Körper ist sein Gewicht W, welches durch @ nach
 unten wirkt. Die Resultante des Flüssigkeitsdrucks auf den ver- 
 schobenen Körper ist eine durch E nach oben hin wirkende Kraft 
 W, vermehrt um einen (aufwärts gerichteten) Betrag, der daher 
-rührt, dass jetzt der keilförmige Theil AJA’ auch untergetaucht 
+rührt, dass jetzt der keilförmige Theil AJA' auch untergetaucht 
 ist, und vermindert um einen (abwärts gerichteten) Betrag, der 
-daher rührt, dass der keilförmige Theil BJ B’ jetzt aus der Flüssig- 
+daher rührt, dass der keilförmige Theil BJ B' jetzt aus der Flüssig- 
 keit herausgetreten ist. Die Gesammtwirkung der Schwere und 
 des Flüssigkeitsdrucks auf den verschobenen Körper besteht also 
 aus dem Kräftepaar, dessen Kräfte vertical nach oben und nach 
 unten hin durch @ und E wirken, und aus der für die keilförmi- 
 gen Theile erforderten Correction. Letztere besteht aus einer Kraft, 
-welche vertical nach oben durch den Schwerpunkt von A’JA und 
+welche vertical nach oben durch den Schwerpunkt von A'JA und 
 
 
 I 
@@ -20682,14 +20617,14 @@ I
 314 | Abstracte Dynamik. 
 
 
-einer zweiten Kraft, welche durch den Schwerpunkt von BJ B’ ver- 
+einer zweiten Kraft, welche durch den Schwerpunkt von BJ B' ver- 
 tical nach unten wirkt. Diese Kräfte sind gleich [$ 763 (1)] und 
 machen daher ein Kräftepaar aus, welches [$ 763 (2)] die Axe der 
 Verschiebung zur Axe hat, und dessen Moment [$ 763 (3)] gleich 
 9” wk? A ist, wenn A die Fläche der Schwimmebene und k der Gy- 
 rationsradius derselben ($ 281) in Beziehung auf die in Rede ste- 
 hende Hauptaxe ıst. Da aber die-Linien @ E, welche in der Gleich- 
-gewichtslage vertical (@'E’) war, in dem verschobenen Körper mit 
+gewichtslage vertical (@'E') war, in dem verschobenen Körper mit 
 der Verticalen den unendlich kleinen Winkel ® bildet, so hat das 
 Paar, dessen Kräfte W ın den durch @ und E gehenden Vertical- 
 linien wirken, das Moment Wh®, wenn h die Linie @ E bezeich- 
@@ -21182,7 +21117,7 @@ des Ellipsoides gelegten Normale den Grössen
 
 sn L 
 
-a?’ b2°’ 2 
+a?' b2°' 2 
 proportional, und im Falle des Gleichgewichts muss die resultirende Kraft 
 zur freien Oberfläche senkrecht sein. Mithin ist 
 
@@ -21195,7 +21130,7 @@ XXI, Anmerkung zu p. 290.
 Statik fester und flüssiger Körper. 323 
 
 
-(1) a?(4 — w’) = b?(B — 0?) = c?C. 
+(1) a?(4 — w') = b?(B — 0?) = c?C. 
 Diese Gleichungen liefern 
 
 aA — eC WB — e2C 
@@ -21221,7 +21156,7 @@ Werden diese Werthe in (2) eingesetzt, so ergibt sich
 
 
 db db 5 ER 3 db 
-dad) Aa) ° (G 02) de)’ 
+dad) Aa) ° (G 02) de)' 
 
 
 oder 
@@ -21247,7 +21182,7 @@ passenden Werth gibt, für ganz beliebige endliche Werthe von a und b
 bewirken, dass das Integral gleich Null werde. Bei diesem Werthe von c 
 enthält das Integral einen gleichen Betrag an positiven und negativen 
 Elementen. Dasselbe kann aber keine negativen Elemente enthalten, 
-“ ausser wenn c?a? +c?b?2 — a?l? negativ, d. h. ce kleiner als die kleinste 
+" ausser wenn c?a? +c?b?2 — a?l? negativ, d. h. ce kleiner als die kleinste 
 der Grössen «, b ist. 
 
 Endlich erhält man aus (2) und (4) 
@@ -21257,7 +21192,7 @@ Endlich erhält man aus (2) und (4)
 
 
 324 Abstracte Dynamik. 
-f 3 M | „AP „ d =) 
+f 3 M | "AP " d =) 
 = °C 
 
 
@@ -21273,7 +21208,7 @@ de) da)
 
 
 EM Penn nn Se. 
-=: a) ve} y)(b2-+w)(c?+ y) (a + y)(c?+y)’ 
+=: a) ve} y)(b2-+w)(c?+ y) (a + y)(c?+y)' 
 
 
 da, wie wir gezeigt haben, c kleiner als a ist, so ist dieser Ausdruck 
@@ -21287,12 +21222,12 @@ Winkelgeschwindigkeit. .
 harmonische Sphäroid. — Einige erläuternde Worte und gra- 
 phische Illustrationen der Natur der harmonischen Flächenfunctionen 
 werden zum Verständniss nicht nur des Potentials und der hydro- 
-statischen Anwendungen der Laplace’schen Entwicklung, die uns 
+statischen Anwendungen der Laplace'schen Entwicklung, die uns 
 alsbald beschäftigen wird, sondern auch der viel wichtigeren Anwen- 
 dungen beitragen, die im zweiten Bande bei der Behandlung der Wellen 
 und der Vibrationen in kugelförmigen Flüssigkeiten oder elastischen 
 festen Massen zu machen sind. Um Umschreibungen zu vermeiden, 
-werden wir mit dem Ausdruck „harmonisches Sphäroid“ eine 
+werden wir mit dem Ausdruck "harmonisches Sphäroid" eine 
 Fläche bezeichnen, deren Radius sich in jedem Punkte von dem 
 einer Kugel durch eine unendlich kleine Länge unterscheidet, welche 
 wie der Werth einer harmonischen Flächenfunction der Lage dieses 
@@ -21308,7 +21243,7 @@ fläche vom algebraischen Grade n, welche annähernd kugelförmig,
 aber auch noch anderen Beschränkungen unterworfen ist. 
 
 
-Es sei S„ eine harmonische Flächenfunetion nter Ordnung, in welcher 
+Es sei S" eine harmonische Flächenfunetion nter Ordnung, in welcher 
 der Coefficient des Hauptgliedes so gewählt ist, dass das grösste Maximum 
 der Function den Werth Eins habe. Ist dann a der Radius der mittleren 
 Kugel und c die grösste Abweichung von demselben, so ist die Polar- 
@@ -21360,9 +21295,9 @@ schneidet, ihre verschiedenen Zweige um jeden Schnittpunkt herum
 gleiche Winkel mit einander bilden. 
 
 
-Wenn wir die Function rr $„ des $ 779 mit V„ bezeichnen, so er- 
+Wenn wir die Function rr $" des $ 779 mit V" bezeichnen, so er- 
 halten wir als Gleichung der harmonischen Knotenlinie 
-(3) V„ =0. 
+(3) V" =0. 
 Da [Zusatz B (a)] Vn eine homogene Function ten Grades ist, so können 
 wir 
 (4) Yan = H,:r + H,zn-ı + B,zn—2 + H,.n-3 4 us w. 
@@ -21381,7 +21316,7 @@ Nun wollen wir voraussetzen, der Knotenkegel schnitte sich selbst,
 und der Kürze und Einfachheit wegen möge OZ längs einer Schnittlinie 
 
 
-*) „Summary of the Properties of certain Stream-Lines.“ Phil. Mag., Oct. 
+*) "Summary of the Properties of certain Stream-Lines." Phil. Mag., Oct. 
 1864. 
 
 
@@ -21394,7 +21329,7 @@ vielfachen Punkte der Knotenlinie an die Kugelfläche gelegten Tangential-
 ebene liegt und zwei oder alle Zweige der Knotenlinie in diesem Punkte 
 berührt. Die Bedingung, dass die Curve in der Tangentialebene eineri 
 niit dem Anfangspunkte der Coordinaten zusanımenfallenden Doppelpunkt 
-oder vielfachen Punkt habe, ist, wenn (4) für Y„ gesetzt wird, 
+oder vielfachen Punkt habe, ist, wenn (4) für Y" gesetzt wird, 
 
 
 H, = ® und, für alle Werthe von &, y, H, =. 
@@ -21442,7 +21377,7 @@ punkt unter gleichen Winkeln schneiden.
 tionen in Factoren zerlegbar sind. Zonale und sectoriale 
 harmonische Functionen. — In sehr vielen Fällen kann der har- 
 monische Knotenkegel aus anderen Kegeln niedrigerer Grade be- 
-stehen | Y,„ ist dann in Factoren zerlegbar]. So hat (es ist dies die 
+stehen | Y," ist dann in Factoren zerlegbar]. So hat (es ist dies die 
 einzige bisher ausgearbeitete Ulasse von Fällen) jede der 2» + 1 
 harmonischen Elementarfunctionen [wie wir passend die durch (36) 
 oder (37) des Zusatzes B ausgedrückten Functionen nennen können, 
@@ -21508,60 +21443,60 @@ läutert werden.
 328 Abstracte Dynamik. 
 
 
-782. Murphy’s analytische Behandlung der zonalen 
+782. Murphy's analytische Behandlung der zonalen 
 harmonischen Function. — Die nachstehende einfache und schöne 
-Untersuchung Murphy’s*) über die zonale harmonische Function 
+Untersuchung Murphy's*) über die zonale harmonische Function 
 wird dem Freunde der Analysis willkommen sein; wir geben sie aber 
 nur (S 453), weil sie zu einer nützlichen Formel führt, und weil 
 sich aus dieser letzteren Entwicklungen herleiten lassen, die von 
 allen oben im Zusatz B enthaltenen verschieden sind. 
 
 
-„Prop.I. 
+"Prop.I. 
 
 
-„Eine rationale und ganze Function von gegebener Dimension 
-„in Beziehung auf eine beliebige Veränderliche zu finden, welche so 
-„beschaffen ist, dass, wenn man sie mit einer beliebigen rationalen 
-„und ganzen Function niedrigerer Dimension multiplieirt, das 
-„zwischen den Grenzen 0 und 1 genommene Integral des Products 
-„immer verschwindet.“ 
+"Eine rationale und ganze Function von gegebener Dimension 
+"in Beziehung auf eine beliebige Veränderliche zu finden, welche so 
+"beschaffen ist, dass, wenn man sie mit einer beliebigen rationalen 
+"und ganzen Function niedrigerer Dimension multiplieirt, das 
+"zwischen den Grenzen 0 und 1 genommene Integral des Products 
+"immer verschwindet." 
 
 
-„Es sei f(t) die gesuchte Function, die in Beziehung auf die Veränder- 
-„liche t von der vten Dimension ist; dann erfordert die aufgestellte Bedin- 
-„gung offenbar, dass jede der folgenden Gleichungen einzeln erfüllt sei: 
+"Es sei f(t) die gesuchte Function, die in Beziehung auf die Veränder- 
+"liche t von der vten Dimension ist; dann erfordert die aufgestellte Bedin- 
+"gung offenbar, dass jede der folgenden Gleichungen einzeln erfüllt sei: 
 
 
 (a) jsoda=V, Sro.tdi=o, [fW.Pat=o, RB ‚[SO-W1d=o, 
 
 
-„darin wird jedes Integral zwischen den gegebenen Grenzen genommen.“ 
+"darin wird jedes Integral zwischen den gegebenen Grenzen genommen." 
 
-„Es möge nun das unbestimmte Integral von f(t), die untere Grenze 
-„t = 0 angenommen, durch fı (t), das unbestinimte Integral von f, (t) für 
-„dieselbe untere Grenze t = 0 durch f,(t) dargestellt werden, u. s. w.; 
-„dadurch gelangen wir schliesslich zu einer Function fy (t), welche offenbar 
-„von der Dimension 2» ist. Dann liefert die Metliode der partiellen Inte- 
-„gration allgemein 
+"Es möge nun das unbestimmte Integral von f(t), die untere Grenze 
+"t = 0 angenommen, durch fı (t), das unbestinimte Integral von f, (t) für 
+"dieselbe untere Grenze t = 0 durch f,(t) dargestellt werden, u. s. w.; 
+"dadurch gelangen wir schliesslich zu einer Function fy (t), welche offenbar 
+"von der Dimension 2» ist. Dann liefert die Metliode der partiellen Inte- 
+"gration allgemein 
 
 
 SF®: tedt = te f, (dÜ) — ati f, (t) + L (x = 1) t2—2 f, (t) — U 8.W. 
 
-„Setzen wir jetzt € = 1 und substituiren für © successive die Werthe 
-„1, 2,3, ... (Ra —1), so erhalten wir mit Rücksicht auf die Gleichungen (a) 
+"Setzen wir jetzt € = 1 und substituiren für © successive die Werthe 
+"1, 2,3, ... (Ra —1), so erhalten wir mit Rücksicht auf die Gleichungen (a) 
 (b) AH HM AV... hO)= 0. 
-„Folglich verschwindet die Function fr (lt), sowie ihre (rn — 1) ersten 
-„Differentialquotienten sowohl für © = 0, als auch für = 1, d.h. jede 
-„der Grössen tr und (1 — £)* ist ein Factor von fr (t), und da diese Func- 
-„tion von der Dimension 2" ist, so lässt sie keinen anderen Factor, mit 
-„Ausnahme einer Constanten c, zu. 
+"Folglich verschwindet die Function fr (lt), sowie ihre (rn — 1) ersten 
+"Differentialquotienten sowohl für © = 0, als auch für = 1, d.h. jede 
+"der Grössen tr und (1 — £)* ist ein Factor von fr (t), und da diese Func- 
+"tion von der Dimension 2" ist, so lässt sie keinen anderen Factor, mit 
+"Ausnahme einer Constanten c, zu. 
 
 
-„Setzen wir 1— it = ft’, so erhalten wir also 
-Ink) = e.(tt’)r, 
-„folglich 
-__, dn(tt’)n 
+"Setzen wir 1— it = ft', so erhalten wir also 
+Ink) = e.(tt')r, 
+"folglich 
+__, dn(tt')n 
 Au = c dtn y 
 
 
@@ -21571,27 +21506,27 @@ Au = c dtn y
 Statik fester und flüssiger Körper. 329 
 
 
-„Zusatz. — Wenn wir annehmen, f{f) sei nach steigenden Potenzen 
-„von t geordnet und das erste Glied sei Eins, so erhalten wir offenbar 
+"Zusatz. — Wenn wir annehmen, f{f) sei nach steigenden Potenzen 
+"von t geordnet und das erste Glied sei Eins, so erhalten wir offenbar 
 = z ; 
 23, 
 
 
-„unter dieser Voraussetzung wollen wir die obige Grösse mit Q%» bezeichnen. 
+"unter dieser Voraussetzung wollen wir die obige Grösse mit Q%» bezeichnen. 
 
 
-„Prop. I. 
+"Prop. I. 
 
 
-„Die in der vorhergehenden Aufgabe bestimmte Function Q, 
-„stimmt mit dem Coefficienten von e* in der Entwicklung der Grösse 
+"Die in der vorhergehenden Aufgabe bestimmte Function Q, 
+"stimmt mit dem Coefficienten von e* in der Entwicklung der Grösse 
 (1 — 2e.(1— 21) + e)% 
 
-„überein. 
+"überein. 
 
-„Es sei % eine Grösse, welche der Gleichung 
+"Es sei % eine Grösse, welche der Gleichung 
 (e) u=t+te.u(l —u 
-„genügt, d. h. 
+"genügt, d. h. 
 
 
 1—e 1 U 
@@ -21599,42 +21534,42 @@ _ —_ a ee ae 2
 u DE + 2e (1 2) te)", 
 
 
-„folglich 
+"folglich 
 — 
 n=f-2a-2)+e) z 
 
 
-„Wenn wir aber, wie vorher, ? für 1—t schreiben und den Lagrange’- 
-„schen Satz auf die Gleichung (c) anwenden, so erhalten wir’ 
+"Wenn wir aber, wie vorher, ? für 1—t schreiben und den Lagrange'- 
+"schen Satz auf die Gleichung (c) anwenden, so erhalten wir' 
 
 
 e? di(tt')2 e® d2(ti')3 
 ae ' ee — .Ww. 
 a or Pens ereen 
-5 : i ui da (tt’)r Bi Re" 1 
-„Wird dieser Ausdruck differentiirt und in durch seinen in Prop. I 
-„erhaltenen Werth 1.2.3...n Qu ersetzt, so folgt 
+5 : i ui da (tt')r Bi Re" 1 
+"Wird dieser Ausdruck differentiirt und in durch seinen in Prop. I 
+"erhaltenen Werth 1.2.3...n Qu ersetzt, so folgt 
 
 
 Fre 1 + Qıe + Qse? + Q,e? + u. s. w. 
 
 
-„Der Vergleich dieses Resultats mit dem obigen Werthe von e lehrt die 
+"Der Vergleich dieses Resultats mit dem obigen Werthe von e lehrt die 
 
 
-„Richtigkeit des vorliegenden Satzes. 
+"Richtigkeit des vorliegenden Satzes. 
 
 
-„Prop. V. 
+"Prop. V. 
 
 
-„Die Function Q, in eine Reihe zu entwickeln. 
-„Erste Entwicklung. — Nach Prop. I haben wir 
+"Die Function Q, in eine Reihe zu entwickeln. 
+"Erste Entwicklung. — Nach Prop. I haben wir 
 
 
 De 1 eu) 
 1.2.3...n din 
-„folglich ist 
+"folglich ist 
 1 
 Qr = - 
 
@@ -21654,8 +21589,8 @@ ee n+ 1 u
 Wa 1.2 
 
 
-„Zweite Entwicklung. — Wenn u und v Functionen einer beliebigen 
-„Veränderlichen 2 sind, so liefert der Leibnitz’sche Satz die Identität 
+"Zweite Entwicklung. — Wenn u und v Functionen einer beliebigen 
+"Veränderlichen 2 sind, so liefert der Leibnitz'sche Satz die Identität 
 dr (uv) dnu dv dn-ıu n(n — 1) d?v dn—2u 
 
 a get apıı 12 guaca rmem 
@@ -21664,19 +21599,19 @@ a get apıı 12 guaca rmem
 t? —u.s.w. 
 
 
-„Setzen wir hierin u = fr, v —= tn und dividiren durch 1.2.3...%, so 
-„erhalten wir N 
+"Setzen wir hierin u = fr, v —= tn und dividiren durch 1.2.3...%, so 
+"erhalten wir N 
 n\2 — 1112 
 
 [= Orr EZ mn 
 
 f Ä 
-n(n — 1)(n— 2)? „ 
+n(n — 1)(n— 2)? " 
 ae rn —3 43 
 | | ro Urn—313 +4 u. s. w. 
 
 
-„Dritte Entwicklung. — Wir setzen 1 — 2t = u, folglich t!’ = 
+"Dritte Entwicklung. — Wir setzen 1 — 2t = u, folglich t!' = 
 1-— u j 
 ; dann ist 
 
@@ -21690,10 +21625,10 @@ ee gr 77 en
 IE HEREEN EERSEERRE. 00 Inn nun + Zu war t—u.s.w.), 
 
 
-„oder endlich 
+"oder endlich 
 
 
-_1.3.5...@Rn-) gy„ _rn-ı) 
+_1.3.5...@Rn-) gy" _rn-ı) 
 a es.n 2@n—ı) * s 
 (e) : n(n—1)(n-—2)(n—3) 
 
@@ -21701,11 +21636,11 @@ a es.n 2@n—ı) * s
 = 
 
 
-— [| 0100000025 41 _ „“ 
+— [| 0100000025 41 _ "" 
 24an— ans) "TU w.) 
 
 
-Den Zusammenhang zwischen den Grössen £,?’ und « der Murphy’- 
+Den Zusammenhang zwischen den Grössen £,?' und « der Murphy'- 
 schen Bezeichnung und der von uns oben benutzten Grösse $ drücken 
 folgende Gleichungen aus: — 
 
@@ -21716,9 +21651,9 @@ folgende Gleichungen aus: —
 u = cos #. 
 
 
-Auch ist es gut, sich aus Zusatz B (v’), (38), (40) und (42) ins Gedächtniss 
+Auch ist es gut, sich aus Zusatz B (v'), (38), (40) und (42) ins Gedächtniss 
 zurückzurufen, dass für $ = 0 der Wertli von ®ı [oder p(0) des Zusatzes 
-B (60) | die Einheit ist, und dass Q„ mit der Grösse a, womit wir hier 
+B (60) | die Einheit ist, und dass Q" mit der Grösse a, womit wir hier 
 die harmonischen Functionen-Elemente bezeichnen, in folgendem Zusammen- 
 
 
@@ -21752,22 +21687,22 @@ ARE ER 1, 5.. 5
 
 
 Hieraus und aus (3) erhalten wir 
-1.2:3...m — 8) _. d’ On 
+1.2:3...m — 8) _. d' On 
 5 Baer ee 2 . 
-(5) „ I. an)? Tas 
+(5) " I. an)? Tas 
 Endlich mögen mit Bezug auf Zusatz B (w) 
-Q', und Q, [c0s$cos#' + sin$ sin 9’ cos(p — a')] 
+Q', und Q, [c0s$cos#' + sin$ sin 9' cos(p — a')] 
 
 
-das bezeichnen, was aus Q„ wird, wenn man c0s® beziehungsweise durch 
-cos#’ und cos#cos#' + sin$sin9’cos( — g') ersetzt, und es werde 
-cos9 mit u, sowie cos$’ mit u’ bezeichnet. Dann können wir nach dem 
+das bezeichnen, was aus Q" wird, wenn man c0s® beziehungsweise durch 
+cos#' und cos#cos#' + sin$sin9'cos( — g') ersetzt, und es werde 
+cos9 mit u, sowie cos$' mit u' bezeichnet. Dann können wir nach dem 
 Vorhergehenden die Formel (60) des Zusatzes B auf die folgende mit der 
 von Murphy (Electrieity, p. 24) gegebenen übereinstimmende passendere 
 
 
 Form bringen: — 
-Qn [cos #cos # -- sin sin 9’ cos(p — y')] 
+Qn [cos #cos # -- sin sin 9' cos(p — y')] 
 
 
 Be 
@@ -21792,7 +21727,7 @@ haben. :
 Es sei zunächst 8, eine beliebige harmonische Flächenfunction ter 
 
 
-Ordnung und Y„ und V_„-ı die auf der Kugelfläche vom Radius a ihr 
+Ordnung und Y" und V_"-ı die auf der Kugelfläche vom Radius a ihr 
 gleichen räumlichen Functionen [Zusatz B (b)], so dass 
 
 
@@ -21817,7 +21752,7 @@ log — — £
 liefert, und wenn rn unendlich gross und Pr ist, so erhalten wir 
 N srl. x 
 r\® @ ea i a\r+t1 FE Tg » 
-() = e* ‚und auf ähnliche Weise (-) ze * ze’ ; 
+() = e* ‚und auf ähnliche Weise (-) ze * ze' ; 
 
 
 die räumlichen harmonischen Functionen werden dann 
@@ -21851,7 +21786,7 @@ fläche, die von den Polen weit entfernt sind, übergeht,
 2 
 Sn —= cos 7 cos — 
 q q 
-ist, wo q und g’ zwei Constanten bezeichnen, die der Bedingung 
+ist, wo q und g' zwei Constanten bezeichnen, die der Bedingung 
 
 
 ?+gqg?=p? 
@@ -22005,7 +21940,7 @@ v — 3125 0000 0000 || + 0625 | 4 °0625
 "35 2225| + °0796 |+ 0745 || — 0441 | — 0387 
 36 | + 2388 Zee ll vnmssstr al: ee ar le 
 "4 2926 | + 0°522 | + 0479 | — 0647 | — 0544 
-43 SLOT”. nass, „19 ana. all - mie: 
+43 SLOT”. nass, "19 ana. all - mie: 
 2 ee + 0157 | -+ 0140 || — °0807 | — 0644 
 46- . ee 35a] u, ar Al. wer | 
 4688| au 0000 0000| ee | nn 
@@ -22027,7 +21962,7 @@ u — 1450 | — 1102 || — 0446 | — 0258
 8302 | — 4147 0000 0000 | ee | enenen 
 84 | — 4119 7 uk RENT ae 
 35 | — 4030 || + 0586 | + 0308 || + 3263 | + 0905 
-Br. Te BB]. ee, ee N. wen „ln, Sue 
+Br. Te BB]. ee, ee N. wen "ln, Sue 
 -90 — 2412 "2645 1153 | 4 5044 | + °0958 
 92 | — 1084 '1764 1464| u | nn 
 re 4346 | + 1597 | u | oc 
@@ -22142,12 +22077,12 @@ DSB... a. er | he + 0459 | u
 35 — 2799 0251| -+ 02431 + 0452 | 4 0424 
 ‚3 — 2240 0540 0515 1 4 0391 0356 
 "35 — 1318 || + 0765 07171 + 0268 as 
--38 — 0635 a, elle. Asse. “1 Kalle 
+-38 — 0635 a, elle. Asse. "1 Kalle 
 ‘4 — 0365 | + °0888 | + °0814 || + 0084 | 4 0074 
 '42 9356| au, ee N Be TO 
 4209 | cum E OIOL | nen 0000 0000 
 ‘45 + 1106 0875 1-+ °0782 || — 0132 | — 0105 
-> + 2231 || + °0706 | 4+ “0611 || — '0371 | — 0278 
+> + 2231 || + °0706 | 4+ "0611 || — '0371 | — 0278 
 EG. Al ee A le ie see Mr ash — 0366 
 "55 + 3007 | + 0378 | + 0315 ||  .... — 0415 
 +57 Ir BUN: "un Seine N ae Ve ; 
@@ -22226,8 +22161,8 @@ Kugeln verschieden sind, wird die hydrostatischen Beispiele, die wir
 folgen lassen, vereinfachen. Zunächst werden wir rein synthetisch 
 einige Fälle behandeln, in denen bei gegebenen Massenvertheilungen 
 die resultirenden Kräfte und die Niveauflächen ($ 487) bestimmt 
-werden; darauf sollen gewisse Probleme der Green’schen und 
-Gauss’schen Analysis folgen, in welchen entweder die Grössen der 
+werden; darauf sollen gewisse Probleme der Green'schen und 
+Gauss'schen Analysis folgen, in welchen entweder die Grössen der 
 Kraft oder die Werthe des Potentials auf individuellen Flächen oder 
 die Formen individueller Niveauflächen gegeben werden, und die Ver- 
 theilung der Kraft in einem zusammenhängenden leeren Raume be- 
@@ -22237,15 +22172,15 @@ wir bei dieser Gelegenheit der Kürze wegen uns gleich auf die Erde be-
 ziehen, auch wenn irgend eine andere anziehende Masse mit annähernd 
 kugelförmigen äusseren Flächen constanten Potentials unserem Zwecke 
 ebenso gut entsprechen würde. Auch werden wir zuweilen von der 
-„Meeresoberfläche“ ($$ 750, 754) sprechen, indem wir darunter 
-bloss eine „Niveaufläche“ oder eine „Gleichgewichtsoberfläche“ ($ 487) 
+"Meeresoberfläche" ($$ 750, 754) sprechen, indem wir darunter 
+bloss eine "Niveaufläche" oder eine "Gleichgewichtsoberfläche" ($ 487) 
 verstehen, welche den festen Körper ganz oder mit Ausnahme verhält- 
 nıssmässig kleiner Theile, wie sie unser trockenes Land ist, umschliesst. 
 "Eine solche Fläche wird natürlich eine Fläche constanten Potentials 
 für dıe blosse Gravitation sein, wenn weder eine Rotation, noch eine 
 aus der Anziehung anderer Körper, wie des Mondes und der Sonne, 
-“herrührende Störung und durch diese Kräfte für die Erde erzeugte 
-„Aenderung der Bewegung“ vorhanden ist; aber auch trotz dieser 
+"herrührende Störung und durch diese Kräfte für die Erde erzeugte 
+"Aenderung der Bewegung" vorhanden ist; aber auch trotz dieser 
 Störungen kann jene Fläche immer eine Fläche constanten Poten- 
 tials genannt werden, da, wie wir in $ 793 sehen werden, sowohl 
 die Centrifugalkraft, als auch die übrigen erwähnten Störungen sich 
@@ -22290,7 +22225,7 @@ Bruch als sehr klein voraussetzen. Die Aenderung der Richtung
 der Schwerkraft wird für die Meeresoberfläche ein Maximum in den 
 
 
-Be ’ ., D 
+Be ' ., D 
 Punkten eines Kreises sein, welcher von A als Centrum mit Vs als 
 
 
@@ -22299,7 +22234,7 @@ Störung ae Die Grösse dieser grössten Abweichung wird
 
 
 9 
-—— „ der Winkeleinheit [57'296° ($ 41)] betragen, wenn a 
+—— " der Winkeleinheit [57'296° ($ 41)] betragen, wenn a 
 
 
 3V3 nD 
@@ -22363,7 +22298,7 @@ lere übertrifft, auf die Niveaufläche, sowie auf die Rich-
 tung und Intensität der Schwerkraft. — Wenn © die allge- 
 meine Dichtigkeit der Rinde und 6 die mittlere Dichtigkeit der Erde 
 ist, und wenn die $ 786 angegebene Störung. die Folge des Vor- 
-handenseins einer Masse von einer anderen Dichtigkeit 0’ ist, welche 
+handenseins einer Masse von einer anderen Dichtigkeit 0' ist, welche 
 eine Kugel vom Radius b, deren Centrum sich in einer Tiefe D 
 unter der Meeresoberfläche befindet, ganz ausfüllt, so wird r 
 
@@ -22387,7 +22322,7 @@ Der wirkliche Werth von 6 ist ungefähr doppelt so gross als der
 von @. Wir wollen, um ein Beispiel zu geben, annehmen, es sei 
 
 
-— b = 1000 Fuss (engl.) oder = des Erdradius und _’ 
+— b = 1000 Fuss (engl.) oder = des Erdradius und _' 
 
 
 1 
@@ -22491,7 +22426,7 @@ wenn wir unsere Aufmerksamkeit auf sectoriale harmonische Func-
 tionen beschränken ($ 781). Die Linie, in welcher ein sectoriales_ 
 harmonisches Sphäroid von irgend einer zu seiner Polaraxe senk- 
 rechten Ebene geschnitten wird, ist [$ 781 (1)] gewissermassen 
-eine harmonische Curve ($ 62), von einer kreisförmigen’ statt von 
+eine harmonische Curve ($ 62), von einer kreisförmigen' statt von 
 einer geraden Abscissenlinie aus gezogen. Ihre Wellenlänge 
 (oder die doppelte Strecke auf der Abscissenlinie von einem Null- 
 
@@ -22517,7 +22452,7 @@ mit der Ebene dieses Kreises (oder des Aequators) eine nahezu ein-
 fach harmonische Form haben und deren Hebung und Senkung zu 
 beiden Seiten derselben symmetrisch abnimmt, so dass sie beiderseits 
 in einem grossen angularen Abstande von demselben (oder in grosser 
-„Breite“) unmerklich sind. Die Niveaufläche, welche die Attrac- 
+"Breite") unmerklich sind. Die Niveaufläche, welche die Attrac- 
 tion eines homogenen festen Körpers dieser Gestalt liefert, ist eine 
 Figur derselben Art, aber von einem viel geringeren Grade der 
 Erhöhungen und Senkungen, d. h., wie wir gesehen haben, nur 
@@ -22578,9 +22513,9 @@ Theile der Masse entfernte und mit denselben die Thäler ausfüllte.
 
 
 793. Das Potential ist überall bestimmt, wenn sein Werth 
-für jeden Punkt einer Oberfläche gegeben ist. — Green’s 
+für jeden Punkt einer Oberfläche gegeben ist. — Green's 
 Theorem [Zusatz A (e)]*) und der in $ 497 gegebene Satz von 
-Gauss zeigen, dass, wenn das Potential einer nach dem Newton’- 
+Gauss zeigen, dass, wenn das Potential einer nach dem Newton'- 
 schen Gesetze anziehenden beliebig vertheilten Masse für jeden 
 Punkt einer diese Masse vollständig umschliessenden Oberfläche 
 gegeben ist, das Potential und daher auch die Kraft für den ganzen 
@@ -22597,7 +22532,7 @@ stimmen, welcher zwischen dieser Oberfläche und der eingeschlossenen
 anziehenden Masse liegt. Wir hoffen, ın den folgenden Bänden auf 
 
 
-*) Man wende zuerst Green’s Theorem auf die Oberfläche an, auf welcher das 
+*) Man wende zuerst Green's Theorem auf die Oberfläche an, auf welcher das 
 Potential gegeben ist. Dann zeigt der Satz von Gauss, dass es nicht zwei Ver- 
 theilungen des Potentials geben kann, welche in dem ganzen ausserhalb dieser 
 Oberfläche liegenden Raum übereinstimmen, aber für irgend einen Theil des 
@@ -22608,7 +22543,7 @@ Masse liegt.
 Statik fester und flüssiger Körper. 347 
 
 
-_ das durch den Gauss’schen Satz des $ 497 gegebene wichtige Problem 
+_ das durch den Gauss'schen Satz des $ 497 gegebene wichtige Problem 
 zurückzukommen. Inzwischen beschränken wir uns auf Fragen, 
 welche für die physische Geographie von praktischem Nutzen sind. 
 
@@ -22616,7 +22551,7 @@ welche für die physische Geographie von praktischem Nutzen sind.
 Beispiel (1). — Die einschliessende Fläche sei eine Kugel vom 
 Radius a, und es sei F($,g) das in irgend einem Punkte dieser Oberfläche, 
 der in der gewöhnlichen Weise durch seine Polarcoordinaten #,9 be- 
-stimmt ist, gegebene Potential. Green’s Lösung [$ 499 (3) und Zusatz 
+stimmt ist, gegebene Potential. Green's Lösung [$ 499 (3) und Zusatz 
 B (46)] seines Problems für die Kugelfläche lässt sich unmittelbar auf 
 einen Theil des vorliegenden Problems anwenden und Hefert als Werth 
 des Potentials in irgend einem ausserhalb der Kugelfläche liegenden Punkte 
@@ -22629,10 +22564,10 @@ des Potentials in irgend einem ausserhalb der Kugelfläche liegenden Punkte
 
 
 an 
-(r?— a?) F(9’, g')r2sins’ ds’ dy’ 
+(r?— a?) F(9', g')r2sins' ds' dy' 
 
 
-r2—2arl[cos$cos#’+sin$ sin" cos(g — y’))+a?}’%° 
+r2—2arl[cos$cos#'+sin$ sin" cos(g — y'))+a?}'%° 
 
 
 Da aber ee s Gleichung 7?4=0 durch den Ausdruck (46) des 
@@ -22652,7 +22587,7 @@ auch für einen gewissen Theil des inneren Raumes darstellen, nämlich
 für den Theil, den man erreichen kann, ohne dass das Integral disconti- 
 nuirlich wird (d.h. dass seine Elemente unendlich gross werden), und ohne 
 dass man einen Theil der anziehenden Masse trifft. Wir hoffen, den 
-Gegenstand später in Verbindung mit dem Gauss’schen Satze ($ 497) 
+Gegenstand später in Verbindung mit dem Gauss'schen Satze ($ 497) 
 wieder aufzunehmen; für unsern jetzigen Zweck ist es aber wünschenswerth, 
 
 
@@ -22681,15 +22616,15 @@ er wo Qn die durch Zusatz B (60) ausgedrückte Function von
 
 
 In jedem Falle, in welchem die anziehende Masse ganz innerhalb 
-einer inneren concentrischen Kugelfläche vom Radius @’ liegt, muss die 
+einer inneren concentrischen Kugelfläche vom Radius @' liegt, muss die 
 Entwicklung von F'(#,9) nach harmonischen Functionen wenigstens ebenso 
 stark convergent sein, wie die geometrische Reihe 
 
 
-a’ a’\ 2 a\ 3 
+a' a'\ 2 a\ 3 
 
 oe 
-daher wird die Reihe (3*) für jeden Werth von r, der grösser als a’ ist, 
+daher wird die Reihe (3*) für jeden Werth von r, der grösser als a' ist, 
 convergiren, folglich die Lösung für die Punkte des von der Kugelfläche 
 
 
@@ -22733,7 +22668,7 @@ bis zu dem Grade der Genauigkeit, der durch Vernachlässigung der
 Quadrate von F'($,g) erreicht wird, das Potential im Punkte (a, 9, p) 
 
 
-M,M„ 
+M,M" 
 (6) or FeN. 
 Danach ist das Problem auf das des vorhergehenden Beispiels reducirt, 
 
@@ -22754,7 +22689,7 @@ gesuchte Potential
 Statik fester und flüssiger Körper. 349 
 
 
-wo F%„ durch (4) gegeben ist. F, ist Null, weil a der genaue mittlere 
+wo F%" durch (4) gegeben ist. F, ist Null, weil a der genaue mittlere 
 Radius ist; die Gleichung, welche diese Bedingung ausdrückt, ist 
 
 
@@ -22775,7 +22710,7 @@ Functionen wird dann
 
 (10) FG 9)=Rle)+FRIM)+FGH)Ht us w. 
 
-Wenn a’ der Radius der kleinsten Kugeliläche ist, welche O zum Mittel- 
+Wenn a' der Radius der kleinsten Kugeliläche ist, welche O zum Mittel- 
 punkt hat und die ganze anziehende Masse umschliesst, so convergirt die 
 Reihe (7) für alle Werthe von $ und 9 nothwendig wenigstens ebenso 
 rasch als die geometrische Reihe 
@@ -22784,7 +22719,7 @@ rasch als die geometrische Reihe
 (11) 1 + = + (&) + (&) +us w. 
 
 
-für jeden Werth von r, der grösser als a’ ist. Folglich drückt der Aus- 
+für jeden Werth von r, der grösser als a' ist. Folglich drückt der Aus- 
 druck (7) die Lösung unseres jetzigen besonderen Problems aus. Derselbe 
 kann die Lösung des Problems sogar noch für weitere Raumtheile inner- 
 halb der Oberfläche ausdrücken, da die gegebene Fläche (6) eine solche 
@@ -22809,7 +22744,7 @@ für unseren Grad von Genauigkeit
 
 
 dU _ M a\? a\® 
-12) R= - „=nllts() BAe&n+4(z) Fontusw.) 
+12) R= - "=nllts() BAe&n+4(z) Fontusw.) 
 Um die Resultante der Kraft in irgend einem Punkte der Kugel- 
 fläche zu finden, welche nur äusserst wenig von der gegebenen Fläche 
 abweicht, setzen wir in dieser Formel r = a und finden 
@@ -22826,7 +22761,7 @@ Genauigkeit, die wir hier fordern, in allen Gliedern der Reihe (12), mit
 
 
 : M 
-Ausnahme des ersten, 7 = a zu setzen; im ersten Gliede „aber müssen 
+Ausnahme des ersten, 7 = a zu setzen; im ersten Gliede "aber müssen 
 
 
 wirr=a!ı+ F(9,9)} setzen, so dass sich dasselbe in 
@@ -22870,7 +22805,7 @@ Minima näherungsweise gleich. Wir schliessen daraus folgendes: —
 
 791. Resultante der Gravitationskräfte in irgend einem 
 Punkte einer näherungsweise kugelförmigen Niveaufläche. — 
-Wenn eine Niveaufläche ($ 487), welche eine nach dem Newton’- 
+Wenn eine Niveaufläche ($ 487), welche eine nach dem Newton'- 
 schen Gesetz anziehende Masse umschliesst, von einer nahezu kugel- 
 förmigen Form um eine rein harmonische Undulation ($ 779) iter 
 Ordnung abweicht, so wird die Grösse der Schwerkraft in irgend 
@@ -22933,7 +22868,7 @@ die Bezeichnung wie im Beispiel 2 ($ 793) sind, für das Gravitations-
 potential im Punkte (a, 9, 9) statt (6) den folgenden Ausdruck: — 
 
 
-M, M_„ 1 1 
+M, M_" 1 1 
 (16) Far F (3, g) = > w? a? (- — c0s2 3.) 
 
 
@@ -23008,7 +22943,7 @@ Satz von Clairaut. — Für den Fall einer rotirenden Flüssig-
 keitsmasse oder eines festen Körpers, dessen Dichtigkeit in den ver- 
 schiedenen Punkten eine solche ist, als wenn der Körper flüssig 
 wäre, wurden diese Sätze, von denen der zweite jetzt unter dem 
-Namen desClairaut’schen Satzes allgemein bekannt ist, zuerst von 
+Namen desClairaut'schen Satzes allgemein bekannt ist, zuerst von 
 Clairaut entdeckt, der sie im Jahre 1743 ın seinem berühmten 
 Werke: La Figure de la Terre veröffentlichte. Laplace erweiterte 
 dieselben, indem er die Formel (19) des $ 794 für jeden festen 
@@ -23052,14 +22987,14 @@ wo m ($ 801) gleich = und der Werth von g durch an verschiedenen
 
 
 Orten angestellte Beobachtungen, sowie durch eine nach dem Quadrate 
-des Abstandes ‚vom Erdmittelpunkt (nicht nach der Young’schen Regel) 
+des Abstandes ‚vom Erdmittelpunkt (nicht nach der Young'schen Regel) 
 ausgeführte Reduction auf die Meeresoberfläche bestimmt ist. Die Ent- 
 wicklung dieses Ausdrucks nach harmonischen Kugelfunctionen sei 
 
 
 (22) 9,9) = fh +f.(9; 9) + f5(9, 1) + u. 8. W. 
 Da nach (19) 
-(23) Fi(3,9) = „a Fi (9, 9) 
+(23) Fi(3,9) = "a Fi (9, 9) 
 
 i 
 
@@ -23089,7 +23024,7 @@ csI$ —= Ex SINICOSY = sin$sing = z
 
 
 setzt und einige leichte Reductionen ausführt, 
-*) „On the Variation of Gravity at the Surface of the Earth.“ — Trans. of 
+*) "On the Variation of Gravity at the Surface of the Earth." — Trans. of 
 
 
 the Camb. Phil. Soc., 1849. 
@@ -23125,7 +23060,7 @@ merkliche Störung der Bewegung derselben herbeiführt. Die Entwicklung
 Wenn f3 (9,9) und die höheren Glieder vernachlässigt werden, so ist die 
 Niveaufläche ein Ellipsoid, dessen eine Axe mit der Rotationsaxe der 
 Erde zusammenfallen muss. Bezeichnen wir mit e die mittlere Ellipticität 
-der Meridianschnitte, mit e’ die Ellipticität des äquatorialen Schnittes 
+der Meridianschnitte, mit e' die Ellipticität des äquatorialen Schnittes 
 und mit I die Neigung einer der Axen des letzteren gegen OX, so er- 
 
 
@@ -23202,9 +23137,9 @@ durch das Zusammenwirken der Regierungen von Preussen, Russ-
 Pendel zuerst, dass die Schwerkraft an beiden Orten verschieden ist. — Capitän 
 Kater und Dr. Thomas Young, Trans. R. $., 1819. — Biot, Arago, Mathieu, 
 Bouvard und Chaix, Base du Systeme Mötrique, Vol. IH, Paris, 1821. — 
-Capitän Edward Sabine, „Experiments to determine the Figure of the Earth by 
-means of the Pendulum,“ London, 1825. — Stokes „On the Variation of Gravity 
-at the Surface of the Earth,“ Camb. Phil. Trans., 1849. 
+Capitän Edward Sabine, "Experiments to determine the Figure of the Earth by 
+means of the Pendulum," London, 1825. — Stokes "On the Variation of Gravity 
+at the Surface of the Earth," Camb. Phil. Trans., 1849. 
 
 
 23* 
@@ -23218,7 +23153,7 @@ weit genug vorgeschrittene Triangulation von 'Frankreich, Belgien,
 Russland und Preussen mit der 1851 beendeten Haupttriangulation 
 von Grossbritannien und Irland verbunden wurde. Bezüglich dieses 
 Werkes macht Sir Henry James die folgenden Bemerkungen: — 
-„Vor der Verbindung der Triangulationen der verschiedenen Länder 
+"Vor der Verbindung der Triangulationen der verschiedenen Länder 
 in ein grosses Netz von Dreiecken, das sich über die ganze Breite 
 von Europa erstreckt, und vor der Erfindung des elektrischen Tele- 
 graphen und seiner Anwendung von Irland bis an das Ural-Gebirge 
@@ -23231,7 +23166,7 @@ die Astronomen seit 2000 Jahren gestellt haben, und es ist ein Glück,
 dass wir in einer Zeit leben, in welcher dıe Menschen so erleuchtet 
 sind, ein allseitig ersehntes Ziel durch gemeinsame Arbeit zu er- 
 reichen, und dies im ersten Augenblick, wo die Erreichung desselben 
-möglich geworden ist.“ 
+möglich geworden ist." 
 
 Für eine kurze Zeit müssen wir noch zufrieden sein mit den 
 aus der neuesten britischen Triangulation hergeleiteten Resultaten 
@@ -23240,7 +23175,7 @@ am Cap der guten Hoffnung ausgeführten Messungen von Meridian-
 bogen. Die Bestimmung des mit der Meeresoberfläche für die ganze 
 Erde am meisten übereinstimmenden Rotationsellipsoids ist von 
 Capitän A. R. Clarke mit besonderem Geschick geschehen und im 
-Jahre 1858 auf Befehl des „Board of Ordnance“ veröffentlicht. Das 
+Jahre 1858 auf Befehl des "Board of Ordnance" veröffentlicht. Das 
 Werk (ein Quartband von 780 Seiten, von denen fast jede einzelne die 
 Resultate höchst umfangreicher undeinsichtiger Arbeit zusammenfasst) 
 ist vom Capitän Clarke unter der Leitung des Obersten (jetzt Sir 
@@ -23253,7 +23188,7 @@ dem grossen Werke gehört, welches die britische mit den neueren
 Triangulationen anderer Länder verbindet*): — 
 
 
-*) „Comparisons of the Standards of Length of England, France, Belgium, 
+*) "Comparisons of the Standards of Length of England, France, Belgium, 
 Prussia, Russia, India, Australia, made at the Ordnance Survey Office, Southampton. 
 by Captain A. R. Clarke, under the direction of Colonel Sir Henry James. 
 Published by order of the Secretary of State for War, 1866. 
@@ -23262,11 +23197,11 @@ Published by order of the Secretary of State for War, 1866.
 Statik fester und flüssiger Körper. 357 
 
 
-„Berechnet man die Gestalt der Meridiane und des Aequators 
+"Berechnet man die Gestalt der Meridiane und des Aequators 
 für die verschiedenen gemessenen Meridianbogen, so ergibt sich, 
 dass der Aequator schwach elliptisch ist, und dass die längere Axe 
-dieser Ellipse sich in 15034’ östlicher Länge (von Greenwich) be- 
-findet. Auf der östlichen Halbkugel geht der Meridian 15034’ durch 
+dieser Ellipse sich in 15034' östlicher Länge (von Greenwich) be- 
+findet. Auf der östlichen Halbkugel geht der Meridian 15034' durch 
 Spitzbergen, ein wenig westlich an Wien vorbei, durch die Strasse 
 von Messina, durch den Tschadsee ın Nordafrika und die Westküste 
 von Südafrika entlang; derselbe entspricht also nahezu dem Meridian, 
@@ -23277,7 +23212,7 @@ dem Meridian, welcher die grösste Wassermasse auf jener Halbkugel
 trifft. 
 
 
-„Der Meridian 105034’ geht durch das nördliche Eismeer, nahe 
+"Der Meridian 105034' geht durch das nördliche Eismeer, nahe 
 am Cap Tscheljuskin (Nordost-Cap) vorbei, durch 'Tonkin und die 
 Sunda-Strasse, und entspricht nahezu dem Meridian, welcher die 
 grösste Ländermasse in Asien trifft. Auf der westlichen Halbkugel 
@@ -23288,7 +23223,7 @@ dem Meere entlang, entspricht also nahezu dem Meridiane, welcher
 die grösste Landmasse auf der westlichen Halbkugel berührt. 
 
 
-„Diese Meridiane entsprechen also den am. meisten hervor- 
+"Diese Meridiane entsprechen also den am. meisten hervor- 
 stehenden Theilen des Globus. 
 Engl. Fuss, 
 
@@ -23306,23 +23241,23 @@ Polen ist beziehungsweise SET und HERE
 oder der Mittelwerth der Abplattung ist ganz nahezu rn. 
 
 
-Capitän Clarke hatte schon vorher („Account of Principal 
+Capitän Clarke hatte schon vorher ("Account of Principal 
 Triangulation,* 1858) für das Rotationssphäroid dieselbe Reihe von 
 Beobachtungen aufgestellt, nämlich folgende: — 
 
 
 358 Abstracte Dynamik. 
-„Aequatoriale Halbaxe —= a = 20 926 062 engl. Fuss 
+"Aequatoriale Halbaxe —= a = 20 926 062 engl. Fuss 
 
 
-Polare Halbaxe —=b= 20855121 „ a 
+Polare Halbaxe —=b= 20855121 " a 
 b 293°98 tn BD... 4 
 also 2 7 29008 und Ellipticität = — 55198 
 
 
-„Bei dieser Oberfläche ist aber die Summe der Quadrate der Fehler 
+"Bei dieser Oberfläche ist aber die Summe der Quadrate der Fehler 
 in den Breiten 153°9939, während dieselbe bei dem Ellipsoid mit 
-drei ungleichen Axen 138'3020 beträgt *).“ 
+drei ungleichen Axen 138'3020 beträgt *)." 
 
 
 798. Fortsetzung der hydrostatischen Beispiele. — Um 
@@ -23361,7 +23296,7 @@ Anziehung zwischen den Theilen der Flüssigkeit statt-
 fände, so dass die Einwirkung, welche die Kugelgestalt zu erhalten 
 
 
-*) „Comparison of Standards of Length“ (1866), p. 287. 
+*) "Comparison of Standards of Length" (1866), p. 287. 
 
 
 Statik fester und flüssiger Körper. 359 
@@ -23375,7 +23310,7 @@ durch diese Flächen bestimmt wären.
 
 
 800. Beispiele des $ 799. — (1) Der Kern möge nach dem 
-Newton’schen Gesetz wirken und entweder um einen Punkt herum 
+Newton'schen Gesetz wirken und entweder um einen Punkt herum 
 symmetrisch sein oder ($ 526) eine beliebige andere centrobarische 
 Anordnung haben; ferner sei die störende Einwirkung die Centri- 
 fugalkraft. Im zweiten Bande wird sich als eine unmittelbare 
@@ -23404,7 +23339,7 @@ die letzteren Potentiale ist ($$ 491, 528)
 Vea+y+2) 
 wo E die Masse des Kerns bezeichnet, und die Coordinaten von dem 
 Schwerpunkt ($ 526) des Kerns als Anfangspunkt aus gerechnet werden. 
-Man erhält somit die ausserhalb des Kerns gelegenen „Niveauflächen“ 
+Man erhält somit die ausserhalb des Kerns gelegenen "Niveauflächen" 
 ($ 487), indem man in der Gleichung 
 
 
@@ -23456,7 +23391,7 @@ und daraus folgt
 
 
 == m 
-E 1 21m’ 
+E 1 21m' 
 tz 
 
 
@@ -23531,7 +23466,7 @@ ist. Die Differenz zwischen beiden Werthen, d. ı. muss
 
 
 1 1 
-295 600’ 
+295 600' 
 also in der Abweichung der wahren Schwerkraft von sphärischer 
 en ihren Grund haben. Danach kann man die ganze Ellip- 
 ticität —— der wirklichen Meeresoberfläche als aus zwei nahezu 
@@ -23642,7 +23577,7 @@ Statik fester und flüssiger Körper. 363
 
 
 durch die Attraction eines weit entfernten festliegenden Körpers 
-gestört, welcher nach dem Newton’schen Gesetz anzieht. 
+gestört, welcher nach dem Newton'schen Gesetz anzieht. 
 
 
 Es seien r,9 Polarcoordinaten, bezogen auf den Schwerpunkt des 
@@ -23746,7 +23681,7 @@ rung re Fr i
 woraus endlich statt (10) und bei Benutzung einer entsprechenden Be- 
 zeichnung 
 ı M.a? 
-03) “=, Em | 
+03) "=, Em | 
 folgt. Dies ist eine harmonische Kugelflächenfunction zweiter Ordnung 
 
 
@@ -23788,13 +23723,13 @@ Statik fester und flüssiger Körper. 365
 Erde unter dieser Einwirkung erhielte, würde die Ellipticität 
 
 3 4 1 
-2x60x 300000 “ 12000000 
+2x60x 300000 " 12000000 
 renz vom höchsten zum niedrigsten Punkte würde ungefähr 1?/, 
 engl. Fuss betragen. Im zweiten Bande bei der Darlegung der 
 kinetischen Theorie der Ebbe und Fluth werden wir vielfach Ge- 
 legenheit haben, obige Hypothese zu benutzen. Wir werden sehen, 
 dass dieselbe (oder eine äquivalente Hypothese) unentbehrlich ist 
-für Laplace’s verschwindende tägliche Fluth auf einem festen 
+für Laplace's verschwindende tägliche Fluth auf einem festen 
 Sphäroid, das mit einem überall gleich tiefen Ocean bedeckt ist. 
 Andererseits wird sich alsbald ($ 814) zeigen, dass diese Hypothese 
 sehr nahe mit den wirklich vorhandenen. Umständen in Ueberein- 
@@ -23814,8 +23749,8 @@ bindungslinie mit dem Erdäquator einen der Declination des Mondes
 beständig gleichen Winkel bildet. Wenn wir annehmen, dass in 
 jedem Augenblick die Bedingung des hydrostatischen Gleichgewichts 
 erfüllt ist, d. h. dass die freie Oberfläche der Flüssigkeit zur resul- 
-tirenden Kraft senkrecht ist, so erhalten wir die sogenannte „Gleich- 
-gewichtstheorie der Ebbe und Fluth“. 
+tirenden Kraft senkrecht ist, so erhalten wir die sogenannte "Gleich- 
+gewichtstheorie der Ebbe und Fluth". 
 
 
 - 806. Correction der Gleichgewichtstheorie. — Aber auch 
@@ -23851,19 +23786,19 @@ nehmbar sein, während die Oberfläche von B von ihrer mittleren
 Lage aus um ungefähr 2 Fuss steigt und fällt, ganz wie das 
 Steigen und Fallen des Quecksilbers in dem offenen Ende eines 
 Gefässbarometers nur klein ist im Vergleich zum Fallen und Steigen 
-in der Röhre. Oder wenn zwei grosse Seen A, A’ sich an den ent- 
+in der Röhre. Oder wenn zwei grosse Seen A, A' sich an den ent- 
 gegengesetzten Enden eines äquatorialen Durchmessers, zwei andere 
-kleine Seen B, B’ sich an den Enden des zum ersteren senkrechten 
-äquatorialen Durchmessers, endlich zwei kleine Seen C, C’ sich an den 
+kleine Seen B, B' sich an den Enden des zum ersteren senkrechten 
+äquatorialen Durchmessers, endlich zwei kleine Seen C, C' sich an den 
 Enden der Polaraxe befinden, und wenn selbst der grösste dieser mit 
 einander durch Canäle oder unterirdische Tunnel in freier Verbindung 
 stehenden sechs Seen sich nur über einen kleinen Theil der ge- 
-krümmten Erdoberfläche erstreckt, so werden in den Seen A, A’ 
-keine merklichen Ebben und Fluthen eintreten; in B und B’ wird 
+krümmten Erdoberfläche erstreckt, so werden in den Seen A, A' 
+keine merklichen Ebben und Fluthen eintreten; in B und B' wird 
 sıch das Wasser 2 Fuss über seine mittlere Höhe erheben, wenn der 
 Mond oder der Gegenmond im Zenith steht, und um gleichfalls 2 
 Fuss unter seine gewöhnliche Höhe hinabsinken, wenn der Mond 
-- auf- oder untergeht; in C und C’ endlich werden Ebben und Fluthen 
+- auf- oder untergeht; in C und C' endlich werden Ebben und Fluthen 
 eintreten, bei welchen das Steigen und Fallen des Wassers von der 
 mittleren Höhe aus 1 Fuss beträgt, und zwar ist die Zeit nie- 
 drigen Wasserstandes die, wenn der Mond oder der Gegenmond 
@@ -23875,7 +23810,7 @@ betrachtet, welche das Wasser in irgend einem Augenblick begrenzen
 würde, wenn kein trockenes Land vorhanden wäre, und sodann sich 
 vorstellt, diese ganze Oberfläche würde ringsherum um so viel 
 erniedrigt oder erhöht, als erforderlich ist, damit die Höhe in A und 
-in A’ keine Aenderung erleide. Oder wenn sich in irgend eirlem 
+in A' keine Aenderung erleide. Oder wenn sich in irgend eirlem 
 Theile der Erde ein grosser See A befindet, der durch Canäle mit 
 
 
@@ -23928,7 +23863,7 @@ dasselbe den festen Erdkörper bedeckte; % ist durch $ 804 (13) gegeben.
 
 
 ee 
-*) „Rigidity of the Earth,* $ 17, Phil. Trans., 1862. 
+*) "Rigidity of the Earth,* $ 17, Phil. Trans., 1862. 
 
 
 368 Abstracte Dynamik. 
@@ -24019,7 +23954,7 @@ U — a// lcos2Ado
 
 
 1 a 
-°=>z [feos’tsin2ade 
+°=>z [feos'tsin2ade 
 
 
 1 
@@ -24073,7 +24008,7 @@ werden kann, und d und y die Declination und den von Greenwich aus
 gerechneten Stundenwinkel der Sonne, respective des Mondes bezeichnen. 
 In diesem Ausdrucke können wir natürlich die halbtäglichen Glieder 
 auf die Form Acos(2y — e) und die täglichen Glieder auf die Form 
-A’ cos ( — €’) reduciren. Die Interpretation derselben führt zu den folgen- 
+A' cos ( — €') reduciren. Die Interpretation derselben führt zu den folgen- 
 den Schlüssen: — 
 
 
@@ -24115,8 +24050,8 @@ den Aequator herum höher und an den Polen tiefer ist, als wenn
 die Declination einen anderen nördlichen oder südlichen Werth hat, 
 und das Wasser an den Polen am höchsten.und am Aequator am 
 niedrigsten steht, wenn die Declination ihren grössten, nördlichen oder 
-südlichen, Werth hat. Gauss’ Art, die Umstände, von welchen die 
-„säcularen“ Variationen in den Elementen des Sonnensystems ab- 
+südlichen, Werth hat. Gauss' Art, die Umstände, von welchen die 
+"säcularen" Variationen in den Elementen des Sonnensystems ab- 
 hängen, auszudrücken, ist zur Erklärung dieser Componente der 
 Fluthen geeignet. Es mögen die zwei Parallelkreise der nördlichen 
 und südlichen Declination des Mondes und Gegenmondes zu irgend 
@@ -24125,7 +24060,7 @@ dem Abstande des Mondes ist, gezogen und auf jedem dieser Kreise
 die Hälfte der Mondmasse vertheilt werden. Da diese Massenkreise 
 alle vierzehn Tage allmälig vom Aequator zur grössten Declination 
 und wieder zurück varıiren, so wird die erzeugte Fluth lediglich 
-und genau die „vierzehntägige Fluth“ sein. 
+und genau die "vierzehntägige Fluth" sein. 
 
 
 810. Correctionen der gewöhnlichen Gleichgewichts- 
@@ -24167,7 +24102,7 @@ noch an den Polen gleich Null. Nach dem gewöhnlichen Ausspruch
 der Theorie findet keine vierzehntägige Mond- oder halbjährliche 
 
 
-Sonnen-Fluth in der Breite 35016’ (« ist dies arcsin 7.) statt, und 
+Sonnen-Fluth in der Breite 35016' (« ist dies arcsin 7.) statt, und 
 
 
 in anderen Breiten ist ihr Betrag proportional den Abweichungen der 
@@ -24215,8 +24150,8 @@ beitragen wird.
 zögerung. — Die Superposition der halbtägigen Sonnen- und der 
 halbtägigen Mondfluth ist oben als ein Beispiel der Zusammen- 
 setzung einfacher harmonischer Bewegungen behandelt worden, und 
-die wohlbekannten Erscheinungen der „Springfluthen“ und der 
-„Nippfluthen“, sowie der „Verfrühung“ und der „Verzögerung“ 
+die wohlbekannten Erscheinungen der "Springfluthen" und der 
+"Nippfluthen", sowie der "Verfrühung" und der "Verzögerung" 
 sind erklärt ($ 60). Wir haben jetzt nur noch hinzuzufügen, dass 
 die Beobachtung beweist, dass die verhältnissmässige Differenz 
 zwischen den Höhen der Springfluthen und der Nippfluthen, und 
@@ -24403,7 +24338,7 @@ Statik fester und flüssiger Körper. 375
 ne a en N er 
 ‚=,20 DD Deere 
 (27) {oder in Polarcoordinaten 
-ı Ma? 1 „2a? 
+ı Ma? 1 "2a? 
 
 
 Sn n2 Ian 2 — 
@@ -24457,7 +24392,7 @@ laufen, also ungefähr das 27'8fache der Eillipticität der lunaren
 Fluthniveaufläche für den Fall der Erde und des Mondes sein; für 
 den Fall der Erde und der Sonne würde dieselbe freilich nur 
 1 1 
-366? “ 580 
+366? " 580 
 
 
 d be- 
@@ -24471,7 +24406,7 @@ ode betragen.
 
 1 
 
-“ 77,700,000 
+" 77,700,000 
 
 815. Vergrösserung des Resultats durch die zwischen 
 den Theilen der gestörten Wassermasse wirkende Attrac- 
@@ -24485,8 +24420,8 @@ mit den Flächen constanten Potentials zusammenfallen müssen, führt
 hierbei auf ein ausgezeichnetes Problem der Analysis. Legendre 
 und Laplace gelangten dadurch zu einer ganz neuen Methode in 
 der Mathematik, welche von den englischen Schriftstellern gewöhn- 
-lich die Methode der „Laplace’schen Coefficienten* oder der 
-„Laplace’schen Functionen“ genannt wird. Die Principien dieser 
+lich die Methode der "Laplace'schen Coefficienten* oder der 
+"Laplace'schen Functionen" genannt wird. Die Principien dieser 
 Methode haben wir in dem zweiten Zusatz zu unserem ersten Capitel 
 skizzirtt. Daraus und aus den ergänzenden Untersuchungen der 
 88 778... 784 erhalten wir sofort die Lösung für den Fall, in 
@@ -24631,7 +24566,7 @@ von 1 zul — z vergrössern. Für die Erde und das Meer ist -
 ungefähr IT folglich würde die kugelförmige Flüssigkeitsfläche um 
 
 
-86 Fuss nach dem Monde zu gezogen werden, was 1?’,mal so viel 
+86 Fuss nach dem Monde zu gezogen werden, was 1?',mal so viel 
 ist, als die oben ($ 803) gefundenen 70 Fuss. Ebenso würden die 
 Fluth- und die Rotationsellipticitäten, die wır in den $$ 800, 814, 
 813 bestimmt haben, unter der jetzt gemachten Voraussetzung jede 
@@ -24703,7 +24638,7 @@ der Winkeleinheit (57°3°) beläuft, weit übertreffen. So würde in
 
 einem Punkte, der in der mittleren Meeresniveaufläche oder nicht 
 viele Fuss darüber liegt, und der 100 Yards von dem Orte entfernt 
-ist, welcher zur Zeit der Ebbe die Grenze zwischen Wasser ’und 
+ist, welcher zur Zeit der Ebbe die Grenze zwischen Wasser 'und 
 Land bildet, durch Fluthen von 5 Fuss Hebung und Senkung über 
 die mittlere Höhe, wenn die Küstenlinie von dem Punkte aus nach 
 jeder Seite hin 50 Meilen weit nicht bedeutend von einer mittleren 
@@ -24719,9 +24654,9 @@ beträgt. Denn ein in O (Fig. 73) befindlicher Punkt wird, wenn
 Fig. 73. 
 
 
-Ö H K K’ 
+Ö H K K' 
 DRELEEF LET IETE er EEE TEN 
-an “ h v # PA n 
+an " h v # PA n 
 REP ER Br Re 
 
 
@@ -24736,11 +24671,11 @@ setzung von KL aus eine Breite von 50 Meilen hat, längs der Küste
 100 Meilen lang ist, und deren Dicke KL 10 Fuss beträgt. Diese 
 Fig. 74. Attraction wird nicht merklich geändert, 
 wenn man sich den Punkt O in die Ver- 
-längerung der Mittelebene & E’ versetzt denkt 
+längerung der Mittelebene & E' versetzt denkt 
 (wenn derselbe auch bei einem am Meere 
 erbauten passenden Gravitationsobservatorium 
 der Regel nach einige Fuss höher liegen 
-E’ würde) und die ganze Masse der Platte in 
+E' würde) und die ganze Masse der Platte in 
 dieser Mittelebene concentrirt annimmt. Die 
 i Attraction einer gleichförmigen rechteckigen 
 e B Platte auf einen Punkt O hat aber als Com- 
@@ -24748,12 +24683,12 @@ ponente, welche A.B parallel ist,
 
 
 (7) lo (Dat sn Et EI | 
-0909 \(OA’ + AE). (OB FBE).Om]|’ 
+0909 \(OA' + AE). (OB FBE).Om]|' 
 wo 0 die Dichtigkeit des Wassers und ? die Dicke der Platte be- 
 
 
 A A 
-’ 
+' 
 
 
 Statik fester und flüssiger Körper. 381 
@@ -24766,17 +24701,17 @@ wir nach den vorausgesetzten Daten mit einem grossen Grade von
 Genauigkeit - 
 
 
-AE OA OF O4’ 
+AE OA OF O4' 
 SE 0505 100 und 5; = 1000 V>, 
 
 
-und B, B’ liegen in denselben Entfernungen auf der einen Seite von 
-OE', wie A,A’ auf der anderen. Folglich geht der vorhergehende 
+und B, B' liegen in denselben Entfernungen auf der einen Seite von 
+OE', wie A,A' auf der anderen. Folglich geht der vorhergehende 
 Ausdruck über in 
 
 
 bs 2100 
-otlog 7 + v2’ 
+otlog 7 + v2' 
 und dies ist gleich 135 x ot. 
 
 
@@ -24834,7 +24769,7 @@ der Länge eines sıderischen Tages hat, die Ellipticität 335° d.i. das
 dem für den Fall einer näherungsweise kugelförmigen Gestalt 
 geltenden Satz überein, den wir ($ 775) aus dem Satze des $ 771 
 über das Gleichgewicht einer homogenen rotirenden Flüssigkeit her- 
-leiteten. Aber auch für diesen Fall ist Laplace’s Entwicklung 
+leiteten. Aber auch für diesen Fall ist Laplace's Entwicklung 
 nach harmonischen Kugelfunctionen von grösster Wichtigkeit, indem 
 sie beweist, dass die Lösung ım Falle einer näherungsweise kugel- 
 förmigen Gestalt eindeutig ist, so dass weder ein Ellipsoid mit 
@@ -24866,7 +24801,7 @@ würde die Ellipticität der freien Oberfläche
 3 1 
 1 a gun 
 
-— “2 
+— "2 
 gein. 
 
 Endlich sei die Aufgabe gestellt: Die Dichtigkeit der auf einem 
@@ -24874,7 +24809,7 @@ centrobarischen Kern liegenden Flüssigkeitsschicht zu bestimmen,
 ‚welche, mit der Winkelgeschwindigkeit, die die Erde wirklich hat, 
 
 eh 1 
-rotirend, eine sphäroidale Form von der Ellipticität 598’ d. ı. der 
+rotirend, eine sphäroidale Form von der Ellipticität 598' d. ı. der 
 Ellipticität der Meeresoberfläche, annimmt. Wir erhalten 
 
 1 580 
@@ -24897,9 +24832,9 @@ ist, so erhalten wir, wenn die mittlere Dichtigkeit der ganzen Masse
 (1) für — = 0 = 
 2 1 
 (2) ‚I=- e= 17 
-(3) „L=- = 
+(3) "L=- = 
 (4) = 0819 = 5053 
-(6) „L=e1l 1-55 
+(6) "L=e1l 1-55 
 
 
 darin bezeichnet e die Ellipticität der freien Grenzfläche der Flüssig- 
@@ -24937,7 +24872,7 @@ dauert hat und noch jetzt nicht ganz beendet ist (Zeuge dafür ist
 die Lava, die aus den noch thätigen Vulcanen herausfliesst). Die 
 Abplattung der tieferen Schichten gleicher Dichtigkeit, die wir jetzt 
 aus der Gestalt der Meeresniveaufläche schliessen, die. beobachtete 
-Dichtigkeit der Erdrinde und Cavendish’s Wägung der ganzen 
+Dichtigkeit der Erdrinde und Cavendish's Wägung der ganzen 
 Erde machen es ım höchsten Grade wahrscheinlich, dass die Erde 
 zu einer Zeit nicht bloss auf ıhrtr ganzen Oberfläche, sondern ent- 
 weder überall oder jedenfalls bis zu einer grossen Tiefe überall 
@@ -24959,9 +24894,9 @@ Es sei für irgend einen Punkt (r, $, 9) des Raumes
 N das Potential des Kerns, 
 
 
-v’,„ s der ungestörten Flüssigkeit, 
-V „ 1 der störenden Kraft, 
-U„ e der Störung in der Vertheilung der Flüssigkeit. 
+v'," s der ungestörten Flüssigkeit, 
+V " 1 der störenden Kraft, 
+U" e der Störung in der Vertheilung der Flüssigkeit. 
 
 
 Es ist also das Gesammtpotential in dem in Rede stehenden Punkte N+V, 
@@ -25056,7 +24991,7 @@ Thomsonu. Tait, theoretische Plıysik. II. 25
 386 Abstracte Dynamık. 
 
 
-wo eo’ der Werth von e in dem Alıstande r’ vom Centrum, r der Radius 
+wo eo' der Werth von e in dem Alıstande r' vom Centrum, r der Radius 
 der äusseren Umgrenzungsfläche der ungestörten Flüssigkeit und a der 
 Radius der festen Kugeloberfläche des Kerns ist, auf dem die Flüssigkeit 
 ruht. Um W + U zu finden, folgen wir streng den Regeln des $ 545, 
@@ -25085,7 +25020,7 @@ denen das Glied R, der Gleichung (2) wegen verschwindet: —
 
 
 (7) für das Innere der Flüssigkeit dr= R + RR + R, + u. =. w., 
-“und für die äussere GrenzfläieA =R, HR + R + u. s w. 
+"und für die äussere GrenzfläieA =R, HR + R + u. s w. 
 Dann ist nach (1) 
 
 
@@ -25103,7 +25038,7 @@ r
 
 
 r 
-EP ' — de’ ' r’ 
+EP ' — de' ' r' 
 a art Zn) 
 
 
@@ -25168,7 +25103,7 @@ a
 
 
 +AP + N+HV=F (rn), & 
-— do — de .„.. : N j 
+— do — de .".. : N j 
 wo | Ir | den Werth von Ep für r=r bezeichnet. Hieraus ergibt 
 sich erstens für die Glieder nullter Ordnung 
 
@@ -25184,7 +25119,7 @@ vter Ordnung
 — d(N+V 
 + ) R, 
 - 13 r 
-= r? S Zee Ran + S +2 — Cm dr’ 
+= r? S Zee Ran + S +2 — Cm dr' 
 2 1 r 
 (13) v : s 
 +oR, (40 eg () 
@@ -25199,7 +25134,7 @@ B (37) entwickeln, möge sich
 Samy 
 
 
-(14) =\S (u) cossp + „N = ew 
+(14) =\S (u) cossp + "N = ew 
 
 _ s=0 
 ergeben, wo u‘, vo Functionen von r sind, auf deren Bestimmung das 
@@ -25215,16 +25150,16 @@ gegebenen Functionen. Aa, B', endlich mit w/, u, beziehungsweise die
 388 Abstracte Dynamik. 
 
 
-Werthe von u, fürr = r’ und r = r bezeichnen, so erhalten wir 
+Werthe von u, fürr = r' und r = r bezeichnen, so erhalten wir 
 rt 
-— d(N+V) 4n | : — de’ ‚ 
-a N ale hg Se up —v+1 u’,dr 
+— d(N+V) 4n | : — de' ‚ 
+a N ale hg Se up —v+1 u',dr 
 dr x 7" fe dr' 7 
 r 
 - lo! | u,r” 
 
 15 BER u i v = 
-F E fm ra u),dr’ + q vi F== A,, 
+F E fm ra u),dr' + q vi F== A,, 
 
 
 a 
@@ -25274,35 +25209,35 @@ darin ist « eine Function von r, welche der Gleichung
 (19) Ä o,(e) = A, 
 
 
-genügt; C und C’ sind zwei willkürliche Constanten und P,P' zwei ver- 
+genügt; C und C' sind zwei willkürliche Constanten und P,P' zwei ver- 
 schiedene Functionen von r. 
 
-Die Gleichung (15) erfordert, dass © = 0 und 0’ = 0 sei; mit an- 
+Die Gleichung (15) erfordert, dass © = 0 und 0' = 0 sei; mit an- 
 deren Worten, die Function u, ist völlig bestimmt, wenn sie (15) genügt. 
 Dies erkennt man am besten durch folgende Erwägung: Wenn wir statt 
 (15) 
 
-(20) eo, = A, + Kr’ + Kr! 
-haben, wo K, K’ zwei willkürliche Constanten sind, so verschwinden diese 
+(20) eo, = A, + Kr' + Kr! 
+haben, wo K, K' zwei willkürliche Constanten sind, so verschwinden diese 
 Constanten in den Differentiationen, wir erhalten noch dieselbe Differential- 
 
 
-gleichung (17), und die beiden willkürlichen Constanten C und C’ der 
+gleichung (17), und die beiden willkürlichen Constanten C und C' der 
 allgemeinen Lösung (18) der letzteren sind durch (20) bestimmt, wenn 
 
 
 Statik fester und flüssiger Körper. 889 
 
 
-zwei beliebige Werthe für K und K’ gegeben werden. In der That 
+zwei beliebige Werthe für K und K' gegeben werden. In der That 
 reducirt sich (20), wenn man für %, den Ausdruck (18) anwendet, auf 
 
 
-(21) Co,(P) + C'o,(P) = Kr’ + Kr, 
+(21) Co,(P) + C'o,(P) = Kr' + Kr, 
 welche Formel zeigt, dass o, (P) und o,(P') verschiedene lineare Func- 
 
 
-tionen von r” und r 1 sind, und welche C und (’ bestimmt. 
+tionen von r” und r 1 sind, und welche C und (' bestimmt. 
 Wir sehen somit, dass, welchen Werth A, auch haben mag, wir 
 
 
@@ -25319,7 +25254,7 @@ der Voraussetzung in Beziehung auf den Mittelpunkt symmetrisch ist, so
 muss sie in der Natur umgekehrt wie das Quadrat des Abstandes von 
 diesem Punkte variiren, d. h. es ist 
 
-’ —4dN _ u 
+' —4dN _ u 
 (22) dr r 
 
 
@@ -25397,7 +25332,7 @@ durch Ausführung des ersten Schrittes des in der angegebenen Reihen-
 folge vorzunehmenden Differentiationsverfahrens erhält, 
 
 
-de, „r- 
+de, "r- 
 ı au, av fe: n — Fr. Det, 
 (29) 
 | d(r” A,) 
@@ -25436,7 +25371,7 @@ Form
 
 
 bringen. Damit nun das Gleichgewicht stabil sei, muss jede der Grössen 
-n und 8— ge’ positiv sein; folglich ist der letzte Theil des zweiten Gliedes 
+n und 8— ge' positiv sein; folglich ist der letzte Theil des zweiten Gliedes 
 positiv und wird bei Sunchmendenn r kleiner, während der zweite Theil 
 desselben Gliedes negativ ist und an absoluter Grösse zunimmt und der 
 erste Theil einen constanten Werth hat. Mithin nimmt %y bei wachsendem 
@@ -25444,7 +25379,7 @@ r ab. Weiter müssen wir, wenn die Kraft von der Bugegebenen Art ist,
 [Zusatz B (57)] 
 
 
-(31) A, — Kr’ + K yıy-ı 
+(31) A, — Kr' + K yıy-ı 
 
 
 Statik fester und flüssiger Körper. 391 
@@ -25544,7 +25479,7 @@ nur die eine, zu der wir uns jetzt wenden, für praktische Schlussfolge-
 rungen ausgearbeitet worden. 
 
 
-824. Laplace’s hypothetisches Gesetz über die Dichtig- 
+824. Laplace's hypothetisches Gesetz über die Dichtig- 
 keit im Innern der Erde. — Um die Ergebnisse der vorher- 
 gehenden Untersuchung auf die Bestimmung des Gesetzes der Ellip- 
 tıicität der Schichten gleicher Dichtigkeit innerhalb der Erde, unter 
@@ -25586,7 +25521,7 @@ Bei Vernachlässigung der störenden Kräfte haben wir ($$ 822, 752)
 (1) dp=od(V-+ N). 
 
 
-Nach der oben angegebenen Hypothese von Laplace ist aber, wenn %’ 
+Nach der oben angegebenen Hypothese von Laplace ist aber, wenn %' 
 eine gewisse Constante bezeichnet, 
 
 
@@ -25622,7 +25557,7 @@ so ıann das Integral dieser Gleichung in folgender Form ausgedrückt
 werken: — 
 
 
-“oz | ro=F sin (= + @)- 
+"oz | ro=F sin (= + @)- 
 
 
 Wenn wir voraussetzen, die ganze Masse sei flüssig, d. h. es sei kein 
@@ -25668,7 +25603,7 @@ Gleichung (4)
 
 
 r 
-u—u „de an „a u de’ ' = a1. 80’ 
+u—u "de an "a u de' ' = a1. 80' 
 ( Pr 4X Te)w+ E E Sr: gm ar +4r r u, zn dr' 
 [73 
 
@@ -25685,9 +25620,9 @@ r
 b) r 2 
 
 
-wo 4’ dieMasse der von dem Kern «# verdrängten, dem Dichtigkeitsgesetz 
+wo 4' dieMasse der von dem Kern «# verdrängten, dem Dichtigkeitsgesetz 
 (3) folgenden Flüssigkeit ist. In dem die Erde betreffenden Problem 
-können wir #’ = u und natürlich a = 0 annehmen. Der Einfachheit 
+können wir #' = u und natürlich a = 0 annehmen. Der Einfachheit 
 wegen setzen wir noch 
 
 
@@ -25720,7 +25655,7 @@ so dass %, aus (6) bekannt ist. Nun haben wir schon bewiesen, dıss %
 vom Centrum aus nach aussen hin wächst; es muss daher 
 
 
-’=0 
+'=0 
 sein, da sonst %, im Centrum unendlich gross sein würde Wir halten 
 also schliesslich 
 
@@ -26001,11 +25936,11 @@ gleichen Drucks sein würden.
 
 827. Bestimmung der Constanten der Präcession mittels 
 
-des Laplace’schen Gesetzes. — Wir wollen aber zunächst unter- 
+des Laplace'schen Gesetzes. — Wir wollen aber zunächst unter- 
 : C— 
 
 suchen, welche Grösse die terrestrische Constante eo = der Prä- 
-cession und Nutation haben würde, wenn Laplace’s Gesetz über 
+cession und Nutation haben würde, wenn Laplace's Gesetz über 
 die Dichtigkeit im Innern der Erde richtig wäre, und wenn die 
 Schichten gleicher Dichtigkeit für die jetzige Winkelgeschwindigkeit 
 der Rotation Niveauflächen wären. Jedes Trägheitsmoment, welches 
@@ -26148,7 +26083,7 @@ ee p} BEER;
 ist, was, wie es auch der Fall sein muss, mit $ 825 (16) übereinstimmt. 
 
 
-828. Vergleich der Laplace’schen Hypothese mit der 
+828. Vergleich der Laplace'schen Hypothese mit der 
 
 
 Beobachtung. — Aus den von Le Verrier und Serret mit 
@@ -26191,10 +26126,10 @@ hat, die Längen des Compressionsmodulus ($ 688) der obersten
 Flüssigkeitsschicht zu finden. \ 
 Wir haben nach $ 824 (3) 
 Be; da__F er Mn} 
-er EEE r r x /’ 
+er EEE r r x /' 
 
 
-*) Annales de l’Observatoire Impgrial de Paris, 1859, p. 324. 
+*) Annales de l'Observatoire Impgrial de Paris, 1859, p. 324. 
 Thomson u. Tait, theoretische Physik. OH. 26 
 
 
@@ -26214,7 +26149,7 @@ Kupfer 4. 5 ui. 0 ze vun ae ee ee el
 Eisen . ... 41 
 
 
-Geschmolzene Lava, nach Laplace’s Gesetz, für f = 21 . 442 
+Geschmolzene Lava, nach Laplace's Gesetz, für f = 21 . 442 
 
 
 Dieser Vergleich kann entschieden als dem Gesetz von Laplace 
@@ -26237,11 +26172,11 @@ Bedeutung beilegen, welche jener Satz ihm versagtee Der in
 8 405 angegebene Satz wurde von Laplace aus der Ueberein- 
 stimmung der Beobachtung und seiner Dynamik der mittleren Be- 
 wegung des Mondes gezogen. Im Jahre 1853 wies Adams in 
-Laplace’s Werk einen Fehler nach, der bis dahin der Aufmerk- 
+Laplace's Werk einen Fehler nach, der bis dahin der Aufmerk- 
 samkeit der Astronomen entgangen war, und zeigte, dass ungefähr 
 nur die Hälfte der beobachteten Beschleunigung der mittleren Be- 
 wegung des Mondes in Beziehung auf die Winkelgeschwindigkeit 
-der Rotation der Erde nach Laplace’s Theorie ihre Erklärung 
+der Rotation der Erde nach Laplace's Theorie ihre Erklärung 
 fände. Im Jahre 1859 theilte er Delaunay als Resultat, zu dem 
 er schliesslich gelangt sei, mit: — dass der Mond am Ende eines Jahr- 
 hunderts sich 57” vor der Lage befindet, welche er in Beziehung 
@@ -26317,7 +26252,7 @@ Thatsachen hinsichtlich der oben ($ 829) angegebenen Zusammen-
 drückbarkeit terrestrischer Substanzen ıst es höchst wahrscheinlich, 
 dass sogar in einem chemisch homogenen Stoffe nach unten zu eine 
 continuirliche Zunahme der Dichtigkeit in einem Betrage erfolgt, der 
-mit dem in Laplace’s Gesetz vorausgesetzten vergleichbar ist. Es 
+mit dem in Laplace's Gesetz vorausgesetzten vergleichbar ist. Es 
 ist aber nicht unwahrscheinlich, dass auch discontinuirliche Aende- 
 rungen in der Beschaffenheit der Substanz vorhanden sein mögen, wie 
 z.B.wenn ein grosser Theil des Erdinnern zu einer früheren Zeit aus 
@@ -26329,8 +26264,8 @@ ungleicher Dichtigkeit besteht, wobei jedoch jede der Flüssig-
 keiten als unzusammendrückbar vorausgesetzt wird. 
 
 
-Es seien o und go + o’ die Dichtigkeiten der beiden Flüssigkeiten ; 
-die Flüssigkeit von der Dichte e + _’ bilde das Sphäroid 
+Es seien o und go + o' die Dichtigkeiten der beiden Flüssigkeiten ; 
+die Flüssigkeit von der Dichte e + _' bilde das Sphäroid 
 
 
 () r=alı tr e(g—o8)], 
@@ -26353,10 +26288,10 @@ Nun ist das Potential in einem Punkte r, $ in der äusseren Flüs-
 
 
 sigkeit R R 
-4 3a’ — 
+4 3a' — 
 ae Be beine] 
-E- 7 ne ur 3 a’5 
-(3) 7 + ET &’ E — cos? s)| 
+E- 7 ne ur 3 a'5 
+(3) 7 + ET &' E — cos? s)| 
 
 
 1 1 
@@ -26367,7 +26302,7 @@ er , Mir G cos )
 Die erste Zeile ist das aus einer das grössere Sphäroid ausfüllenden 
 Flüssigkeit von der Dichte e herrührende Potential, die zweite das 
 Potential, welches aus einer das innere Sphäroid erfüllenden Flüssigkeit 
-von der Dichte e’ entsteht, die dritte das in räumlichen harmonischen 
+von der Dichte e' entsteht, die dritte das in räumlichen harmonischen 
 
 
 Functionen dargestellte Potential E w2 r2 sin? s) der Centrifugalkraft. 
@@ -26395,16 +26330,16 @@ zu entnehmen.
 Drückt man w? durch die bekannte Grösse m aus, so erhält man 
 
 
-= we _ m a’3 
+= we _ m a'3 
 (5) (e+ Q3 e')- 
 Auch ist zu einem Re Grade der Genauigkeit 
-87 a’5 
+87 a'5 
 BER AL; | 
 Fe (e+ We) 
-() 47 a’3 
+() 47 a'3 
 u=zeletze) 
 und die mittlere Dichtigkeit ist offenbar 
-2 a’3 , 
+2 a'3 , 
 (7) e + rg. 
 
 
@@ -26416,7 +26351,7 @@ aus der Beobachtung und aus Experimenten bekannt, so dass, wenn wir
 
 
 . a ®. = 
-einen Werth von = annehmen, wir sofort e und ge’ und daraus den 
+einen Werth von = annehmen, wir sofort e und ge' und daraus den 
 
 
 y 
@@ -26448,7 +26383,7 @@ erwähnten, setzten voraus, dass dıe äussere Oberfläche der festen
 Erdrinde absolut starr se. Vor wenigen Jahren *) wurde zum 
 
 
-*) „Ou the Rigidity of the Earth.* W. Thomson. Trans. R. $., May 1862. 
+*) "Ou the Rigidity of the Earth.* W. Thomson. Trans. R. $., May 1862. 
 
 
 406 | Abstracte Dynamik. 
@@ -26484,17 +26419,17 @@ So würden ($$ 819, 824) die vollen Mond- und Sonnengleich-
 gewichtsfluthen eintreten, und deren Höhe würde 21/, mal so 
 gross sein, wenn die Flüssigkeit homogen wäre, oder nahezu 
 doppelt so gross, wenn die Flüssigkeit heterogen wäre und 
-ihre Dichtigkeit nach Laplace’s hypothetischem Gesetz zu- 
+ihre Dichtigkeit nach Laplace's hypothetischem Gesetz zu- 
 nähme. Wenn jetzt eine sehr dünne Schicht einer leichteren 
 Flüssigkeit hinzugefügt würde, so würde diese Schicht die frühere 
 
 
-*) Es wird im zweiten Bande gezeigt werden, dass die „Gleichgewichtstheorie“ 
+*) Es wird im zweiten Bande gezeigt werden, dass die "Gleichgewichtstheorie" 
 der Fluthen für einen Ocean von gleichmässiger oder nach unten hin zunehmender 
 Dichtigkeit, welcher einen festen Kern vollständig bedeckt, wegen der täglichen 
-“Rotation eine Correction erfordert, aber eine um so kleinere Correction, je kleiner 
+"Rotation eine Correction erfordert, aber eine um so kleinere Correction, je kleiner 
 dieser Kern ist, und dass sie, wenn kein solcher Kern vorhanden ist, vollständig 
-mit der „kinetischen Theorie“ übereinstimmt, immer vorausgesetzt, dass die Winkel- 
+mit der "kinetischen Theorie" übereinstimmt, immer vorausgesetzt, dass die Winkel- 
 geschwindigkeit für die gewöhnlichen Annäherungen (SS 794, 801, 802, 815) nicht 
 zu gross ist, welche erfordern, dass auf keine Weise eine mehr als unendlich kleine 
 Abweichung von der Kugelgestalt stattfinde. Es ist interessant zu bemerken, dass 
@@ -26563,8 +26498,8 @@ und (7) des $ 733 folgende Werthe: —
 
 en 1 dr? W,,). ı | 2? dW,rı 
 
-“= Tge@vt5)(mFn) dx m+tn| 2(2v»+3 dx | 
-(1) „2v+5 (Wan 27-3 
+"= Tge@vt5)(mFn) dx m+tn| 2(2v»+3 dx | 
+(1) "2v+5 (Wan 27-3 
 
 +5,F9)&6r+5 dx 
 
@@ -26618,16 +26553,16 @@ zugkraft resultiren würde. Die Lösung dieses Theils des Problems ent-
 hält $ 737 (52), wo die besonderen Data jetzt - 
 
 
-A, __mtbtnn „AM 
+A, __mtbtnn "AM 
 artı (2v+3)(m+n) dx 
 
 5 R 
 
-( ) A,ıra a (2, +5)m—n „y+3 d (Wr arms, 
+( ) A,ıra a (2, +5)m—n "y+3 d (Wr arms, 
 FH Twtwtm EN TE 
 
 
-und symmetrische Ausdrücke für B,, CO, und B,,„ C,ıga, aber keine 
+und symmetrische Ausdrücke für B,, CO, und B,," C,ıga, aber keine 
 
 
 Grössen von anderen Ordnungen als » und » + 2 sind. Folglich ergibt 
@@ -26638,7 +26573,7 @@ Pe  —
 
 
 . Statik fester und flüssiger Körper. 409 
-„erDer Dee Daja 
+"erDer Dee Daja 
 
 
 6 . 
@@ -26651,14 +26586,14 @@ em na, Wr Byı3 = 0.
 
 Nun kann (52), wenn man die passenden Ausdrücke für » + 2 statt v 
 addirt, zur Bestimmung von «, benutzt werden und geht, da #,_, und 
-P „+g3 verschwinden, über in 
+P "+g3 verschwinden, über in 
 
 
 = 1 | art! de, A, 7] 
 
 
 = b-1lvertı) de yı 
-ri m (a? — r2) a’! dW 1, 
+ri m (a? — r2) a'! dW 1, 
 (7) 2 2 +2? +1]m—(2v+3)n dx 
 
 
@@ -26691,7 +26626,7 @@ wo
 
 
 v»+1 2vn/fa (vw +22? H-ı]m —(2v+3)n} 
-Se („+2)(2»+5)m — (27 -+3)n 
+Se ("+2)(2»+5)m — (27 -+3)n 
 9) ) 41 32» + 3)n ewta®P Fılm —_@vte)n) 
 BL tm _ 
 Gr taame+toP Film Br Fön) | 
@@ -26755,8 +26690,8 @@ al
 
 
 ds 
-r—)€ ar — -6 „| fe 2. Mil 
-| A 4 „+ cosld%' 
+r—)€ ar — -6 "| fe 2. Mil 
+| A 4 "+ cosld%' 
 
 
 woraus schliesslich nach (9) für 'r 
@@ -26768,7 +26703,7 @@ folgt. Die Ausdrücke für 'l und ‘A lassen wir besser, wie sie in (12) und
 (9) dargestellt sind. Aus (13) ergibt sich 
 a) Ir et mat +Yym—ne—n) ig 
 
-dr ?2n{f2 +2”? +1ı]m — 2» +3)n} y+1’ 
+dr ?2n{f2 +2”? +1ı]m — 2» +3)n} y+1' 
 
 
 was für r<(a immer positiv ist, da » wenigstens gleich 1 und [$ 698 (1)] 
@@ -26912,7 +26847,7 @@ Bm—n
 2(4m—n) 
 
 Für harmonische Störungen höherer Ordnungen nimmt die 
-“natürlich im Verhältniss zum Radius gerechnete Grösse der Ab- 
+"natürlich im Verhältniss zum Radius gerechnete Grösse der Ab- 
 weichung von der Kugelgestalt von der Oberfläche an nach innen 
 hin bis zu einem gewissen Abstande zu und von da bis zum Cen- 
 trum ab. Dieser bemerkenswerthe Satz lässt sich leicht ohne An- 
@@ -26965,7 +26900,7 @@ Beziehung auf eine Axe symmetrische harmonische Function zweiten
 Grades. In einem Falle sind die Deformationsellipsoide abgeplat- 
 tete, im andern Falle zugespitzte concentrische Rotationsellipsoide. 
 In jedem Falle nimmt die Ellipticität von der Oberfläche aus nach 
-innen hin’ nach demselben Gesetz [$ 834 (16)] zu, welches natürlich 
+innen hin' nach demselben Gesetz [$ 834 (16)] zu, welches natürlich 
 vom Radius der Kugel unabhängig ist. Für Kugeln von verschie- 
 denen Dimensionen und ähnlichen Substanzen verhalten sich die 
 durch Rotationen von gleicher Winkelgeschwindigkeit erzeugten 
@@ -26978,7 +26913,7 @@ dieselbe ist, so sind die Elliptieitäten einander gleich. Für feste
 414 Abstracte Dynamik. 
 
 
-Körper, welche Poisson’s Hypothese ($ 685), nach welcher m—2n 
+Körper, welche Poisson's Hypothese ($ 685), nach welcher m—2n 
 ist, erfüllen, sind die Werthe der Ellipticität auf der Oberfläche und 
 am Centrum beziehungsweise 
 
@@ -27066,7 +27001,7 @@ homogenen Stoffe besteht, und deren Dichtigkeit gleich der mittleren
 Glas hat. Wir setzen zunächst voraus, die Masse dieser Kugel 
 
 werde der Eigenschaft beraubt, dass ıhre Theile eine Attraction auf 
-„einander ausüben. Dann werden die durch eine Rotation oder 
+"einander ausüben. Dann werden die durch eine Rotation oder 
 durch eine Fluth erzeugende Kraft hervorgebrachten Ellipticitäten 
 die durch die vorhergehenden Formeln [$ 834 (22)] gegebenen 
 
@@ -27114,17 +27049,17 @@ gemessene störende Einfluss, — und r beziehungsweise die Ellip-
 ticitäten der sphäroidalen Figur, in welche sich die Kugel unter 
 den beiden Voraussetzungen: Starrheit ohne Schwere und Schwere 
 ohne Starrheit verwandelt. Ferner sei e die wirklich erlangte 
-Ellipticität, und es werde 7 in 7’ und 7” getheilt, welche Grössen 
+Ellipticität, und es werde 7 in 7' und 7” getheilt, welche Grössen 
 den beiden Theilen proportional sein sollen, in welche wir uns den 
 störenden Einfluss, während er jene Ellipticität unterhält, getheilt 
 
 
 denken. Dann ist 
-it’ +" 
+it' +" 
 
 
 und 
-rt x’ 
+rt x' 
 e =... 
 L 8 
 Daraus folgt 
@@ -27132,7 +27067,7 @@ T
 e — + g, By 
 oder ® 
 1 r g 
-e ı = T’ 
+e ı = T' 
 
 
 was den Satz beweist. Die letzte Formel liefert auch 
@@ -27148,7 +27083,7 @@ Nach $$ 838, 839 ist
 
 19 n 29 
 27 u EL 
-22 gar ne ba’ 
+22 gar ne ba' 
 
 
 Statik fester und flüssiger Körper. 417 
@@ -27158,7 +27093,7 @@ N
 19n __ eG 
 
 
-2gaw Daw’ 
+2gaw Daw' 
 
 
 r 
@@ -27360,33 +27295,33 @@ der Erde herrühren.
 846. Mehr Beobachtungen und eine genauere Reduction der 
 schon gemachten Beobachtungen sind erforderlich, um eine ent- 
 scheidende Antwort auf die Fragen zu geben, wie viel die vierzehn- 
-tägıgen und wie viel die halbjährlichen Fluthen betragen. „In den 
-„Philosophical Transactions, 1839, p. 157 zeigt Whewell, 
-' „dass die in Plymouth angestellten Beobachtungen des hohen und 
-„niedrigen Wasserstandes ergeben, dass die mittlere Wasserhöhe 
-„zunimmt bei zunehmender Declination des Mondes und sich auf 
-„3 Zoll beläuft, wenn die Declination des Mondes 25° ist. Diese 
-„Aenderung geschieht in demselben Sinne, wie die, welche der obige 
-„Ausdruck für hohe Breiten anzeigt. Die Wirkung der Declination der 
-„Sonne ist aus den Beobachtungen nicht bestimmt worden. In der ge- 
-„nannten Arbeit (p. 163) theilt Whewell die Beobachtungen einiger 
-„ausserordentlichen Fluthen in Peter-Paulshafen, Novo-Archangelsk 
-„und der an der Westküste von Nordamerika gelegenen Insel 
-„Siteha mit. 
+tägıgen und wie viel die halbjährlichen Fluthen betragen. "In den 
+"Philosophical Transactions, 1839, p. 157 zeigt Whewell, 
+' "dass die in Plymouth angestellten Beobachtungen des hohen und 
+"niedrigen Wasserstandes ergeben, dass die mittlere Wasserhöhe 
+"zunimmt bei zunehmender Declination des Mondes und sich auf 
+"3 Zoll beläuft, wenn die Declination des Mondes 25° ist. Diese 
+"Aenderung geschieht in demselben Sinne, wie die, welche der obige 
+"Ausdruck für hohe Breiten anzeigt. Die Wirkung der Declination der 
+"Sonne ist aus den Beobachtungen nicht bestimmt worden. In der ge- 
+"nannten Arbeit (p. 163) theilt Whewell die Beobachtungen einiger 
+"ausserordentlichen Fluthen in Peter-Paulshafen, Novo-Archangelsk 
+"und der an der Westküste von Nordamerika gelegenen Insel 
+"Siteha mit. 
 
-„Sowohl nach den in den Philosophical Transactions’ ver- 
-„öffentlichten, wie nach den übrigen auf dieselben Beobachtungsorte 
+"Sowohl nach den in den Philosophical Transactions' ver- 
+"öffentlichten, wie nach den übrigen auf dieselben Beobachtungsorte 
 
 
 Statik fester und flüssiger Körper. 421 
 
 
-„bezüglichen Curven (von denen uns Herr Whewell Einsicht neh- 
-„men zu lassen dıe Güte hatte) scheint es ganz unzweifelhaft zu 
-„sein, dass die mittlere Höhe des Wassers in Peter-Paulshafen und 
-„Archangelsk steigt, wenn die Declination des Mondes zunimmt. 
+"bezüglichen Curven (von denen uns Herr Whewell Einsicht neh- 
+"men zu lassen dıe Güte hatte) scheint es ganz unzweifelhaft zu 
+"sein, dass die mittlere Höhe des Wassers in Peter-Paulshafen und 
+"Archangelsk steigt, wenn die Declination des Mondes zunimmt. 
 
-„Mehr ist über diesen Punkt nicht bekannt.“ — (Airy, Tides and 
+"Mehr ist über diesen Punkt nicht bekannt." — (Airy, Tides and 
 Waves, $ 533). 
 
 
@@ -27468,7 +27403,7 @@ Mondes und der Sonne erlittene Deformation klein ıst im Vergleich
 zu der, die die Erde erleiden würde, wenn sie vollkommen flüssig 
 wäre. Es steht jedoch fest, dass es im Innern der Erde flüssige 
 Massen gibt. Beweis dafür sind die Eruptionen von Lava aus den 
-“ Vulcanen. Aber dies sind wahrscheinlich ganz locale Zustände, wie 
+" Vulcanen. Aber dies sind wahrscheinlich ganz locale Zustände, wie 
 Hopkins behauptete, der zuerst die Erscheinungen der Präcession 
 und Nutation anführte, um die Hypothese, dass der feste Theil der 
 Erdmasse bloss eine dünne Schale sei, zu widerlegen. £ 
@@ -27483,7 +27418,7 @@ den tieferen Theilen der hypothetischen Flüssigkeit. Die durch die
 Fluth erzeugende Einwirkung in den Schichten gleicher Dichtigkeit 
 hervorgebrachte Abplattung würde ($ 815) die Ellipticität, welche 
 die Fluth der obersten Fläche ertheilt, vergrössern, und wenn daher 
-“die feste Erdrinde vollkommen starr, also die Umgrenzungsfläche 
+"die feste Erdrinde vollkommen starr, also die Umgrenzungsfläche 
 von absolut constanter Gestalt wäre, so würden die Fluthen grösser 
 sein, als sie sein würden, wenn die Erde überall vollkommen starr 
 wäre. 
@@ -27565,7 +27500,7 @@ Nähe von P liegenden Masse vollständig.
 wurde [in einer in der ersten Nummer des Quarterly Mathema- 
 tical Journal, April 1855 veröffentlichten Arbeit über die thermo- 
 elastischen Eigenschaften der Materie, über welche im dritten Bande 
-berichtet werden wird], dass Green’s dynamische Theorie der ela- 
+berichtet werden wird], dass Green's dynamische Theorie der ela- 
 
 
 426 Abstracte Dynamik. 
@@ -27608,7 +27543,7 @@ nıederschreiben,
 
 
 Sf. dw dw du Ze ae) are 
-80 1255. (5 “ Vrmantaenn de 
+80 1255. (5 " Vrmantaenn de 
 dw da dw de ddoa 
 er re Nr 
 +! dw da dw da dw I ee 
@@ -27631,7 +27566,7 @@ Statik fester Körper. 427
 
 dda döa döu 
 
-d2e’dy’ds 
+d2e'dy'ds 
 mit ö W verschwinde, müssen in dem jetzt dafür gefundenen Aus- 
 drucke (6) die Multiplicatoren von d«, Öß, ÖY einzeln verschwinden, 
 und wir erhalten somit als Gleichungen des inneren Gleich- 
@@ -27647,7 +27582,7 @@ dz\ dA 7 db ds +7 d
 
 Yy 
 A dw da  dwdu | +1)) 
-(7) 77, aBäy’ dads +1) 
+(7) 77, aBäy' dads +1) 
 | dw da , dwda = 2 | 
 Del ac as dady ' db zz. 
 
@@ -27678,7 +27613,7 @@ fenheit nun auch der feste Körper hinsichtlich der Elasticitätsdiffe-
 renz, die in irgend einem Theil in verschiedenen Richtungen statt- 
 finde, oder hinsichtlich der Heterogenität von Punkt zu Punkt sein 
 möge, und einer wie grossen Form- und Dimensionenänderung er 
-“auch unterworfen sein möge, wenn es keine innere Configuration 
+"auch unterworfen sein möge, wenn es keine innere Configuration 
 instabilen und folglich nur eine Configuration stabilen Gleichgewichts 
 geben kann, welche die für die Punkte der Oberfläche vorgeschrie- 
 bene Verschiebung enthält, und bei welcher keine störende Kraft 
@@ -27702,7 +27637,7 @@ nicht die Verschiebungen der Oberflächenpunkte, sondern die auf
 dieselben einwirkenden Kräfte gegeben sind. | 
 
 
-(g) Fall unendlich kleiner Deformationen. Green’s 
+(g) Fall unendlich kleiner Deformationen. Green's 
 Theorie. — Welches auch die allgemeine Form der Function f für 
 irgend einen Theil der Substanz sein möge, da dieselbe immer posi- 
 tiv ist, so kann sie ihr Zeichen nicht ändern, wenn A—1, B—1, 
@@ -27713,7 +27648,7 @@ ist von Nutzen zu bemerken, dass / daher für alle Werthe der Ver-
 änderlichen A, B, u. s. w. in derselben Form ausgedrückt werden 
 kann, und dass jeder der variabeln Coefficienten dieses Ausdrucks 
 für alle Werthe der Veränderlichen immer von endlicher Grösse ist.) 
-Für unendlich kleine Deformationen ist demnach Green’s Theorie 
+Für unendlich kleine Deformationen ist demnach Green's Theorie 
 der elastischen festen Körper auf eine homogene Function zweiten 
 Grades der Deformationscomponenten basirt, und zwar drückt diese 
 Function dıe zur Hervorbringung der Deformation erforderliche 
@@ -27762,7 +27697,7 @@ a du, ddm, dam
 dxdb dyda dzdyg 
 bringen; dies sind die Gleichungen des inneren Gleichgewichts. 
 ZICAMER 
-de' da’ 
+de' da' 
 Deformationscomponenten e, f, 9, a, b, c sind. Eine derselben wollen 
 wir als Beispiel vollständig niederschreiben : 
 
@@ -27804,15 +27739,15 @@ für einen heterogenen, als auch für einen homogenen festen Körper,
 dessen Oberfläche der angegebenen Bedingung unterworfen ist, nur 
 eine Lösung zulassen. Zu diesem Zwecke seien @, ß, Y Verschie- 
 bungscomponenten, welche den Gleichungen genügen, und es bezeich- 
-nen «', ’, Y' beliebige andere Functionen von £, Y, £, welche die- 
+nen «', ', Y' beliebige andere Functionen von £, Y, £, welche die- 
 
 
 430 Abstracte Dynamik. 
 selben Oberflächenwerthe wie &,ß,y haben. Wenn ferner € = adarih 
 
 
-Functionen bezeichnen, die in derselben Weise von «’, ß’, y’, wie 
-e, f, -:„ W von @, ß, y abhängen, so ist nach dem Taylor’schen 
+Functionen bezeichnen, die in derselben Weise von «', ß', y', wie 
+e, f, -:" W von @, ß, y abhängen, so ist nach dem Taylor'schen 
 Satze 
 
 
@@ -27835,7 +27770,7 @@ dwd(e —o) , dwd(« —.a) mie —a -_
 ie Fer era Te 
 Wenn wir dies mit dx dy dz multipliciren und a partiell ın- 
 tegriren, so erhalten wir einfach der ‚Gleichungen (10) wegen, und 
-weile’ — «a, ß' — ß, y' — Y aufder Umgrenzungsfläche verschwinden, 
+weile' — «a, ß' — ß, y' — Y aufder Umgrenzungsfläche verschwinden, 
 
 
 (13) a) dx dy de= [[/Hdx dy da. 
@@ -27877,7 +27812,7 @@ des Körpers eine gewisse Grenze überschreitet.
 
 (k) Bedingung der Isotropie. — Wenn wir jetzt zum all- 
 gemeinen Problem zurückkehren, in welchem die Deformationen 
-nicht als unendlich klein vorausgesetzt werden, so’ sehen wir, dass, 
+nicht als unendlich klein vorausgesetzt werden, so' sehen wir, dass, 
 wenn der feste Körper in jedem Theil isotrop ist, die w ausdrückende 
 Function von A, B, C, a, b, c bloss eine Function der Wurzeln der 
 Gleichung [$ 181 (11)] 
@@ -27917,7 +27852,7 @@ sei; dies lässt sich leicht auf zwei Weisen darthun: analytisch, in-
 dem man zwei der Coordinatenaxen in ihrer eigenen Ebene durch 
 einen Winkel von 45° dreht; geometrisch, indem man die Natur der 
 durch eins der Elemente a, b, c dargestellten Deformation (eine 
-„einfache Schiebung“) untersucht und mit der Resultante von ce und 
+"einfache Schiebung") untersucht und mit der Resultante von ce und 
 
 
 432 Abstracte Dynamik. 
@@ -27930,7 +27865,7 @@ empfiehlt sich jetzt,
 
 zu setzen, und danach geht der Ausdruck der für die Volumeneinheit 
 genommenen potentiellen Energie über in 
-wv=m(e+f/+ 9?’ 
+wv=m(e+f/+ 9?' 
 
 Hne@+R+NP—2/9-29e—2efta+b? +0). 
 Wenn wir dies in (9) benutzen und für e,f, 9,a,b, c die aus (12) 
@@ -27980,7 +27915,7 @@ von 1 zu 1 +4 Ö vergrössert. In diesem Falle verwandelt sieh
 
 
 (18) in 
-„=; (m-zn)& 
+"=; (m-zn)& 
 
 
 uhd wir erhalten 
@@ -27997,7 +27932,7 @@ lm -zn)® |
 Folglich ist (m =; n) Ö die für die Flächeneinheit genommene 
 
 
-zur Oberfläche normale Kraft, deren’ es bedarf, um irgend einen 
+zur Oberfläche normale Kraft, deren' es bedarf, um irgend einen 
 Theil des Körpers in der durch Ö ausgedrückten Ausdehnung zu 
 1 
 erhalten. Danach misst m — zn die durch die Volumenänderung 
@@ -28007,7 +27942,7 @@ angesehen, die Volumenelasticität genannt werden [vergleiche.
 88 692, 693, 694, 688, 682 und 680]. Was man gewöhnlich die 
 
 
-„Zusammendrückbarkeit“ nennt, wird durch gemessen. 
+"Zusammendrückbarkeit" nennt, wird durch gemessen. 
 
 
 Mm an 
@@ -28079,7 +28014,7 @@ geworden ist.
 
 
 (c) Ich habe versucht, dies für die Sonnenwärme in einem neu- 
-lich in Macmillan’s Magazine (März 1862) veröffentlichten Ar- 
+lich in Macmillan's Magazine (März 1862) veröffentlichten Ar- 
 tikel zu beweisen, in welchem ich gezeigt habe, dass die Sonne 
 höchst wahrscheinlich vor einer Million Jahren wärmer 
 war, als sie jetzt ist. Folglich haben die geologischen Specu- 
@@ -28088,7 +28023,7 @@ peraturextreme grösser, die Stürme und Fluthen heftiger, die Vege-
 tation üppiger und die Pflanzen und Thiere gröber und zäher 
 gewesen seien, mehr Wahrscheinlichkeit für sich, als diejenigen der 
 Vertreter einer äussersten Gleichförmigkeit in der Geschichte der 
-Erde. Ein „Mittelweg“, der in wissenschaftlichen Untersuchungen 
+Erde. Ein "Mittelweg", der in wissenschaftlichen Untersuchungen 
 freilich nicht immer der sicherste ist, scheint es doch in diesem Falle 
 zu sein. Esist wahrscheinlich, dass die Annahme grosser Katastrophen, 
 die alles Leben von der Erde vertilgten und plötzlich die ganze 
@@ -28098,10 +28033,10 @@ nach welchen die Wärme und die Stürme 1,000,000 Jahre hindurch
 von gleicher Grösse gewesen seien. 
 
 
-(d) Fourier’s mathematische Theorie der Wärmeleitung ist 
+(d) Fourier's mathematische Theorie der Wärmeleitung ist 
 _ eine schöne Bearbeitung eines besonderen Falles aus der allgemeinen 
-Theorie der „Zerstreuung von Energie“ *), Eine Eigenthümlichkeit 
-der praktischen Lösungen, welche Fourier’s Arbeit darbietet, besteht 
+Theorie der "Zerstreuung von Energie" *), Eine Eigenthümlichkeit 
+der praktischen Lösungen, welche Fourier's Arbeit darbietet, besteht 
 darın, dass in jedem Falle eine Temperaturvertheilung, welche in 
 einer unbegrenzten Zukunft allmälig ausgeglichen wird, durch eine 
 Function der Zeit ausgedrückt wird, die für alle länger als eine 
@@ -28109,13 +28044,13 @@ gewisse bestimmbare Epoche verflossenen Zeiten ins Unendliche di-
 vergirt. Die Vertheilung der Wärme in einer solchen Epoche ist 
 eine yrsprüngliche, d. h. sie kann nicht durch natürliche Vor- 
 gänge aus einem vorausgehenden Zustande der Materie herrühren. 
-Sie wird daher in Fourier’s grossem mathematischen Gemälde 
-passend eine „willkürliche ursprüngliche Wärmevertheilung“ ge- 
+Sie wird daher in Fourier's grossem mathematischen Gemälde 
+passend eine "willkürliche ursprüngliche Wärmevertheilung" ge- 
 
 
-*) Proceedings of Royal Soc. Edin., Febr. 1852. „On a Universal Tendency 
-in Nature to the Dissipation of Mechanical Energy“. Siehe auch „On the Re- 
-storation of Energy in an Unequally Heated Space“, Phil. Mag., 1853, 1. Halbjahr. 
+*) Proceedings of Royal Soc. Edin., Febr. 1852. "On a Universal Tendency 
+in Nature to the Dissipation of Mechanical Energy". Siehe auch "On the Re- 
+storation of Energy in an Unequally Heated Space", Phil. Mag., 1853, 1. Halbjahr. 
 
 
 28* 
@@ -28130,8 +28065,8 @@ zu modificiren. In einem vor ungefähr neunzehn Jahren im Cam-
 bridge Mathematical Journal*) veröffentlichten Artikel gab ich 
 das mathematische Criterium für eine wirklich ursprüngliche Ver- 
 theilung, und in einer vor der Facultät der Universität Glasgow im 
-Jahre 1846 gelesenen Antrittsrede „De Motu Caloris per Terrae 
-Corpus“ theilte ich als eine Anwendung dieser Principien mit, dass 
+Jahre 1846 gelesenen Antrittsrede "De Motu Caloris per Terrae 
+Corpus" theilte ich als eine Anwendung dieser Principien mit, dass 
 ein ganz vollständiges geothermisches System uns die Daten zur 
 Bestimmung einer ursprünglichen Epoche in dem Problem der 
 Wärmeleitung der Erde liefern würde. Auf der Zusammenkunft 
@@ -28152,7 +28087,7 @@ oder zufrieden stellende Resultate erwarten dürften.
 (e) Der Hauptzweck der vorliegenden Mittheilung ist der, aus 
 der bekannten allgemeinen Zunahme der Temperatur in der Erde 
 den Zeitpunkt zu bestimmen, in welchem zuerst jener consistentior 
-status eintrat, welcher nach Leibnitz’s Theorie der Ausgangs- 
+status eintrat, welcher nach Leibnitz's Theorie der Ausgangs- 
 punkt jeder geologischen Geschichte ist. 
 
 
@@ -28169,7 +28104,7 @@ Grösse der Zunahme (für die man in einigen Gegenden nur
 En Grad F., in anderen gar 15 Grad F. für die Tiefe von 1 engl. Fuss 
 
 
-*) Feb. 1844. — „Note on Certain Points in the Theory of Heat“, 
+*) Feb. 1844. — "Note on Certain Points in the Theory of Heat", 
 **) British Association Report of 1855 (Glasgow) Meeting. 
 
 
@@ -28218,7 +28153,7 @@ geistreichen Erfinders, dass sie ewig fortgehen würde, erfüllen
 könnte. 
 
 (h) Es muss in der That zugegeben werden, dass viele geolo- 
-gische Schriftsteller, welche die „Uniformität“ vertheidigen und ın 
+gische Schriftsteller, welche die "Uniformität" vertheidigen und ın 
 anderen Beziehungen ihren Gegenstand tief philosophisch zu be- 
 handeln verstanden, in einer ganz sophistischen Weise gegen die 
 Annahme stürmischerer älterer Entwicklungsperioden angekämpft 
@@ -28264,7 +28199,7 @@ ergeben hätte, und in der That ist kaum daran zu zweifeln, dass
 die chemische Wirkung einen bemerkenswerthen (möglicher Weise 
 jedoch negativen) Einfluss auf die Wirkung der Vulcane ausübt. 
 Dass aber in einer grossen unbekannten Tiefe unter der Oberfläche 
-überall eine langsame gleichmässige „Verbrennung“ oder chemische 
+überall eine langsame gleichmässige "Verbrennung" oder chemische 
 Verbindung irgend einer Art vor sich gehe, die allmälig, wenn die 
 chemischen Verwandtschaftskräfte successive in einer Schicht nach 
 der anderen gesättigt werden, immer weiter in die Erde eindringt, 
@@ -28281,8 +28216,8 @@ ziehen, nach welcher die Erde nichts als ein chemisch unthätiger, i ın
 der Abkühlung begriffener warmer Körper ist. 
 
 
-(j) Mangelhaftigkeit der Poisson’schen Hypothese. — Pois- 
-son’s berühmte Hypothese, dass die jetzige Wärme des Erdinnern 
+(j) Mangelhaftigkeit der Poisson'schen Hypothese. — Pois- 
+son's berühmte Hypothese, dass die jetzige Wärme des Erdinnern 
 aus einem in einer früheren Periode erfolgten Durchgang des Sonnen- 
 systems durch wärmere Regionen des Weltenraumes herrühre, kann 
 nicht den Umstand erklären, dass die Petrefactenbildung während 
@@ -28306,10 +28241,10 @@ der von Poisson vorausgesetzte Uebergang aus einer wärmeren in
 eine kältere Region vor mehr als 20,000 Jahren stattfand, so muss 
 die Temperaturdifferenz mehr als 100° F. betragen haben, und da- 
 her hätte alles animalische und vegetabilische Leben zerstört werden 
-müssen. Je weiter wir daher Poisson’s warme Region zurückver- 
+müssen. Je weiter wir daher Poisson's warme Region zurückver- 
 setzen, und je wärmer wir sie voraussetzen, um so. besser ist es für 
 die Geologen, welche möglichst lange Perioden fordern; am besten 
-ist für ihren Zweck aber Leibnitz’s Theorie, welche einfach voraus- 
+ist für ihren Zweck aber Leibnitz's Theorie, welche einfach voraus- 
 setzt, dass die Erde früher eine glühende Flüssigkeit war, ohne zu 
 erklären, wie sie ın diesen Zustand gelangte. Wenn wir die Tem- 
 peratur einer schmelzenden Felsmasse gleich ungefähr 10,000°.F. 
@@ -28348,8 +28283,8 @@ stattgefunden haben kann; denn im ersteren Falle würde die Wärme
 des Erdinnern grösser sein müssen, als sie jetzt ist; im letzteren 
 Falle würde die Temperatur mit der Tiefe nicht in dem Grade zu- 
 nehmen, welchen die kleinsten durch directe Beobachtungen erhal- 
- tenen Resultate angeben. Ich schliesse daraus, dass Leibnitz’s 
-Epoche der Entstehung des’ consistentior status wahrscheinlich zwi- 
+ tenen Resultate angeben. Ich schliesse daraus, dass Leibnitz's 
+Epoche der Entstehung des' consistentior status wahrscheinlich zwi- 
 schen jenen Grenzen liegt. | 
 
 
@@ -28393,7 +28328,7 @@ v die Temperätur des Punktes x zur Zeit t; und folglich
 d | | 
 
 | 7 (nach der Bezeichnung der Differentialrechnung) die für die 
-Längeneinheit senkrecht zu den’ isothermalen Ebenen genommene 
+Längeneinheit senkrecht zu den' isothermalen Ebenen genommene 
 Grösse der Variation der Temperatur. 
 
 (m) Diese Lösung zu beweisen, haben wir nur Folgendes dar- 
@@ -28401,11 +28336,11 @@ zuthun: —
 
 >) Dass der Ausdruck für v der partiellen Differentialgleichung 
 
-dv _ __ d’v 
+dv _ __ d'v 
 K =; 
 
 | dt "de | 
-Fourier’s Gleichung für die „lineare Wärmeleitung“, genügt; 
+Fourier's Gleichung für die "lineare Wärmeleitung", genügt; 
 
 (2) Dass, wenn £ = 0: ist, der Ausdruck für v für alle positiven 
 Werthe vor% in % + V, für alle negativen Men von zın w— V 
@@ -28485,7 +28420,7 @@ lionen Jahre die Variation der Temperatur in Tiefen, welche 568 Mei-
 len überschreiten, nicht merklich; sie ist also auf eine so dünne 
 
 
-*) „On the Periodical Variations of Underground Temperäture.* Trans. Roy. 
+*) "On the Periodical Variations of Underground Temperäture.* Trans. Roy. 
 Soc. Edinb., March 1860. 
 
 
@@ -28607,7 +28542,7 @@ ar, 7000 Fahr. =
 Die Curve 0OPQ zeigt den Ueberschuss der Temperatur über die der Oberfläche. 
 
 
-Die Curve AP’ R zeigt die Grösse der Temperaturzunahme nach dem Mittelpunkt 
+Die Curve AP' R zeigt die Grösse der Temperaturzunahme nach dem Mittelpunkt 
 der Erde zu. 
 
 
@@ -28631,7 +28566,7 @@ hindurch auf das Klima von Einfluss gewesen sein? — und erlaubt
 uns, dieselbe ganz entschieden zu verneinen. In dem Falle, den 
 wir vorausgesetzt haben, würde die Temperaturzunahme 10,000 Jahre 
 nach dem Beginn der Abkühlung in der Nähe der Oberfläche 2° F. 
-per Fuss Tiefe betragen. Die Ausstrahlung von der Erde und’ der 
+per Fuss Tiefe betragen. Die Ausstrahlung von der Erde und' der 
 Atmosphäre in den Weltraum (über welche wir noch keine zufrieden- 
 stellende absolute Messung haben) würde im jetzigen Zustande der 
 Erde fast gewiss genügend stark sein, um zu verhindern, dass eine 
@@ -28662,13 +28597,13 @@ Be BEZ
 
 446 Säculare Abkühlung 
 40,000 Jahren 1 Grad per Fuss 
-160,000 „ 
+160,000 " 
 
 
-4,000,000  „ 
+4,000,000  " 
 
 
-100,000,000 „, 
+100,000,000 ", 
 
 
 3]- 3]- wı- 
@@ -28812,7 +28747,7 @@ schliessen brauchen.
 
 (u) Convectives Gleichgewicht der Temperatur. — In dem 
 Process der Abkühlung muss die Flüssigkeit [wie ich bei einer Be- 
-trachtung der Sonne in einem Artikel in Macmillan’s Magazine 
+trachtung der Sonne in einem Artikel in Macmillan's Magazine 
 (März 1862) und in einer Betrachtung der Atmosphäre der Erde in 
 
 
@@ -28821,13 +28756,13 @@ einer Mittheilung an die Literary and Philosophical Society von 5
 
 Manchester *) bemerkt habe] durch Fortführung (Convection) der 
 Wärme dazu gebracht werden, dass sie einem bestimmten Gesetz der 
-Temperaturvertheilung genügt, welches ich „das convective Gleich- 
-gewicht der Temperatur“ genannthabe. Das heisst, die Temperaturen 
+Temperaturvertheilung genügt, welches ich "das convective Gleich- 
+gewicht der Temperatur" genannthabe. Das heisst, die Temperaturen 
 in den verschiedenen Theilen im Innern müssen für verschiedene 
 Werthe des Drucks um solche Differenzen der Temperaturen von 
 
 
-*) Proceedings, Jan. 1862. „On the Convective Equilibrium of Temperature 
+*) Proceedings, Jan. 1862. "On the Convective Equilibrium of Temperature 
 in the Atmosphere*. | 
 
 
@@ -28874,17 +28809,17 @@ an der Oberfläche sein, wenn sich die Flüssigkeit beim Gefrieren
 Ge ee en nr 
 
 
-*) Joule, „On the Changes of Temperature produced by the Rarefaction and 
-Condensation of Air, Phil. Mag. 1845. Thomson, „On a Method for Determining 
+*) Joule, "On the Changes of Temperature produced by the Rarefaction and 
+Condensation of Air, Phil. Mag. 1845. Thomson, "On a Method for Determining 
 Experimentally the Heat evolved by the Compression of Air: Dynamical Theory 
 of Heat, Part IV, Trans. R. S. E., Session 1850 bis 1851; wieder abgedruckt in 
-Phil. Mag. Joule and Thomson, „On the Thermal Effects of Fluids in Motion“, 
-Trans. R. S. London, Juni 1853 und Juni 1854. Joule and Thomson, „On 
-the Alterations of Temperature accompanying Changes of Pressure in Fluids“, Pro- 
+Phil. Mag. Joule and Thomson, "On the Thermal Effects of Fluids in Motion", 
+Trans. R. S. London, Juni 1853 und Juni 1854. Joule and Thomson, "On 
+the Alterations of Temperature accompanying Changes of Pressure in Fluids", Pro- 
 ceeding R. S. London, Juni 1857. 
 
-**) „Theoretical Considerations regarding the Effect of Pressure in lowering 
-the Freezing-Point of Water“, Trans. R. S. E., Jan. 1849. 
+**) "Theoretical Considerations regarding the Effect of Pressure in lowering 
+the Freezing-Point of Water", Trans. R. S. E., Jan. 1849. 
 ***) Proceedings R. S. E., Session 1849 bis 1850. 
 
 
@@ -28955,7 +28890,7 @@ vorausgesetzt wird.
 
 (bb) Wichtigkeit einer experimentellen Bestimmung der 
 bei der Erstarrung geschmolzener Felsmassen eintretenden 
-Volumenänderung. — Bischof’s Experimente, deren Zuverlässig- 
+Volumenänderung. — Bischof's Experimente, deren Zuverlässig- 
 keit, so viel mir bekannt ist, niemals angezweifelt wurde, zeigen 
 aber, dass geschmolzener Granit, Schiefer und Trachyt sich sämmt- 
 lich beim Gefrieren um etwa 20 Proc. zusammenziehen. Es sollten 
@@ -28968,7 +28903,7 @@ dass die geschmolzene Masse der Erde beim Festwerden in der That
 eine beträchtliche Contraction erlitten hat. 
 
 
-(cc) Bischof’s Experimente, welche eine Contraction 
+(cc) Bischof's Experimente, welche eine Contraction 
 ‘ beweisen, machen es wahrscheinlich, dass die Erdoberfläche 
 sich nicht abkühlen konnte, so lange nicht das Innere im 
 Ganzen erstarrt war. — Wenn daher nach irgend welchen Rela- 
@@ -29040,7 +28975,7 @@ kleiner gewordenen Flächen ler Lavateiche oder Seen überbrückt,
 bestehen bleiben kann. 
 
 
-*) Siehe dessen Report on „Earthquakes and Volcanic Action“. British As- 
+*) Siehe dessen Report on "Earthquakes and Volcanic Action". British As- 
 sociation Report for 1847. 
 
 
@@ -29084,5 +29019,5 @@ continuirliche Glaskugel von demselben Durchmesser, und wahr-
 scheinlich auch starrer, als eine ebenso grosse Stahlkugel. 
 
 
-*) Proceedings of the Royal Society of London, 1861. „On Crystallizatien 
-and Liquefaction as influenced by Stresses tending to Change of Form in Crystals“. 
+*) Proceedings of the Royal Society of London, 1861. "On Crystallizatien 
+and Liquefaction as influenced by Stresses tending to Change of Form in Crystals". 
