@@ -26,95 +26,13 @@ Unter den Naturforschern, welche ihr Streben vorzugsweise darauf gerichtet haben
 
 Dass nun ein Mann, dessen Geist auf solchen Wegen wandelt, in der Methode des Thomson-Tait'schen Buches das gerade Gegenteil des richtigen Weges, oder dessen, was er selbst dafür hält, erblickt, ist natürlich; dass er den Grund des Widerspruchs in allen möglichen persönlichen Schwächen der Gegner, nicht aber da sucht, wo er wirklich steckt, entspricht ganz der intoleranten Weise, in der Anhänger von metaphysischen Glaubensartikeln ihre Gegner zu behandeln pflegen, um sich und der Welt die Schwäche ihres eigenen Standpunktes zu verhüllen. Herr Zöllner ist überzeugt, "dass es der Mehrzahl unter den heutigen Vertretern der exakten Wissenschaften an einer klar bewussten Kenntniss der ersten Prinzipien der Erkenntnisstheorie gebreche." (S. 8.) Dies sucht er durch Nachweisung angeblicher grober Denkfehler bei mehreren von ihnen zu erhärten.
 
-Dazu müssen zunächst die Herren Thomson und Tait 
-herhalten. Diese haben ihrer Ueberzeugung betrefls des 
-richtigen Gebrauchs der naturwissenschaftlichen Hypothesen 
-in den Paragraphen 381 bis 385 des vorliegenden Buches Aus- 
-druck gegeben. Sie tadeln in Paragraph 385 Hypothesen, die 
-sich zu weit von den beobachtbaren Thatsachen entfernen, und 
-wählen als Beispiele für den nachtheiligen Einfluss derselben 
-natürlich nur solche, welche durch ausgedehnte Verbreitung und 
-die Autorität ihrer Urheber wirklich einflussreich geworden 
-sind. In dieser Beziehung stellen sie das von unserem Lands- 
-manne W. Weber aufgestellte Gesetz der elektrischen Fern- 
-wirkung in gleiche Linie mit der von J. Newton physikalisch 
-durchgearbeiteten Emissionstheorie des Lichtes. Diese Neben- 
-einanderstellung zeigt am besten, dass die Englischen Autoren 
-Nichts beabsichtigten, was ein gesund gebliebenes deutsches 
-Nationalgefühl verletzen müsste. Wir sind, denke ich, in 
-Deutschland noch nicht dahin gekommen und werden hoffent- 
-lich nie dahin kommen, dass Hypothesen, wenn sie auch von 
-einem noch so hochverdienten Manne aufgestellt worden sind, 
-nicht kritisirt werden dürften. Sollte es aber wirklich jemals 
-dahin kommen, dann würden Herr Zöllner und seine meta- 
-physischen Freunde in der That das Recht haben, über den 
-Untergang der deutschen Naturwissenschaft zu klagen, bezieh- 
-lich zu triumphiren. Eine Hypothese aufgestellt zu haben, 
-welche bei weiterer Entwicklung der Wissenschaft sich als 
-unzulässig erweist, ist für Niemanden ein Tadel, ebensowenig 
-als es für Jemanden, der in gänzlich unbekannter Gegend sich 
-seinen Weg suchen muss, ein Vorwurf ist, trotz aller Aufmerk- 
-samkeit und Ueberlegung, die er verwendet hat, einmal fehl- 
+Dazu müssen zunächst die Herren Thomson und Tait herhalten. Diese haben ihrer Überzeugung betreffs des richtigen Gebrauchs der naturwissenschaftlichen Hypothesen in den Paragraphen 381 bis 385 des vorliegenden Buches Ausdruck gegeben. Sie tadeln in Paragraph 385 Hypothesen, die sich zu weit von den beobachtbaren Tatsachen entfernen, und wählen als Beispiele für den nachteiligen Einfluss derselben natürlich nur solche, welche durch ausgedehnte Verbreitung und die Autorität ihrer Urheber wirklich einflussreich geworden sind. In dieser Beziehung stellen sie das von unserem Landsmanne W. Weber aufgestellte Gesetz der elektrischen Fernwirkung in gleiche Linie mit der von J. Newton physikalisch durchgearbeiteten Emissionstheorie des Lichtes. Diese Nebeneinanderstellung zeigt am besten, dass die Englischen Autoren Nichts beabsichtigten, was ein gesund gebliebenes deutsches Nationalgefühl verletzen müsste. Wir sind, denke ich, in Deutschland noch nicht dahin gekommen und werden hoffentlich nie dahin kommen, dass Hypothesen, wenn sie auch von einem noch so hochverdienten Manne aufgestellt worden sind, nicht kritisirt werden dürften. Sollte es aber wirklich jemals dahin kommen, dann würden Herr Zöllner und seine metaphysischen Freunde in der Tat das Recht haben, über den Untergang der deutschen Naturwissenschaft zu klagen, beziehlich zu triumphiren. Eine Hypothese aufgestellt zu haben, welche bei weiterer Entwicklung der Wissenschaft sich als unzulässig erweist, ist für Niemanden ein Tadel, ebensowenig als es für Jemanden, der in gänzlich unbekannter Gegend sich seinen Weg suchen muss, ein Vorwurf ist, trotz aller Aufmerksamkeit und Überlegung, die er verwendet hat, einmal fehlgegangen zu sein. Auch ist weiter klar, dass derjenige, der eine Hypothese, welche die Geister einer grossen Menge von wissenschaftlichen Männern gefangen genommen hat, für falsch hält, demnächst urteilen muss, dass dieselbe zeitweilig schädlich und hemmend für die Entwickelung der Wissenschaft sei, und wird berechtigt sein dies auszusprechen, wenn ihm die Aufgabe zufällt, nach seiner besten Überzeugung den Lernenden über den Weg, den er einzuschlagen habe, zu beraten.
 
+Unter den Gründen, welche Herr W. Thomson für die Unzulässigkeit der Weber'schen Hypothese anführt, ist auch der, dass sie dem Gesetz von der Erhaltung der Kraft widerspreche. Dieselbe Behauptung war auch ich genötigt, etwas später in einer im Jahre 1870 veröffentlichten Arbeit* aufzustellen. Herr Zöllner hat nun auf die Autorität von Herrn C. Neumann hin angenommen, diese Behauptung sei falsch. Ihm erscheint im Gegenteil das Weber'sche Gesetz ebenfalls ein Universalgesetz aller Kräfte der Natur zu sein (wie sich diese verschiedenen Universalgesetze mit einander vertragen, bleibt unerörtert), und er verwendet 20 Seiten seiner Einleitung dazu, um seiner Entrüstung über die intellektuelle und moralische Stumpfheit derjenigen, die es antasten, Luft zu machen. Herr Zöllner wird seitdem wohl begriffen haben, dass es mindestens unvorsichtig ist, nur auf die Autorität eines der Gegner gestützt einem wissenschaftlichen Streite mit Schmähreden gegen die andere Partei assistiren zu wollen, abgesehen davon, dass man auf solche Weise zur Entscheidung des Streites gar Nichts, zur Verbitterung desselben vielleicht sehr viel beiträgt. Herr C. Neumann war selbst Partei in dieser Sache; die Theorie der elektrodynamischen Wirkungen, welche er selbst damals festhielt, wurde von meinen Einwänden mitgetroffen. Er hat seitdem diese Theorie fallen lassen. Er selbst, wie Herr W. Weber, haben des letztern ursprüngliche Theorie halten zu können geglaubt, wenn sie die Mitwirkung molekularer Kräfte für sehr genäherte elektrische Massen hinzunähmen. Ich habe dann in meiner zweiten Abhandlung zur Theorie der Elektrodynamik* nachgewiesen, dass die Annahme von Molekularkräften den Leck in der Weber'schen Theorie nicht zustopft. Inzwischen hat Herr C. Neumann selbst, noch ehe er von meinem zweiten Aufsatze Kenntniss erhielt, die Begründung der Elektrodynamik auf das Weber'sche Gesetz aufgegeben, und ein neues Gesetz dafür zu konstruiren gesucht.
 
-vom Vorrede zum zweiten Theile des ersten Bandes. 
+*) Über die Bewegungsgleichungen der Elektrizität für ruhende leitende Körper. Borchardt, Journal für Mathematik. Bd. 72, 75.
 
-
-gegangen zu sein. Auch ist weiter klar, dass derjenige, der 
-eine Hypothese, welche die Geister einer grossen Menge von 
-. wissenschaftlichen Männern gefangen genommen hat, für falsch 
-hält, demnächst urtheilen muss, dass dieselbe zeitweilig schäd- 
-lich und hemmend für die Entwickelung der Wissenschaft sei, 
-und wird berechtigt sein dies auszusprechen, wenn ihm die Auf- 
-gabe zufällt, nach seiner besten Ueberzeugung den Lernenden 
-über den Weg, den er einzuschlagen habe, zu berathen. 
-
-Unter den Gründen, welche Herr W. Thomson für die 
-Unzulässigkeit der Weber'schen Hypothese anführt, ist auch 
-der, dass sie dem Gesetz von der Erhaltung der Kraft wider- 
-spreche. Dieselbe Behauptung war auch ich genöthigt, etwas 
-später in einer im Jahre 1870 veröffentlichten Arbeit*) aufzu- 
-stellen. Herr Zöllner hat nun auf die Autorität von Herrn 
-C. Neumann hin angenommen, diese Behauptung sei falsch. 
-Ihm erscheint im Gegentheil das Weber'sche Gesetz ebentalls 
-ein Universalgesetz aller Kräfte der Natur zu sein (wie sich 
-diese verschiedenen Universalgesetze mit einander vertragen, 
-bleibt unerörtert), und er verwendet 20 Seiten seiner Einleitung 
-dazu, um seiner Entrüstung über die intellectuelle und morali- 
-sche Stumpfheit derjenigen, die es antasten, Luft zu machen. 
-Herr Zöllner wird seitdem wohl begriffen haben, dass es 
-mindestens unvorsichtig ist, nur auf die Autorität eines der 
-Gegner gestützt einem wissenschaftlichen Streite mit Schmäh- 
-reden gegen die andere Partei assistiren zu wollen, abgesehen 
-davon, dass man auf solche Weise zur Entscheidung des 
-Streites gar Nichts, zur Verbitterung desselben vielleicht sehr 
-viel beiträgt. Herr C. Neumann war selbst Partei in dieser 
-Sache; die Theorie der elektrodynamischen Wirkungen, welche 
-er selbst damals festhielt, wurde von meinen Einwänden mit- 
-getroffen. Er hat seitdem diese Theorie fallen lassen. Er 
-selbst, wie Herr W. Weber, haben des letztern ursprüngliche 
-Theorie halten zu können geglaubt, wenn sie die Mitwirkung 
-molecularer Kräfte für sehr genäherte elektrische Massen hinzu- 
-nähmen. Ich habe dann in meiner zweiten Abhandlung zur 
-Theorie der Elektrodynamik**) nachgewiesen, dass die Annahme 
-
-
-*) Ueber die Bewegungsgleichungen der Elektricität für ruhende leitende 
-Körper. Borchardt, Journal für Mathematik. Bd. 72, 75, 
-**) Genanntes Journal Bd. 75, 
-
-
-a -——_———nm 
-
-
-Vorrede zum zweiten Theile des ersten Bandes. IX 
-
-
-von Molecularkräften den Leck in der Weber'schen Theorie 
-nicht zustopft. Inzwischen hat Herr C. Neumann selbst, noch 
-ehe er von meinem zweiten Aufsatze Kenntniss erhielt, die Be- 
-gründung der Elektrodynamik auf das Weber'sche Gesetz auf- 
-gegeben, und ein neues Gesetz dafür zu construiren gesucht. 
+*) Genanntes Journal Bd. 75.
 
 Hierbei möchte ich, gegenüber der Betonung der deductiven 
 Methode durch unsere Gegner, an dieses Beispiel noch folgende 
