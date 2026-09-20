@@ -40,153 +40,41 @@ Da Herr Zöllner sich nicht für einen Mathematiker ausgibt, im Gegenteil uns au
 
 Es bleibt noch sein Ausfall gegen die Autoren dieses Buches wegen der Emissionstheorie des Lichtes zu besprechen. Sie sagen, eine solche Theorie wäre höchstens dann zu rechtfertigen gewesen, wenn ein Lichtkörperchen wirklich gesehen und untersucht worden wäre. Herr Zöllner findet in dieser Forderung "nicht etwa nur eine physikalische, sondern sogar eine leicht zu entdeckende logische Unmöglichkeit. In der Tat, wenn in uns erst durch die Berührung der Lichtkörperchen mit unseren Nerven die Empfindung des Lichtes erzeugt wird, --- so ist es offenbar unmöglich, ein solches Lichtkörperchen, bevor es unseren Sehnerven berührt oder affizirt hat, überhaupt durch das Auge wahrzunehmen." Darauf folgen dann Deklamationen über grobe Denkfehler, absoluten Nonsens u. s. w. Letzterer ist hier wirklich vorhanden; aber er steckt nicht in dem, was die englischen Autoren gesagt, sondern in dem, was ihr Angreifer in ihre Worte hineininterpretirt hat. Muss ich einem Manne, der so viel sicherer in den Elementen der Erkenntnisstheorie zu sein glaubt, als seine Gegner, noch erst auseinandersetzen, dass ein Objekt sehen, im Sinne der Emanationstheorie, heisst die Lichtkörperchen in das Auge aufnehmen und empfinden, die von jenem Objekte abgeprallt sind? Nun ist aber nichts von einer logischen Unmöglichkeit oder Widerspruch gegen die Grundlagen der Theorie in der Annahme zu finden, dass ein ruhendes Lichtkörperchen --- sie ruhen ja, sobald sie von dunkeln Körpern absorbirt sind --- andere gegenstossende zurückwerfe, für die es dadurch Radiationszentrum wird und demnächst als Ausstrahlungspunkt dieser Radiation gesehen werde. Ob und wie ein solcher Vorgang zur Beobachtung zu bringen ist, wäre im Sinne der englischen Autoren natürlich Sache desjenigen, der die Existenz der Lichtkörperchen direkt beweisen wollte. Man mag über die Strenge und Zweckmässigkeit dieser Anforderung denken, was man will, ein logischer Widerspruch liegt nicht darin, und gerade en einen solchen käme es an, um das zu beweisen, was Herr Zöllner beweisen möchte.
 
-Einen weiteren Einwurf von ähnlichem wissenschaftlichen. 
-Werthe willich noch erwähnen, weil er sich auf Sir W. Thomson 
-bezieht, wenn auch nicht auf eine Stelle dieses Buches. Es betrifft 
-die Frageüberdie Möglichkeit,dassorganische Keimein-den Meteor- 
-steinen vorkommen und den kühl gewordenen W.eltkörpern zuge- 
-führt werden. Herr W. Thomson hatte diese Ansicht in seiner Er- 
-öffnungsrede der britischen Naturforscherversammlung zu Edin- 
-burg im Herbst 1871 als "nicht unwissenschaftlich" bezeichnet. 
-Auch hier mussich mich, wenn darin ein Irrthum liegt, alsMitirren- 
-der melden. Ich hatte dieselbe Ansicht als eine mögliche Erklä- 
-rungsweiseder Uebertragung von Organismen durch die Welträume 
-sogar noch etwas früher als Herr W. Thomson in einem im Früh- 
-ling desselben Jahres zu Heidelberg und Cöln gehaltenen, aber 
-noch nicht veröffentlichten Vortrage erwähnt. Ich kann nicht 
-dagegen rechten, wenn Jemand diese Hypothese für unwahr- 
-scheinlich im höchsten oder allerhöchsten Grade halten will. 
-Aber es erscheint mir ein vollkommen richtiges wissenschaft- 
-liches Verfahren zu sein, wenn alle unsere Bemühungen scheitern, 
-Organismen aus lebloser Substanz sich erzeugen zu lassen, dass 
-wir fragen, ob überhaupt das Leben je entstanden, ob es nicht 
-eben so alt, wie die Materie sei, und ob nicht seine Keime von 
-einem Weltkörper zum anderen herübergetragen sich überall 
-entwickelt hätten, wo sie günstigen Boden gefunden. 
+Einen weiteren Einwurf von ähnlichem wissenschaftlichen Werthe will ich noch erwähnen, weil er sich auf Sir W. Thomson bezieht, wenn auch nicht auf eine Stelle dieses Buches. Es betrifft die Frage über die Möglichkeit,dass organische Keimein den Meteorsteinen vorkommen und den kühl gewordenen Weltkörpern zugeführt werden. Herr W. Thomson hatte diese Ansicht in seiner Eröffnungsrede der britischen Naturforscherversammlung zu Edinburg im Herbst 1871 als "nicht unwissenschaftlich" bezeichnet. Auch hier muss ich mich, wenn darin ein Irrtum liegt, als Mitirrender melden. Ich hatte dieselbe Ansicht als eine mögliche Erklärungsweise der Übertragung von Organismen durch die Welträume sogar noch etwas früher als Herr W. Thomson in einem im Frühling desselben Jahres zu Heidelberg und Cöln gehaltenen, aber noch nicht veröffentlichten Vortrage erwähnt. Ich kann nicht dagegen rechten, wenn Jemand diese Hypothese für unwahrscheinlich im höchsten oder allerhöchsten Grade halten will. Aber es erscheint mir ein vollkommen richtiges wissenschaftliches Verfahren zu sein, wenn alle unsere Bemühungen scheitern, Organismen aus lebloser Substanz sich erzeugen zu lassen, dass wir fragen, ob überhaupt das Leben je entstanden, ob es nicht eben so alt, wie die Materie sei, und ob nicht seine Keime von einem Weltkörper zum anderen herübergetragen sich überall entwickelt hätten, wo sie günstigen Boden gefunden.
 
-Herrn Zöllner's angebliche physikalische Gegengründe 
-sind von sehr geringem Gewicht. Er erinnert an die Erhitzung 
-der Meteorsteine und fügt hinzu (S. XXVD. "Wenn daher 
-"jener mit Organismen bedeckte Meteorstein auch beim Zer- 
-"trümmern s&ines Mutterkörpers mit heiler Haut davon gekommen 
-"wäre und nicht an der allgemeinen Temperaturerhöhung Theil 
-"genommen hätte, so musste er doch nothwendig erst die Erd- 
-"atmosphäre passirt haben, ehe er sich seiner Organismen zur 
-"Bevölkerung der Erde entledigen konnte." 
+Herrn Zöllners angebliche physikalische Gegengründe sind von sehr geringem Gewicht. Er erinnert an die Erhitzung der Meteorsteine und fügt hinzu (S. 26.). "Wenn daher jener mit Organismen bedeckte Meteorstein auch beim Zertrümmern seines Mutterkörpers mit heiler Haut davon gekommen wäre und nicht an der allgemeinen Temperaturerhöhung Teil genommen hätte, so musste er doch notwendig erst die Erdatmosphäre passirt haben, ehe er sich seiner Organismen zur Bevölkerung der Erde entledigen konnte."
 
-Nun wissen wir erstens, aus häufig wiederholten Beob- 
-achtungen, dass die grösseren Meteorsteine bei ihrem Fall durch 
-die Atmosphäre sich nur in ihrer äussersten Schicht erhitzen, 
-ım Innern aber kalt oder sogar sehr kalt bleiben. Alle Keime 
-also, die etwa in Spalten derselben steckten, wären vor Ver- 
-brennung in der Erdatmosphäre geschützt. Aber auch die 
-oberflächlich gelagerten würden doch wohl, wenn sie in die aller- 
-höchsten und dünnsten Schichten der Erdatmosphäre gerathen, 
-längst durch den gewaltigen Luftzug herabgeblasen sein, ehe 
-der Stein in dichtere Theile der (asmasse gelangt, wo die 
-Compression gross genug wird, um merkliche Wärme zu erzeugen. 
-Und was andererseits den Zusammenstoss zweier Weltkörper 
-betrifft, wie ihn Thomson annimmt, so werden die ersten Folgen 
-davon gewaltige mechanische Bewegungen sein, und erst in dem 
-Maasse, als diese durch Reibung vernichtet werden, entsteht 
-Wärme. Wir wissen nicht, ob das Stünden, oder Tage, oder 
-Wochen dauern würde. Die Bruchstücke, welche im ersten 
-Moment mit planetarischer Geschwindigkeit fortgeschleudert 
-sind, können also ohne alle Wärmeentwicklung davon kommen. 
-Ich halte es nicht einmal für unmöglich, dass ein durch hohe 
-Schichten der Atmosphäre eines Weltkörpers fliegender Stein, 
-oder Steinschwarm einen Ballen Luft mit sich hinausschleudert 
-und fortnimmt, der unverbrannte Keime enthält. 
+Nun wissen wir erstens, aus häufig wiederholten Beobachtungen, dass die grösseren Meteorsteine bei ihrem Fall durch die Atmosphäre sich nur in ihrer äussersten Schicht erhitzen, im Innern aber kalt oder sogar sehr kalt bleiben. Alle Keime also, die etwa in Spalten derselben steckten, wären vor Verbrennung in der Erdatmosphäre geschützt. Aber auch die oberflächlich gelagerten würden doch wohl, wenn sie in die allerhöchsten und dünnsten Schichten der Erdatmosphäre geraten, längst durch den gewaltigen Luftzug herabgeblasen sein, ehe der Stein in dichtere Teile der Gasmasse gelangt, wo die Kompression gross genug wird, um merkliche Wärme zu erzeugen. Und was andererseits den Zusammenstoss zweier Weltkörper betrifft, wie ihn Thomson annimmt, so werden die ersten Folgen davon gewaltige mechanische Bewegungen sein, und erst in dem Maasse, als diese durch Reibung vernichtet werden, entsteht Wärme. Wir wissen nicht, ob das Stunden, oder Tage, oder Wochen dauern würde. Die Bruchstücke, welche im ersten Moment mit planetarischer Geschwindigkeit fortgeschleudert sind, können also ohne alle Wärmeentwicklung davon kommen. Ich halte es nicht einmal für unmöglich, dass ein durch hohe Schichten der Atmosphäre eines Weltkörpers fliegender Stein, oder Steinschwarm einen Ballen Luft mit sich hinausschleudert und fortnimmt, der unverbrannte Keime enthält.
 
-Wie gesagt, möchte ich alle diese Möglichkeiten noch nicht 
-für Wahrscheinlichkeiten ausgeben. Es sind nur Fragen, deren 
-Existenz und Tragweite wir im Auge behalten müssen, damit 
-sie vorkommenden Falls durch wirkliche Beobachtungen oder 
-Schlussfolgerungen aus solchen gelöst werden können. 
+Wie gesagt, möchte ich alle diese Möglichkeiten noch nicht für Wahrscheinlichkeiten ausgeben. Es sind nur Fragen, deren Existenz und Tragweite wir im Auge behalten müssen, damit sie vorkommenden Falls durch wirkliche Beobachtungen oder Schlussfolgerungen aus solchen gelöst werden können.
 
-Herr Zöllner versteigt sich dann zu folgenden zwei Sätzen 
-(S. XXVIH und XXIX): | 
+Herr Zöllner versteigt sich dann zu folgenden zwei Sätzen (S. 28. und 29.): 
 
-"Dass die Naturforscher heute noch einen so ungemeinen 
-"Werth auf den inductiven Beweis der generatio aequivoca 
-"legen, ist das deutlichste Zeichen, wie wenig sie sich mit den 
-"ersten Principien der Erkenntnisstheorie vertraut gemacht 
-"haben." ® " 
-und ferner: 
+"Dass die Naturforscher heute noch einen so ungemeinen Wert auf den induktiven Beweis der generatio aequivoca legen, ist das deutlichste Zeichen, wie wenig sie sich mit den ersten Prinzipien der Erkenntnisstheorie vertraut gemacht haben."
 
-"Ebenso drückt die Hypothese von der generatio aequi- 
-"voca, — — nichts anderes als die Bedingung für die Begreiflich- 
-"keit der Natur nach dem Causalitätsgesetze aus." | 
+und ferner:
 
-Hier haben wir den ächten Metaphysiker. Einer angeb- 
-lichen Denknothwendigkeit gegenüber blickt er hochmüthig auf 
-die, welche sich um Erforschung der Thatsachen bemühen, herab. 
-‚Ist es schon vergessen, wie viel Unheil dieses Verfahren in den 
-früheren Entwicklungsperioden der Naturwissenschaften ange- 
-richtet hat? Und was ist die logische Basis dieses erhabenen 
-Standpunktes? Die richtige Alternative ist offenbar: 
+"Ebenso drückt die Hypothese von der generatio aequivoca, --- --- nichts anderes als die Bedingung für die Begreiflichkeit der Natur nach dem Kausalitätsgesetze aus."
 
-"Organisches Leben hat entweder zu irgend einer Zeit an- 
-gefangen zu bestehen, oder es besteht von Ewigkeit." | 
+Hier haben wir den ächten Metaphysiker. Einer angeblichen Denknotwendigkeit gegenüber blickt er hochmütig auf die, welche sich um Erforschung der Tatsachen bemühen, herab. Ist es schon vergessen, wie viel Unheil dieses Verfahren in den früheren Entwicklungsperioden der Naturwissenschaften angerichtet hat? Und was ist die logische Basis dieses erhabenen Standpunktes? Die richtige Alternative ist offenbar:
 
-Herr Zöllner lässt den zweiten Theil dieser Disjunction 
-"einfach weg, oder glaubt ihn durch einige kurz zuvor angeführte 
-flüchtige physikalische Betrachtungen beseitigt zu haben, die 
-durchaus nicht entscheidend sind. Demgemäss ist seine Con- 
-clusio, welche die erste Hälfte der oben aufgestellten Disjunction 
-affırmirt. entweder gar nicht bewiesen, oder nur mittels eines 
-Minor, der auf physikalische Gründe (und zwar ungenügende) 
-gestützt ist. Also ist die Conclusio keineswegs, wie Herr Zöll- 
-ner glaubt, ein Satz von logischer Nothwendigkeit, sondern höch- 
-stens eine unsichere Folgerung aus physikalischen Betrachtungen. 
+"Organisches Leben hat entweder zu irgend einer Zeit angefangen zu bestehen, oder es besteht von Ewigkeit."
 
-Dies ist, was Herr Zöllner auf dem Gebiete der wissen- 
-schaftlichen Fragen gegen die Autoren dieses Handbuchs ein- 
-zuwenden hat*). Anklagen, von genau demselben Gewichte, 
-gegen andere Naturforscher mit derselben Zuversicht auf die 
-eigene Unfehlbarkeit- und mit demselben schnellfertigen Ab- 
-sprechen über die intellectuellen und moralischen Eigenschaften 
+Herr Zöllner lässt den zweiten Teil dieser Disjunktion einfach weg, oder glaubt ihn durch einige kurz zuvor angeführte flüchtige physikalische Betrachtungen beseitigt zu haben, die durchaus nicht entscheidend sind. Demgemäss ist seine Conclusio, welche die erste Hälfte der oben aufgestellten Disjunktion affirmirt, entweder gar nicht bewiesen, oder nur mittels eines Minor, der auf physikalische Gründe (und zwar ungenügende) gestützt ist. Also ist die Conclusio keineswegs, wie Herr Zöllner glaubt, ein Satz von logischer Notwendigkeit, sondern höchstens eine unsichere Folgerung aus physikalischen Betrachtungen.
 
-
-*) Auf dem Gebiete der persönlichen Fragen muss ich bezüglich der die 
-Principien der Spectralanalyse betreffenden Prioritätsreclamation, mit welcher Herr 
-W.-Thomson für Herrn Stokes gegen Herrn Kirchhoff aufgetreten ist, mich 
-auf die Seite des Letztgenannten stellen in voller Anerkennung der Gründe, die 
-er selbst geltend gemacht hat. 
-
-des Gegners erhoben, finden sich in Herrn Zöllner's Buche 
-noch in grosser Anzahl vor. Einen anderen Theil dieser Bei- 
-spiele zu besprechen wird sich noch eine andere Gelegenheit 
-finden. Wenn ich eine Nutzanwendung, die uns hier interessirt, 
-vorausnehmen darf, so ist es die, dass die strenge Disciplin der 
-inductiven Methode, das treue Festhalten an den Thatsachen, 
-welches die Naturwissenschaften gross gemacht hat, für den 
-aufmerksamen und urtheilsfähigen Leser durch keine theoreti- 
-schen Gründe wirksamer und beredter vertheidigt werden kann, 
-als durch das praktische Beispiel, welches das Zöllner'sche 
-Buch für die Consequenzen der entgegengesetzten, angeblich 
-deductiven, speculirenden Methode gibt, um so mehr als Herr 
-Zöllner unzweifelhaft ein talentvoller und kenntnissreicher 
-Mann ist, der einst, ehe er in die Metaphysik verfiel, hoffnungs- 
-reiche Arbeiten lieferte, und noch jetzt, wo er auf dem Boden 
-der Wirklichkeit festgehalten wird, z. B. bei der Construction 
-optischer Instrumente und der Ermittelung optischer Methoden, 
-Scharfsinn und Erfindungsgabe zeigt.
+Dies ist, was Herr Zöllner auf dem Gebiete der wissenschaftlichen Fragen gegen die Autoren dieses Handbuchs einzuwenden hat.* Anklagen, von genau demselben Gewichte, gegen andere Naturforscher mit derselben Zuversicht auf die eigene Unfehlbarkeit und mit demselben schnellfertigen Absprechen über die intellektuellen und moralischen Eigenschaften des Gegners erhoben, finden sich in Herrn Zöllners Buche noch in grosser Anzahl vor. Einen anderen Teil dieser Beispiele zu besprechen wird sich noch eine andere Gelegenheit finden. Wenn ich eine Nutzanwendung, die uns hier interessirt, vorausnehmen darf, so ist es die, dass die strenge Disziplin der induktiven Methode, das treue Festhalten an den Tatsachen, welches die Naturwissenschaften gross gemacht hat, für den aufmerksamen und urteilsfähigen Leser durch keine theoretischen Gründe wirksamer und beredter vertheidigt werden kann, als durch das praktische Beispiel, welches das Zöllner'sche Buch für die Konsequenzen der entgegengesetzten, angeblich deduktiven, spekulirenden Methode gibt, um so mehr als Herr Zöllner unzweifelhaft ein talentvoller und kenntnissreicher Mann ist, der einst, ehe er in die Metaphysik verfiel, hoffnungsreiche Arbeiten lieferte, und noch jetzt, wo er auf dem Boden der Wirklichkeit festgehalten wird, z. B. bei der Konstruktion optischer Instrumente und der Ermittelung optischer Methoden, Scharfsinn und Erfindungsgabe zeigt.
 
 Berlin, Dezember 1873.
 
 H. Helmholtz.
 
+*) Auf dem Gebiete der persönlichen Fragen muss ich bezüglich der die Prinzipien der Spektralanalyse betreffenden Prioritätsreklamation, mit welcher Herr W. Thomson für Herrn Stokes gegen Herrn Kirchhoff aufgetreten ist, mich auf die Seite des Letztgenannten stellen in voller Anerkennung der Gründe, die er selbst geltend gemacht hat.
+
+---
+
 Weiteres Verzeichniss neuer oder in deutschen 
 Büchern weniger gebrauchter Benennungen mit An- 
 gabe des Ortes ihrer Bestimmung. 
-
-
-Fortsetzung von Seite XIII des ersten Theils. 
-
-
-Ps 
-
 
 Coefficienten der statischen uud kinetischen Reibung 
 $ 451. 
