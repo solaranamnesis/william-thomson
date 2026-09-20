@@ -9,8 +9,10 @@ French - PDF
 
 ## Treatise on Natural Philosophy. Part 1.
 
-English - Plain Text  
+[English - Plain Text](treatise-on-natural-philosophy-1/full-text-english.md)  
 English - PDF  
+German - Plain Text  
+German - PDF  
 French - Plain Text  
 French - PDF  
 
